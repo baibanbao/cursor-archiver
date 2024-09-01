@@ -8,6 +8,6 @@
     - #Jo 种种美好的想象，都需要我和  #Seven 用劳动去换取。
     - 所以，从此要勤勉起来，把 #the_archive  用好用足。
     - ## 一些快捷键
-- Option + Cmd + Z 全球打开
+- ctrl + cmd + z 全球打开
 - Option + cmd + z  快捷输入
     - Option + cmd + x  Default 搜索

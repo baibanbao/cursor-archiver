@@ -1,3 +1,4 @@
+- Aliases::edit later,EditLater,editlater
 - Projects
     - Completed Date::
     - Status::
@@ -5,6 +6,9 @@
     - Related Goals::
     - Success Criteria:: 内容都写成文章，完成输出
     - Tags:: #Projects
+- 换个位子，远离evil-doers
+    - 2024-05-07
+        - 今天来到办公室，发现开会小屋已经被占领了。但坐在自己的位子上就要吸二手烟，或者笼罩在吸二手烟的屈辱和担心之中，所以换到自己对面的位子上。这样距离smoker稍微远一些。至少不用看到那张苍白的脸。
 - #[[Edit Later]] [[July 1st, 2022]]
     - 现在就开始写作，每天打开rr之后，先看edit later，有没有可以写，值得写的东西，有就写，写完即发布，即插即用，用完即走。不要有任何负担。
     - 

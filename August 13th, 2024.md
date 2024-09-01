@@ -1,0 +1,58 @@
+- [[note123]]Time Horizon
+@Time_HorizonX
+·
+2h
+整理了一下刚发布的二季度国际收支数据，发现二季度的外商投资FDI相关数据变化也是史诗级的，载入史册的数据，资产项和负债项双新低，活久见。今年M1，M2等数据相继载入史册，现在有种史册已经不够用的感觉。
+    - {{[[TODO]]}} 13:48 46 
+- [[Prayers&Answers]]
+    - 赞美的祷告
+    - 感谢的祷告
+    - 认罪的祷告
+    - 为自己和家人祈求
+    - 为他人代求
+    - 在灵里祷告
+- [[Gratitude]]
+- Daily Tasks
+    - {{[[TODO]]}} 走路一万步
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - 语音笔记快速写作 #Alog #[[SlaxNote]]
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **11:30** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [[圣经]]
+- #[[Seven]]
+- #Jonas 
+- #[[康健]]
+    - {{[[TODO]]}} 走路1万步
+- [[Edit Later]]
+- [[ChatGPT]]
+- #[[SLBC]]
+- #[[Roam Research]]
+- [[minipomo]]
+- [[Obsidian]]
+    - [[回乡偶记]]
+- [[Sally老师]]
+- [[Notion]]
+- [[The Archive]]
+- [[好中文]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[中文AI了]]
+- #Finance
+    - [[培训]]
+        - [[舅舅]]的洞见
+    - [[稿费]]
+    - [[房贷]]
+    - [[招行信用卡]]
+    - [[BTC]]
+    - [[节流]]
+    - [[奉献]]
+- [[Youtube]]
+- [[𝕏]]
+- [[白板报]]
+- [[两句半]]
+- ---

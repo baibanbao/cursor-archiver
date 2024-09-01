@@ -1,0 +1,8 @@
+- Aliases::AI故事营,AI写作营
+- Projects
+    - Completed Date:: 
+    - Status::招生简章策划中
+    - Due Date:: 
+    - Related Goals:: 卖课
+    - Success Criteria:: 完成教学
+    - Tags:: #Projects  #每天写作 #语音写作 #KYC

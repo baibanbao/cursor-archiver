@@ -1,0 +1,9 @@
+- Projects
+    - Completed Date:: 
+    - Status::进行中
+    - Due Date:: [[July 20th, 2024]]
+    - Related Goals:: 信守承诺
+    - Success Criteria:: 做成PDF交稿
+    - Tags:: #Projects  #每天写作 #语音写作 #王树义
+- 完成时限
+    - [[July 23rd, 2024]]

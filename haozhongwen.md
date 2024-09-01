@@ -1,1 +1,1 @@
-- Aliases:haozhongwen,gc,好中文
+- Aliases::haozhongwen,gc,好中文,gc8,GC,GC8,gc9

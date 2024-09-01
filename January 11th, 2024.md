@@ -23,14 +23,15 @@
             - 为[[好中文]]第十期而祷告
 - [[Day Start]] 04:36
 - Daily Tasks
-    - {{[[TODO]]}} 放学 12:00-12:10
-    - {{[[TODO]]}} 上学 9:30-9:40 
-    - {{[[TODO]]}} 瑞金医院神内科 10:00-10:30
-    - {{[[TODO]]}} 带#[[Jonas]]去办公室
-    - {{[[TODO]]}} 下午提前录制两句半(与 [[刘淼]] 老师商量)
-    - {{[[TODO]]}} 上传两句半
+    - {{[[DONE]]}} 放学 12:00-12:10
+    - {{[[DONE]]}} 上学 9:30-9:40 
+    - {{[[DONE]]}} 瑞金医院神内科 10:00-10:30
+    - {{[[DONE]]}} 带#[[Jonas]]去办公室
+    - {{[[DONE]]}} 下午提前录制两句半(与 [[刘淼]] 老师商量)
+    - {{[[DONE]]}} 上传两句半
     - {{[[TODO]]}} 找淘宝商家打印[[编剧故事营]]课件
     - {{[[TODO]]}} 好中文第十期招生简章
+    - {{[[TODO]]}} 预备还款 4622.22 #Finance
 - ---
 - [[Daily Journal]] 
     - EVERYTHING GOES HERE UNDER A PROCESS HEADER
@@ -39,7 +40,12 @@
                 -  Completed a review of 10 journal articles
 - [[Daily Reading]]
     - [Jump Cut Smoothing for Talking Heads](https://morphcut.github.io/)
-    - [《面向人工智能的博物馆藏品知识组织——以故宫博物院“中国古代可移动文物概念参考模型”为例》 - 故宫博物院](https://www.dpm.org.cn/journal/261970.html)
+    - [故宫博物院院刊 - 故宫博物院](https://www.dpm.org.cn/journals.html)
+        - [《面向人工智能的博物馆藏品知识组织——以故宫博物院“中国古代可移动文物概念参考模型”为例》 - 故宫博物院](https://www.dpm.org.cn/journal/261970.html)
     - [[书格]]下载网盘
         - [PDF - Google Drive](https://drive.google.com/drive/folders/0B59W0kcOXxj6UUdYUzRYOHE0R1E?resourcekey=0-JyYB6JeJHIBT3lFz4e5NzA)
+    - [如何靠一篇文章两天收获$100？ – 衛斯理](https://imwsl.com/?p=151)
+    - [额尔古纳河右岸 (长篇小说) - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%B2%B3%E5%8F%B3%E5%B2%B8_(%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4))
+    - [血糖11点多算是正常的吗？ - 知乎](https://zhuanlan.zhihu.com/p/219780729)
+    - 
 - ---

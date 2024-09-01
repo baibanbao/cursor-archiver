@@ -76,6 +76,7 @@ But TfTs give me the power to interweave tasks with links to related work—or e
     - 自我厌恶也是一种自爱，甚至是一种对自己更深的爱
         - 我不应该是这样，我应该有更好的身体，性格，境遇，发展，成就etc.
         - 人很少有不爱自己的，爱自己是天然的，无条件的
+    - 
 - 今日事
     - #[[Prayers&Answers]]
         - 为弟兄姊妹祷告

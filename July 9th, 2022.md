@@ -133,7 +133,7 @@
         - Birthday::
         - Tags:: #People #Christian #好中文学员 #编剧营学员
     - [[陈浩初]]
-        - Phone Number:: 陈浩初 13585573880
+        - Phone Number:: [[陈浩初]] 13585573880
         - MiniBio:: 编剧爱好者，[[SLBC]]慕道友
         - Email::
         - Company:: 

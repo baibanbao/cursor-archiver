@@ -1,1 +1,4 @@
-- 
+- Aliases::hepta,heptabase,Alan Chan,重器轻用
+- 官方101教程
+    - [(6) Heptabase Fundamentals 101: Sense-making with whiteboards - YouTube](https://www.youtube.com/watch?v=HgvR2QkfwG0&t=1065s)
+    - [(6) Heptabase Fundamentals 102: Organizing topics with nested whiteboards and tab groups - YouTube](https://www.youtube.com/watch?v=zlGRxZHlDgM)

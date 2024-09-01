@@ -68,7 +68,7 @@ Replying to
 神学乃是诸多学问中最复杂紧要者。牛顿主要的时间都在研究神学，有数百万字的手稿。
 https://newtonproject.ox.ac.uk/texts/newtons-works/religious
 
-宋明清之科举，是一整套从小到大的宗教神学训练。有各种仪式，考核。
+宋明清之科举，是一整套从小到大的宗教神学训练。有各种仪式，考核。 #[[KJV Life]]
     - {{[[TODO]]}} 15:15 38 ZoomQuiet
 @zoomq
 ·

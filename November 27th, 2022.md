@@ -988,7 +988,7 @@ Michael Saylor⚡️
 @saylor
 ·
 Jun 15
-1 BTC = 1 BTC
+1 [[BTC]] = 1 [[BTC]]
     - {{[[TODO]]}} 23:26 15 GitHub 又增加 Markdown 语法了。https://github.com/github-community/community/discussions/16925
 Translate Tweet
 

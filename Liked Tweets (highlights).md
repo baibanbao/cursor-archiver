@@ -7176,7 +7176,7 @@ https://t.co/SLpWh6OXBv ([View Tweet](https://twitter.com/aureouva/status/157993
     - @wintermaputo: @cal_tse @julien201410 想起了这则笑话 
 
 ![](https://pbs.twimg.com/media/Fe0cL6xWIAYRCpL.jpg) ([View Tweet](https://twitter.com/wintermaputo/status/1579950038951743488))
-    - @EricLiu_USA: 虽然乔治奥威尔在《1984》里也说大洋国的词汇是不断变少的，但我对中文词汇“清零”持乐观态度。虽然每个月都有很多词消失，但也有少量新语被发明出来，比如gj, zf, d, yq, hs, jb, dt, 50w, 1450, 大白, 小羊人, 原则居家, 社会面清零等等，只不过中文会在可能几十年里越来越模糊，令人费解，和无法翻译 https://t.co/s3Po8toCCK ([View Tweet](https://twitter.com/EricLiu_USA/status/1579999776929480705))
+    - @EricLiu_USA: 虽然乔治[[奥威尔]]在《1984》里也说大洋国的词汇是不断变少的，但我对中文词汇“清零”持乐观态度。虽然每个月都有很多词消失，但也有少量新语被发明出来，比如gj, zf, d, yq, hs, jb, dt, 50w, 1450, 大白, 小羊人, 原则居家, 社会面清零等等，只不过中文会在可能几十年里越来越模糊，令人费解，和无法翻译 https://t.co/s3Po8toCCK ([View Tweet](https://twitter.com/EricLiu_USA/status/1579999776929480705))
     - @lazydjay: 俺早说过了，是否坚持清零运动是习近平是否连任的试金石，这篇社论的意思是：习近平可连任而且必须坚持。
 还是那句话，这国家完蛋了，要么反抗要么逃离，别无选择。 
 

@@ -19,6 +19,8 @@
             - Also join me in retweeting [[Roamhacker]]'s tweet encouraging Roam Research to match the crowdfunded effort. If they do so, David can easily reach his target and we can all look forward to greater productivity within Roam!
                 - https://twitter.com/roamhacker/status/1407059150257934340?s=20
         - https://twitter.com/dvargas92495/status/1405299454672924674?s=20 #[[LFR/Letter XXI]]
+    - 
+    - 
     - ## Roam Bounties under new management
         - [[Abhay Prasanna]] announced that the Roam team are taking over the management of the Roam Bounties project. For those who aren't aware, Abhay set up the project to make it easier to connect people with ideas for extensions with those who have the skills to build them, and it has fueled many extensions already.
             - If you want to learn more [visit the Roam Bounties graph](https://roamresearch.com/#/app/roambounties/page/97seO_oAg) or [join the Slack channel](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw)

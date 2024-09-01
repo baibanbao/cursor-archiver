@@ -30,6 +30,6 @@
             - **16:35** - {{[[POMO]]: 25}}
                 -  Completed a review of 10 journal articles
 - [[Daily Reading]]
-    - [China-US migration: How an underground industry is helping people illegally cross the border | CNN](https://edition.cnn.com/2024/01/08/americas/the-walking-route-how-an-underground-industry-is-helping-migrants-flee-china-for-the-us/index.html)
+    - [China-US migration: How an underground industry is helping people illegally cross the border | CNN](https://edition.cnn.com/2024/01/08/americas/the-walking-route-how-an-underground-industry-is-helping-migrants-flee-china-for-the-us/index.html) #两句半
     - [Semporia/TikTok-Unlock: TikTok免拔卡解锁最新支持 iPhone （iOS 17.2） 、TikTok（V32.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！](https://github.com/Semporia/TikTok-Unlock)
 - ---

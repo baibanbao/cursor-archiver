@@ -585,9 +585,9 @@ span.rm-page-ref[data-tag="gc8"]:before {
     content: 		'🦉';
   	padding-right: 	2px;
 }```
-            - #[[euphoria]]
+            - #[[两句半]]
                 - ```css
-span.rm-page-ref[data-tag="euphoria"] {
+span.rm-page-ref[data-tag="两句半"] {
     background: #34ac54;
     color: 			var(--cl-white);
     padding: 		2px 5px 2px 5px;
@@ -598,10 +598,11 @@ span.rm-page-ref[data-tag="euphoria"] {
     position:		relative;
 }
 
-span.rm-page-ref[data-tag="euphoria"]:before {
+span.rm-page-ref[data-tag="两句半"]:before {
     content: 		'💃🏻';
   	padding-right: 	2px;
 }```
+            - 
             - #[[Jonas]]
                 - ```css
 span.rm-page-ref[data-tag="Jonas"] {
@@ -1071,9 +1072,9 @@ span.rm-page-ref[data-tag="Input"]:before {
     content: 		'❤️';
   	padding-right: 	2px;
 }```
-            - #[[Quick Math]]
+            - #[[jfx]]
                 - ```css
-span.rm-page-ref[data-tag="Quick Math"] {
+span.rm-page-ref[data-tag="jfx"] {
     background: 	#6B8E23;
     color: 			var(--cl-white);
     padding: 		2px 5px 2px 5px;
@@ -1084,7 +1085,7 @@ span.rm-page-ref[data-tag="Quick Math"] {
     position:		relative;
 }
 
-span.rm-page-ref[data-tag="Quick Math"]:before {
+span.rm-page-ref[data-tag="jfx"]:before {
     content: 		'🧮';
   	padding-right: 	2px;
 }```
@@ -1172,9 +1173,9 @@ span.rm-page-ref[data-tag="Translate"]:before {
     content: 		'🇪🇺';
   	padding-right: 	2px;
 }```
-            - #[[JFX]]
+            - #[[SLBC]]
                 - ```css
-span.rm-page-ref[data-tag="JFX"] {
+span.rm-page-ref[data-tag="SLBC"] {
     background: #ff0099;
     color: #fff;
     padding: 2px 5px 2px 5px;
@@ -1185,7 +1186,7 @@ span.rm-page-ref[data-tag="JFX"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="JFX"]:before {
+span.rm-page-ref[data-tag="SLBC"]:before {
     content: '🐱'
 }```
             - #[[红楼梦]]

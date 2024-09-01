@@ -1,5 +1,5 @@
 - Author:: [[George Orwell]]
-- Full Title:: Essays by George Orwell
+- Full Title:: Essays by [[George Orwell]]
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/414uU6QntAL._SL200_.jpg)
 - ### Highlights first synced by #Readwise [[July 10th, 2022]]

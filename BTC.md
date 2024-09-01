@@ -1,4 +1,13 @@
 - Aliases::btc,bitcoin,Bitcoin,大饼,比特币
+- Projects
+    - Completed Date:: 
+    - Status::hold
+    - Due Date:: 
+    - Related Goals:: #Finance
+    - Success Criteria:: 200k/per coin
+    - Tags:: #Projects #Finance #[[Jonas]] #告老还乡
+- [[王小山]]判断
+    - 我没剩几个了，留着养老，20万美元问题不大
 - [[April 9th, 2024]]
     - 卖btc的过程
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FJ-3tdMQFPl.jpg?alt=media&token=f2c835d4-08f2-485a-8d7b-5acca71305f7)

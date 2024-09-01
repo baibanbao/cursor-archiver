@@ -1,0 +1,2 @@
+- Aliases::whiteboardx,WhiteboardX,白板报频道,白板报油管
+- 这个名字是ChatGPT给我取的，故意取了一个中性的名字，为的是不侵犯YouTube的商标权。这是我[[all in 𝕏 youtube]]战略的一部分
