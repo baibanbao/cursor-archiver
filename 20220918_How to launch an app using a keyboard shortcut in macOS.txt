@@ -1,0 +1,3 @@
+﻿ 如何给mac中任一app设定快捷热键
+
+[How to Launch an App Using a Keyboard Shortcut in MacOS](https://www.computerhope.com/issues/ch002051.htm)

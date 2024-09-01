@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2M5Mzg3NjctZTlkNy00MTU0LWFlYTQtY2E2Y2M4NjNiNzllXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Hal Ashby]]
+        - Writer:: [[Colin Higgins]]
+        - Cast:: [[Ruth Gordon]] [[Bud Cort]] [[Vivian Pickles]]
+        - Year:: [[1971]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0067185
+    - **Plot Summary:** Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.

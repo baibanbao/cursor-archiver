@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Rob Marshall]]
+        - Writer:: [[Robin Swicord]] [[Arthur Golden]]
+        - Cast:: [[Ziyi Zhang]] [[Ken Watanabe]] [[Michelle Yeoh]]
+        - Year:: [[2005]]
+        - Genre:: #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0397535
+    - **Plot Summary:** Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geisha.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fcj0rjk9273.pdf?alt=media&token=efc3b85e-fbc7-4cc7-aa90-0194f4a5079e}}

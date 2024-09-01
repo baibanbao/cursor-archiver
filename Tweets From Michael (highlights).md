@@ -1,0 +1,7 @@
+- Author:: [[@Michael75522627 on Twitter]]
+- Full Title:: Tweets From Michael
+- URL:: https://twitter.com/Michael75522627
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 4th, 2023]]
+    - @tindingtin 朝鲜战争是为了给苏联交投名状，跟美国决裂。越南战争是为了缓和跟美国的关系，跟苏联决裂。 ([View Tweet](https://twitter.com/Michael75522627/status/1731090060231979042))

@@ -1,0 +1,82 @@
+- #[[Prayers&Answers]]
+    - {{[[POMO]]: 5}}
+    - #[[Prayers&Answers]]
+        - Date: [[October 27th, 2022]] 19:17
+            - Praise
+                - Praise 
+            - Thanks
+                - For #[[Roam Research]]
+            - Confession
+                - For thoughts of breach of the 7th commandment
+                - For my rebellious heart towards God
+                - For my impurity, unholiness and filthiness
+                - For my laziness
+                - 
+            - Ask
+                - For others
+                    - 
+                - For my family
+                    - Father-in-law's operation
+                    - #[[Seven]] 
+                    - #[[Jonas]]
+                    - myself
+                        - the spiritual condition
+                        - the haozhongwen book
+                        - the haozhongwen class
+                        - the financial problem
+            - Tongues
+                - Set a Pomodoro
+- 推特插件
+    - {{[[tweet]]}}
+        - 万物皆有裂隙，让阳光照进来。
+    - {{tweet}}
+        - 托密勒根据地心说制造了非常复杂的一个模型，太阳和行星的轨迹都无比诡异，复杂多端，线路像一团猫抓过的线团。伽利略说，如果上帝创造的宇宙是这种运行轨迹，他也会给我们这样运行的大脑。当哥白尼提出日心说，一切就霍然开朗了。
+    - {{[[tweet]]}}
+        - 友人说，关于退场的种种说法中，他觉得最合理是李锐之女李南央的解读：赵高给智商不够却弄权有术的秦二世出了那个主意，导演了皇帝加冕指鹿为马群臣俯首朝堂噤若寒蝉的戏码，壶被用作了这场表演的最重要道具。
+- 阅读
+    - [二十大修改后《党章》全文逐句对比](https://zhengceku.fun/3b90cf6b92e04564bb7581c685d6bb14)
+    - [何立峰](https://zhengceku.fun/2ec061004cd846ad88b266e34dab22e0)
+    - [Roam2Github Backup Guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
+    - [[Roam备份]]
+    - [台湾行日记（7月6日至12日） 2012年07月17日 - 巴哈姆特](https://m.gamer.com.tw/home/creationDetail.php?sn=5585950)
+    - [(6) 张洵访谈李南央女士：解读中共二十大胡锦涛离场 - YouTube](https://www.youtube.com/watch?v=lZoHsb4KYnc)
+    - [[吴国光]]
+        - [(6) 不明白播客 - 20大专题｜EP-022 吴国光：20大结局与中国未来走向 - YouTube](https://www.youtube.com/watch?v=_xoYDcGQgYM)
+        - [吴国光: 中国改革已经终结 从“完美制度”到政治革命 - 吴国光 ChinaAffairs.org](https://www.chinaaffairs.org/gb/detail.asp?id=88857) TweetThis
+    - {{pdf: https://www.dropbox.com/s/oblb4xkvghdhkg6/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%89%A7%E5%9C%BA%20%28%E5%90%B4%E5%9B%BD%E5%85%89%29%20%28z-lib.org%29.pdf?raw=1}}
+- [[Gratitude]]
+- [[Day Start]] 21:56
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+    - {{[[DONE]]}} 辅导作业
+        - {{[[DONE]]}} 英语试卷改错
+        - {{[[DONE]]}} 数学练习册
+    - {{[[DONE]]}} 做晚饭
+    - {{[[TODO]]}} 原地运动
+    - {{[[DONE]]}} 恢复使用#[[Roam Research]]
+    - {{[[TODO]]}} 洗碗
+        - {{[[DONE]]}} 洗餐包
+    - {{[[TODO]]}} 写[[中文风格的要素]]策划
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [插画师 Stephen Biesty](https://rigeng100.com/post/up/ooawr51crttpj3h0jj_y7t62w_7a/2022-10-25)
+        - 崔师的日更简直是人间宝藏，看到推荐马上去找来STEPHEN BIESTY的画册，这切割一切的技术，真是独-步天下了。看到舰船的时候，我笑了，想到了三体。大刘不会是看了这书，借鉴的灵感，写出了古筝计划吧？再看一本人体书，简直令人心生敬畏。总之，这哥们太棒了。谢谢崔师。
+    - [事工哲学（136）｜盼望不至于羞愧 – Eddy & Emma's Blog](https://eddyemma.com/blog/2022/10/27/mph136-wax-no-shame/)
+        - 是了，我或许应该更加积极地参与一点事情，就像洪七公说的那样，受了重伤，要早点按照真经活动身体，躺着养伤是比较慢的恢复方法。
+    - 阅读
+        - [二十大修改后《党章》全文逐句对比](https://zhengceku.fun/3b90cf6b92e04564bb7581c685d6bb14)
+        - [何立峰](https://zhengceku.fun/2ec061004cd846ad88b266e34dab22e0)
+        - [Roam2Github Backup Guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
+        - [[Roam备份]]
+        - [台湾行日记（7月6日至12日） 2012年07月17日 - 巴哈姆特](https://m.gamer.com.tw/home/creationDetail.php?sn=5585950)
+        - [(6) 张洵访谈李南央女士：解读中共二十大胡锦涛离场 - YouTube](https://www.youtube.com/watch?v=lZoHsb4KYnc)
+        - [[吴国光]]
+            - [(6) 不明白播客 - 20大专题｜EP-022 吴国光：20大结局与中国未来走向 - YouTube](https://www.youtube.com/watch?v=_xoYDcGQgYM)
+            - [吴国光: 中国改革已经终结 从“完美制度”到政治革命 - 吴国光 ChinaAffairs.org](https://www.chinaaffairs.org/gb/detail.asp?id=88857) TweetThis
+        - {{pdf: https://www.dropbox.com/s/oblb4xkvghdhkg6/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%89%A7%E5%9C%BA%20%28%E5%90%B4%E5%9B%BD%E5%85%89%29%20%28z-lib.org%29.pdf?raw=1}}
+- ---

@@ -1,0 +1,56 @@
+- vim如何修改目录
+    - [Set working directory to the current file | Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/Set_working_directory_to_the_current_file)
+- vim折腾记
+    - ·需求：中英文输入问题
+    - 解决方案
+        - 插件
+            - ybian/smartim
+            - 一宁推荐的插件
+                - https://github.com/rlue/vim-barbaric
+            - 其他方案
+    - 问题
+        - 插件安装不了
+    - 原因排查
+        - .vimrc文件
+            - 文件的位置
+                - `~/.vimrc`
+                - 误以为
+                    - `~/.vim/vimrc`
+        - 正确配置.vimrc文件
+            - 现在的配置
+                - ```plain text
+let g:smartim_default = 'com.apple.keylayout.ABC'
+set guifont=Menlo:22
+
+call plug#begin('~/.vim/plugged')
+ Plug 'ybian/smartim'
+call plug#end()
+~                    ```
+        - 正确配置.gvimrc文件
+            - 生效的配置
+                - ```plain text
+set guifont=Monaco:h32
+colorscheme elflord```
+            - 现在的配置
+                - ```plain text
+set lines=40
+set columns=100
+set guifont=Monaco:h32
+```
+    - 结果
+        - 使用起来没问题，只不过需要点两次esc
+            - minor bug可以接受
+    - 参考文章
+        - [实现在 Vim 的正常和插入模式下中英文输入法的自动切换 - 黄石的时空回环](https://yzlnew.com/2019/01/vim-imselect/)
+        - [Vim 与中文输入法 - 黄玄的博客 | Hux Blog](https://huangxuan.me/2018/10/06/vim-cn-im/)
+        - [macOS下vim 中文输入法切换问题和两种解决方案_lxyoucan的博客-CSDN博客](https://blog.csdn.net/lxyoucan/article/details/114365153)
+        - [mac vim中文输入法的切换](http://jackjin-cn.github.io/2019/2019-02-12_18-01_mac-vimzhong-wen-shu-ru-fa-de-qie-huan.html)
+        - [ybian/smartim: A Vim plugin to make it stand well with input methods (Mac only)](https://github.com/ybian/smartim)
+        - [junegunn/vim-plug: Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
+        - 
+- 重新测试youtube插件
+    - {{[[video]]:https://youtu.be/df-Pufz0OBc}}
+- 测试一下youtube
+    - {{[[video]]: https://youtu.be/df-Pufz0OBc?t=113}}
+- test123 #phonetoroam
+- test123 #phonetoroam

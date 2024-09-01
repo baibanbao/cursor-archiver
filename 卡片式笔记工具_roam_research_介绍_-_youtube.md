@@ -1,0 +1,29 @@
+- #[[王树义]] 
+- [[Roam Research视频教学]]
+- ### Snippets from 卡片式笔记工具 Roam Research 介绍 - YouTube
+- Video URL: [https://www.youtube.com/watch?v=n9pPfQhePmI](https://www.youtube.com/watch?v=n9pPfQhePmI)
+- *00:00-13:53**
+- Link: [https://reclipped.com/a/hHqhtF1HEeuV1E9wTNmMLw](https://reclipped.com/a/hHqhtF1HEeuV1E9wTNmMLw)
+- *Summary Note**
+- [00:01](https://www.youtube.com/watch?v=n9pPfQhePmI&t=1) 学习[[王树义]]老师，用好Roam Research
+- [00:39](https://www.youtube.com/watch?v=n9pPfQhePmI&t=39) 草木竹石，皆可为剑
+- [04:32](https://www.youtube.com/watch?v=n9pPfQhePmI&t=272) ⚠️拖动图片上传已经不能再用。王老师解释说：原先直接拷贝粘贴是可以的，而且许多网络上的图片链接原本拷贝之后也会自动上传，后来可能是因为存储空间比较紧张，毕竟对于大家都是无限的存储量。因此后来就改进了相关的方式，除了拖拽，只有打开一个图片之后，拷贝进入剪贴板，可以把它这样传上去
+- [04:18](https://www.youtube.com/watch?v=n9pPfQhePmI&t=258) 文字说明的重要性
+- [04:46](https://www.youtube.com/watch?v=n9pPfQhePmI&t=286) google云存储的安全性高
+- [05:05](https://www.youtube.com/watch?v=n9pPfQhePmI&t=305) 笔记之间的链接
+- [05:07](https://www.youtube.com/watch?v=n9pPfQhePmI&t=307) 用control + o 链接进来
+- [05:35](https://www.youtube.com/watch?v=n9pPfQhePmI&t=335) 如何对比两则笔记，shift + 鼠标左键，可以看到两则笔记的对比
+- [05:54](https://www.youtube.com/watch?v=n9pPfQhePmI&t=354)段落的引用
+- [06:37](https://www.youtube.com/watch?v=n9pPfQhePmI&t=397) 引用block与copy粘贴不一样
+- [07:07](https://www.youtube.com/watch?v=n9pPfQhePmI&t=427) 告诉你哪则笔记中引用过这个块
+- [07:26](https://www.youtube.com/watch?v=n9pPfQhePmI&t=446) 被引用的块增加的文字，在引用的地方也随着调整
+- [07:53](https://www.youtube.com/watch?v=n9pPfQhePmI&t=473) 可视化的问题
+- [08:05](https://www.youtube.com/watch?v=n9pPfQhePmI&t=485) ⚠️新版（截止到2021-01-23）找不到可视化按钮
+- [09:44](https://www.youtube.com/watch?v=n9pPfQhePmI&t=584) 把一张图片发朋友圈，todo list，加/调出today
+- [10:51](https://www.youtube.com/watch?v=n9pPfQhePmI&t=651) [[笔记]]工具与gtd工具无缝结合，能够获得gtd的上下文，\*这与omnifocus理念完全一致，是更高级的gtd工具。
+- [11:49](https://www.youtube.com/watch?v=n9pPfQhePmI&t=709) 它的背后是图数据库，可以做很多笔记应用很繁琐实现的功能
+- [12:06](https://www.youtube.com/watch?v=n9pPfQhePmI&t=726) 建立一个看板
+- [13:28](https://www.youtube.com/watch?v=n9pPfQhePmI&t=808) 小结：本期内容相当丰富，我刚开始用1.5x看，发现根本跟不上，于是改成正常速度，并且时时暂停，一边看，一边操作，才看完。
+- <!-- -->
+- 建议树义老师，对视频做一些minor update，因为照着操作，如果一步跟不上，则观众很受挫折。这个视频是rr中文界头一份，会造福很多人。
+- 再次表示感谢。

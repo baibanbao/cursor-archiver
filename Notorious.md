@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTc1NGViOTMtNjZhNS00OGY2LWI4MmItOWQwNTY4MDMzNWI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Ben Hecht]] [[Alfred Hitchcock]] [[John Taintor Foote]]
+        - Cast:: [[Cary Grant]] [[Ingrid Bergman]] [[Claude Rains]]
+        - Year:: [[1946]]
+        - Genre:: #Drama #Film-Noir #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0038787
+    - **Plot Summary:** The daughter of a convicted Nazi spy is asked by American agents to gather information on a ring of Nazi scientists in South America. How far will she have to go to ingratiate herself with them?

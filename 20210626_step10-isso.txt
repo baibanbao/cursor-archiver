@@ -1,0 +1,28 @@
+#折腾技术
+
+sudo nano /etc/nginx/conf.d/isso.conf
+
+server {
+        listen 80;
+        listen [::]:80;
+        server_name isso.wangpei.me;
+        return 301 https://isso.wangpei.me$request_uri;
+        access_log  /dev/null;
+        error_log /dev/null;
+}
+server {
+        listen 443 ssl http2;
+        listen [::]:443 ssl http2;
+        server_name isso.wangpei.me;
+        access_log /var/log/nginx/isso-access.log;
+        error_log  /var/log/nginx/isso-error.log;
+        ssl_certificate     /etc/letsencrypt/live/isso.wangpei.me/fullchain.pem;
+        ssl_certificate_key /etc/letsencrypt/live/isso.wangpei.me/privkey.pem;
+        location / {
+                proxy_set_header Host $http_host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+                proxy_pass http://localhost:8080;
+        }
+}

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Mike Nichols]]
+        - Writer:: [[Calder Willingham]] [[Buck Henry]] [[Charles Webb]]
+        - Cast:: [[Dustin Hoffman]] [[Anne Bancroft]] [[Katharine Ross]]
+        - Year:: [[1967]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0061722
+    - **Plot Summary:** A disillusioned college graduate finds himself torn between his older lover and her daughter.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FeV1sNanh8O.pdf?alt=media&token=d35d7a18-7361-4b57-a453-2882d4d8a55c}}

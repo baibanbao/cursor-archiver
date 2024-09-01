@@ -1,0 +1,50 @@
+- 今日#[[SLBC]]
+    - 线上聚会
+        - JF X, [Dec 2, 2022 at 10:12:59
+        - Auto-Deletes in 5 weeks]:
+        - SLBC 光耀浸信会订阅号
+        - 教会官方频道，包括讲道、见证、诗歌、主日程序单等
+        - JF X, [Dec 2, 2022 at 10:12:59
+        - Auto-Deletes in 5 weeks]:
+        - 各位，由于徐汇区疫情高风险区增加到三处（龙华街道和漕河泾街道），可能有的成员和朋友会对来实体聚会有所担忧。所以本周日开始我们提供ZOOM号码给有顾虑、被封控及确有难处无法来实体聚会的成员和朋友，但仍然鼓励大家若有可能凭信心来参加实体聚会。ZOOM接入不再提供PPT投屏，请ZOOM参会的按照光耀TG频道（ https://t.me/slbaptist ）每周五推送的程序单跟着唱诗。ZOOM号码不要转发给其他教会或没有来过实体的朋友们：
+        - 会议号：889 8395 4789
+        - 密码：595274
+    - 成员生日
+        - 各位成员，12月有以下弟兄姊妹过生日，大家可以在他们生日那天给他们送去问候祝福：
+        - 1，12.1    方三党
+        - 2，12.2    卞加梅
+        - 3，12.6    [[黄超]] [[December 6th, 2022]]
+        - 4，12.9    [[徐海涛]] [[December 9th, 2022]]
+        - 5，12.19   [[张程]] [[December 19th, 2022]]
+        - 6，12.21   刘静冉
+        - 7，12.26   张萍
+        - 8，12.28   [[王旻瑚]] [[December 28th, 2022]]
+    - {{[[DONE]]}} 前往#[[SLBC]]
+    - {{[[DONE]]}} 到全家吃早餐
+    - {{[[DONE]]}} 中午漕溪公园
+    - {{[[DONE]]}} 与[[刘作谦]]商议门训
+    - {{[[TODO]]}} 给[[季烨峰]]修改意见
+    - {{[[TODO]]}} 还书
+- [[Gratitude]]
+    - [[王旻瑚]]的见证
+    - 
+- [[Day Start]] 01:43
+- Daily Tasks
+    - {{[[DONE]]}} 前往#[[SLBC]]
+    - {{[[DONE]]}} 到全家吃早餐
+    - {{[[DONE]]}} 中午漕溪公园
+    - {{[[DONE]]}} 与[[刘作谦]]商议门训
+    - {{[[TODO]]}} 给[[季烨峰]]修改意见
+        - 推荐给联商网
+    - {{[[TODO]]}} 还书
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [GitHub - zzhanghub/alfred-template-file: New file or dir using templates.](https://github.com/zzhanghub/alfred-template-file)
+        - 不错的插件，正在使用
+    - [如何用word給剧本排版？ - 知乎](https://www.zhihu.com/question/330584903) #[[编剧故事营]]
+- ---

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Denis Villeneuve]]
+        - Writer:: [[Denis Villeneuve]] [[Wajdi Mouawad]] [[Valérie Beaugrand-Champagne]]
+        - Cast:: [[Lubna Azabal]] [[Mélissa Désormeaux-Poulin]] [[Maxim Gaudette]]
+        - Year:: [[2010]]
+        - Genre:: #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt1255953
+    - **Plot Summary:** Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.

@@ -1,0 +1,18 @@
+- [[Gratitude]]
+- [[Day Start]] 20:41
+- Daily Tasks
+    - #[[好中文]]课件
+        - [[gc8]] 
+            - 第二期
+            - 第三期
+            - 第四期
+    - #[[编剧故事营]]低调发布
+        - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

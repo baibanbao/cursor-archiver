@@ -1,0 +1,8 @@
+- Author:: [[Sönke Ahrens]]
+- Full Title:: How to Take Smart Notes
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - That's fine – computers can only speed up a relatively minor part of the work anyway, like adding links and formatting references. They can’t speed up the main part of the work, which is thinking, reading and understanding.
+    - If you have pen and paper, an editor, your slip-box and reference system at hand, you are ready to go.
+    - There is no such thing as private knowledge in academia. An idea kept private is as good as one
+    - you never had. And a fact no one can reproduce is no fact at all. Making something public always means to write it down so it can be read. There is no such thing as a history of unwritten ideas.

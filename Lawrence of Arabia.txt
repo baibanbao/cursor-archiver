@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Lean]]
+        - Writer:: [[Robert Bolt]] [[Michael Wilson]]
+        - Cast:: [[Peter O'Toole]] [[Alec Guinness]] [[Anthony Quinn]]
+        - Year:: [[1962]]
+        - Genre:: #Adventure #Biography #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0056172
+    - **Plot Summary:** The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FzIOpvmPoxD.pdf?alt=media&token=2c98ade8-6480-4dfa-a237-72504389e749}}

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Milos Forman]]
+        - Writer:: [[Peter Shaffer]] [[Zdenek Mahler]]
+        - Cast:: [[F. Murray Abraham]] [[Tom Hulce]] [[Elizabeth Berridge]]
+        - Year:: [[1984]]
+        - Genre:: #Biography #Drama #Music
+    - **IMDb:** https://www.imdb.com/title/tt0086879
+    - **Plot Summary:** The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.

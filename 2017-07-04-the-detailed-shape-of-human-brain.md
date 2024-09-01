@@ -1,0 +1,4 @@
+- BBC报道，经过精确扫描，已经做出了人类大脑最清晰的3D影像。
+- [The human brain in stunning detail - BBC News](http://www.bbc.co.uk/news/av/health-40487049/the-most-detailed-scan-of-the-wiring-of-the-human-brain?ocid=socialflow_twitter)
+- 这让我想起今年4月在内蒙，我们剧组的制片人大哥，大脑受到撞击后，拍下的一系列医学片子。那个时候，我才对大脑真正产生了敬畏。
+- 爱惜爱护我们的大脑吧，关键是用它去创造。

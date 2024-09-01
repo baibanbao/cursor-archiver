@@ -1,0 +1,7 @@
+- Author:: [[@FredFong on Twitter]]
+- Full Title:: Tweets From FredFong
+- URL:: https://twitter.com/FredFong
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 4th, 2023]]
+    - @baibanbaonet 你提到的冯象是我当年老师的儿子，精通数国语言，多年前即发宏愿重新翻译旧约圣经，但当我兴冲冲地买了他的首卷“摩西五经”精装版后却大失所望，因其译文与和合本相比相差实在太远，我只能束之高阁。没有圣灵的带领和光照而仅靠知识和技能是无法完整准确又优美地译经的。 ([View Tweet](https://twitter.com/FredFong/status/1731367718132302216))

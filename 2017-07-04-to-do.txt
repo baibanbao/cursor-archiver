@@ -1,0 +1,14 @@
+---
+title: 20170704 Todo
+app: tool/todo
+status: draft
+date: 20167-07-04 20:45:12
+---
+- [x] Swim for at least 500m
+- Write 20 x 15m tomato clock
+- [x] Reading 10 pages
+- [x] Daily update
+- [x] update jianshu
+- [x] update wangpei.me
+- [x] update baibanbao.org
+- [x] update wechat public

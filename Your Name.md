@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Makoto Shinkai]]
+        - Writer:: [[Makoto Shinkai]] [[Clark Cheng]]
+        - Cast:: [[Ryûnosuke Kamiki]] [[Mone Kamishiraishi]] [[Ryô Narita]]
+        - Year:: [[2016]]
+        - Genre:: #Animation #Drama #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt5311514
+    - **Plot Summary:** Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?

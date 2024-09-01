@@ -1,0 +1,7 @@
+- Author:: [[@txyyss on Twitter]]
+- Full Title:: Tweets From Shengyi Wang
+- URL:: https://twitter.com/txyyss
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 我是不怎么听音乐的人，可以说是毫无见识毫无品味了。最近意外开通了 Apple Music，算打开了新世界的大门。比如田志仁 Christopher Tin 获格莱美奖的专辑《呼唤黎明》就让我耳目一新。用 12 种语言唱 12 首歌，其中贾茹涵用中文唱的《道哉反也》非常有意思，歌词基本上是道德经第四十章，就两句话。 ([View Tweet](https://twitter.com/txyyss/status/1733613865152270836))

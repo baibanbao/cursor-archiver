@@ -1,0 +1,39 @@
+- letters::
+    - Status:: #[[status/PUBLISHED]]
+    - Published Date:: [[January 12th, 2021]]
+- Hello fellow Roamans,
+Welcome to my first letter of 2021. I hope you all had a restful break, however you may have celebrated this festive period.
+- As I finished up my annual review (in Roam naturally) and distilled it into some [lessons learned](https://elaptics.co.uk/journal/2020-year-in-review/), I realised a surprising number revolved around Roam and its #RoamCult community. It's had a big impact on me, and I am truly grateful for your attention.
+- # Around the Roaman Empire
+    - ## New CSS changes are live
+        - If you took a few days break away from Roam and came back to find that some of your custom styles or theming looks a bit off, it's because the Roam team shipped the CSS changes. Make sure you've updated your theme's CSS on your `[[roam/css]]` page. I'll be shipping some updates to my CSS lesson soon to incorporate the changes.
+            - However, in a nut-shell if you were using a CSS definition of `span.rm-page-ref-tag` to colour your tags, all you need to do is remove the extra `-tag` from the end to just `span.rm-page-ref`
+    - ## Native Roam Templates
+        - Roam also shipped a minimal native templating feature. You can now tag blocks with `[[roam/templates]]` and it and any child blocks can be instantly reused. There is a `/template` slash command to make it easy to add without needing to remember the exact name.
+            - Templates can be triggered using `;;`. If you were using SmartBlocks, you need to retrain your muscle memory to use `jj` instead. ((SmartBlocks users - if you are adamant you won't use the native feature, you can redefine the keyboard shortcut back to ;; or choose some other trigger.))
+                - > While it's far from done, we have put out our MVP for templates, inspired by RoamHacker's pièce de résistance, SmartBlocks. You can now make a reusable template out of any block and its children by referencing `[[roam/templates]]`. Trigger the template search by typing ;; in any block and the template will be pasted where the search was triggered.
+                    - ((https://twitter.com/conaw/status/1343208177869852674))
+    - ## Loom video support
+        - In addition to the specific YouTube command for embedding youtube videos in a player, you can now use a more generic `[[video]]` version to embed Loom videos. It's as easy as pasting in the link. You'll see a video button next to the url. When you click it, it opens a responsive video player and turns it into a generic `{{[[video]]}}` shortcode.
+            - Hopefully, it will continue to be expanded for other hosted video platforms like Vimeo.
+    - ## Roam Swag
+        - Finally, and perhaps mostly importantly, Roam has branched out into Roam-branded merchandise with the puntastic url of [https://www.roamremerch.com/](https://www.roamremerch.com/). Now you can finally profess your undying love for Roam with astrolabe beanies, bomber jackets and masks.
+            - And if you __REALLY__ love Roam and are willing to get an astrolabe tattooed somewhere visible, Conor has promised a free lifetime account.
+                - https://twitter.com/Conaw/status/1346650444710350848
+    - ## Roamkasten
+        - [[[Henry Finkelstein]]](https://twitter.com/ThrivingHenry) has written an epic deep dive into his [[Zettelkasten]] system and he has also included a Roam JSON export of the article to import into your own Roam graph.
+            - https://www.thrivinghenry.com/writings/roamkasten-a-practical-how-to-guide-to-optimize-zettelkasten-in-roam-research
+    - ## Tweet directly from Roam
+        - [Andy Gao](https://twitter.com/andyga0) has [released a Chrome extension called Mercury](https://chrome.google.com/webstore/detail/mercury/fjclkljmpggljoimiocgcjhjgkcbknfm) ((formerly called Augur)) which allows you to tweet directly from Roam.
+            - https://twitter.com/andyga0/status/1342533586726113283
+- # Thinking Out Loud
+    - I thought I would attempt a little forecasting for what we might expect to see in 2021.
+    - I'm excited to see more competition for Roam in the tools-for-thought space and not just more note-taking-apps-with-backlinks. The very [Roam-like Athens](https://github.com/athensresearch/athens) has began to offer a closed beta to its sponsors and the intriguing [Codex Editor](https://twitter.com/codexeditor) is getting ever closer to a release.
+    - With several more hires for Roam, we can expect their rate of improvements continuing apace and perhaps even accelerate. Hopefully, we'll see the fruits of the new API and multiplayer features in the not-too-distant future.
+        - When we all have access to Roam Depot and the ability to access the APIs there will likely be an explosion in tools and expansions within Roam for many more specific use-cases. Roam will become a platform and eco-system which can be optimised for individual use-cases.
+        - However, I am more excited for the tools that will bring these building blocks to the masses. I'm reminded of [this twitter thread](https://twitter.com/roamhacker/status/1338239353919840262) by [[Roamhacker]]. One of the reasons I think SmartBlocks are really taking off is because it provides a pathway to no-code or lo-code toolsets so that many more people can customise their thinking environments to augment their way of working just-so. You can more easily [[program your attention]] to guide your actions for the day and provide as much or little structured thinking guidance as you need to make leaps and bounds in your research or other projects.
+            - Chris articulates this well. It's an interesting point to bring up about the ease of use - as a developer I'm a bit biased against no-code or low-code, but everyone shouldn't need to spend years learning how to code in order to build improvements to their workflows. Low-barriers to entry are really important, and is probably something Roam will need to take seriously before too long, otherwise Roam42 and the like will become the de-facto way.
+    - How about you? What are you excited to see in 2021? Hit reply and let me know.
+    - As for me, when I developed my Roam course and started these letters on a bit of a whim, I would have never imagined that it would grow to this scale and interest so quickly. I calculated that in 2020 I shipped over 50,000 words; a large portion of those have been dedicated to teaching what I've learned around Roam. I have ambitious plans to try and double my output in 2021. I have a lot of half-finished drafts and ideas in Roam already which just need some love and polish. I'm also working on new lessons and tutorials covering better practices I've identified for getting the most from Roam.
+    - I'm looking forward to continue my explorations in this brave new world. Roam Book Club 3 will be starting again soon, and I can't wait to see what this next iteration will look like. 
+    - I'd also love to hear from you if you have ideas for things you'd like to see me to cover in these letters.

@@ -1,0 +1,50 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[November 29th, 2023]] 13:09
+        - 赞美感谢
+            - 赞美神的保守，护理
+            - 赞美神的公义，圣洁
+            - 赞美神的永恒不变
+            - 感谢主使我逃离了死亡
+            - 感谢主使#[[Seven]]无恙
+        - 认罪悔改
+            - 为自己的懈怠，懒惰
+            - 为自己蠢蠢欲动的私欲
+            - 为自己做事不稳定
+            - 为自己爱主不够深，更不爱人
+        - 祈求
+            - 求主医治#[[Jonas]]
+            - 求主赦免
+            - 求主empower me
+            - 求主帮助我晚上上课找到好的课件和状态
+            - 求主不要让我迷失在社交媒体
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 13:01
+- Daily Tasks
+    - {{[[DONE]]}} 编剧故事营第三课
+        - [[Aether]]建议，上课电脑单独开一个账户，这样可以做到信息不暴露。
+    - {{[[DONE]]}} 照顾感冒的#[[Jonas]]
+    - {{[[TODO]]}} 回答[[王树义]]老师的问题
+    - {{[[DONE]]}} 重温芒格
+        - 看到一段关于芒格早年的悲惨经历的的文字，让人感动，翻译了一下：
+
+1953年，芒格29岁。他和结婚了8年的妻子离婚。位于加州帕萨迪纳市南部的家庭住房归女方，芒格净身出户，搬到一个条件很糟糕的大学俱乐部。离婚不久，芒格得知儿子泰迪被诊断白血病。那个年代，没有医保，所有的医疗都是自掏腰包。当时白血病的死亡率接近100%，医生基本无能为力。芒格的朋友瑞克后来说，芒格跑到医院，抱着年幼的儿子，在帕萨迪纳的街头边走边哭。一年后的1955年，儿子泰迪去世。31岁的芒格在经历了离婚、破产后，埋葬9岁的儿子。
+    - {{[[TODO]]}} 开始写#[[Four Seasons]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 加入waitlist https://pika.art/waitlist
+        - [Pika Launches AI Video Editing App And Announces $55 Million In Funding](https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/?ss=ai&sh=69f7e012421b)
+    - [Rare Book of the Month: Redouté’s Royal Roses | Timeless](https://blogs.loc.gov/loc/2015/07/rare-book-of-the-month-redoutes-royal-roses/)
+    - [How to Use Obsidian for Writing and Productivity | WIRED](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)
+    - [01 罗密欧与朱丽叶\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Wc41177RS/?p=2&vd_source=d77cfc51f5909e253056ddf774cd791e)
+    - [㊙️拖延症不可怕，可怕的是你真把它当回事](https://www.xiaohongshu.com/explore/656608de0000000033002531?app_platform=ios&app_version=8.16&author_share=2&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5fce34310000000001007059&apptime=1701185882)
+    - [金珠爱获封“朝鲜新星女将军” 分析：十分不寻常 | 联合早报](https://www.zaobao.com.sg/realtime/world/story20231128-1452947)
+    - [亿万富翁丈夫-哔哩哔哩\_Bilibili](https://search.bilibili.com/all?vt=63729812&keyword=%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E4%B8%88%E5%A4%AB&from_source=webtop_search&spm_id_from=333.1007&search_source=5)
+    - 
+- ---

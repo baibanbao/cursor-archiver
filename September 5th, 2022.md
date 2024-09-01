@@ -1,0 +1,38 @@
+- [[Gratitude]]
+    - #[[Seven]] loves our home so much and has done a lot to this family.
+    - #[[Jonas]] brings joy and hope to this house.
+    - #[[JFX]] leads us to the right path of righteousness
+- #[[Prayers&Answers]]
+    - 赞美
+    - 感谢
+    - [[星河]]姊妹在封控中
+    - [[楠楠]]在韩国的生活和学习
+    - [[田光荣]]弟兄一家
+    - [[尹慧娟]]要回武汉
+    - [[好中文]]
+    - [[编剧故事营]]的学员们
+- [[Day Start]] 20:09
+- Daily Tasks
+    - {{[[DONE]]}} 送 #[[Jonas]] 上学
+    - {{[[DONE]]}} 接 #[[Jonas]] 放学
+        - {{[[DONE]]}} 放学时间是16:45
+    - {{[[DONE]]}} [[IMDB Top500]]
+    - {{[[TODO]]}} #[[gc8]]招生贴
+    - {{[[DONE]]}} 走路一万步
+    - {{[[TODO]]}} 帮助jo完成作业
+    - {{[[DONE]]}} 报名篮球班
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - [[相声瓦舍]]
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [altryne/sd-webui-colab: A repo for the maintenance of the Colab version of stable-diffusion-webui repo](https://github.com/altryne/sd-webui-colab)
+    - A Life Beyond Boundaries: A Memoir
+        - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FYQ9o5WNcpB.epub?alt=media&token=4aa5c9c3-57a7-430a-9db8-d7567ce48064
+    - Edward P. Bailey Jr. - The Plain English Approach to Business Writing  -Oxford University Press (1997)
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fr9cbquQMfX.%20Bailey%20Jr.%20-%20The%20Plain%20English%20Approach%20to%20Business%20Writing%20%20-Oxford%20University%20Press%20(1997).pdf?alt=media&token=6b75fa74-8d54-4758-a83c-f5ed8e60533a}}
+    - [[瓦尔特·本雅明写作13律]]
+- ---

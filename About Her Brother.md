@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGFkNGJhMzktNTZjMC00YTUxLWFmNTktOTJmOWFmMGUwNzYyXkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Yôji Yamada]]
+        - Writer:: [[Emiko Hiramatsu]] [[Yôji Yamada]]
+        - Cast:: [[Sayuri Yoshinaga]] [[Tsurube Shôfukutei]] [[Yû Aoi]]
+        - Year:: [[2010]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1345834
+    - **Plot Summary:** Ginko seems to be living the good life: She's the respectable owner of a neighborhood drug store in Tokyo, and her daughter Koharu is about to get married to a doctor. However, Koharu's wedding day also brings homes Ginko's younge...

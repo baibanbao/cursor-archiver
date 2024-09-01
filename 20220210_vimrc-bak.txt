@@ -1,0 +1,248 @@
+﻿Last login: Wed Feb  9 09:03:29 on ttys000
+ding@dingjiacuns-MacBook-Pro ~ % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+ding@dingjiacuns-MacBook-Pro ~ % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+ding@dingjiacuns-MacBook-Pro ~ % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+ding@dingjiacuns-MacBook-Pro ~ % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+ding@dingjiacuns-MacBook-Pro ~ % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+ding@dingjiacuns-MacBook-Pro ~ % cd dropbox
+ding@dingjiacuns-MacBook-Pro dropbox % ls
+100DaysOfCode
+2017bak
+2018-09-09-gc-s03
+2018-09-09-sc-s02
+2018-09-10-wp-book
+2018-10-17-scrivener
+2018-10-19-personal
+2018-12-28-sc-s03
+2018春季行动
+2019
+2020-self-censorship
+2021-09-12-21-11-14.txt
+4seasons
+ActionDay-OSB
+Apps
+Auto-Bak
+Backup_The_Archive_in_Dropbox
+Bitcron
+Books
+Byword
+Camera Uploads
+GN02 微笑重生--中国妇女发展基金会“母亲微笑行动”的发展历程.docx
+GoodChineseWriting
+IMG_1826.jpg
+Icon?
+Jonas
+KnowledgeBase
+Learning-theology
+Libraries
+Mac (2)
+MasterClass
+Mobile Work
+Monosnap
+Mweb
+My Mac (wangpeideMacBook-Pro.local)
+Notes (The Archive)
+OperationSmile
+RR-backup
+SEVEN
+SEVEN英语助教
+SLBaptist
+Scanner
+Screenshots
+Session 3 - 2000kbps.mp4
+Showcase Uploads
+TheBrain
+The_Archive
+TopResource
+Ulysses
+Vault.dbx-vault
+Vitamin-R
+Vitamin-R (Selective Sync Conflict)
+WechatIMG300.jpeg
+WriterDuet
+a5card-dropbox
+baibanbao.github.io
+blog again
+chaos
+chengdu-housing-policy.jpg_large
+copy hugo quickstart to haozhongwen.app
+creator
+ec-elegant-chinese
+gatsby-wiki
+gc.camp
+gc4book
+gc4life
+gc6download
+gccamp4
+github
+hamlet
+haozhongwen-evergreen
+hetaoke
+huanglingyun.com
+hzwNT
+jonas-vlog
+jonaswang.com
+kjv.pdf
+liangjuban
+markdown
+markeditor-gc3
+markeditor-haozhongwen
+markeditor-lam
+marktodo
+mini-todo
+moocnote
+moviecamp-s03
+notable
+notes-macos
+notes.app
+obsidian
+obsidian-baibanbao
+penta
+personal docs
+realwangpei
+sc4.io
+screenplay
+scrivener书稿
+share-with-friends
+shipian
+smart-notes
+soul music
+storycamp03
+survival-book
+tiddlywiki
+tidllywiki
+top-resource
+translation
+typora
+wangpei.co
+wangpei.org
+wangxiuzhang
+wechat-video-wangpei-baibanbao
+wonderpen
+work
+workflowy
+wp-pub-books
+write.to
+writing
+writingcamp-foam
+yuanbaoku.sgf
+好中文
+好中文III
+好中文IV
+好中文V
+好中文第六期
+我的作品
+新白板报
+日常生活
+杂项
+母亲项目
+照片 2021-5-2 下午7 57 29.jpg
+王佩编剧
+王佩翻译
+白头鹎.jpeg
+编剧故事营
+编剧故事营II
+编剧故事营III
+编剧故事营V
+聚集生命河边
+长篇小说《四季青青》.gdoc
+音乐剧项链
+黄凌云编剧
+ding@dingjiacuns-MacBook-Pro dropbox % 
+ding@dingjiacuns-MacBook-Pro dropbox % 
+ding@dingjiacuns-MacBook-Pro dropbox % >....       sktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/04_FM.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/05_alplist.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/28_Ezra.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/34_Ecc.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/35_Song.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/48_Hab.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/63_Eph.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/70_Titus.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/78_3_John.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/80_Rev.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/84_conca.html /Users/ding/Dropbox/Mac\ \(2\)/Desktop/The\ c.s.\ lewis\ bible\ by\ Lewis\,\ C\ S\ \(z-lib.org\)/OEBPS/xhtml/84_concb.html > lewis-bible.html                           
+ding@dingjiacuns-MacBook-Pro dropbox % 
+  [Restored Feb 10, 2022 at 1:15:21 AM]
+Last login: Wed Feb  9 09:03:39 on ttys000
+Restored session: Wed Feb  9 16:51:43 CST 2022
+ding@dingjiacuns-MacBook-Pro dropbox % vim ~/.vimrc
+You need vim compiled with Python 2.6, 2.7 or 3.2 and later support
+for Powerline to work. Please consult the documentation for more
+details.
+Press ENTER or type command to continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 20 Plug 'mhinz/vim-signify'
+ 19 
+ 18 " 快速移动
+ 17 " 类似Chrome上的Vimium插件
+ 16 Plug 'easymotion/vim-easymotion'
+ 15 call plug#end()
+ 14 
+ 13 
+ 12 map <Left> <Nop>
+ 11 map <Right> <Nop>
+ 10 map <Up> <Nop>
+  9 map <Down> <Nop>
+  8 
+  7 imap <Left> <Nop>
+  6 imap <Right> <Nop>
+  5 imap <Up> <Nop>
+  4 imap <Down> <Nop>
+  3 
+  2 " ctrl-c 映射到 esc
+  1 inoremap <C-c> <esc>
+79                                                                  
+  1 " 设置<leader>为空格<SPACE>
+  2 let mapleader = "\<SPACE>"
+  3 
+  4 " 设置使用BACKSPACE删除内容
+  5 set backspace=indent,eol,start
+  6 
+  7 " 中文折行时不自动添加空格
+  8 set formatoptions+=mM
+  9 
+ 10 
+ 11 " 记录历史
+ 12 set history=1000
+ 13 
+ 14 " 设置Tab为4个字符长度
+ 15 set tabstop=4
+ 16 set shiftwidth=4
+ 17 
+ 18 " 使系统剪贴板寄存器*和Vim默认匿名寄存器""同值
+ 19 " 即Vim和系统共用剪贴板
+ 20 set clipboard^=unnamed
+ 21 
+ 22 " 在Normal模式下

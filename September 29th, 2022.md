@@ -1,0 +1,25 @@
+- [[Gratitude]]
+    - 为#[[Jonas]] 祷告
+        - {{[[POMO]]: 5}}
+        - 
+- [[Day Start]] 01:51
+- Daily Tasks
+    - {{[[DONE]]}} 跟#[[Seven]]商量与[[周明轩]]家长谈谈
+        - 关于霸凌 #[[Jonas]]一事
+    - {{[[DONE]]}} 交申请离沪单
+    - {{[[DONE]]}} 相信主、倚靠主
+    - {{[[TODO]]}} [[威敏斯特信仰告白]]学到此为止
+        - {{[[TODO]]}} 带着全新眼光去读圣经，理解福音
+    - {{[[TODO]]}} 去一次办公室，拿电脑
+    - {{[[DONE]]}} 做归正的基督徒
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [体重正常，减肥会变胖？！分析10万人长达24年的数据发现，胖人减肥有益，正常体重的人减肥或越减越胖，还增加糖尿病风险丨临床大发现](https://mp.weixin.qq.com/s/Eqs59Fi5i9sFsXPhaUGKdA)
+    - 
+- ---

@@ -1,0 +1,8 @@
+- Author:: [[hyuanverse.com]]
+- Full Title:: 如何用 Heptabase 做讀書筆記？比卡片盒筆記法更簡單的 3 個筆記方法分享 – 元宇宙
+- URL:: https://hyuanverse.com/3-note-taking-methods-while-reading/
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 以《普林斯頓的電腦通識課》為例，由於這本書的特性是專有名詞特別多，所以我就很直覺地把每一個專有名詞都建成一張卡片，內容就是該名詞的定義及例子。
+    - 總結一下，這個方法的步驟很簡單：  建立章節卡 打上小標題 節錄內容 把小標題拖曳到旁邊，成為一張小標題卡 就這樣，每一個章節都重複一樣的事。建立章節卡、打小標、節錄、拖曳…直到整本書看完。

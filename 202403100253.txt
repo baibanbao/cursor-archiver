@@ -1,0 +1,163 @@
+The Snowflake Method For Designing A Novel
+设计小说的雪花方法
+Writing a novel is easy. Writing a good novel is hard. That’s just life. If it were easy, we’d all be writing best-selling, prize-winning fiction.
+写一本小说很容易。写一本好的小说很难。这就是生活。如果容易的话，我们都会写畅销的、获奖的小说。
+
+Frankly, there are a thousand different people out there who can tell you how to write a novel. There are a thousand different methods. The best one for you is the one that works for you.
+坦率地说，有成千上万的人可以告诉你如何写一本小说。有成千上万种方法。对你来说最好的方法就是适合你的方法。
+
+In this article, I’d like to share with you what works for me. I’ve published six novels and won about a dozen awards for my writing. I teach the craft of writing fiction at writing conferences all the time. One of my most popular lectures is this one: How to write a novel using what I call the “Snowflake Method.”
+在这篇文章中，我想与你分享对我有效的方法。我已经出版了六本小说，并赢得了大约十几个写作奖项。我经常在写作会议上教授小说写作的技巧。其中最受欢迎的讲座之一就是这个：如何使用我所称之为“雪花法”来写一本小说。
+
+This page is the most popular one on my web site, and gets over a thousand page views per day. Over the years, this page has been viewed more than six million times. So you can guess that a lot of people find it useful. But you may not, and that’s fine by me. Look it over, decide what might work for you, and ignore the rest! If it makes you dizzy, I won’t be insulted. Different writers are different. If my methods get you rolling, I’ll be happy. I’ll make the best case I can for my way of organizing things, but you are the final judge of what works best for you. Have fun and . . . write your novel!
+这个页面是我网站上最受欢迎的页面，每天有超过一千次的浏览量。多年来，这个页面已经被浏览了超过六百万次。所以你可以猜到很多人发现它很有用。但你可能不这样认为，对我来说也没关系。仔细看一下，决定哪些对你有用，忽略其他的！如果它让你头晕，我不会感到冒犯。不同的作家有不同的方法。如果我的方法能帮助你，我会很高兴。我会尽力为我整理事物的方式提供最好的理由，但最终你是最好的判断者，决定什么对你最有效。玩得开心，写下你的小说吧！
+
+The Importance of Design
+设计的重要性
+Good fiction doesn’t just happen, it is designed. You can do the design work before or after you write your novel. I’ve done it both ways and I strongly believe that doing it first is quicker and leads to a better result. Design is hard work, so it’s important to find a guiding principle early on. This article will give you a powerful metaphor to guide your design.
+好的小说不是偶然发生的，而是经过设计的。你可以在写小说之前或之后进行设计工作。我两种方式都尝试过，但我坚信先进行设计更快且能得到更好的结果。设计是一项艰苦的工作，所以早期找到一个指导原则非常重要。本文将为你提供一个强大的隐喻来指导你的设计。
+
+Our fundamental question is this: How do you design a novel?
+我们的根本问题是：你如何设计一本小说？
+
+For a number of years, I was a software architect designing large software projects. I write novels the same way I write software, using the “snowflake metaphor”. OK, what’s the snowflake metaphor? Before you go further, take a look at this cool web site.
+多年来，我一直是一个设计大型软件项目的软件架构师。我写小说的方式和写软件的方式一样，使用“雪花隐喻”。好的，什么是雪花隐喻？在继续之前，先看看这个很酷的网站。
+
+snowflake imageOn the side of the page, you’ll see an animation of a pattern known as a snowflake fractal. Don’t tell anyone, but this is an important mathematical object that’s been widely studied. For our purposes, it’s just a cool sketch of a snowflake. If you scroll down that same web page a little, you’ll see a box with a large triangle in it and arrows underneath. If you press the right-arrow button repeatedly, you’ll see the steps used to create the snowflake. It doesn’t look much like a snowflake at first, but after a few steps, it starts looking more and more like one, until it’s done.
+在页面的一侧，你会看到一个被称为雪花分形的图案的动画。不要告诉任何人，但这是一个被广泛研究的重要数学对象。对于我们来说，它只是一个很酷的雪花草图。如果你在同一个网页上向下滚动一点，你会看到一个带有一个大三角形和下面有箭头的框。如果你反复按右箭头按钮，你会看到创建雪花所使用的步骤。一开始它看起来并不像雪花，但经过几步之后，它开始越来越像，直到完成。
+
+The first few steps look like this:
+前几步看起来是这样的：
+
+snowflake iteration 1snowflake iteration
+
+snowflake iteration 3
+snowflake iteration 4
+ 
+
+ 
+
+ 
+
+I claim that that’s how you design a novel — you start small, then build stuff up until it looks like a story. Part of this is creative work, and I can’t teach you how to do that. Not here, anyway. But part of the work is just managing your creativity — getting it organized into a well-structured novel. That’s what I’d like to teach you here.
+我声称这就是你设计一部小说的方式——你从小处着手，然后逐渐构建，直到它看起来像一个故事。其中一部分是创造性的工作，我无法教你如何做到这一点。至少不在这里。但工作的一部分只是管理你的创造力——将其组织成一个结构良好的小说。这就是我想在这里教给你的。
+
+If you’re like most people, you spend a long time thinking about your novel before you ever start writing. You may do some research. You daydream about how the story’s going to work. You brainstorm. You start hearing the voices of different characters. You think about what the book’s about — the Deep Theme. This is an essential part of every book which I call “composting”. It’s an informal process and every writer does it differently. I’m going to assume that you know how to compost your story ideas and that you have already got a novel well-composted in your mind and that you’re ready to sit down and start writing that novel.
+如果你和大多数人一样，在开始写作之前，你会花很长时间思考你的小说。你可能会进行一些研究。你会幻想故事的发展方式。你会进行头脑风暴。你开始听到不同角色的声音。你会思考这本书的主题——深层主题。这是每本书的重要组成部分，我称之为“堆肥”。这是一个非正式的过程，每个作家都有自己的方式。我假设你知道如何堆肥你的故事想法，并且你已经在脑海中很好地堆肥了一本小说，并且准备好坐下来开始写作。
+
+The Ten Steps of Design
+设计的十个步骤
+But before you start writing, you need to get organized. You need to put all those wonderful ideas down on paper in a form you can use. Why? Because your memory is fallible, and your creativity has probably left a lot of holes in your story — holes you need to fill in before you start writing your novel. You need a design document. And you need to produce it using a process that doesn’t kill your desire to actually write the story. Here is my ten-step process for writing a design document. I use this process for writing my novels, and I hope it will help you.
+但在你开始写作之前，你需要有条理地安排好。你需要把所有那些美妙的想法写下来，以一种你可以使用的形式。为什么呢？因为你的记忆是不可靠的，而你的创造力可能在你的故事中留下了很多空白的地方——在你开始写小说之前，你需要填补这些空白。你需要一个设计文档。而且你需要使用一种不会让你对真正写故事失去兴趣的过程来制作它。这是我写设计文档的十个步骤。我用这个过程来写我的小说，希望它能对你有所帮助。
+
+Step 1) Take an hour and write a one-sentence summary of your novel. Something like this: “A rogue physicist travels back in time to kill the apostle Paul.” (This is the summary for my first novel, Transgression.) The sentence will serve you forever as a ten-second selling tool. This is the big picture, the analog of that big starting triangle in the snowflake picture.
+第一步）花一个小时写一个关于你的小说的一句话概要。类似于这样的：“一个流氓物理学家穿越时空去杀死使徒保罗。”（这是我第一本小说《违规》的概要。）这个句子将永远作为你的十秒销售工具。这是大局观，就像雪花图片中那个大的起始三角形一样。
+
+When you later write your book proposal, this sentence should appear very early in the proposal. It’s the hook that will sell your book to your editor, to your committee, to the sales force, to bookstore owners, and ultimately to readers. So make the best one you can!
+当你后来写书的提案时，这句话应该在提案的早期出现。这是能够将你的书卖给编辑、委员会、销售团队、书店老板和最终读者的钩子。所以尽力写出最好的一句话吧！
+
+Some hints on what makes a good sentence:
+一些关于如何构建好句子的提示：
+
+Shorter is better. Try for fewer than 15 words.
+越短越好。尽量少于15个字。
+No character names, please! Better to say “a handicapped trapeze artist” than “Jane Doe”.
+请勿使用角色名称！最好说“一个残疾的飞人”而不是“简·道”。
+Tie together the big picture and the personal picture. Which character has the most to lose in this story? Now tell me what he or she wants to win.
+将整体情况和个人情况联系在一起。在这个故事中，哪个角色会失去最多？现在告诉我他或她想要赢得什么。
+Read the one-line blurbs on the New York Times Bestseller list to learn how to do this. Writing a one-sentence description is an art form.
+阅读《纽约时报》畅销书榜上的一行简介，了解如何做到这一点。写一个一句话的描述是一种艺术形式。
+Step 2) Take another hour and expand that sentence to a full paragraph describing the story setup, major disasters, and ending of the novel. This is the analog of the second stage of the snowflake. I like to structure a story as “three disasters plus an ending”. Each of the disasters takes a quarter of the book to develop and the ending takes the final quarter. I don’t know if this is the ideal structure, it’s just my personal taste.
+第二步）再花一个小时，将这个句子扩展成一个完整的段落，描述小说的故事背景、主要灾难和结局。这相当于雪花的第二阶段。我喜欢将故事结构化为“三个灾难加一个结局”。每个灾难需要用四分之一的篇幅来发展，而结局则占据最后四分之一。我不知道这是否是理想的结构，这只是我的个人喜好。
+
+If you believe in the Three-Act structure, then the first disaster corresponds to the end of Act 1. The second disaster is the mid-point of Act 2. The third disaster is the end of Act 2, and forces Act 3 which wraps things up. It is OK to have the first disaster be caused by external circumstances, but I think that the second and third disasters should be caused by the protagonist’s attempts to “fix things”. Things just get worse and worse.
+如果你相信三幕结构，那么第一次灾难对应于第一幕的结束。第二次灾难是第二幕的中点。第三次灾难是第二幕的结束，迫使第三幕来收尾。第一次灾难可以由外部环境引起，但我认为第二次和第三次灾难应该是由主角试图“修复事情”而引起的。事情只会变得越来越糟。
+
+You can also use this paragraph in your proposal. Ideally, your paragraph will have about five sentences. One sentence to give me the backdrop and story setup. Then one sentence each for your three disasters. Then one more sentence to tell the ending. Don’t confuse this paragraph with the back-cover copy for your book. This paragraph summarizes the whole story. Your back-cover copy should summarize only about the first quarter of the story.
+您也可以在您的提案中使用这段文字。理想情况下，您的段落应该有大约五个句子。一个句子用来给我提供背景和故事的设定。然后每个灾难用一个句子来描述。最后再加一句话来描述结局。请不要将这个段落与您的书的封底文字混淆。这个段落总结了整个故事。您的封底文字应该只总结故事的前四分之一左右。
+
+Step 3) The above gives you a high-level view of your novel. Now you need something similar for the storylines of each of your characters. Characters are the most important part of any novel, and the time you invest in designing them up front will pay off ten-fold when you start writing. For each of your major characters, take an hour and write a one-page summary sheet that tells:
+步骤3）以上内容为您提供了小说的高层次视角。现在，您需要为每个角色的故事线提供类似的东西。角色是任何小说中最重要的部分，您在前期设计他们时所投入的时间将在您开始写作时得到十倍的回报。对于每个主要角色，花一个小时写一张一页的摘要表，告诉：
+
+The character’s name 角色的名字
+A one-sentence summary of the character’s storyline
+角色故事情节的一句总结
+The character’s motivation (what does he/she want abstractly?)
+角色的动机（他/她抽象地想要什么？）
+The character’s goal (what does he/she want concretely?)
+角色的目标（他/她具体想要什么？）
+The character’s conflict (what prevents him/her from reaching this goal?)
+角色的冲突（是什么阻止他/她达到这个目标？）
+The character’s epiphany (what will he/she learn, how will he/she change?
+角色的顿悟（他/她将学到什么，他/她将如何改变？）
+A one-paragraph summary of the character’s storyline
+角色故事情节的一段简要概述
+An important point: You may find that you need to go back and revise your one-sentence summary and/or your one-paragraph summary. Go ahead! This is good–it means your characters are teaching you things about your story. It’s always okay at any stage of the design process to go back and revise earlier stages. In fact, it’s not just okay–it’s inevitable. And it’s good. Any revisions you make now are revisions you won’t need to make later on to a clunky 400 page manuscript.
+一个重要的观点：你可能会发现你需要回过头来修改你的一句总结和/或一段总结。去做吧！这是好事 - 这意味着你的角色正在教你关于你的故事的事情。在设计过程的任何阶段都可以回过头来修改之前的阶段，这是完全可以的。事实上，不仅仅是可以 - 这是不可避免的。而且这是好事。你现在所做的任何修改都是你以后不需要对一个笨重的400页手稿进行的修改。
+
+Another important point: It doesn’t have to be perfect. The purpose of each step in the design process is to advance you to the next step. Keep your forward momentum! You can always come back later and fix it when you understand the story better. You will do this too, unless you’re a lot smarter than I am.
+另一个重要的观点：它不必完美。设计过程中每一步的目的是推进你进入下一步。保持前进的动力！当你更好地理解故事时，你可以随时回来修正它。你也会这样做，除非你比我聪明得多。
+
+Step 4) By this stage, you should have a good idea of the large-scale structure of your novel, and you have only spent a day or two. Well, truthfully, you may have spent as much as a week, but it doesn’t matter. If the story is broken, you know it now, rather than after investing 500 hours in a rambling first draft. So now just keep growing the story. Take several hours and expand each sentence of your summary paragraph into a full paragraph. All but the last paragraph should end in a disaster. The final paragraph should tell how the book ends.
+第四步）到这个阶段，你应该对你的小说的大体结构有一个很好的想法，而且你只花了一两天的时间。嗯，说实话，你可能花了一周的时间，但这无关紧要。如果故事有问题，你现在就知道了，而不是在投入500个小时写一篇冗长的初稿之后才知道。所以现在就继续发展故事。花几个小时，将摘要段落中的每个句子扩展成一个完整的段落。除了最后一个段落外，其他段落都应该以灾难结尾。最后一个段落应该告诉书的结局。
+
+This is a lot of fun, and at the end of the exercise, you have a pretty decent one-page skeleton of your novel. It’s okay if you can’t get it all onto one single-spaced page. What matters is that you are growing the ideas that will go into your story. You are expanding the conflict. You should now have a synopsis suitable for a proposal, although there is a better alternative for proposals . . .
+这非常有趣，在练习结束时，你会得到一份相当不错的小说大纲，大纲只有一页。如果你无法将所有内容都放在一页单倍行距的页面上，也没关系。重要的是你正在发展将要写入故事中的想法。你正在扩展冲突。现在你应该有一份适合提案的概要，尽管提案有更好的替代方案...
+
+Step 5) Take a day or two and write up a one-page description of each major character and a half-page description of the other important characters. These “character synopses” should tell the story from the point of view of each character. As always, feel free to cycle back to the earlier steps and make revisions as you learn cool stuff about your characters. I usually enjoy this step the most and lately, I have been putting the resulting “character synopses” into my proposals instead of a plot-based synopsis. Editors love character synopses, because editors love character-based fiction.
+第五步）花一两天时间，为每个主要角色写一份一页的描述，以及其他重要角色的半页描述。这些“角色概要”应该从每个角色的角度来讲述故事。一如既往，随时可以回到前面的步骤，根据对角色的了解进行修订。我通常最喜欢这一步，最近我已经将得到的“角色概要”放入我的提案中，而不是基于情节的概要。编辑喜欢角色概要，因为编辑喜欢以角色为基础的小说。
+
+Step 6) By now, you have a solid story and several story-threads, one for each character. Now take a week and expand the one-page plot synopsis of the novel to a four-page synopsis. Basically, you will again be expanding each paragraph from step (4) into a full page. This is a lot of fun, because you are figuring out the high-level logic of the story and making strategic decisions. Here, you will definitely want to cycle back and fix things in the earlier steps as you gain insight into the story and new ideas whack you in the face.
+步骤6）到目前为止，你已经有了一个扎实的故事和几个故事线索，每个角色都有一个。现在花一个星期，将小说的一页情节概要扩展到四页。基本上，你将再次将第4步中的每一段扩展成一页。这非常有趣，因为你正在找出故事的高层逻辑并做出战略决策。在这里，你肯定会想要回过头来修复之前的步骤，因为你对故事有了更深入的了解，新的想法冲击着你。
+
+Step 7) Take another week and expand your character descriptions into full-fledged character charts detailing everything there is to know about each character. The standard stuff such as birthdate, description, history, motivation, goal, etc. Most importantly, how will this character change by the end of the novel? This is an expansion of your work in step (3), and it will teach you a lot about your characters. You will probably go back and revise steps (1-6) as your characters become “real” to you and begin making petulant demands on the story. This is good — great fiction is character-driven. Take as much time as you need to do this, because you’re just saving time downstream. When you have finished this process, (and it may take a full month of solid effort to get here), you have most of what you need to write a proposal. If you are a published novelist, then you can write a proposal now and sell your novel before you write it. If you’re not yet published, then you’ll need to write your entire novel first before you can sell it. No, that’s not fair, but life isn’t fair and the world of fiction writing is especially unfair.
+第7步）再花一周的时间，将你的角色描述扩展成完整的角色图表，详细描述每个角色的一切。标准的内容包括出生日期、描述、历史、动机、目标等等。最重要的是，这个角色在小说结束时会发生怎样的变化？这是对第3步工作的扩展，它会让你对角色有更深入的了解。当你的角色变得“真实”并开始对故事提出任性的要求时，你可能会回头修改第1-6步的内容。这是好事——伟大的小说是以角色为驱动的。你可以花尽需要的时间来完成这个过程，因为这样做只是为了节省后续的时间。当你完成这个过程时（可能需要一个完整的月份的努力），你已经拥有了撰写提案所需的大部分内容。如果你是一位已经出版的小说家，那么你现在可以写一个提案并在写作之前就卖出你的小说。如果你还没有出版过作品，那么你需要先写完整个小说，然后才能出售。不，这并不公平，但生活本来就不公平，而写作的世界尤其不公平。
+
+Step 8) You may or may not take a hiatus here, waiting for the book to sell. At some point, you’ve got to actually write the novel. Before you do that, there are a couple of things you can do to make that traumatic first draft easier. The first thing to do is to take that four-page synopsis and make a list of all the scenes that you’ll need to turn the story into a novel. And the easiest way to make that list is . . . with a spreadsheet.
+第8步）你可以选择在这里休息一下，等待书籍销售。但是，你最终还是得真正开始写小说。在这之前，有几件事情可以帮助你更轻松地完成那个令人心烦意乱的初稿。首先，你需要将那个四页的概要转化为一个将故事变成小说所需的场景列表。而最简单的方法就是……使用电子表格。
+
+For some reason, this is scary to a lot of writers. Oh the horror. Deal with it. You learned to use a word-processor. Spreadsheets are easier. You need to make a list of scenes, and spreadsheets were invented for making lists. If you need some tutoring, buy a book. There are a thousand out there, and one of them will work for you. It should take you less than a day to learn the itty bit you need. It’ll be the most valuable day you ever spent. Do it.
+由于某种原因，这对很多作家来说是可怕的。哦，多么可怕。面对它吧。你学会了使用文字处理软件。电子表格更容易。你需要列出一份场景清单，而电子表格就是为了列出清单而发明的。如果你需要一些辅导，买一本书吧。市面上有成千上万本书，其中一本一定适合你。你只需要花不到一天的时间学习一点点就够了。这将是你花的最有价值的一天。去做吧。
+
+Make a spreadsheet detailing the scenes that emerge from your four-page plot outline. Make just one line for each scene. In one column, list the POV character. In another (wide) column, tell what happens. If you want to get fancy, add more columns that tell you how many pages you expect to write for the scene. A spreadsheet is ideal, because you can see the whole storyline at a glance, and it’s easy to move scenes around to reorder things.
+制作一个电子表格，详细列出从你的四页剧情大纲中出现的场景。每个场景只占一行。在一列中，列出POV角色。在另一列（宽列）中，描述发生的事情。如果你想要更复杂一些，可以添加更多列来告诉你预计为该场景写多少页。电子表格是理想的工具，因为你可以一目了然地看到整个故事情节，并且很容易移动场景以重新排序。
+
+My spreadsheets usually wind up being over 100 lines long, one line for each scene of the novel. As I develop the story, I make new versions of my story spreadsheet. This is incredibly valuable for analyzing a story. It can take a week to make a good spreadsheet. When you are done, you can add a new column for chapter numbers and assign a chapter to each scene.
+我的电子表格通常会超过100行，每行代表小说的一个场景。随着故事的发展，我会制作新版本的故事电子表格。这对于分析故事非常有价值。制作一个好的电子表格可能需要一周的时间。完成后，你可以添加一个新的列来标记章节号，并为每个场景分配一个章节。
+
+Step 9) (Optional. I don’t do this step anymore.) Switch back to your word processor and begin writing a narrative description of the story. Take each line of the spreadsheet and expand it to a multi-paragraph description of the scene. Put in any cool lines of dialogue you think of, and sketch out the essential conflict of that scene. If there’s no conflict, you’ll know it here and you should either add conflict or scrub the scene.
+步骤9）（可选。我不再执行这一步骤。）切换回你的文字处理软件，开始撰写故事的叙述描述。将电子表格中的每一行扩展为一个多段落的场景描述。加入你想到的任何酷炫对话，并勾勒出该场景的基本冲突。如果没有冲突，你会在这里知道，并且你应该要么增加冲突，要么删掉这个场景。
+
+I used to write either one or two pages per chapter, and I started each chapter on a new page. Then I just printed it all out and put it in a loose-leaf notebook, so I could easily swap chapters around later or revise chapters without messing up the others. This process usually took me a week and the end result was a massive 50-page printed document that I would revise in red ink as I wrote the first draft. All my good ideas when I woke up in the morning got hand-written in the margins of this document. This, by the way, is a rather painless way of writing that dreaded detailed synopsis that all writers seem to hate. But it’s actually fun to develop, if you have done steps (1) through (8) first. When I did this step, I never showed this synopsis to anyone, least of all to an editor — it was for me alone. I liked to think of it as the prototype first draft. Imagine writing a first draft in a week! Yes, you can do it and it’s well worth the time. But I’ll be honest, I don’t feel like I need this step anymore, so I don’t do it now.
+我过去每章写一到两页，每章都从新的一页开始。然后我把它全部打印出来放在活页夹里，这样我以后可以轻松地交换章节或修改章节而不会弄乱其他部分。这个过程通常需要我一个星期，最终的结果是一个庞大的50页打印文件，我会在写第一稿时用红墨水进行修订。早上醒来时，我会把所有好的想法手写在这个文件的边缘上。顺便说一下，这是一种相当轻松的方式来写那些所有作家似乎都讨厌的详细梗概。但是，如果你先完成了步骤（1）到（8），它实际上是很有趣的。当我完成这一步时，我从不把这个梗概给任何人看，尤其不会给编辑看——它只属于我一个人。我喜欢把它看作是原型第一稿。想象一下在一周内写完第一稿！是的，你可以做到，而且这是值得花时间的。但是说实话，我现在觉得我不再需要这一步，所以我现在不这样做了。
+
+Step 10) At this point, just sit down and start pounding out the real first draft of the novel. You will be astounded at how fast the story flies out of your fingers at this stage. I have seen writers triple their fiction writing speed overnight, while producing better quality first drafts than they usually produce on a third draft.
+第十步）此时，只需坐下来开始敲出小说的真正第一稿。你会惊讶地发现，在这个阶段，故事会以惊人的速度从你的手指中飞出来。我见过作家们一夜之间将他们的小说写作速度提高了两倍，同时还能比他们通常在第三稿中写出更好质量的第一稿。
+
+You might think that all the creativity is chewed out of the story by this time. Well, no, not unless you overdid your analysis when you wrote your Snowflake. This is supposed to be the fun part, because there are many small-scale logic problems to work out here. How does Hero get out of that tree surrounded by alligators and rescue Heroine who’s in the burning rowboat? This is the time to figure it out! But it’s fun because you already know that the large-scale structure of the novel works. So you only have to solve a limited set of problems, and so you can write relatively fast.
+你可能会认为故事的创造力在这个时候已经被消耗殆尽。嗯，并不是除非你在写《雪花》时过度分析了。这应该是有趣的部分，因为这里有许多小规模的逻辑问题需要解决。英雄如何从被鳄鱼包围的树上逃脱并救出身处燃烧的划船上的女主角？现在是解决这个问题的时候了！但这很有趣，因为你已经知道小说的大规模结构是有效的。所以你只需要解决一系列有限的问题，所以你可以相对快速地写作。
+
+This stage is incredibly fun and exciting. I have heard many fiction writers complain about how hard the first draft is. Invariably, that’s because they have no clue what’s coming next. Good grief! Life is too short to write like that! There is no reason to spend 500 hours writing a wandering first draft of your novel when you can write a solid one in 150. Counting the 100 hours it takes to do the design documents, you come out way ahead in time.
+这个阶段非常有趣和令人兴奋。我听过很多小说作家抱怨第一稿有多难。无论如何，那是因为他们不知道接下来会发生什么。天哪！人生太短暂了，没必要写得那么辛苦！你完全可以在150个小时内写出一篇扎实的小说初稿，而不是花费500个小时写一篇漫无目的的初稿。再加上100个小时的设计文档，你在时间上会大大领先。
+
+About midway through a first draft, I usually take a breather and fix all the broken parts of my design documents. Yes, the design documents are not perfect. That’s okay. The design documents are not fixed in concrete, they are a living set of documents that grows as you develop your novel. If you are doing your job right, at the end of the first draft you will laugh at what an amateurish piece of junk your original design documents were. And you’ll be thrilled at how deep your story has become.
+大约在第一稿的中途，我通常会休息一下，修复设计文档中的所有问题。是的，设计文档并不完美。没关系。设计文档并不是固定不变的，它们是一套活的文档，随着你写作小说的过程而不断发展。如果你做得对，到第一稿结束时，你会对最初的设计文档有多么业余感到发笑。而你会为故事的深度感到兴奋。
+
+Ways To Use The Snowflake
+使用雪花的方法
+Are you struggling right now with a horrible first draft of your novel that just seems hopeless? Take an hour and summarize your story in one sentence. Does that clarify things? You’ve just completed step (1) of the Snowflake, and it only took an hour. Why not try the next few steps of the Snowflake and see if your story doesn’t suddenly start coming to life? What have you got to lose, except a horrible first draft that you already hate?
+你现在是否正为自己的小说糟糕的初稿而苦苦挣扎，感觉毫无希望？花一个小时总结你的故事，用一句话概括。这样有没有澄清问题？你刚刚完成了雪花法的第一步，只用了一个小时。为什么不尝试雪花法的下几步，看看你的故事是否突然开始活跃起来？你会失去什么呢，除了你已经讨厌的糟糕初稿？
+
+Are you a seat-of-the-pants writer who finally finished your novel, but now you’re staring at an enormous pile of manuscript that desperately needs rewriting? Take heart! Your novel’s done, isn’t it? You’ve done something many writers only dream about. Now imagine a big-shot editor bumps into you in the elevator and asks what your novel’s about. In fifteen words or less, what would you say? Take your time! This is a thought game. What would you say? If you can come up with an answer in the next hour . . . you’ve just completed Step 1 of the Snowflake! Do you think some of the other steps might help you put some order into that manuscript? Give it a shot. What have you got to lose?
+你是一个凭直觉写作的作家，终于完成了你的小说，但现在你正盯着一大堆迫切需要重写的手稿。振作起来！你的小说已经完成了，不是吗？你做到了许多作家只能梦想的事情。现在想象一下，如果一个大人物编辑在电梯里碰到你，问你的小说是关于什么的。用15个字或更少的话，你会说什么？慢慢来！这是一个思考游戏。你会说什么？如果你能在接下来的一个小时内想出一个答案...你刚刚完成了雪花的第一步！你认为其他步骤中的一些可能会帮助你整理好手稿吗？试试看。你有什么可失去的呢？
+
+Have you just got a nightmarishly long letter from your editor detailing all the things that are wrong with your novel? Are you wondering how you can possibly make all the changes before your impossible deadline? It’s never too late to do the Snowflake. How about if you take a week and drill through all the steps right now? It’ll clarify things wonderfully, and then you’ll have a plan for executing all those revisions. I bet you’ll get it done in record time. And I bet the book will come out better than you imagined.
+你刚刚收到了一封来自编辑的长信，详细列举了你的小说存在的问题吗？你是否在想着如何在不可能的截止日期前完成所有的修改？现在做雪花模型还不算晚。如果你花一周的时间，现在就逐步进行所有的步骤，会让事情变得清晰明了，然后你就会有一个执行所有这些修订的计划。我敢打赌，你会以创纪录的速度完成它。而且我敢打赌，这本书会比你想象的更好。
+
+If the Snowflake Method works for you, I’d like to hear from you. You can reach me through the contact page on my web-site.
+如果雪花方法对你有效，我希望能听到你的声音。你可以通过我的网站上的联系页面与我取得联系。
+
+Acknowledgments: I thank my many friends on the Chi Libris list and especially Janelle Schneider for a large number of discussions on the Snowflake and much else.
+致谢：我感谢Chi Libris名单上的许多朋友，特别是Janelle Schneider，对于Snowflake和其他许多讨论的贡献。
+
+Best regards, 最好的问候，

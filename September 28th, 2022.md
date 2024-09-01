@@ -1,0 +1,27 @@
+- [[Gratitude]]
+    - 收到[[May]]寄来的陕北南瓜
+    - [[老蒋]]设计logo，虽然不打算使用
+    - [[倪老师]]指导[[科技节]]
+- [[Day Start]] 14:07
+- Daily Tasks
+    - {{[[DONE]]}} 接送娃
+    - {{[[DONE]]}} 购买国庆节去临平火车票
+        - {{[[DONE]]}} 回杭报备
+        - {{[[DONE]]}} [[October 1st, 2022]] 去程
+        - {{[[DONE]]}} [[October 5th, 2022]] 回程
+    - {{[[DONE]]}} 走路12000步
+    - {{[[TODO]]}} 1点前睡
+    - {{[[DONE]]}} 研读 [[威敏斯特信仰告白]]
+    - {{[[TODO]]}} 修改[[科技节]]集成架构图
+        - {{[[TODO]]}} 开始制作科技节ppt
+        - {{[[DONE]]}} 加入科技节qq群
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 
+- ---

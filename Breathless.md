@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BM2QzMGVkM2QtM2VjMS00NzcwLTg2MGMtMzAxZThlODM1MzZlXkEyXkFqcGdeQXVyNDE0OTU3NDY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Jean-Luc Godard]]
+        - Writer:: [[François Truffaut]] [[Jean-Luc Godard]] [[Claude Chabrol]]
+        - Cast:: [[Jean-Paul Belmondo]] [[Jean Seberg]] [[Daniel Boulanger]]
+        - Year:: [[1960]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0053472
+    - **Plot Summary:** A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.

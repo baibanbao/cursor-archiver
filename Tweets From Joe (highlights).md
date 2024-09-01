@@ -1,0 +1,7 @@
+- Author:: [[@LuckyJoe198x on Twitter]]
+- Full Title:: Tweets From Joe
+- URL:: https://twitter.com/LuckyJoe198x
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 又发现一种玩法，在Notion里的笔记，设置成public，然后把链接丢给ChatGPT4，直接让它统计并且回答里面的内容。 ([View Tweet](https://twitter.com/LuckyJoe198x/status/1724949176214253732))

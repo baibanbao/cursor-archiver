@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGMxNzM3ODktOWQwOC00NWU5LTgwYjctOWM2OTFmNGUxN2Y0XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ken Loach]]
+        - Writer:: [[Barry Hines]] [[Ken Loach]] [[Tony Garnett]]
+        - Cast:: [[David Bradley]] [[Brian Glover]] [[Freddie Fletcher]]
+        - Year:: [[1969]]
+        - Genre:: #Drama #Family
+    - **IMDb:** https://www.imdb.com/title/tt0064541
+    - **Plot Summary:** A working-class English boy spends his free time caring for and training his pet kestrel.

@@ -1,0 +1,10 @@
+-  
+    - ![](https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Stanley Kubrick]]
+        - Writer:: [[Stanley Kubrick]] [[Terry Southern]] [[Peter George]]
+        - Cast:: [[Peter Sellers]] [[George C. Scott]] [[Sterling Hayden]]
+        - Year:: [[1964]]
+        - Genre:: #Comedy #War
+    - **IMDb:** https://www.imdb.com/title/tt0057012
+    - **Plot Summary:** An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Billy Wilder]]
+        - Writer:: [[Billy Wilder]] [[IAL Diamond]]
+        - Cast:: [[Jack Lemmon]] [[Shirley MacLaine]] [[Fred MacMurray]]
+        - Year:: [[1960]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0053604
+    - **Plot Summary:** A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FqZobltOLef.pdf?alt=media&token=f3bc8389-b644-4d12-a19c-9c5d67a087c8}}

@@ -1,0 +1,35 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 08:44
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **08:44** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[爱与中文]]
+- [[写作GPTs]]
+- [[两句半]]
+- #[[Seven]]
+- #Jonas 
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+        - 尽快变现，落袋为安，否则持有的就是彩票，这是[[刘淼]]的建议
+            - 但是，要有自己的主见。要知道人的认知都是有限度的。有时为了justify自己的看法，会扭曲认知体系。故而不要太在意。走自己的路。
+- ---

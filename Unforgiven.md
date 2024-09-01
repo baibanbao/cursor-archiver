@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Clint Eastwood]]
+        - Writer:: [[David Webb Peoples]]
+        - Cast:: [[Clint Eastwood]] [[Gene Hackman]] [[Morgan Freeman]]
+        - Year:: [[1992]]
+        - Genre:: #Drama #Western
+    - **IMDb:** https://www.imdb.com/title/tt0105695
+    - **Plot Summary:** Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The "Schofield Kid."

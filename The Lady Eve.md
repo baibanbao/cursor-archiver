@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTQzNWM4Y2QtMWVhYS00MTNkLTgxMGMtNjM5Y2FmNjQ2MWFiXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Preston Sturges]]
+        - Writer:: [[Monckton Hoffe]] [[Preston Sturges]]
+        - Cast:: [[Barbara Stanwyck]] [[Henry Fonda]] [[Charles Coburn]]
+        - Year:: [[1941]]
+        - Genre:: #Comedy #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0033804
+    - **Plot Summary:** A trio of classy card sharks targets a socially awkward brewery heir, until one of them falls in love with him.

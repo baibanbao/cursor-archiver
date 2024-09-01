@@ -1,0 +1,84 @@
+- 实验成功第一项就可以了，现在开始写小说。今天一千字必须要写完。
+- 今日尝鲜
+    - 测试bilibili插件
+        - {{iframe: https://player.bilibili.com/player.html?bvid=BV1kJ41117MA}}
+            - 01:00 note 1
+            - 
+- 今日思考
+    - 湖畔小爪
+        - 湖畔小爪品牌故事
+        - 湖畔小爪杭州宠物科技有限公司，是一家聚焦于“猫概念”的宠物公司，致力于传播“喝茶、看书、养猫”的南宋文艺三部曲生活方式。
+        - 旗下有主打宋代二次元风格的“它赞”猫粮品牌，以及位于杭州武林路、南宋御街的“湖畔小爪”猫奴艺术生活馆。
+        - 湖畔小爪拥有强大的艺术家顾问、人文历史作家顾问团队，成立了宋代猫文化研究中心，并独家整理了中国从古至今的猫咪名画，在猫奴艺术生活馆特设美术展区，将画作对公众开放。凡成为湖畔小爪的会员，可以终身免门票进入美术馆参观。
+        - “它赞”品牌故事
+        - 如果说唐朝是中国历史上最开放、强大的朝代，那宋朝就称得上是中国历史上最为繁荣、风雅的时代。
+        - 有一天，你梦回宋朝，会惊异的发现，原来宋朝遍地是猫。
+        - 它赞，将猫视为重要的家庭成员，人类忠实的小伙伴，在这样的理念下，它赞以低温烘焙的方式，最大限度保留食物的营养价值和口感，制作出猫咪爱吃的各种猫粮、猫罐头、猫薄荷等。它赞天猫店有售。
+    - 招生#[[编剧故事营]] [[April 10th, 2021]]
+        - 开学 地点改在上海，时间改在周六，网课质量要提升 [[April 24th, 2021]]
+        - 预计报名30人，1800 
+        - 使用zoom
+    - 笔记写作课
+        - 测试葫芦
+        - 周五
+        - 预计报名100人，580 
+    - 用TheBrain分析了vaccine的问题
+        - 令人不太乐观
+- 本杰明·富兰克林十三项美德原文及翻译 #[[13项美德]]
+    - #[[节制]] 吃饭不要过饱，喝酒不要过量。
+        - 食不过饱，酒不过量。
+        - **Temperance**. Eat not to dullness; drink not to elevation.
+    - #[[缄默]] 不说话/打字，除非对别人或对自己有益处。避免琐碎的谈话，不要八卦。
+        - 避免空谈，言必对己和对人有利。
+        - **Silence**. Speak not but what may benefit others or yourself; avoid trifling conversation.
+    - #[[有序]] 让你所有的东西都有自己的位置，让你业务的每个部分都有自己的时间。
+        - 东西放置的地方，做事的时间，要心中有数。
+        - **Order**. Let all your things have their places; let each part of your business have its time.
+    - #[[决心]] 决心做你该做的事；决心去做事要不折不扣地去执行。
+        - 决心去做该做之事，在完成之前不言放弃。
+        - **Resolution**. Resolve to perform what you ought; perform without fail what you resolve.
+    - #[[简朴]] 除非对他人或对自己有益处，绝不花销；即不浪费任何财物。
+        - 对人对己有益才花钱，即绝不浪费。
+        - **Frugality**. Make no expense but to do good to others or yourself; i.e., waste nothing.
+    - #[[勤奋]] 不浪费时间；永远从事有用的事情；砍掉一切不必要的行动。
+        - 珍惜时间，做有益之事，避无谓之举。
+        - **Industry**. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.
+    - #[[真诚]] 不使用伤害性的欺骗；以纯真和公正的方式思考；如果要说话，也要说合宜的话。
+        - 不欺骗，有良知，为人厚道，说实在话。
+        - **Sincerity**. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.
+    - #[[正义]] 不以伤害的方式枉待他人，也不忽视自己有义务享受的权益。
+        - 不做不利于他人的事，不逃避自己的责任。
+        - **Justice**. Wrong none by doing injuries, or omitting the benefits that are your duty.
+    - #[[温和]] 避免极端的行为；忍耐怨恨伤害到一定地步，以至于你认为这些伤害本来是他们应得的。
+        - 避免走极端，能容他人对己之伤害。
+        - **Moderation**. Avoid extremes; forbear resenting injuries so much as you think they deserve.
+    - #[[整洁]] 不容忍身体、衣着、居所的不洁。
+        - 保持身体、衣服、住所的整洁。
+        - **Cleanliness**. Tolerate no uncleanliness in body, cloaths, or habitation.
+    - #[[宁静]] 不为琐事，或为常见或不可避免的事故所扰。
+        - 不因小事或者不可避免的平常事而心烦意乱。
+        - **Tranquillity**. Be not disturbed at trifles, or at accidents common or unavoidable.
+    - #[[贞洁]] 除了为了健康或繁衍后代，很少使用房事，决不因情欲使自己或他人的安宁或名誉受到钝化、虚弱或伤害。
+        - 控制情欲，避免伤害身体或者损害自己或他人的安宁与名誉。
+        - **Chastity**. Rarely use venery but for health or offspring, never to dullness, weakness, or the injury of your own or another's peace or reputation.
+    - #[[谦卑]] 效法耶稣和苏格拉底。
+        - 效法耶稣和苏格拉底。
+        - **Humility**. Imitate Jesus and Socrates.
+- 本周课程
+    - #[[编剧故事营]]最后一节网课 [[April 7th, 2021]]
+- 今日必须完成
+    - 剪片子--第十二期 公寓春光 #[[编剧故事营]]
+    - 写小说--1000字 #[[潮涌钱塘]]
+    - 剪片子--第十一期 完美看护 #[[编剧故事营]]
+- 今日感恩
+    - 暂时全家没有打疫苗的紧迫性，但并不意味着以后没有，一天的难处一天当吧。
+- #[[潮涌钱塘]]
+    - 每2周5万字，开一次会。下次开会可能日期，要完成5万字。
+        - 第1次书稿讨论会， [[April 19th, 2021]]
+        - 第2次书稿讨论会，[[April 29th, 2021]]
+        - 第3次书稿讨论会，[[May 13th, 2021]]
+        - 第4次书稿讨论会，[[May 27th, 2021]]
+    - [[June 1st, 2021]]6月1日 #[[潮涌钱塘]] 书稿完成
+    - 8月出版
+- 十三项美德
+    - #[[十三项美德]]{{kanban}}

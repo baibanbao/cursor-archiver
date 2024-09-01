@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZGE2NjI5MjAtODQwYy00OGJkLWJiZTEtMTU0NzVlMTkzNjFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Woody Allen]]
+        - Writer:: [[Woody Allen]] [[Marshall Brickman]]
+        - Cast:: [[Woody Allen]] [[Diane Keaton]] [[Mariel Hemingway]]
+        - Year:: [[1979]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0079522
+    - **Plot Summary:** The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.

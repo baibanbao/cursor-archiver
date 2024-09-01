@@ -1,0 +1,14 @@
+- Author:: [[Ying Ruocheng and Claire Conceison]]
+- Full Title:: Voices Carry
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - milieu. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=339))
+    - gruesome ([Location 385](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=385))
+    - sophistry ([Location 423](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=423))
+    - screeched ([Location 424](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=424))
+    - meticulously ([Location 427](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=427))
+    - and generally compromising his decency and dignity-no right-minded Chinese would be seen running around holding his trousers. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=431))
+    - Inevitably my thoughts returned to myself. The big question remained, of course, why was I arrested? ([Location 454](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=454))
+        - **Note**: 卡夫卡式的困惑
+    - I looked around and I must admit I was surprised to find the area so clean and tidy. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0026RHV2A&location=468))
+        - **Note**: Though it is Chinglish I like it.

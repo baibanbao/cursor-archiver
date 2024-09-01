@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNWJjOGM4NmEtNDE2YS00OGEyLTkwZWItMGM4YzdhZDZhMzNhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Raymond Chandler]] [[Czenzi Ormonde]] [[Whitfield Cook]]
+        - Cast:: [[Farley Granger]] [[Robert Walker]] [[Ruth Roman]]
+        - Year:: [[1951]]
+        - Genre:: #Crime #Drama #Film-Noir
+    - **IMDb:** https://www.imdb.com/title/tt0044079
+    - **Plot Summary:** A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F-kBtDZAlhR.pdf?alt=media&token=3c4f2946-a3a5-47e6-bfa8-c3cb4c25fd54}}

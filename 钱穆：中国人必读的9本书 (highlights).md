@@ -1,0 +1,10 @@
+- Author:: [[钱穆]]
+- Full Title:: 钱穆：中国人必读的9本书
+- URL:: http://mp.weixin.qq.com/s?__biz=MjM5ODc1Mzg2NQ==&mid=220515624&idx=1&sn=2e2efcfc457a6f943aa30114fbb1ad2d&chksm=2e158e0e19620718df9812d1c1972738c1eaf8d8815d7126024566e8360939ed130f40437341#rd
+- 国学思想与中国文化
+    - [[张广天]]说，[[论语]]是一本玉书
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 19th, 2022]]
+    - 我所举的书，《论语》《孟子》《大学》《中庸》《老子》《庄子》《六祖坛经》《近思录》《传习录》，共九部。 ([View Highlight](https://instapaper.com/read/1522194779/20111144))
+    - 只读一部也可。若只读一部，我劝诸位读《论语》。 ([View Highlight](https://instapaper.com/read/1522194779/20111146))

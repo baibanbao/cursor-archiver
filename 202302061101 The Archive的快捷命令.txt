@@ -1,0 +1,37 @@
+---
+
+ID: [[202302061101]]
+Title: The Archive的快捷命令
+Tags: #好中文 #编剧故事营 #白板报 #四季青青 #Jonas #DailyNotes #2023-02-06  #DPRH #Seven #TheArchive #Inbox
+Date: Monday February 6, 2023 at 11:01:24 GMT+8
+
+---
+为The Archive分别设置了标签和快捷键，这将使得在The Archive的效率更高一些。
+
+textexpander好记，都是3-4个字母。
+
+saved search的快捷键稍微需要费一些脑筋。
+
+前面都是 ctrl + cmd 
+
+好中文  1 表示排到第一位
+编剧故事营 2 排到第二位
+DailyNotes  0 每天从零开始
+白板报 3 不要忘记三位一体
+Jonas 5 生日最后一位数，五福同享
+四季青青 4 四季青青
+Seven 7 名字即数字
+红楼梦 8 前80回是最爱
+The Archive 9 长长久久
+小白板 6 六六大顺，学习老六
+Inbox i 首字母而已
+
+Default  `Option + Cmd + x` 无它，唯好按而已
+
+再加上Alfred的超级无敌快捷键 
+
+`f` + 内容
+
+我的The Archive将会打造成一艘完美的旗舰。
+
+

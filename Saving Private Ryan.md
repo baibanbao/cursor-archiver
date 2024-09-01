@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Robert Rodat]]
+        - Cast:: [[Tom Hanks]] [[Matt Damon]] [[Tom Sizemore]]
+        - Year:: [[1998]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0120815
+    - **Plot Summary:** Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FcV2F650Ib2.pdf?alt=media&token=9836d033-15f2-4333-a862-a4420a36eba6}}

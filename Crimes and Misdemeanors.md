@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWY3N2EyOWYtNDVhZi00MWRkLTg2OTUtODNkNDQ5ZTIwMGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Woody Allen]]
+        - Writer:: [[Woody Allen]]
+        - Cast:: [[Martin Landau]] [[Woody Allen]] [[Bill Bernstein]]
+        - Year:: [[1989]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0097123
+    - **Plot Summary:** An ophthalmologist's mistress threatens to reveal their affair to his wife while a married documentary filmmaker is infatuated with another woman.

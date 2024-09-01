@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Huston]]
+        - Writer:: [[John Huston]] [[B Traven]]
+        - Cast:: [[Humphrey Bogart]] [[Walter Huston]] [[Tim Holt]]
+        - Year:: [[1948]]
+        - Genre:: #Adventure #Drama #Western
+    - **IMDb:** https://www.imdb.com/title/tt0040897
+    - **Plot Summary:** Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.

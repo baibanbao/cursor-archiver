@@ -1,0 +1,47 @@
+- ## Daily Plan
+    - Go to movie
+        - 13:50 at [[博荟电影院]]去看[[侏罗纪世界3]]
+            - 看完了，电影情节不合理，特效还不错，人物塑造混乱无序。典型的爆米花电影，我给打分的话，只能给6分(满分10)
+    - Cook lunch
+        - Buy food materials from Dingdong
+        - Cook the lunch
+        - Wash the dishes
+    - [[July 9th, 2022]]
+        - 确认参加[[创启夏令营]]所带物品
+    - [[July 10th, 2022]]
+        - double check [[创启夏令营]] 装备并且装箱
+- 今日阅读
+    - Articles
+        - [【开放阅读】命名、标签与链接，一个最最基础的 Tiddlywiki 的流程 – Dailyio](https://iois.me/archives/13889.html)
+            - Author:: [Dailyio](https://twitter.com/io_members)
+            - URL:: https://iois.me/archives/13889.html
+            - Recommended By:: 
+            - Tags:: #Articles #TiddlyWiki
+    - [【开放阅读】命名、标签与链接，一个最最基础的 Tiddlywiki 的流程 – Dailyio](https://iois.me/archives/13889.html)
+- #[[Tech]] 
+    - [[Roam Research]]的备份问题
+        - [Actions · baibanbao/roam2git-auto-bak-haozhongwen](https://github.com/baibanbao/roam2git-auto-bak-haozhongwen/actions)
+            - 24小时，每小时备份一次，成功9次左右，已经够用了。
+- 学习[[Effortless Output]] #[[Roam Research]]
+    - 四种链接page的方式
+        - 什么时候使用`[[page]]`
+            - 当`page`是正文的一部分的时候，也就是需要读出来的时候
+        - 什么时候使用`#[[tag]]`
+            - 当`tag`不是正文的一部分，不需要读出来的时候
+        - attribute: [[难点]]
+        - {{alias:[[Roam Research]] 神器工具的别名}}
+        - [取一个别名就认不出你了]([[Jonas]])
+        - {{alias:[[好中文]] 安身立命的本钱}}
+        - 作者:: [[赖瑞和]]
+- 今日公众号
+    - 把[[公众号]]从三个缩减到一个[[白板报[[公众号]]]]，并且保持每周更新2篇的频率。另外两个[[公众号]]的内容迁移过来，当然如何迁移我还不知道。
+    - 公众号:: [[白板报公众号]]
+    - 公众号:: [[好中文的样子公众号]]
+    - 公众号:: [[编剧故事营公众号]]
+- 看电影的问题
+    - [Your Watchlist - IMDb](https://www.imdb.com/user/ur7551850/watchlist?sort=date_added%2Cdesc&view=detail)
+        - 只有1492部，距离2k还有508部
+        - 不要再重复看已经看过的电影了，开始看新的吧
+- Import
+    - [[Metadata]]
+        - From: Metadata.md

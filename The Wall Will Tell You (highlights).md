@@ -1,0 +1,62 @@
+- Author:: [[Hampton Fancher]]
+- Full Title:: The Wall Will Tell You
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Make it difficult for the character, simple for the reader.
+    - Too much talk and not enough trouble is a bad thing to do. Exposition should be disguised, hidden in the trouble.
+    - But you’re in trouble if there’s no trouble they’re in.
+    - Adapt the novel of your life, not your history, but your reactions, your ideas, into screenplay.
+    - All is adaptation.
+        - **Tags**: #[[green]]
+    - Falling in love with a man married to her best friend. The facts wrestling with need. The hot confusions of love and greed, of story.
+    - Foreseeable, but not foreseen. What happens is unexpected, but what happens makes sense when it does.
+    - Does is the key.
+        - **Tags**: #[[blue]]
+    - Characters in a movie have to move, they have to be doing something that leads to something.
+        - **Tags**: #[[pink]]
+    - Don’t explain in dialogue what it is your story is trying to illustrate. If you resort to that you won’t have a story. Let the story tell itself.
+        - **Tags**: #[[green]]
+    - What has caused the event. The conditions.
+    - Actor questions are the writer questions: what are the imperfections and liabilities, the virtues and charms of your characters? The background. If they have none they are not characters.
+    - People (characters) let us know what they want us to know, want us to believe. The rest is a secret. Locate the secret. The hidden. The suffering. The ambitions. The blind spots. Pride can blind. Obsession can blind. Stupidity can blind. Desperation can blind. Overconfidence can blind. Timidity. Fear. Frustration. Perfectionism. Impatience. In other words, the traits, characteristics, idiosyncrasies of three-dimensional people. Your characters.
+    - However concerned you are with your work, make your characters even more so, more concerned with what they’re doing. And doing is everything.
+        - **Tags**: #[[green]]
+    - Don’t give characters flaws that you don’t care about, that you don’t take seriously, or that you don’t think are fun.
+    - Introduce a new element, a surprise, a new character that ignites the old story into a better one. You can do anything you’re inspired to do. Your villain can be honest and intelligent. The hero a liar and not very bright.
+    - Your characters are not just puppets mouthing your first excuse at dialogue. They have their own agendas.
+    - It’s not about what’s on the desk, but what’s hidden in the drawer.
+        - **Tags**: #[[green]]
+    - Take whatever time it takes to write a good scene. Whatever time it takes, take it. It sets a standard for the next scene.
+    - A movie story is all about anticipating something, something about to happen.
+    - Establish a new and surprising context before the proceeding scene.
+    - Somebody wants to get there. Somebody else wants to stop him. Hence the drama of opposing strategies which make for moment-to-moment suspense. The goal is established, it’s out there, but the route is uncertain. The clash of unintended consequences. Football. Dynamics of drama and comedy have to do with juxtaposing agendas.
+    - Alarmed at a blast from the left, we look to see what it was and we’re hit from a blast on the right.
+    - Read your scene to an honest person. Encourage that person to help you locate the stumbling blocks. The weak points. Then turn stumbling block into cornerstone. Identifying stumbling blocks will lead you to the creations of cornerstones. Facile to say, hard to do, but that’s our job.
+    - . Go quicker, don’t write everything your imagination sees—forget the fucking chairs and couch and what the flowers look like. Omit!
+    - Music, painting, acting, architecture, fucking pottery, even screenplay writing; in all art, an element of surprise is essential.
+        - **Tags**: #[[green]]
+    - The trick is, don’t explain it. Dramatize what you write in your writing. Make it actionable, turn it into an event.
+        - **Tags**: #[[blue]]
+    - Imagine the screen and see how it looks. What you need and don’t need: that’s the test.
+    - So what you write down you should try to see, not from within, but up on the wall.
+        - **Tags**: #[[green]]
+    - Get to the inner by depicting the outer. See it, hear it, describe it. A writer is a detective on the lookout for evidence, screenplaying is forensics.
+    - More of one thing instead of ten different things.
+        - **Tags**: #[[green]]
+    - A lack of abruption is as predictive as pavement. It needs obstruction. Also, watch out for backstory, best it should unfold in real time.
+        - **Tags**: #[[pink]]
+    - Your characters are uninteresting, flabby, unreal, predictable, stupid. You don’t go far enough. You give up before you start by accepting the first thing that comes to mind. Do not settle for stereotype. Deepen it, expand it. The goodhearted bitch. The angel who hates himself. The introverted exhibitionist. Consider opposites, contradictions.
+    - to know the difference between what is working and what isn’t.
+    - Try to make a life of trying. You want to be smart and successful, but what you are is not so smart and you fail, and if you’re so afraid of being a failure and you don’t try not to be, a failure is what you’ll be. When you’re failing is when you’re learning. Learning how you failed teaches you how to succeed.
+        - **Tags**: #[[green]]
+    - Don’t turn your back on failure. Pick it up, examine it carefully—your failure is your little orphan child and must not be neglected.
+        - **Tags**: #[[green]]
+    - Art is about loss. About the last time you cried.
+        - **Tags**: #[[green]]
+    - Screenplay prose should be lean, precise. Sharpen your phrases, make the dialogue sing.
+    - A copycat will never be a lion.
+    - This is how he grows: by being defeated, decisively / by constantly greater beings.
+    - To do anything that feels almost impossible and to do it consistently is always an act of will. Put your will into your works. Into the dream and the ideal of your days. This should be who you are, which is also being who you need to become.
+        - **Tags**: #[[green]]
+    - What you are trying to learn cannot be taught. What you learn is by teaching yourselves through trying.
+    - A screenplay is the bones of a poem and the poem is a movie and the movie is a dream.

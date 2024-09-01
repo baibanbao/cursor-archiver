@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Yavuz Turgul]]
+        - Writer:: [[Yavuz Turgul]]
+        - Cast:: [[Sener Sen]] [[Ugur Yücel]] [[Sermin Hürmeriç]]
+        - Year:: [[1996]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0116231
+    - **Plot Summary:** Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.

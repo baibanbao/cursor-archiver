@@ -1,0 +1,8 @@
+﻿学习内容
+
+https://blog.nateliason.com/p/chatgpt-writing-coach
+
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
+
+[Hello from Learning Prompt | Learning Prompt](https://learningprompt.wiki/)
+

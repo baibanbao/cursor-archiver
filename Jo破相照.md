@@ -1,0 +1,4 @@
+- 骑车疏于照看，造成受伤，要吸取教训。
+- 求天父不要留疤痕，快快好起来。
+- 我也要吸取教训！
+- ￼![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FctCJRnDbBu.png?alt=media&token=29a1485e-d003-40cd-be93-d9da2c9d47a0)￼￼

@@ -1,0 +1,10 @@
+- 看了自己这么多年来讲课视频，尤其是没有患病之前，2018年的视频，对自己的努力是肯定的。这么多年的贫困，有多方面原因造成的，并不是完全是我自己的原因造成的。
+- [IcyStudio/TeleGPT: An out-of-box ChatGPT bot for Telegram.](https://github.com/IcyStudio/TeleGPT)
+- [(17) Stop Procrastinating With Note-Taking Apps Like Obsidian, Roam, Logseq - YouTube](https://www.youtube.com/watch?v=baKCC2uTbRc)
+- [Tools for better thinking | Untools](https://untools.co/)
+- [Rationale - a revolutionary decision-making AI powered by the latest GPT and in-context learning](https://rationale.jina.ai/)
+- [[todos123]]
+    - {{[[TODO]]}} 02:18 44 block assistant
+- 不能丧失勇敢的心，不能丧失祷告的心，不能丧失谦卑领受的心
+- 其他一切都不能取代Roam Research
+- 用双拼是脑子进水，我现在坚决彻底地使用全拼，无论什么时候都不动摇。

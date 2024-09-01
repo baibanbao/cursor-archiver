@@ -1,0 +1,57 @@
+- 作业点评 #[[好中文]]
+    - [S6D2 + 杰德 + 翻译文记录](https://haozhongwen.net/post/coursework/2021-08/2021-08-03-00-42-37)
+        - 这篇关于古董珠宝的文章，解决了好多疑问。
+            - 例如，为什么古老的手艺更值得信赖
+            - 古董可以砍价
+            - 买古董要买心头好，不要稀图赚钱
+    - [S6 + 日更 + 第 8 天 + 蔷薇 + 惊魂一刻](https://haozhongwen.net/post/coursework/2021-08/2021-08-03-01-08-03)
+        - 确实挺惊险的，尤其是车上还有孩子。
+        - 人生总有那么几个彻底失控的瞬间，此时要感谢上帝的普遍恩典的护理，哪怕你不相信上帝。
+        - 无神论者这词来自于希腊语 Athos，不是指不信仰神者，而是指被神抛弃者。—— 奥尔罕・帕慕克
+- 读书
+    - 剧透
+        - 剧透不但不影响欣赏故事，反而能增加欣赏的乐趣。
+            - Stories that promote surprise over character end up as mere soap opera, a series of sensational shocks. That corrodes credibility, while some reveals—they were all dead! it was all a dream!—do not so much blow minds as waste time. More significant than all of this, though, is the fact that surprise is overrated. [A study carried out by Jonathan Leavitt and Nicholas Christenfeld](https://journals.sagepub.com/doi/abs/10.1177/0956797611417007) in 2011 found that knowing how the story ends doesn’t hamper enjoyment—it increases it. In other words, spoilers don’t spoil anything.
+                - [Why spoilers are ruining storytelling | The Economist](https://www.economist.com/prospero/2019/06/07/why-spoilers-are-ruining-storytelling)
+    - 经济学人数目字指南
+        - 谈的是数字，聚焦的是风险。
+            - Thus, a major part of
+this book is devoted to dealing with risk. After all, this forms a major
+part of the business environment. Quantifying risk and incorporating it
+into the decision-making process is essential for successful business.
+    - 希望
+        - 金葡萄老师说：世界还是很美好的，可以在网上学习任何知识，奇点降临般的魔法工具可以免费使用。。。
+            - 我回：同意金葡萄，武器是双向的，信息时代，不可能收天下金铸十二铜人。系统也孕育了与之相反的力量。
+- #[[好中文]] 备课
+    - 第三课：如何学好古文
+        - 参考书
+            - 鲍善淳《读古文入门》
+                - 出版社：上海古籍出版社
+                    - 读书笔记
+            - 周振甫《怎样学习古文》 
+                - 出版社：中华书局
+            - 张广天《手珠记》
+            - 古文观止
+            - 左传人物论稿
+        - 内容吸纳
+        - 内容拓展
+        - 内容重述
+- 鲍善淳《读古文入门》读书笔记 #[[好中文]] #[[haozhongwen.com]]
+    - 古文一次的来历
+        - 《史记·自序》
+            - 年十岁，则诵古文
+                - 这里指的是古代的文献点击
+            - 我们今天所说的古文是指后世作家模仿商贾汉语书面语言写作的文言文
+        - 古文谁都很棘手
+            - 王国维说
+                - 尚书50%不理解
+                - 诗经有10-20%不理解
+        - 古文为什么难懂
+            - 王国维说
+                - 讹缺
+                    - 抄写或印刷错误，造成的难解。
+                        - 例如明代有个人教钟伯敬，看到一本《水经注》上写着：水流松果之上
+                            - 大家暂升，连连圈点，大呼妙哉
+                                - 实际上是书印错了，应该是：水流松果
+                - 古语与今语不同
+                - 古人颇用成语，其成语之意义于其中单语分贝之意义又不同

@@ -1,0 +1,22 @@
+﻿#长青笔记 #聪明笔记 #备份
+
+Mac OS CloverTextEdit + iOS Simplenote -> Mac OS The Archive 
+
+#备份
+
+- Synology DS418
+- Samsung T5
+- Github
+
+终于找到了最好的笔记方法
+
+可以跟RR说拜拜了。
+
+现在最舒服的工作流已经出现。
+
+写纯文本，然后都用the archive进行本地化管理。
+
+终于不必再纠结如何记笔记，这么简单的事何需如此复杂。
+
+只要有文本记录工具，就是最好的笔记系统。
+

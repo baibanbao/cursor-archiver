@@ -1,0 +1,18 @@
+- Author:: [[Camellia Yang]], [[Naval]]
+- Full Title:: Naval：如何不靠运气致富
+- Category:: #articles
+- URL:: http://www.camelliayang.com/3/post/2019/03/naval-how-to-get-rich.html
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 26. 大量的机器人都是免费的，使用它们吧。 ([View Highlight](https://instapaper.com/read/1520469986/20020147))
+    - 1. 寻求财富，而不是金钱和地位。财富意味着拥有在你睡觉时为你赚钱的资产。 ([View Highlight](https://instapaper.com/read/1520469986/20020148))
+    - 4. 你不会因为出租自己的时间而变得有钱，你必须拥有资本—— 一个公司，来帮助你获取财务自由。 ([View Highlight](https://instapaper.com/read/1520469986/20020151))
+    - 5. 你会因为提供给社会一个它还不知道如何得到的东西而致富。大规模的致富。 ([View Highlight](https://instapaper.com/read/1520469986/20020153))
+    - 8. 玩迭代游戏。所有生活中的回报，无论是财富，关系还是知识，都是从复利中获得的。 ([View Highlight](https://instapaper.com/read/1520469986/20020154))
+    - 9. 选择拥有高智商，高精力的商业伙伴，最重要的品质是诚实正直。 ([View Highlight](https://instapaper.com/read/1520469986/20020157))
+    - 16. 当人们教授专业知识（特殊技能），通常是通过学徒制度，而不是通过学校。 ([View Highlight](https://instapaper.com/read/1520469986/20020161))
+    - 25. 编程和媒体是不受限的杠杆。它们是新晋富豪的武器。你可以创造出在你睡觉时都能为你赚钱的软件和媒体内容。 ([View Highlight](https://instapaper.com/read/1520469986/20020165))
+    - 27. 如果你不会编程，写书和博客吧，或者做视频和播客。 ([View Highlight](https://instapaper.com/read/1520469986/20020167))
+    - 29. 判断力的养成需要经验的积累，但通过学习最基础的技能更快地建立。 ([View Highlight](https://instapaper.com/read/1520469986/20020168))
+    - 36. 把自己培养为世界上做某事最好的人。不断地重新定义自己所做的事情，直到成为最好的。 ([View Highlight](https://instapaper.com/read/1520469986/20020173))
+    - 6. 生活中所有重要的事物都受益于复利：金钱，关系和习惯。 ([View Highlight](https://instapaper.com/read/1520469986/20020178))
+    - 8. 从根本上考虑问题，学会利用「第一原则」来解释问题，忘掉陈旧的社会准则，控制自己的情绪。 ([View Highlight](https://instapaper.com/read/1520469986/20020182))

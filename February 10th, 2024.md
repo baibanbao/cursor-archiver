@@ -1,0 +1,18 @@
+- [[Gratitude]]
+- [[Day Start]] 12:27
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **12:27** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[卡片笔记]]
+- [[Edit Later]]
+- [[写书]]
+- ---

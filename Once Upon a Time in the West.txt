@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sergio Leone]]
+        - Writer:: [[Sergio Donati]] [[Sergio Leone]] [[Dario Argento]]
+        - Cast:: [[Henry Fonda]] [[Charles Bronson]] [[Claudia Cardinale]]
+        - Year:: [[1968]]
+        - Genre:: #Western
+    - **IMDb:** https://www.imdb.com/title/tt0064116
+    - **Plot Summary:** A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.

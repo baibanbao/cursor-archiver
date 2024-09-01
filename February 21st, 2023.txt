@@ -1,0 +1,3 @@
+- [(2) ともこ・・・／千 昌夫　吉 幾三 - YouTube](https://www.youtube.com/watch?v=GGhT8yRFZkY)
+- [吉幾三的日文演歌─酔歌─醉歌+歌詞+注音+翻譯中譯+日文學習 @ 林技師的各國好聽歌曲與橋梁設計心得及橋梁論文論壇司法評論語言 :: 隨意窩 Xuite日誌](https://blog.xuite.net/chuzu0/twblog/302742757)
+- 

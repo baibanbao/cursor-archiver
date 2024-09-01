@@ -1,0 +1,11 @@
+- Author:: [[福音联盟]]
+- URL:: https://www.tgcchinese.org/article/9-things-know-unification-church
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- 第六，对婚姻的这种强调致使文鲜明举行了臭名昭著的集体婚礼。 ([View Highlight](https://instapaper.com/read/1520635538/20024415))
+- 第八，2012年文鲜明去世后，该运动分裂成不同的、彼此竞争的派系。他的遗孀韩鹤子被该运动中的许多人认为是“弥赛亚”和“人类之母”。她创立了世界和平国际妇女联合会（Women’s Federation for World Peace International）。 ([View Highlight](https://instapaper.com/read/1520635538/20024422))
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 王亚运 ([View Highlight](https://instapaper.com/read/1520635538/20024399))
+    - JFX ([View Highlight](https://instapaper.com/read/1520635538/20024400))
+    - 第六，对婚姻的这种强调致使文鲜明举行了臭名昭著的集体婚礼。 ([View Highlight](https://instapaper.com/read/1520635538/20024415))
+    - 第八，2012年文鲜明去世后，该运动分裂成不同的、彼此竞争的派系。他的遗孀韩鹤子被该运动中的许多人认为是“弥赛亚”和“人类之母”。她创立了世界和平国际妇女联合会（Women’s Federation for World Peace International）。 ([View Highlight](https://instapaper.com/read/1520635538/20024422))

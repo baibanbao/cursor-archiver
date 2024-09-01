@@ -1,0 +1,7 @@
+- Author:: [[@dakan on Twitter]]
+- Full Title:: Tweets From 腿特粗
+- URL:: https://twitter.com/dakan
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 7th, 2023]]
+    - 孔夫子旧书网上商家的盈利模式，我观察了一段时间，近几个月在上面也买了十几本书，体验很好，说是二手书其实很多都是新书，书本身价格很便宜。赢利点应该是在快递费这一块，做得大的商家每个月有几千上万单，那么跟快递公司肯定就是协议价了，会很便宜，超乎一般人想象的那种，而这，就是利润来源。 ([View Tweet](https://twitter.com/dakan/status/1732324965217931358))

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfonso Cuarón]]
+        - Writer:: [[Alfonso Cuarón]]
+        - Cast:: [[Yalitza Aparicio]] [[Marina de Tavira]] [[Diego Cortina Autrey]]
+        - Year:: [[2018]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt6155172
+    - **Plot Summary:** A year in the life of a middle-class family's maid in Mexico City in the early 1970s.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FUbYhiciZi8.pdf?alt=media&token=cae805bb-3c3a-47b2-9dc4-691b4264e7ce}}

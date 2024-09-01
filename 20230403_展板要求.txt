@@ -1,0 +1,2 @@
+﻿Please create a futuristic and technologically-inspired exhibition board for the “Little Doctor Webinar“ project. The board should be divided into three parts, with the left side focusing on the problem statement, the middle showcasing the experiments and results, and the right side presenting the conclusions and potential applications. Ensure the design is visually appealing, easy to understand, and embodies a sense of innovation. the layout like https://vip2.loli.io/2023/04/03/SVW6cOKtaH43zZT.png --iw 0.9 --seed 12345 
+

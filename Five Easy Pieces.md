@@ -1,0 +1,8 @@
+- https://movie.douban.com/subject/35231581/
+- [更新描述或海报](https://movie.douban.com/subject/35231581/edit)
+- 导演: [米罗·劳](https://movie.douban.com/celebrity/1445268/)
+- 制片国家/地区: 德国 / 比利时
+- 语言: 德语
+- 上映日期: 2020-10-31(中国大陆)
+- 片长: 95分钟
+- 又名: 比利时CAMPO艺术中心《轻松五章》 高清放映

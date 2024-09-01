@@ -1,0 +1,152 @@
+﻿Why Bored Ape Avatars Are Taking Over Twitter
+
+N.F.T. clubs are all the rage among cryptocurrency enthusiasts. Are they a get-rich-quick scheme or the future of culture?
+
+By Kyle Chayka
+
+July 30, 2021
+
+A grid of six N.F.T.s of apes against colorful backgrounds.
+
+Bored Ape Yacht Club, which launched in April, is a strange combination of gated online community, stock-shareholding group, and art-appreciation society.Source images courtesy Bored Ape Yacht Club
+
+On social media, agreements are tenuous and alliances fleeting. It pays to be as incendiary as possible—conflict drives more engagement than politesse or coöperation. But, at the beginning of May, Kyle Swenson, a twenty-five-year-old clothing reseller in Orlando, Florida, noticed a shift in the tone of his Twitter feed. An increasing number of accounts that he followed were changing their avatars to cartoons of apes: apes sporting sunglasses or bunny ears, apes with leopard-patterned or rainbow fur, apes smoking cigars or shooting laser beams from their eyes. Many wore blasé expressions or toothy grimaces. Some had cigarettes dangling from their mouths, or the red eyes of the deeply stoned. Amid the Twitter melee, the apes were chatting among themselves, chill and supportive. The avatars came from a Web site called Bored Ape Yacht Club, which had officially launched on April 30th, offering ten thousand unique iterations of the cartoon primates for sale as non-fungible tokens (N.F.T.s), each at a price of about two hundred dollars in Ethereum cryptocurrency. A Bored Ape N.F.T. “doubles as your membership to a swamp club for apes,” the site advertised, below an illustration of a ramshackle wooden building festooned with strings of multicolored lights.
+
+Within a day after the launch, all ten thousand Bored Ape Yacht Club images had sold out. By the time Swenson decided that he wanted to buy one, on May 3rd, he paid around seventeen hundred dollars on OpenSea, an N.F.T. marketplace. His ape has a preppy look—sailor hat, gingham shirt, puffer vest—“similar to how I like to dress,” Swenson said. A few weeks later, he bought another. He had previously traded N.B.A. Top Shots, basketball-game highlight videos in N.F.T. form, but this felt more consequential. “It was fear of missing out,” he told me. “I was watching a lot of people whose opinions I valued on N.B.A. Top Shots change their picture to an ape.” Matt Galligan, the co-founder and C.E.O. of a messaging network for crypto called XMTP, who had managed to buy four Bored Apes during the launch, told me, “It became a status symbol of sorts, kind of like wearing a fancy watch or rare sneakers.”
+
+An illustration of an ape sitting on a dock fishing.
+
+More than previous N.F.T. avatar projects, Bored Ape Yacht Club created rich and detailed iconography drawn from its founders’ personal tastes.Image courtesy Bored Ape Yacht Club
+
+Bored Ape Yacht Club’s initial batch of N.F.T.s brought in more than two million dollars. The collection has since seen almost a hundred million dollars in trading, with the cheapest apes often going for almost fourteen thousand dollars. In recent months, the project has inspired a wave of similar clubs and a mania for N.F.T. avatars among crypto-enthusiasts. Collectors can buy cutesy cartoon cats from Cool Cats, which released thousands of its own N.F.T.s on July 1st and sold out soon after. (Mike Tyson has one as his Twitter avatar.) They can buy angular sci-fi women from Fame Lady Squad, punkish ducks from SupDucks, 3-D-rendered pills from BYOPills, meme-ready shiba inus from The Doge Pound, and bonsai trees from Zenft Garden Society. New projects launch every week, hyping their wares on Twitter, the principal public home of crypto discourse, in the hope of selling out in turn. “Everyone saw the success of Bored Apes and started quickly dropping their own projects,” Aleksandra Artamonovskaja, the London-based founder of the curatorial consultancy Electric Artefacts, who has bought and sold a number of N.F.T. avatars, said. “I’m paying my rent by trading jpeg pictures on the Internet. That’s what I tell my parents.”
+
+Each avatar club is a strange combination of gated online community, stock-shareholding group, and art-appreciation society. When one ape (or cat or pill or alien) is bought for a high price, the perceived value of all ten thousand authentic N.F.T.s in the set rises, the same way a painting fetching a record price at auction might increase the value of an artist’s entire œuvre. When a buyer makes his Twitter avatar an image from a new N.F.T. club, it’s a sign of allegiance, and also a signal to other buyers in the club to follow him on social media. (“I changed my picture to the ape and I got hundreds of Twitter followers the first day,” Swenson said.) The center of most clubs is Discord, the real-time chat app. Bored Ape Yacht Club’s Discord server has more than thirteen thousand members—fans as well as N.F.T. owners—and hosts constant discussion in channels such as #crypto-talk and #sports-bar. The mutual investment, both social and financial, forms a kind of bond among club members within the wider Internet bedlam.
+
+“When everyone’s got skin in the game, it creates a new dynamic, as opposed to everyone being able to say what they want and critique everything without consequence,” Drew Austin, a technology investor who owns three Bored Apes and co-owns two others, told me. That sense of community has been missing from the Internet, according to Bored Ape Yacht Club’s founders. Contrary to their reputation for superfluousness, N.F.T.s can help fill the void. “We want your Bored Ape to be your digital identity,” Gargamel, one of the founders, told me during a recent video chat. It’s a collectible not to hang on the wall or exhibit on a shelf but to populate the tiny square or circle of screen space that’s supposed to represent your self.
+
+Gargamel and his co-founder, Gordon Goner (both go by pseudonyms), are unlikely tech impresarios. Before starting Bored Ape Yacht Club, Gargamel was working as a writer and editor. Goner was planning to attend an M.F.A. program but fell ill and took up cryptocurrency day trading instead. The pair, both thirtysomething, are “literary nerds,” according to Gargamel, who wears wire-rimmed glasses and a carefully trimmed goatee. They grew up in Miami and met, a decade ago, while drinking at a bar. Goner, who has tattoos covering his chest, told me, “We got into a big screaming match about David Foster Wallace.”
+
+By the time Gargamel and Goner began brainstorming an N.F.T. project, early this year, avatar clubs were a nascent trend. Gargamel and Goner were familiar with CryptoPunks, a batch of ten thousand pixelated figures, which became the blue-chip art of the N.F.T. market after their release, by a company called LarvaLabs, in 2017. CryptoPunks, which now can sell for as much as two hundred thousand dollars apiece, weren’t originally the basis for a social avatar club, but some collectors (including Jay-Z) use them as avatars—flaunting one as your profile pic, or “P.F.P.,” was the ultimate symbol of digital cachet. “It’s like having a Harvard degree in the N.F.T. space,” Austin, who owns two, said. Gargamel and Goner also noticed the success of Hashmasks, an artistic venture that sold 16,384 N.F.T. images in January for a total of more than sixteen million dollars. Both of those projects were closed systems; their developers didn’t promise any expansion beyond the initial, limited release. Gargamel and Goner sought an idea they could keep growing over time. “We were seeing the opportunities to make something with a larger story arc,” Gargamel said.
+
+One early idea that the duo considered was CryptoCuties, a set of N.F.T. “girlfriends,” but it struck them as too pandering—not to mention creepy. (The male-dominated crypto world can sometimes feel like a frat house; the creators of one recent avatar project drew criticism, and later apologized, for featuring female figures with darkened eyes and duct-taped mouths.) Another concept was a shared digital canvas: anyone who bought in could draw on it. But that seemed liable to be treated like a bathroom wall at a dive bar. “The first thing someone’s going to draw up there is a dick,” Gargamel said. The image of an online dive bar stuck with the pair, though, and from there a science-fictional story line took shape. The year is 2031. The people who invested in the early days of cryptocurrency have all become billionaires. “Now they’re just fucking bored. What do you do now that you’re wealthy beyond your wildest dreams?” Goner said. “You’re going to hang out in a swamp club with a bunch of apes and get weird.” Why apes? In crypto parlance, buying into a new currency or N.F.T. with abandon, risking a significant amount of money, is called “aping in.” “We also just like apes,” Goner told me.
+
+An illustration of the interior of a bar.
+
+Bored Ape Yacht Club members gain commercial rights to the avatars they own. “Anything that people create with their apes only grows the brand,” Gordon Goner, a co-founder, said.Image courtesy Bored Ape Yacht Club
+
+Avatar projects up to that point tended to employ low-resolution, often pixelated imagery, in the style of eight-bit video games. Whether of people or monkeys or ghosts, the figures were fairly generic. Bored Ape Yacht Club, by comparison, created rich and detailed iconography drawn from its founders’ personal tastes. The setting of an Everglades “yacht club” (an ironic appellation) was meant to evoke places like Churchill’s Pub, a well-worn Miami music venue that Gargamel and Goner frequented. “We were deeply inspired by eighties hardcore, punk rock, nineties hip-hop,” Goner said. “We’ve been calling ourselves the Beastie Boys of N.F.T.s.” From the scenes of an apocalyptic tiki bar on its Web site to the jaunty style of the apes themselves, Bored Ape Yacht Club felt more like the plans for a triple-A video game than an assortment of isolated N.F.T.s. The combination of sophisticated visuals, subcultural fashion accessories (shades of Hot Topic), and literary pretension made the Bored Ape universe catnip to a certain crypto-bro demographic. “We took lessons from the Hemingway iceberg theory,” Gargamel told me. “Ten per cent visible at the top, with all the scaffolding built out beneath.”
+
+VIDEO FROM THE NEW YORKER
+
+Throwing Shade Through Crosswords
+
+Gargamel and Goner brought on two other friends, programmers who go by the names No Sass and Emperor Tomato Ketchup, to handle the necessary blockchain coding. To execute the project’s graphics, they hired professional illustrators, which accounted for most of their upfront costs (around forty thousand dollars, according to the group). As with many avatar clubs, the cartoon ape features were then fed into an algorithmic program that randomly generates thousands of images with unique combinations of bodies, heads, hats, and clothes, like digital dress-up dolls. Certain traits—rainbow fur, laser eyes, togas—show up only rarely, making apes that sport those looks more desirable, and thus more valuable. Each image remained hidden until the initial collector paid for it, so buying one was a bit like playing a slot machine—get an ape with the right alignment of traits and you can profit wildly by flipping it. It’s also a bit like participating in a multilevel marketing scheme. Often, a small number of crypto-whales buy hundreds of N.F.T.s apiece and then sell off their hoards when the price rises; new collectors must constantly be found in order for prior ones to profit.
+
+Plenty of N.F.T. projects fail, or simply don’t spark a secondary market. Creators have been known to “rug-pull,” abandoning a venture and absconding with collectors’ money. Artamonovskaja, the founder of Electric Artefacts, speculated that Bored Ape Yacht Club caught on because of its relative accessibility. “No one can afford a CryptoPunk,” she told me. The apes seemed like the next best thing to buy—“a cool avatar for a decent price.” Artamonovskaja flipped an ape for around fifteen hundred dollars soon after the launch, which she now regrets; the same one (wearing a Bored Ape Yacht Club-branded baseball cap, with a pop-punk vibe) is currently fielding offers for upward of twelve thousand dollars.
+
+ADVERTISEMENT
+
+For the founders, who netted two million dollars with their initial sale, releasing new N.F.T.s is not unlike printing money. The winsome goofiness of the imagery belies the amount of capital at stake. Austin, the investor, told me that he approaches buying avatars like he’s “diligencing a venture deal, which is funny because I’m looking at a fucking Bored Ape.” Still, Goner told me that he and the other founders don’t like to think of the apes as “investment vehicles.” He added, “If you think of it in terms of artists and weirdos running a hedge fund, that’s going to give us a heart attack.”
+
+As with many crowdfunded projects, the creators of each N.F.T. club present a “road map” for prospective buyers prior to launching, explaining what they will do with the money they raise. They promise YouTube channels, donations to charities, extra N.F.T.s for collectors, and physical merchandise. Bored Ape Yacht Club has sold branded baseball caps, donated hundreds of thousands of dollars to ape sanctuaries, and offered each collector a dog N.F.T., courtesy of the Bored Ape Kennel Club. But it was also one of the first clubs to offer individual buyers the commercial rights to the apes they own: each member is allowed to brand his own projects or products and sell them independently. In the three months since the club launched, Bored Ape owners have put the cartoon primates on lines of craft beer and created animated YouTube series, made painted replicas, and designed skateboard decks. Kyle Swenson, the clothing reseller, launched a publication called the Bored Ape Gazette, to cover the community. One owner named their ape “Jenkins the Valet,” gave him a backstory as the Yacht Club’s chief gossip, and is crowdfunding an ape-themed novel. (N.F.T.s aren’t wholly secure—ownership is denoted only by a line of code on the blockchain, and anyone can theoretically copy an ape image and use it as an avatar. But the clubs police such appropriation. “Crypto Twitter has this understanding: you just don’t steal someone’s avatar,” Artamonovskaja told me.)
+
+For most brands that produce culture, whether Supreme streetwear, Marvel superheroes, or pop music, letting intellectual property circulate freely is verboten; exclusivity is the business model. The Bored Ape Yacht Club founders, by contrast, see their openness as an asset. “Anything that people create with their apes only grows the brand,” Goner said. Just as Silicon Valley startups obsess over software that is “scalable,” growing exponentially to serve more users, N.F.T. clubs aim for scalable culture; like open-source software, their cultural creations can expand organically through the efforts of many users while remaining recognizable, resulting in a kind of user-generated mythology. Dom Hofmann, the co-founder of the now defunct social network Vine and the creator of an N.F.T. club project called Blitmap, told me, “It’s taking a gamble on the idea that, in aggregate and over time, the fans might know what’s best for the universe that they care about.” Austin, the investor, envisioned Bored Ape Yacht Club as a potential “decentralized Disney” of the future.
+
+In part, it’s this possibility that makes buying into N.F.T. clubs so desirable: purchasing the hot new avatar might be like acquiring a small fraction of the rights to the next Mickey Mouse. But, as for the punk bands that inspired Bored Ape Yacht Club, getting too big can be read as selling out. What makes a group cool and what makes it rich do not necessarily align. Galligan, the startup founder, has kept two of his four Bored Apes. One of them, a creature in a beanie and heart-shaped sunglasses, is set as his Twitter avatar—for now. “The more it’s associated with status, the less I feel inclined to keep it,” Galligan said. “If a club’s only purpose is ‘number go up’ ”—the crypto chant for rising prices—“well, that’s kind of lame.”
+
+A previous version of this article mischaracterized the origin of CryptoPunks.
+
+New Yorker Favorites
+
+Why walking helps us think.
+
+Was Jeanne Calment the oldest person who ever lived—or a fraud?
+
+Sixty-two of the best documentaries of all time.
+
+The United States of Dolly Parton.
+
+Was e-mail a mistake?
+
+How people learn to become resilient.
+
+Sign up for our daily newsletter to receive the best stories from The New Yorker.
+
+Kyle Chayka is a contributing writer for The New Yorker and the author of “The Longing for Less: Living with Minimalism.”
+
+
+为什么无聊的猿猴头像正在占领Twitter？
+
+N.F.T.俱乐部在加密货币爱好者中大行其道。它们是一种快速致富的计划还是文化的未来？
+
+作者：Kyle Chayka
+
+7月30日，2021年
+
+一个由六只N.F.T.s猿猴组成的网格，背景色彩斑斓。
+
+无聊的猿猴游艇俱乐部于4月推出，是一个奇怪的组合，包括有门的在线社区、股票持有团体和艺术欣赏协会。
+
+在社交媒体上，协议是脆弱的，联盟是短暂的。尽可能地煽情是有好处的，冲突比礼貌或合作更能推动参与。但是，5月初，佛罗里达州奥兰多市25岁的服装经销商凯尔-斯文森（Kyle Swenson）注意到他推特上的语气发生了变化。他关注的越来越多的账户将他们的头像换成了猿猴的卡通：戴着太阳镜或兔子耳朵的猿猴，长着豹纹或彩虹毛皮的猿猴，抽着雪茄或从眼睛里发射激光束的猿猴。许多人带着淡然的表情或呲牙咧嘴的表情。有些人嘴里叼着烟，或者眼睛红红的，就像喝醉了一样。在Twitter的混战中，这些人猿在彼此之间聊天，冷漠而支持。这些化身来自一个名为 "无聊的猿猴游艇俱乐部 "的网站，该网站于4月30日正式启动，提供一万个独特的卡通灵长类动物的迭代，作为不可伪造的代币（N.F.T.s）出售，每个价格约为200美元，以太坊加密货币。一个无聊的猿猴N.F.T. "可以作为你的猿猴沼泽俱乐部的会员资格"，该网站在一副破旧的木制建筑插图下宣传，上面挂满了一串串五颜六色的灯。
+
+在发布后的一天内，一万张 "无聊的猿人游艇俱乐部 "的图片全部卖完。5月3日，当斯文森决定要买一张时，他在N.F.T.市场的OpenSea上支付了大约1700美元。他的猿猴有一个前卫的外观--水手帽、格子衬衫、羽绒背心--"类似于我喜欢的穿着方式，"斯文森说。几周后，他又买了一只。他以前曾交易过N.B.A. Top Shots，即N.F.T.形式的篮球比赛集锦视频，但这次感觉更有意义。"他告诉我："这是对错过的恐惧。"我在看很多人，他们在N.B.A.Top Shots上的意见我很重视，他们把自己的照片改成了猿猴。" 一家名为XMTP的加密货币信息网络的联合创始人兼首席执行官马特-加里根(Matt Galligan)告诉我，"这成了某种身份的象征，有点像佩戴高级手表或稀有运动鞋。"
+
+一幅猿猴坐在码头上钓鱼的插图。
+
+比起以前的N.F.T.头像项目，Bored Ape Yacht Club创造了丰富而详细的图标，这些图标来自其创始人的个人品味。
+
+Bored Ape Yacht Club最初的一批N.F.T.s带来了超过200万美元的收入。此后，该系列的交易额几乎达到了一亿美元，最便宜的猿猴往往能卖到近一万四千美元。近几个月来，该项目激发了一波类似的俱乐部，以及加密爱好者对N.F.T.头像的狂热。收藏家们可以从Cool Cats公司购买可爱的卡通猫，该公司在7月1日发布了数千只自己的N.F.T.，并在不久后售罄。(他们可以从Fame Lady Squad购买棱角分明的科幻女郎，从SupDucks购买朋克鸭子，从BYOPills购买三维渲染的药丸，从The Doge Pound购买可供记忆的柴犬，以及从Zenft Garden Society购买盆景树。每周都有新的项目推出，在推特上宣传他们的商品，推特是加密货币言论的主要公共场所，希望能反过来卖掉。"每个人都看到了无聊猿的成功，并开始迅速放弃自己的项目，"驻伦敦的策展咨询公司Electric Artefacts的创始人Aleksandra Artamonovskaja说，他已经购买和出售了一些N.F.T.化身。"我通过在互联网上交易jpeg图片来支付我的租金。这是我告诉我父母的。"
+
+每个化身俱乐部都是一个奇怪的组合，包括有门槛的在线社区、股票持有团体和艺术鉴赏协会。当一只猿猴（或猫或药丸或外星人）被高价买走时，这套头像中所有一万个真实的N.F.T.的感知价值就会上升，就像一幅画在拍卖会上拍出创纪录的价格可能会增加一个艺术家的整个作品的价值一样。当一个买家把他的Twitter头像变成一个新的N.F.T.俱乐部的图片时，这是一个忠诚的标志，也是一个信号，让俱乐部的其他买家在社交媒体上关注他。("我把照片改成了猩猩，第一天就有了几百个Twitter粉丝，"斯文森说。) 大多数俱乐部的中心是Discord，即实时聊天应用程序。Bored Ape游艇俱乐部的Discord服务器有超过一万三千名成员--粉丝以及N.F.T.所有者--并且在#crypto-talk和#sports-bar等频道中主持不断的讨论。这种相互投资，包括社交和金融，在更广泛的互联网混乱中形成了一种俱乐部成员之间的联系。
+
+"德鲁-奥斯汀(Drew Austin)告诉我，"当每个人都参与游戏时，它创造了一种新的动力，而不是每个人都能说他们想说的话，批评一切而不承担后果。无聊猿游艇俱乐部的创始人说，这种社区感在互联网上一直缺失。与他们多余的名声相反，N.F.T.s可以帮助填补这一空白。"我们希望你的无聊猿是你的数字身份，"创始人之一格格巫在最近的视频聊天中告诉我。它是一种收藏品，不是挂在墙上或摆在架子上，而是填充在屏幕空间的小方块或小圆圈中，这应该是代表你的自我。
+
+格格巫和他的联合创始人戈登-冈纳（两人都用假名）是不可能的技术推动者。在创办无聊的猿人游艇俱乐部之前，格格巫是一名作家和编辑。冈纳正计划参加一个文学硕士课程，但生病了，转而从事加密货币日间交易。这对都是三十多岁的人，是 "文学书呆子"，据格格巫说，他戴着线框眼镜，留着精心修剪的山羊胡。他们在迈阿密长大，十年前在一家酒吧喝酒时认识。贡纳胸前有纹身，他告诉我："我们就大卫-福斯特-华莱士的问题大吵大闹了一场。
+
+当格格巫和冈纳开始为N.F.T.项目进行头脑风暴时，今年年初，化身俱乐部是一个新生的趋势。格格巫和冈纳对CryptoPunks很熟悉，这是一批一万个像素化的人物，在2017年由一家名为LarvaLabs的公司发布后，成为N.F.T.市场的蓝筹艺术品。CryptoPunks，现在每个可以卖到20万美元，最初并不是社交头像俱乐部的基础，但一些收藏家（包括Jay-Z）把它们作为头像--炫耀一个作为你的个人资料照片，或 "P.F.P."，是数字魅力的终极象征。"拥有两个的奥斯汀说："这就像在N.F.T.空间里拥有一个哈佛学位。格格巫和冈纳也注意到了哈什面具的成功，这是一个艺术企业，在一月份卖出了16,384张N.F.T.图像，总价值超过一千六百万美元。这两个项目都是封闭的系统；他们的开发者没有承诺在最初的、有限的发布之外有任何扩展。格格巫和冈纳寻求一个他们可以随着时间推移不断发展的想法。"格格巫说："我们看到了制作具有更大故事弧度的东西的机会。
+
+二人早期考虑的一个想法是CryptoCuties，一组N.F.T.的 "女朋友"，但这让他们觉得太过迎合，更不用说令人毛骨悚然。(以男性为主的加密世界有时会让人感觉像兄弟会；最近的一个化身项目的创造者因为以眼睛变黑、嘴巴被胶带封住的女性形象为特色而招致批评，后来还道歉了）。另一个概念是一个共享的数字画布：任何人都可以在上面画画。但这似乎很容易被当作潜水酒吧的厕所墙。格格巫说："有人要在上面画的第一件事就是鸡巴"。不过，网上潜水酒吧的形象深深地吸引了这对夫妇，并由此形成了一条科幻式的故事线。这一年是2031年。在加密货币早期投资的人都已经成为亿万富翁。"现在他们只是他妈的无聊了。你现在做什么，你的财富超出你最疯狂的梦想？" Goner说。"你要在沼泽俱乐部里和一群猩猩一起玩，搞得很奇怪。" 为什么是人猿？用加密货币的说法，放弃购买一种新的货币或N.F.T.，冒着大量资金的风险，被称为 "模仿"。"我们也只是喜欢猿猴，"冈纳告诉我。
+
+一张酒吧内部的插图。
+
+无聊的猿人游艇俱乐部成员获得了他们所拥有的头像的商业权利。"人们用他们的猿猴创造的任何东西都会使品牌成长，"联合创始人Gordon Goner说。
+
+到目前为止，阿凡达项目倾向于采用低分辨率，通常是像素化的图像，具有8位视频游戏的风格。无论是人、猴子还是鬼魂，这些形象都相当普通。相比之下，Bored Ape游艇俱乐部从创始人的个人品味出发，创造了丰富而细致的图画。大沼泽地 "游艇俱乐部"（一个具有讽刺意味的称谓）的设置是为了唤起像丘吉尔酒吧这样的地方，丘吉尔酒吧是格格巫和冈纳经常光顾的一个老旧的迈阿密音乐场所。"我们深受八十年代硬核、朋克摇滚、九十年代嘻哈的启发，"冈纳说。"我们一直称自己为N.F.T.s的比斯蒂男孩"。从其网站上的世界末日提基酒吧的场景到猿猴本身的欢快风格，无聊猿游艇俱乐部感觉更像是一个三A级视频游戏的计划，而不是一个孤立的N.F.T.s.的组合。复杂的视觉效果、亚文化的时尚配件（Hot Topic的影子）和文学的矫饰，使无聊猿宇宙成为某种隐秘的男性人口的猫腻。"我们从海明威的冰山理论中吸取教训，"格格巫告诉我。"百分之十在顶部可见，所有的脚手架都建在下面。"
+
+来自《纽约客》的视频
+
+通过字谜抛出阴影
+
+格格巫和冈纳带来了另外两个朋友，他们是以No Sass和Emperor Tomato Ketchup为名的程序员，负责处理必要的区块链编码工作。为了执行项目的图形，他们聘请了专业的插画师，这占了他们大部分的前期成本（据该团体称，大约四万美元）。与许多头像俱乐部一样，卡通猿猴的特征随后被输入到一个算法程序中，该程序随机生成数千张具有独特的身体、头部、帽子和衣服组合的图像，就像数字装扮的娃娃。某些特征--彩虹色的皮毛、激光眼、长袍--很少出现，使得拥有这些特征的猿猴更受欢迎，因此更有价值。每张图片在最初的收藏者付款之前都是隐藏的，所以买一张图片有点像玩老虎机--得到一只具有正确特征排列的猿猴，你可以通过翻转它而获得巨大的利润。这也有点像参与多级营销计划。通常情况下，少量的加密货币爱好者每人购买数百个N.F.T.，然后在价格上涨时卖掉他们的囤积物；必须不断找到新的收藏者，以使以前的收藏者获利。
+
+大量的N.F.T.项目失败了，或者根本没有引发二级市场。创造者已经知道 "拉地毯"，放弃了一个冒险，带着收藏者的钱潜逃。Electric Artefacts的创始人Artamonovskaja推测，Bored Ape Yacht Club之所以能成功，是因为它相对容易获得。她告诉我："没有人买得起CryptoPunk，"。猿猴似乎是下一个最好的购买对象--"一个很酷的头像，价格也很合理"。Artamonovskaja在推出后不久就以1500美元左右的价格买下了一只猿，她现在后悔了；同一只猿（戴着Bored Ape Yacht Club品牌的棒球帽，有一种流行朋克的感觉）目前正以高达12000美元的价格出售。
+
+广告
+
+对于通过首次销售获得200万美元的创始人来说，发布新的N.F.T.s并不像印钱。形象的诙谐幽默掩盖了资本的巨大风险。投资者奥斯汀告诉我，他购买头像的方式就像 "稀释风险交易，这很有趣，因为我看到的是一只该死的无聊的猿猴。" 尽管如此，冈纳告诉我，他和其他创始人并不愿意把这些猿猴当作 "投资工具"。他补充说："如果你从艺术家和怪人经营对冲基金的角度来考虑，那会让我们心脏病发作。"
+
+与许多众筹项目一样，每个N.F.T.俱乐部的创建者在启动前为潜在的买家提供一份 "路线图"，解释他们将用筹集的资金做什么。他们承诺提供YouTube频道，捐赠给慈善机构，为收藏家提供额外的N.F.T.，以及实物商品。无聊的猿猴俱乐部已经出售了品牌棒球帽，向猿猴保护区捐赠了数十万美元，并为每位收藏者提供了一只狗的N.F.T.，由无聊的猿猴犬俱乐部提供。但它也是第一批为个人买家提供他们所拥有的猿猴的商业权利的俱乐部之一：每个成员都被允许为自己的项目或产品打上品牌，并独立销售它们。在俱乐部成立后的三个月里，无聊猿的主人将这些卡通灵长类动物放在精酿啤酒的生产线上，创建了YouTube系列动画，制作了彩绘复制品，并设计了滑板甲板。服装经销商凯尔-斯文森(Kyle Swenson)推出了一份名为《无聊猿报》的出版物，以报道该社区。一位业主将他们的猿猴命名为 "Jenkins the Valet"，给他一个作为游艇俱乐部首席八卦的背景故事，并正在为一本以猿猴为主题的小说进行众筹。(N.F.T.不是完全安全的--所有权仅由区块链上的一行代码表示，理论上任何人都可以复制猿猴图像并将其作为头像。但俱乐部对这种挪用行为进行监管。"加密推特有这样的理解：你就是不偷别人的头像，"Artamonovskaja告诉我）。
+
+对于大多数生产文化的品牌来说，无论是Supreme街头服饰、Marvel超级英雄，还是流行音乐，让知识产权自由流通是被禁止的；排他性是商业模式。相比之下，Bored Ape游艇俱乐部的创始人认为他们的开放性是一种资产。"Goner说："人们用他们的猿猴创造的任何东西都只会使品牌成长。正如硅谷的初创公司痴迷于 "可扩展 "的软件，以指数级增长来服务更多的用户，N.F.T.俱乐部的目标是可扩展的文化；像开源软件一样，他们的文化创造可以通过许多用户的努力有机地扩展，同时保持可识别性，形成一种用户产生的神话。现已解散的社交网络Vine的联合创始人、N.F.T.俱乐部项目Blitmap的创建者Dom Hofmann告诉我："这是在赌一种想法，即随着时间的推移，粉丝们可能知道什么对他们所关心的宇宙是最好的。" 投资人奥斯汀将无聊猿游艇俱乐部设想为未来潜在的 "去中心化的迪士尼"。
+
+在某种程度上，正是这种可能性使得购买N.F.T.俱乐部如此令人向往：购买热门的新头像可能就像获得了下一个米老鼠的一小部分权利。但是，对于启发无聊的猿人游艇俱乐部的朋克乐队来说，变得太大可以被解读为出卖了。是什么让一个团体变得很酷，是什么让它变得富有，并不一定一致。创业公司的创始人加里根在他的四只无聊猿中保留了两只。其中一只是戴着小帽和心形太阳镜的生物，被设定为他的Twitter头像--现在。"它越是与地位相关，我就越不愿意保留它，"加里根说。"如果一个俱乐部的唯一目的是'数字上涨'"--加密货币对价格上涨的呼喊--"那么，这就有点逊色了。"
+
+这篇文章的前一个版本对CryptoPunks的起源做了错误的描述。
+
+纽约客的最爱
+
+为什么走路有助于我们思考？
+
+Jeanne Calment是有史以来最年长的人--还是一个骗子？
+
+有史以来最好的六十二部纪录片。
+
+多莉-帕顿的美国。
+
+电子邮件是一个错误吗？
+
+人们如何学习变得有弹性。
+
+注册我们的每日新闻通讯，接收《纽约客》的最佳故事。
+
+凯尔-查伊卡是《纽约客》的特约撰稿人，也是《渴望更少》的作者。生活中的极简主义"。 

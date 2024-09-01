@@ -1,0 +1,4 @@
+# github baibanbao token
+tags = #github #wiki
+
+ d72dbc2f6ca045cf396cd59b90847705c877ec63

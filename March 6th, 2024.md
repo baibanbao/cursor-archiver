@@ -1,0 +1,84 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+        - 赞美主
+        - 感谢神信实的供应
+        - 感谢主赐给[[BTC]]
+    - 认罪悔改
+        - 为自己无谓的烦恼，而烦恼来自于无知。
+        - 为自己为世俗的事务分心，不安心祈祷。(拟定大纲的过程不属于祈祷)
+    - 祈求代求
+        - 为#[[Jonas]]的学习，求主使他能够安心安稳地学习，不要眼高手低，写字能够工整，有学习的自觉性。
+        - 为#[[Seven]]，求主怜悯她的辛苦
+        - 为家庭的供应，日常的收入来源
+        - 为保持创作的势头，而不是三分钟热度
+        - 为改变作息，健康减肥
+        - 为#[[SLBC]]
+            - 为#[[jfx]]一家
+            - 为[[郭瑞康]]
+                - 可以为我的睡眠祷告，求神帮助我能够不要有太多的思虑，能够在疲惫时很快的入睡。也为我能够更渴慕神的话语来祷告，让我在平时休息的时候，能够安排更多的时间和计划来读书、默想，并将神的话语和教导应用在自己的生活中。谢谢！
+    - Depth
+- [[Day Start]] 02:27
+- Daily Tasks
+    - {{[[TODO]]}} 更新公众号
+        - {{[[TODO]]}} 剪指甲
+        - {{[[TODO]]}} 打开Heptabase
+        - {{[[TODO]]}} 开始工作
+        - {{[[TODO]]}} 就是这么简单
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **02:27** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+    - 今晚上课，提前要发预告
+    - 不可迟到，早点安排好
+    - 状态不佳，嗓子毛毛的，被我取消了。
+- [[四季青青]]
+- [[Heptabase]]
+    - 马上要续费了，值，真值
+- [[Sora Camp]]
+- [[写书]]
+- #Finance
+- ---
+- 20:21 
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+        - 使我安心工作，不做它想
+    - Depth
+- [[Day Start]] 20:21
+- Daily Tasks
+    - {{[[TODO]]}} 更新公众号
+    - {{[[TODO]]}} 剪指甲
+    - {{[[TODO]]}} 打开Heptabase
+    - {{[[TODO]]}} 开始工作
+    - {{[[TODO]]}} 就是这么简单
+- ---
+- [[Daily Journal]] 
+    - [[Whisper键盘]]口述写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **20:21** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[一娱多吃]]
+    - 需要完成关于[[Rihanna]]的写作
+- [[写作GPTs]]
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+- ---

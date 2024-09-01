@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTc0MTQ3NzE4Nl5BMl5BanBnXkFtZTcwMzA4NDM5OQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Lee Hancock]]
+        - Writer:: [[Kelly Marcel]] [[Sue Smith]]
+        - Cast:: [[Emma Thompson]] [[Tom Hanks]] [[Annie Rose Buckley]]
+        - Year:: [[2013]]
+        - Genre:: #Biography #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt2140373
+    - **Plot Summary:** Author P.L. Travers reflects on her childhood after reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FVBgLMJAF-k.pdf?alt=media&token=77e1ea9e-8992-4919-be09-7c59e71a83a0}}

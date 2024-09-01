@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[James L. Brooks]]
+        - Writer:: [[Larry McMurtry]] [[James L Brooks]]
+        - Cast:: [[Shirley MacLaine]] [[Debra Winger]] [[Jack Nicholson]]
+        - Year:: [[1983]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0086425
+    - **Plot Summary:** Follows hard-to-please Aurora looking for love, and her daughter's family problems.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FDmxpy5hs4a.pdf?alt=media&token=62a13289-0759-4710-b19f-49685d344bf7}}

@@ -1,0 +1,91 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[April 27th, 2021]]
+- Hello again, fellow Roamans,
+In this letter, I cover some more of the latest happenings in our little corner of the internet, and I've also written a "first draft" of a tweetstorm that turned into an accidental essay on tagging practices in our tools for thought. Since it's quite long, I'm skipping this letter's Roaman Spotlight feature.
+- # Around the Roaman Empire
+    - ### RoamJS
+        - [[David Vargas]] has been busy lately, releasing a plethora of new extensions.
+        - First up, need a bit more [serendipity](https://roamjs.com/docs/extensions/serendipity) in your life? This extension has been out a few weeks now but you can have randomly chosen blocks from configured locations to show up on your Daily Notes page automatically each day.
+            - https://twitter.com/dvargas92495/status/1377344770297585664?s=20  #[[LFR/Letter XVII]]
+        - [Multi-select](https://roamjs.com/docs/extensions/multi-select): As a power-user, this is something I've wished was a native feature of Roam. In the meantime, David has implemented the ability to select multiple non-consecutive blocks to move, cut, copy and paste.
+            - https://twitter.com/dvargas92495/status/1385383043678957569?s=12 #[[LFR/Letter XVII]]
+        - And finally, [Sidebar](https://roamjs.com/docs/extensions/sidebar). If you like Roam's sidebar, this extension gives it super-powers. You can expand and collapse them all, save the sidebar configuration to bring back later and allow you to persist any filters you've selected for a page when you open the page in the sidebar.
+            - https://twitter.com/dvargas92495/status/1385052708806172675?s=12  #[[LFR/Letter XVII]]
+    - ### Mobile Roam
+        - The mobile experience has seen a bit of TLC lately with Kifah adding some welcome improvements to the action bar, making it much easier to add page and block references on the go!
+            - https://twitter.com/RoamResearch/status/1385282511543013377?s=20  #[[LFR/Letter XVII]]
+        - And [PhoneToRoam](https://www.phonetoroam.com/) keeps shipping more integrations to give you yet more ways to get things into Roam. Sign up and log in to get the instructions to install the integrations.
+            - If you're a mac user with Alfred, you might be particularly excited about the integration which lets you send things in straight from Alfred!
+                - https://twitter.com/phonetoroam/status/1382501051258003460?s=12  #[[LFR/Letter XVII]]
+            - And if you use Telegram, you can now send messages to their Telegram bot to magically appear in your Roam graph.
+                - https://twitter.com/phonetoroam/status/1384170295863382018?s=20  #[[LFR/Letter XVII]]
+    - ### Interstitial Journaling
+        - [This little smartblock](https://github.com/roamhacker/SmartBlocks/issues/219) from [[Fabrice Gallet]] is my latest favourite add-on to Roam. I have found huge benefits to [[Interstitial Journaling]] in Roam, and it was the addition of using time ranges over a single time-stamp that helped me to really understand where my [[time and attention leaks]] were.
+            - https://twitter.com/fbgallet/status/1384638139831144448?s=12  #[[LFR/Letter XVII]]
+        - And while we're talking about Fabrice, he has also created a [nice plugin](https://github.com/roamhacker/SmartBlocks/issues/218) that makes use of [[Roamhacker]]'s new [[workBench]] feature in [[Roam42]] to enable find and replace, and bulk processing of blocks. If you ever wanted to select several blocks and apply a tag to all of them quickly, now you can.
+            - https://twitter.com/fbgallet/status/1382483114023337984?s=20  #[[LFR/Letter XVII]]
+    - ### Roam Queries
+        - [[Robert Haisfield]] has discounted his [power user workshop on queries](https://robhaisfield.podia.com/path-to-power-users-leveraging-queries-v1) to $10 before he retires it. You've got until Star Wars day ([[May 4th, 2020]]) to get it before it's gone forever. If you want to really learn how to leverage queries in Roam, there's no one better to teach this!
+            - https://twitter.com/roambounties/status/1383519274057158668?s=12  #[[LFR/Letter XVII]]
+    - ### Roam Summit Replays
+        - Since [[LFR/Letter XVI]], there's been two Roam Summit events!
+            - First, was [an interview](https://www.youtube.com/watch?v=vyGaEQgIooU) with [[Nat Eliason]] [[April 22nd, 2021]] , where he shared some of his workflows and thoughts on Roam.
+                - {{[[video]]: https://www.youtube.com/watch?v=vyGaEQgIooU}}
+            - And then hot on its heels was another panel discussion, [Roam 101](https://www.youtube.com/watch?v=g8A07yBeWx4) for newer users to Roam with [[Ramses Oudt]], [[RJ Nestor]] and [[Jamie Miles]].
+                - {{[[video]]: https://www.youtube.com/watch?v=g8A07yBeWx4}}
+- # Thinking Out Loud
+    - Last week [[Roamhacker]] tweeted about sharing best practices for using tags in PKM. This is one of the perennial questions that students of my course ask. I've avoided writing too much on it so far because I don't know that we're close to "Best Practices" yet. However, here are some better practices that I've found to work well for me, or for others. I started to create a quick Twitter thread but it got rather long. So instead I thought I'd write it up in a little more detail and see what other practices LFR readers may have found successful.
+    - [[post/Better Practices for tagging in PKM]]
+        - ### Tools Matter
+            - I do think that tagging is also quite a personal thing. You have to find what works for you in your PKM tool of choice. My tool is [[Roam Research]].
+                - The tools themselves do matter. Not all tools work the same or provide the same abilities. What works well or is supported in one tool, may not be applicable in others.
+                    - For example, some will only let you use all lower-case, and single words. This is very limiting, and certainly forces certain choices to be made.
+                        - I've seen many in the Roam community ask for tags to be only lower-case or be case-insensitive. I don't agree, at all. I want the richer nuance available that case sensitivity provides. It gives you far more flexibility.
+                - Auto-completion is essential, ideally with a fuzzy search, so that you can find and use the same tags consistently.
+                - You'll make mistakes, or accidentally create a new tag so having a tool that makes it simple and easy to merge or rename them is also a really important feature to maintain your system. It ought to apply everywhere so you can rely on the fact that changing it once, changes it everywhere and any connections you made with it don't break.
+        - ### Conventions and Style
+            - Choose some conventions and styles and then stick to them. Here are some conventions you can use:
+                - lower-case
+                - Title Case
+                - UPPER-CASE
+                - camelCase
+                - snake_case
+                - name/space
+            - Case-sensitivity gives you more options. Conventions are particularly important in shared graphs if you need to do meaningful work together. However, as with everything there are trade-offs. Unless the tool makes it simple to add complex conventions then you are best to keep it simple so that your flow isn't disrupted and the tags can be added easily.
+                - As an example, in the Roam Collective project, they decree that pages should be all lower-case, except for Proper Nouns and collections.
+                    - https://twitter.com/brandontoner/status/1334668402020003841
+                - Use-case: Status
+                    - I use these to track things like the stage an article I'm writing is in. I use the convention of `status/ALL-CAPS`, for example:
+                        - `#status/IN-PROGRESS`
+                        - `#status/EDITING`
+                        - `#status/PUBLISHED`
+                    - Namespace and case helps them stand out in auto-completion. Namespaces group them and make autocompletion easier. Typing `status/` gives you the focused list of statuses to choose from.
+                    - Additionally, I use CSS to style each one so I can see the state visually.
+            - I like to use namespacing in tags to group them together and disambiguate terms. Use symbols consistently too.
+                - Use-case: Task Management
+                    - For example, if you use tags as part of your task management, consider reserving the `@` only for temporal tags. It provides a shorthand for completion and helps to disambiguate the common words, e.g. `#@today #@tomorrow #@this-week #@next-week`
+                - A few more symbols you might find helpful in your tag shortcuts journey: `#[[*]] #[[~]] #[[>>]] #[[/]] #[[\]]`
+            - ### Colour
+                - One of the nice things that Roam enables is the ability to easily apply colours and other styling to tags, while they don't show up in the auto-completion, they do make it immediately obvious when you have selected the wrong tag. Pick colours to identify and group tag types. (See my Zettelkasten example below).
+                    - Use-case: Zettelkasten
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffoxsoft%2FJwQz45Dgk9.png?alt=media&token=d73e1555-d82f-49aa-92f0-e606fc97c631)
+        - ### Context over Metadata
+            - In our rush to carry over practices from the more conventional page and folder system of note-taking, there is a lot of discussion around metadata best practices. I'm as guilty as anyone, blindly following advice with little thought as to why. One common one in particular is a "Tags" attribute, and then a list of tags you might think relate to the page. This is often too coarse, and the tags aren't necessarily that helpful in finding or resurfacing the right information later.
+                - Instead, tag (or in Roam specifically, use the inline page reference notation), preferring multi-word phrases that are more contextual to the block. Remember to stick to your chosen conventions. Your notes are for thinking; don't concern yourself with whether your notes are pretty or conform to grammar and punctuation norms. If you use the block for output later, you can easily clean these up with editing tools.
+                    - Additionally, I will use the hashtag notation at the end of the block to add more orthogonal associations or connections. This provides for more dense connections and deeper linking to the relevant blocks.
+                        - When you are adding the additional connections, think of the phrase "This reminds me of..." and add those specific phrases which come to mind.
+                        - For further reading, and a hat-tip to [[David Crandall]] ([@DavidCrandall_W](https://twitter.com/DavidCrandall_W)) who first introduced me to this idea.  https://davidcrandallwrites.com/the-case-against-metadata-tagging-in-roam/ 
+                - One further comment which is an exception to my page metadata rule above. If you do have some page-level tags listed at the top of your page in a single block, then you should nest the rest of your pages notes underneath them. Why? It will give you more ways to filter, query and resurface your notes later in more serendipitous ways because all the child blocks will inherit those top level tags.
+        - ### Categorisation
+            - Use deliberately misspelt words for categorisations. For example, don't tag quotations with tags using common words like `#quote`. Instead, use something more unique and deliberate. I like to append the words with an `x` - `#quotex`. Use this same idea for common tag uses. `#idea` becomes `#ideax`, `#thoughts` becomes `#thoughtx`. It's a long-held practice I picked up from http://bettermess.com/naming-files-and-avoiding-folders/. As this letter goes out, the site was down so you may want to visit the [internet archive](https://web.archive.org/web/20210130201636/http://bettermess.com/naming-files-and-avoiding-folders/).
+                - Use-case: #TK
+                    - Until very recently I had been calling this TBC, but then I learnt that in publishing circles it's known as TK, "To Kome". Deliberately misspelt. A tag I use to keep me in flow and remind me to come back and choose the right word, or that it isn't yet finished.
+        - ### "Hang Tags"
+            - I think I first heard this term from Cynthia Lou, which stuck in my mind. They are a shorthand convention for conveniently "hanging" things off. For example, resources I collect toward my [[12 Favourite Problems]], are consistently tagged with `#12-<unique word indicating the problem>`. [*](((GbhAKk4Ex)))
+                - E.g. "How do I become a better note-taker?": `#12-note-taking`
+            - In my experience, you want to limit these to more specific purposes and your most frequent use-cases. If you have to think too hard to apply the right one, it's too much friction and takes you away from flow and ease.
+        - ### Meta
+            - Create a [[meta/tags]] page, and pin it to your shortcuts. Take a bit of time to think through your main use cases for tags and define your conventions and styles and list our your primary tags that you expect to use. Refer to this page often as you learn and internalise them. Adjust and maintain the page. It can also conveniently act as a dashboard to these areas.
+            - Ruthlessly prune and merge your key tags. The M in [[PKM]] is Management. This means you need to manage things. Yes, we want technology to work for us, but I don't believe we should necessarily automate everything. It's our knowledge we're building. The tools are to augment that. We shouldn't be deferring our decision making to an algorithm mindlessly. I should choose actively whether something is tagged one way or another. Don't view it as extra work. It's a chance to happen upon past thoughts, a form of spaced repetition if you will. You might be surprised at some of the things you already wrote, and you'll see new connections. This is the time to add those too. This is [[Active Knowledge Management]].
+    - I’d love to hear about any tagging methods you’ve found success with, or indeed any tagging horror stories or attempts which didn't stand the test of time. I'm inspired to write the guide I've long been putting off, a comprehensive guide to better tagging practices and I’ll try to incorporate them.

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Alec Coppel]] [[Samuel A Taylor]] [[Pierre Boileau]]
+        - Cast:: [[James Stewart]] [[Kim Novak]] [[Barbara Bel Geddes]]
+        - Year:: [[1958]]
+        - Genre:: #Mystery #Romance #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0052357
+    - **Plot Summary:** A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FVu1JWOqSdR.pdf?alt=media&token=0a5882df-6b6d-4a8d-97ce-cda7641659f3}}

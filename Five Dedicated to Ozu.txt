@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMWFmYWM3ZjItMDk5Yi00YjQ5LTllMDAtNTAzNjc3OWY4M2E5XkEyXkFqcGdeQXVyNTU0NzM2OTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Abbas Kiarostami]]
+        - Writer:: [[Abbas Kiarostami]]
+        - Cast:: [[N/A]]
+        - Year:: [[2003]]
+        - Genre:: #Documentary
+    - **IMDb:** https://www.imdb.com/title/tt0409965
+    - **Plot Summary:** Five sequences : 1) A piece of driftwood on the seashore, carried about by the waves 2) People walking on the seashore. The oldest ones stop by, look at the sea, then go away 3) Blurry shapes on a winter beach. A herd of dogs. A l...

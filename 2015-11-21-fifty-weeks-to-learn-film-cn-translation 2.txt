@@ -1,0 +1,106 @@
+---
+layout: note
+title: 50周学电影
+categories: moive
+tags: 写作
+---
+
+## 50周学电影
+
+作者：马克·卡曾斯 （Mark Cousins）
+译者：王佩
+原载：《视与听》杂志（Sight & Sound）2014年第12期－2015年第1期
+
+### （本文未经译者书面许可，请勿转载。）
+
+**【译者按】 马克·卡曾斯 （Mark Cousins）是英国著名电影研究学者，他的著作对于中国读者来说并不陌生，至少有两本已经译成了中文。一本是[《电影的故事》（The Story of Film） ](http://book.douban.com/subject/1915388/)，一本是[《宽银幕》 ](http://book.douban.com/subject/5405636/)（Widescreen）。2011年，他在《电影的故事》一书基础上，自编自导，拍摄了15集纪录片[《电影史话》（The Story of Film：An Odyssey） ](http://movie.douban.com/subject/6793337/)。**
+
+**英国《视与听》杂志，分两期刊登了他的[50 weeks to learn film](http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/50-weeks-learn-film)。卡曾斯编写这个横跨一年的电影教学大纲，并非真的用它来教学。而是金针度人，对商业化和教条化的电影教育说No，对培养想象力的教育说Yes。在《电影史话》中，他开宗明义地提出：「 推动电影一直前进的不是金钱和名利，而是激情与创造力。」 **
+
+**带着我们的想象力，跟卡曾斯一起上路吧。以下是正文。**
+
+### 前言
+
+要不要在电影学院的教材中放一枚炸弹，看看碎片都落到何处？要不要把大学电影课的教材装进火箭发射上天，看碎屑散落回大地，Nicolas Roeg导演的[Eureka (1983)](http://www.imdb.com/title/tt0083906/)一样的高潮一样，Jack McCann在北极找到了金子摔倒在地上。（Eureka是一部不出名的电影，但卡曾斯对它评价甚高，并在《视与听》杂志每十年一次的评选中，将其列为自己最喜欢的十大电影之一。--译注）
+
+不可否认，在电影学院和电影教程中，也有很多好东西，伟大的人物经常在那里授课。但是，他们也往往把电影本来的意义给丢失了。具体地说，他们在应当唤醒学生们对于这个世界的感觉的时候，却教了一堆关于设备和制作的知识。这个问题愈发值得重视，因为单单在英国就有上百个电影课程，如果算上全球的话，电影课的总数至少有五位数。再加上手机用户达45亿其中至少10亿可以拍视频（难不成是爱迪生和卢米埃兄弟释放出的病毒？）这一事实，你有充足的理由问问：电影课应当怎么教？
+
+以下是我的回答。我刚刚读完沃纳·赫尔佐格（Weiner Herzog）的新书[Werner Herzog: A Guide for the Perplexed: Conversations with Paul Cronin: Paul Cronin: 9780571259779: Amazon.com: Books](http://www.amazon.com/Werner-Herzog-Perplexed-Conversations-Cronin/dp/0571259774/ref=sr_1_3?ie=UTF8&qid=1447954412&sr=8-3&keywords=A+Guide+for+the+Perplexed)《迷津指南》），并且参观了德国魏玛的包豪斯博物馆，在那里看到了一些极端的培养创造力和手艺的教学方法。同时，我还很幸运地与Samira Makhmalbaf（[莎米拉·玛克玛尔巴夫 ](http://movie.douban.com/celebrity/1005341/)，伊朗女导演，作品有《苹果》《黑板》《下午五点》。—译注）有过交谈，谈到她的父亲Mohsen Makhmalbaf（[莫森·玛克玛尔巴夫](http://movie.douban.com/celebrity/1117657/)，伊朗影坛泰斗，其地位超过阿巴斯。自创电影教育法，培养出满门电影豪杰。—译注）在伊朗如何教自己的孩子进行电影制作的。故而，我的建议不那么循规蹈矩的。
+
+我的教程叫"50周学电影"。学习伟大的美国戏剧导演和教育家Peter Sellars，在开堂第一课，我就宣布学生们都通过了，但是，最难的部分也开始了。接着，我们拿出一副卡片，整整50张，每张写着一周的主题或项目。我们洗完牌后，排成一列，这一列就是我们的课程表。
+
+究竟有哪些主题呢？深呼吸吧！
+
+1. 色彩：歌德的颜色论，阴影中的颜色（歌德反对牛顿对于光学和色彩的粗暴解释，花了40年研究色彩学，并且写了一部专著[《颜色论》](https://archive.org/details/goethestheoryco01goetgoog)，其理论当时不被重视，但日渐受到后世思想家如维特根斯坦等人的重视。--译注）。大自然中的色彩，苏格兰刘易斯-哈里斯岛（Harris and Lewis）的颜色。[雅克·德米 ](http://movie.douban.com/celebrity/1018333/)（Jacques Demy）电影中的化妆和设计。
+2. 视线：Oliver Hardy看镜头的样子。俄罗斯传统圣母肖像的视线（她似乎在注视着你，实际上没在注视）。[乔治·库克（George Cukor） ](http://movie.douban.com/celebrity/1010711/)和小津安二郎电影中的视线。
+3. 婚礼电影：很多赚钱的电影（按照成本收益比例衡量）都与婚礼有关。下列影片为什么成功？我们从中又能学到什么？[《喜宴》（The Wedding Banquet） ](http://movie.douban.com/subject/1303037/), [《我盛大的希腊婚礼》（My Big Fat Greek Wedding） ](http://movie.douban.com/subject/1299576/), [《季风婚宴》（Monsoon Wedding） ](http://movie.douban.com/subject/1307772/), [《四个婚礼和一个葬礼》（ Four Weddings and a Funeral） ](http://movie.douban.com/subject/1294950/), [《穆丽尔的婚礼》（Muriel’s Wedding） ](http://movie.douban.com/subject/1293313/), [《伴娘》（Bridesmaids,） ](http://movie.douban.com/subject/3880545/), [《妈妈咪呀》（Mamma Mia!） ](http://movie.douban.com/subject/2054024/)。
+4. 画裸体肖像。
+5. 视点：[努里·比格·锡兰（Nuri Bilge Ceylan） ](http://movie.douban.com/celebrity/1274329/)，希区柯克（Hitchcock），[琪拉·穆拉托娃（ Kira Muratova）](http://movie.douban.com/celebrity/1040878/)Kira Muratova，达芬奇，[曼帖那（Mantegna）](http://vr.theatre.ntu.edu.tw/fineart/painter-wt/mantegna/mantegna.htm)。
+6. 个人痴迷的符号：下曼哈顿之于斯科西斯（Scorsese），Dora Maar的脸之于毕加索，Gelmeroda的大教堂之于[Lyonel Feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger)。学生们选一个属于自己的符号，每天做一部不同的电影。
+7. 研究大自然：1910年代的北欧电影，[多雷Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer)的插画作品，卢梭（Rousseau）的文章。
+8. 思想与意识：弗吉尼亚·伍尔夫（ Virginia Woolf），詹姆斯·乔伊斯（James Joyce），费里尼（Federico Fellini），斯科西斯，[Forough Farrokhzad](https://en.wikipedia.org/wiki/Forough_Farrokhzad)（伊朗女诗人、导演）。
+9. 意大利13－14世纪的绘画是如何讲故事、布局以及传递情感的。Duccio, Cimabue, Giotto的作品，参观意大利的（[史柯洛维尼礼拜堂Scrovegni Chapel](https://en.wikipedia.org/wiki/Scrovegni_Chapel)）（此处有乔托绘制的38幅壁画，描绘了圣母和耶稣的生平。在普通人根本无法阅读圣经的中世纪，这类油画承担着教育信众的作用。在视觉叙事方面，具有独特的魅力与价值。这也是卡曾斯推崇它的原因。--译注）
+10. 远行：每个学生消失一个礼拜，不留任何联系方式。
+11. 他人的生活：本周学生们体验一种全然陌生的生活。
+12. 拷问真相：纪录片[《前进，神军！》（The Emperor's Naked Army Marches On） ](http://movie.douban.com/subject/1308082/)，学习如何突破禁忌去表现真相。
+13. 升华：沃纳·赫尔佐格， [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich)和[Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke)。
+14. 三分钟流行歌曲的叙事技巧：The Kinks, Squeeze, PJ Harvey.
+15. 说服的艺术：学会怎样说服管事的人让你进入某些场所（就像赫尔佐格所说的：「随身带着开锁工具」）。
+16. 故事中的悬疑：希区柯克，斯蒂芬·金（Stephen King）， [Patricia Highsmith](https://en.wikipedia.org/wiki/Patricia_Highsmith)（美国小说家，作品有《火车怪客》--译注）, 默罕默德-阿里·塔勒比[Mohammad-Ali Talebi](http://www.imdb.com/name/nm0848017/) （伊朗导演--译注）.
+17. 诗学：亚里士多德，大卫·林奇（David Lynch），建筑师柯布西耶 [Le Corbusier](https://en.wikipedia.org/wiki/Le_Corbusier) ，导演帕索里尼（Pier Paolo Pasolini）。
+18. 万邦欢笑：世界各地的喜剧电影。
+19. 复仇与暴力：[迪吉布利尔·迪奥普·曼贝提（Djibril Diop Mambéty） ](http://movie.douban.com/celebrity/1282465/)，昆丁·塔伦蒂诺（Quentin Tarantino），吴宇森。
+20. 运动和布局：学习徐克、胡金铨、奥尔逊·威尔斯（Orson Welles）的电影，还有[Tintoretto](https://en.wikipedia.org/wiki/Tintoretto)的绘画。
+21. 声音的诗学：[琪拉·穆拉托娃（Kira Muratova） ](http://movie.douban.com/celebrity/1040878/)， [保罗·托马斯·安德森（Thomas Anderson）](http://movie.douban.com/celebrity/1054388/)，希区柯克， [沃尔特·默奇（Walter Murch）](http://movie.douban.com/celebrity/1009621/)
+22. 音乐周：全部在黑暗中授课。
+23. 你从没有见过的：从来没有在屏幕上出现过的生活，研究[Kim Longinotto](http://www.imdb.com/name/nm0519354/), [约翰·塞尔斯（John Sayles）](http://movie.douban.com/celebrity/1027929/)， [Anand Patwardhan](http://www.imdb.com/name/nm0666674/?ref_=fn_al_nm_1) 和[肯尼思·安格（Kenneth Anger.）](http://movie.douban.com/celebrity/1007163/)。
+24. 语气语调。如何分辨：研究以下导演和画家所带来的与众不同的视觉与感觉：约翰·福特（John Ford），[阿彼察邦·韦拉斯哈古（Apichatpong Weerasethakul）](http://movie.douban.com/celebrity/1009499/)，[迈克尔·曼（Michael Mann）](http://movie.douban.com/celebrity/1007003/)，画家[弗兰西斯·培根（Francis Bacon）](https://en.wikipedia.org/wiki/Francis_Bacon_(artist))的绘画。
+25. 表演学：放一个礼拜[Nicolas Roeg](http://www.imdb.com/name/nm0001676/?ref_=fn_al_nm_1)和[Donald Cammell](http://www.imdb.com/name/nm0131910/?ref_=fn_al_nm_1)的电影，让学生接受变化。
+26. 电影结尾：库布里克《2001》的结尾，小津安二郎电影的结尾，[克莱尔·德尼（Claire Denis） ](http://movie.douban.com/celebrity/1045155/)的[军中禁恋（Beau travail） ](http://movie.douban.com/subject/1306791/)，今村昌平的《Tales from the Southern Islands》（没有查到是哪部电影—译注），安东尼奥尼的《蚀》（L’eclisse），比利·怀尔德（Billy Wilder’s ）的《公寓春光》（The Apartment）。
+27. 哭泣心理学：哭泣和伤感缺陷，[道格拉斯·塞克（Douglas Sirk）](http://movie.douban.com/celebrity/1045206/)。学习忍住哭泣。《生活多美好》的结尾。
+28. LSD迷幻剂：如果学生愿意尝试，就让他们尝试，如果愿意被拍摄，就拍成电影。带着这种经验再来研究康定斯基（Kandinsky，俄国画家，抽象派创始人。）[具体音乐](https://zh.wikipedia.org/zh/%E5%85%B7%E4%BD%93%E9%9F%B3%E4%B9%90)，超现实主义，大卫·林奇，[梅雅·黛伦（Maya Deren）](http://movie.douban.com/celebrity/1045433/)，[Jonathan Glazer](http://www.imdb.com/name/nm0322242/?ref_=fn_al_nm_1)的电影。
+29. 破坏偶像主义（Iconoclasm）及媒体肖像：访问伊朗的[伊斯法罕（Isfahan）](https://en.wikipedia.org/wiki/Isfahan)世界遗产。
+30. 采访：电影人采访别人等于是采访自己。本周学习那些最好的采访，无论是电影、电视、广播、还是纸媒。巴黎评论，[Paul Morley](https://en.wikipedia.org/wiki/Paul_Morley)，[Face to Face (British TV series)](https://en.wikipedia.org/wiki/Face_to_Face_(British_TV_series))等。
+31. 秘密：学习带着秘密的电影：《哭泣游戏》（The Crying Game），《迷魂记》（Vertigo），《非常嫌疑犯》（The Usual Suspects），阿巴斯的“村庄三部曲”（《何处是我朋友的家》《橄榄树下的情人》《[生生长流 ](http://movie.douban.com/subject/1303471/)》）。如何制造悬念，如何让悬念风格化，奏效，有什么最好的办法能达成悬念。本周的课程包括让学生们亲身体会一次悬念与情节大逆转。
+32. 边疆：学生们在意大利的[Lampedusa](https://en.wikipedia.org/wiki/Lampedusa)岛过一周，或者去一些移民聚集而人权状况差的地方。
+33. 性：在电影中如何处理性，看看下面这些作品是怎么做的：[L'Origine du monde](https://en.wikipedia.org/wiki/L%27Origine_du_monde)，戈达尔（Jean-Luc Godard）、[卡特琳·布雷亚（Catherine Breillat）](http://movie.douban.com/celebrity/1009470/)、[苏莱曼·西塞（Souleymane Cissé）](http://movie.douban.com/celebrity/1045544/)
+34. 刘别谦（Lubitsch）：看他五部默片，想想为什么成功？
+35. 惊慌与冷静：打架或飞行时的心理学，在故事与电影中如何处理。看徐克、[阿彼察邦·韦拉斯哈古（ Apichatpong）](http://movie.douban.com/celebrity/1009499/)的作品，还有[杰克·莱蒙（Jack Lemmon）](http://movie.douban.com/celebrity/1007006/)的表演。
+36. 人脸：如何看，如何拍，如何隐藏，看看伦勃朗的画，侯麦的电影，还是有巩俐、阮玲玉、[高峰秀子 ](http://movie.douban.com/celebrity/1003506/)的表演。
+37. 记忆：以下大师的作品--莎翁，莱翁内，[Guru Dutt](http://www.imdb.com/name/nm0244870/)、[Moufida Tlatli](http://www.imdb.com/name/nm0864741/)、[阿伦·雷乃（Alain Resnais.）](http://movie.douban.com/celebrity/1054387/)
+38. 自我：如何把自我放进我的电影中。看看[阿涅斯·瓦尔达（Agnès Varda）](http://movie.douban.com/celebrity/1019157/)、特吕弗（François Truffaut）、约翰·福特的电影，还有弗吉尼亚·伍尔夫的作品。
+39. 精确表达：如何避免过于直白、不动脑子的对话（On the nose dialogue），让观众易猜的故事，以及用滥了的隐喻。
+40. 沉默。一个礼拜不说话，「我不是用嘴巴，而是用耳朵来讲故事。」
+41. 电影开头：伟大的电影开头，为什么它们凑效。《蓝丝绒》（Blue Velvet），[《纸花》（Kaagaz Ke Phoo）](http://movie.douban.com/subject/2264801/)，《惊魂记》（Psycho）。
+42. 化妆和故事：《花样年华》，The Conformist（应该是指贝托鲁奇的[《同流者》](http://movie.douban.com/subject/1300955/)—译注），[《红衫泪痕》（Jezebel）](http://movie.douban.com/subject/1293468/)，《红色沙漠》（The Red Desert），[《蜘蛛巢城》（Throne of Blood.）](http://movie.douban.com/subject/1294827/)
+43. 重新剪辑：对一些有缺陷的电影进行重新剪辑，比如叙事节奏一塌糊涂、结局糟糕、结局太多、场景累赘的电影，斯皮尔伯格的《世界大战》（War of the Worlds），[《怪谈》（Kwaidan） ](http://movie.douban.com/subject/1303083/)，巴西电影[《界限》（Limite） ](http://movie.douban.com/subject/1925767/)。
+44. 重新配乐：给伟大的电影场景配上新的音响和音乐，例如《惊魂记》里的淋浴，塔可夫斯基《镜子》的结尾，斯科西斯《出租车司机》的开场，整部[《森林王子》（The Jungle Book）](http://movie.douban.com/subject/1293426/)
+45. 生命：阅读克尔凯郭尔，西蒙·波伏娃，老子，蒙田，乔治·艾略特，边沁，[克拉丽斯·利斯佩克托（Clarice Lispector）](https://zh.wikipedia.org/wiki/%E5%85%8B%E6%8B%89%E4%B8%BD%E6%96%AF%C2%B7%E5%88%A9%E6%96%AF%E4%BD%A9%E5%85%8B%E6%89%98)， [阿马蒂亚·库马尔·森（Amartya Sen）](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE)， 耶稣，荣格，瓦尔特·本雅明，[约瑟夫·布罗茨基（Joseph Brodsky,）](http://baike.baidu.com/view/168155.htm)， 庞蒂（Merleau-Ponty）。
+46. 爱：在以下导演的作品中去找：[莎米拉·玛克玛尔巴夫（Samira Makhmalbaf）](http://movie.douban.com/celebrity/1005341/)，[琼·迪丹（Joan Didion）](http://www.imdb.com/name/nm0225820/)， [弗兰克·鲍沙其（Frank Borzage）](http://movie.douban.com/celebrity/1054353/)，[霍华德·霍克斯（Howard Hawks）](http://movie.douban.com/celebrity/1019118/)
+47. 死亡与悲痛：[《楢山节考》](http://movie.douban.com/subject/1296703/)、《J-horror》（没查到究竟是哪部电影—译注）、《红蓝白》之《蓝》、[爱 ](http://movie.douban.com/subject/4798707/)、[《鬼书》（The Babadook）](http://movie.douban.com/subject/25785812/)、《地心引力》（Gravity）。
+48. 看基斯洛夫斯基的《十诫》，还有 [Stanley Donen](http://www.imdb.com/name/nm0002045/)导演的十部电影，修改其中之一。
+49. 反转地球：一年中最神奇的时刻。重新找到我们已经学过的。
+50. 销毁：学生们把50天教程的笔记统统销毁，并且自己写出下一年50课的主题和提纲。
+
+谢天谢地写完了，我已经绞尽脑汁，学生们也一定精疲力尽，希望如此。
+
+这正是本教程的意义所在。这样的学习一定是个负担，是碾压，是对情绪、感觉、价值观和手艺的冲击。也许以上内容对你来说，好像来自另外一个世界（想想那些批准教材的人会怎么想吧），但是，考虑到你以后将要遇到的激流险滩，以上训练还是有大有裨益的。
+
+### （本文未经译者书面许可，请勿转载。）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

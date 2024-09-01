@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[George Lucas]]
+        - Writer:: [[George Lucas]]
+        - Cast:: [[Mark Hamill]] [[Harrison Ford]] [[Carrie Fisher]]
+        - Year:: [[1977]]
+        - Genre:: #Action #Adventure #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0076759
+    - **Plot Summary:** Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...

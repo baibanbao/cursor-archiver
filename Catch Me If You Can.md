@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Jeff Nathanson]] [[Frank Abagnale Jr]] [[Stan Redding]]
+        - Cast:: [[Leonardo DiCaprio]] [[Tom Hanks]] [[Christopher Walken]]
+        - Year:: [[2002]]
+        - Genre:: #Biography #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0264464
+    - **Plot Summary:** Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FAOs9zR33yU.pdf?alt=media&token=ebc5246a-e455-4060-bade-f5fa095c2dee}}

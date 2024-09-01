@@ -1,0 +1,355 @@
+﻿专制者的弱点
+
+一位研究斯大林的专家讨论了普京、俄罗斯和西方。
+
+作者：David Remnick
+
+原文：https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin
+
+Deepl机翻
+
+2022年3月11日
+
+"俄罗斯专家斯蒂芬-科特金（Stephen Kotkin）说："令人震惊的是，已经发生了这么多变化，但我们仍然看到他们无法摆脱的这种模式。
+
+斯蒂芬-科特金是我们最深刻和最出色的俄罗斯历史研究学者之一。他的代表作是《约瑟夫-斯大林传》。到目前为止，他已经出版了两卷--《权力的悖论，1878-1928》，该书曾入围普利策奖，以及《等待希特勒，1929-1941》。第三卷将讲述第二次世界大战期间的故事；1953年斯大林的死亡；以及塑造了苏联其余经历的极权主义遗产。利用莫斯科和其他地方长期被禁止的档案，科特金写了一本斯大林的传记，超过了艾萨克-多伊切尔、罗伯特-康奎斯特、罗伯特-C-塔克和无数其他人的作品。
+
+科特金在学术界有很高的声誉。他是普林斯顿大学的历史教授和斯坦福大学胡佛研究所的高级研究员。他在当代俄罗斯的各个领域有无数的消息来源：政府、商业、文化。他既讲原则又务实，而且比我认识的任何记者或分析家都更深入。自从多年前我们在莫斯科相遇--科特金当时正在对斯大林时期的工业城市马格尼托哥尔斯克进行研究--我发现他对从普京政权的结构到其在俄罗斯历史上的根源的一切指导都是非常宝贵的。
+
+[获取了解乌克兰战争所需的深入分析和实地报道。今天订阅"]
+
+本周早些时候，我与科特金谈到了普京、对乌克兰的入侵、美国和欧洲的反应，以及接下来的事情，包括莫斯科发生宫廷政变的可能性。我们的对话出现在上面的视频中，为保证长度和清晰度，我们进行了编辑。
+
+我们一直听到过去和现在的声音说，正如乔治-肯南所说，所发生的事情的原因是北约东扩的战略失误。大国现实主义派历史学家约翰-米尔斯海默（John Mearsheimer）坚持认为，我们所看到的一切，很大程度上必须归咎于美国。我想我们应该从你对这个论点的分析开始。
+
+我对乔治-肯南只有最大的尊重。约翰-米尔斯海默是一个巨大的学者。但我尊重地不同意。他们的论点的问题在于，它假定，如果北约没有扩张，俄罗斯就不会是现在的样子，或者很可能接近今天的样子。我们今天在俄罗斯的情况并不是某种惊喜。这并不是对历史模式的某种偏离。在北约存在之前，即19世纪，俄罗斯是这样的：它有一个专制者。它有镇压。它有军国主义。它对外国人和西方有怀疑。这是一个我们所知道的俄罗斯，它不是一个昨天或19世纪才出现的俄罗斯。这并不是对西方行动的回应。我们今天的处境是由俄罗斯的内部进程造成的。
+
+我甚至会走得更远。我想说的是，北约的扩张使我们处于一个更好的位置，来处理我们今天再次看到的俄罗斯的这种历史模式。如果波兰或波罗的海国家没有加入北约，我们现在会在哪里？他们会处于同样的困境，处于和乌克兰一样的世界。事实上，波兰在北约的成员资格使北约的脊梁更加坚硬。与其他一些北约国家不同的是，波兰已经多次与俄罗斯抗衡。事实上，你可以说，俄罗斯对波兰打碎了两次牙齿：第一次是在十九世纪，导致二十世纪，第二次是在苏联结束时，团结一致。因此，乔治-肯南是一位令人难以置信的重要学者和实践者--有史以来最伟大的俄罗斯专家，但我只是不认为指责西方是对我们所处状况的正确分析。
+
+当你谈到俄罗斯的内部动态时，这让我想起了六年前你为《外交事务》写的一篇文章，文章开头说："半世纪以来，俄罗斯外交政策的特点是野心膨胀，超出了国家的能力。从16世纪伊凡雷帝统治时期开始，数百年来，俄罗斯设法以平均每天50平方英里的速度扩张，最终覆盖了地球陆地的六分之一。" 你接着描述了俄罗斯崛起的三个 "短暂的时刻"：首先是在彼得大帝统治时期，然后是亚历山大一世对拿破仑的胜利，当然还有斯大林对希特勒的胜利。然后你说，"除了这些高水位，俄罗斯几乎一直是一个相对较弱的大国"。我想知道你是否可以扩展这一点，谈谈俄罗斯的内部动态如何导致普京领导下的当前时刻。
+
+我们有过关于伊拉克的辩论。是伊拉克因为萨达姆而变成这样，还是萨达姆因为伊拉克而变成这样？换句话说，有个性，这是不可否认的，但也有塑造个性的结构性因素。我在斯大林的书中提出的一个论点是，作为独裁者，在那种情况下和那个时期负责俄罗斯在世界上的权力，使斯大林成为了他，而不是相反。
+
+广告
+
+俄罗斯是一个了不起的文明：在艺术、音乐、文学、舞蹈、电影。在每一个领域，它都是一个深刻的、非凡的地方--一个完整的文明，而不仅仅是一个国家。同时，俄罗斯觉得它在世界有一个 "特殊的位置"，有一个特殊的使命。它是东正教，而不是西方。而且它想作为一个大国脱颖而出。它的问题一直不是这种自我或身份意识，而是它的能力从来没有与它的愿望相匹配的事实。它总是在为实现这些愿望而奋斗，但它无法做到，因为西方总是更强大。
+
+俄罗斯是一个大国，但不是大国，除了你刚才列举的历史上的那几个时刻。在试图与西方相匹敌或至少管理俄罗斯和西方之间的差异时，他们诉诸于胁迫。他们使用一种非常沉重的以国家为中心的方法，试图在军事上和经济上将国家向前和向上打，以匹配或与西方竞争。这在一段时间内是有效的，但非常表面化。俄罗斯有一个经济增长的高峰期，它建立了自己的军队，然后，当然，它遇到了一堵墙。然后它有一个长期的停滞期，问题变得更糟。解决问题的努力使问题恶化了，与西方的差距也扩大了。西方有技术，有经济增长，有更强大的军队。
+
+在俄罗斯历史上，这种动态最糟糕的部分是将俄罗斯国家与个人统治者混为一谈。他们没有得到他们想要的强大国家，来管理与西方的鸿沟，推动和迫使俄罗斯达到最高水平，而是得到了一个个人主义政权。他们得到的是一个独裁政权，这通常会变成一个专制主义。他们陷入这种困境已经有一段时间了，因为他们不能放弃那种特殊主义的感觉，不能放弃成为最伟大的大国的愿望，但他们在现实中无法与之匹配。欧亚大陆只是比英美的权力模式弱得多。伊朗、俄罗斯和中国，有着非常相似的模式，都在试图抓住西方，试图管理西方和这种权力的差异。
+
+什么是普京主义？它和斯大林主义不一样。它当然与习近平的中国或伊朗的政权不一样。它的特点是什么，为什么这些特点会导致它想要入侵乌克兰，这似乎是一个非常愚蠢的行为，更不用说是野蛮的行为？
+
+是的，好吧，战争通常是一种误判。它是基于那些没有得到证实的假设，那些你认为是真的或希望是真的事情。当然，这和斯大林或沙皇的政权也不一样了。已经发生了巨大的变化：城市化，教育水平提高。外面的世界已经被改变了。而这就是震惊。令人震惊的是，已经发生了这么多变化，但我们仍然看到他们无法摆脱的这种模式。
+
+你有一个掌权的专制者，或者甚至现在是一个专制者，完全由他自己做决定。他是否得到其他人的意见？也许吧。我们不知道他的内心是什么样子的。他注意到了吗？我们不知道。他们是否给他带来了他不想听的信息？这似乎不太可能。他是否认为自己比其他人更了解情况？这似乎很有可能。他是否相信自己的宣传或自己对世界的阴谋论观点？这似乎也很有可能。这些都是猜测。很少有人与普京交谈，无论是内部的俄罗斯人还是外国人。
+
+因此，我们认为，但我们不知道，他没有得到全面的信息。他得到的是他想听的。在任何情况下，他都认为自己更优越、更聪明。这就是专制主义的问题。这就是为什么专制主义，甚至只是威权主义，是全能的，同时也是脆弱的。专制主义创造了它自己被破坏的环境。信息越来越差。谄媚者的数量越来越多。纠正机制变得更少。而错误的后果也变得更为严重。
+
+普京似乎认为，乌克兰不是一个真正的国家，乌克兰人民也不是一个真正的民族，他们与俄罗斯人是一个民族。他认为，乌克兰政府是一个推手。他相信别人告诉他的或他想相信的关于他自己的军队的情况，即军队已经现代化到可以组织不是军事入侵而是闪电政变的地步，在几天内拿下基辅，要么建立一个傀儡政府，要么迫使现任政府和总统签署一些文件。
+
+但想想1968年8月的 "布拉格之春 "吧。勃列日涅夫派出华沙条约组织的坦克来阻止 "有人性的社会主义"，即亚历山大-杜布切克的共产主义改革运动。勃列日涅夫不断地告诉杜布切克，停止吧。不要那样做。你在毁掉共产主义。而且，如果你不停止，我们就会进来。勃列日涅夫进来了，他们把杜布切克和捷克斯洛伐克的其他领导人带回了莫斯科。他们没有一个傀儡政权可以安装。在克里姆林宫，勃列日涅夫正在问杜布切克，在把坦克送进去并抓住他之后，他们现在应该怎么做？这看起来很荒唐，也很荒唐。但是，当然，它是基于错误的计算和误解。于是，他们把杜布切克送回捷克斯洛伐克，他继续执政[直到1969年4月]，在坦克进来粉碎布拉格之春之后。
+
+广告
+
+另一个例子是1979年发生在阿富汗的事情。苏联并没有入侵阿富汗。它在阿富汗发动了政变，派遣特种部队进入首都喀布尔。它谋杀了阿富汗的领导层，并建立了一个傀儡，即巴布拉克-卡尔马尔，他一直躲在捷克斯洛伐克的流亡地。这是一个完全的成功，因为苏联的特种部队真的很厉害。但是，当然，他们决定他们可能需要在阿富汗为新政权提供一些安全保障。因此，他们派出各种陆军团来提供安全保障，结果出现了叛乱，并进行了十年的战争，他们输了。
+
+对于乌克兰，我们有一个假设，即它可能是一个成功的阿富汗版本，但它不是。事实证明，乌克兰人民是勇敢的；他们愿意抵抗，愿意为自己的国家牺牲。显然，普京并不相信这一点。但事实证明，"电视总统 "泽伦斯基，在战前只有百分之二十五的支持率--那是完全应该的，因为他无法治理，现在事实证明，他有百分之九十一的支持率。事实证明，他有胆量。他的勇气令人难以置信。此外，让一家电视制作公司管理一个国家，在和平时期不是一个好主意，但在战时，当信息战争是你的目标之一时，这是一个美妙的事情。
+
+当然，对普京来说，最大的惊喜是西方。所有关于西方是颓废的，西方已经结束，西方正在衰落，这是一个多极世界和中国的崛起，等等的废话：所有这些都被证明是胡说八道。乌克兰人民的勇气和乌克兰政府及其总统泽伦斯基的勇敢和智慧，激发了西方，使其记住自己是谁。而这让普京感到震惊！这也是普京的误判。这就是误判。
+
+你如何定义 "西方"？
+
+西方是一系列的机构和价值观。西方不是一个地理上的地方。俄罗斯是欧洲，但不是西方。日本是西方，但不是欧洲。"西方 "意味着法治、民主、私有财产、开放的市场、对个人的尊重、多样性、意见的多元化，以及我们享有的所有其他自由，我们有时认为这些自由是理所当然的。我们有时会忘记它们是从哪里来的。但这就是西方的特点。在我看来，我们在九十年代通过扩大欧盟和北约，适当地扩大了这个西方，现在又恢复了，而且它以一种他和习近平都没有想到的方式，站在了普京的面前。
+
+如果你假设西方只是要折叠，因为它正在衰落，并从阿富汗逃跑；如果你假设乌克兰人民不是真的，不是一个民族；如果你假设泽伦斯基只是一个电视演员，一个喜剧演员，一个来自乌克兰东部的讲俄语的犹太人--如果你假设所有这些，那么也许你认为你可以在两天或四天内拿下基辅。但这些假设是错误的。
+
+我们来讨论一下俄罗斯政权的性质。普京在23年前上台，有一些被称为叶利钦时代的寡头的人物，其中有八九个。普京对他们说，你们可以保留你们的财富，但不要参与政治。那些在政治上不闻不问的人，比如米哈伊尔-霍多尔科夫斯基，受到了惩罚，被送进了监狱。其他人则带着他们尽可能多的财富离开了国家。但我们仍然在谈论寡头。政权和效忠于它的人的本质是什么？谁是重要的？
+
+这是一个军事-警察独裁政权。这些都是掌权的人。此外，它还有一个出色的小圈子，负责管理宏观经济的人。中央银行、财政部，都是以最高的专业水平运作。这就是为什么俄罗斯拥有这个宏观经济堡垒，这些外币储备，"雨天 "基金。它有合理的通货膨胀，非常平衡的预算，非常低的国家债务--占G.D.P.的百分之二十，是所有主要经济体中最低的。它有最好的宏观经济管理。
+
+因此，你有一个军事警察独裁政权，由一个宏观经济团队管理你的财政、军事国家。这些人在争夺谁能占到上风。为了宏观经济的稳定，为了经济增长，你需要与西方国家保持体面的关系。但是，对于政权中占主导地位的军事安全部分来说，西方是你的敌人，西方正试图破坏你，它正试图通过某种所谓的颜色革命推翻你的政权。发生的情况是，这些群体之间的平衡更倾向于军事安全人员--让我们称之为政权的暴徒部分。当然，这也是普京本人的来历。
+
+寡头们在普京手下从未掌过权。他剪掉了他们的翅膀。他们为他工作。如果他们不为他工作，他们可能会失去他们的钱。他重新安排了甲板上的椅子。他把钱发了出去。他允许自己的寡头征用，那些和他一起长大的人，和他一起做柔道的人，和他一起夏天的人。当年和他一起在列宁格勒的K.G.B.的人，或者在后苏维埃时代的圣彼得堡的人--这些人成为寡头，征用财产，过上了高尚的生活。叶利钦时代早期的一些人要么被征用，要么逃亡，要么被迫离开。普京建立了一个政权，其中私有财产再次依赖于统治者。每个人都知道这一点。如果他们不知道，他们就会以艰难的方式学到这个教训。
+
+广告
+
+可悲的是，这鼓励了政权上下的人们开始偷窃其他人的生意和财产。这成了一种自由竞争的局面。如果这对普京和他的亲信来说已经足够好，那么对我这个波德克省的省长来说也足够好。这个政权变得越来越腐败，越来越不成熟，越来越不值得信赖，越来越不受欢迎。它被掏空了。这就是独裁政权的情况。
+
+但在我看来，这样的人和这样的政权，首先关心的是财富，关心高尚的生活，关心权力。为什么他们会关心乌克兰？
+
+还不清楚他们是否关心。我们谈论的最多是六个人，当然还有一个人作为决策者。这就是专制政权的特点：他们在所有方面都很糟糕。他们不能养活自己的人民。他们不能为他们的人民提供安全。他们不能教育他们的人民。但他们只需要在一件事上做得好，就能生存下去。如果他们能拒绝政治选择，如果他们能迫使所有反对派流亡或入狱，他们就能生存，无论他们多么无能、腐败或可怕。
+
+然而，尽管中国很腐败，他们已经让数千万人摆脱了极端贫困。教育水平正在提高。中国领导人将巨大的成就归功于自己。
+
+这是谁做的？是中国政权做的吗？还是中国社会？我们要小心，不要让中国共产党人征用，就像它征用那个社会中数百万人的辛勤劳动、创业精神和活力。你知道，在俄罗斯的案例中，纳瓦尔尼被逮捕--
+
+这是阿列克谢-纳瓦尔尼，普京最生动的政治对手，他被F.S.B.毒死了，现在在监狱里。
+
+是的，他是在入侵乌克兰的准备阶段被监禁的。现在回想起来，这很可能是为入侵做准备，就像艾哈迈德-沙阿-马苏德在双子塔倒塌前在阿富汗北部被[基地组织]炸死那样。
+
+你拒绝其他选择，镇压任何反对派，逮捕，流放，然后你可以作为一个精英阶层繁荣，不是靠经济增长，而只是靠盗窃。而且，在俄罗斯，财富直接从地里冒出来！"。专制政权的问题不是经济增长。问题是如何为他们的贵族支付赞助费，如何保持贵族的忠诚，特别是安全部门和军官团的高层。如果金钱只是以碳氢化合物或钻石或其他矿物的形式从地下涌出，压迫者就可以从被压迫者那里解放出来。压迫者可以说，我们不需要你。我们不需要你们的税收。我们不需要你们投票。我们不依靠你们做任何事情，因为我们有石油和天然气，有钯和钛。他们可以有零的经济增长，但仍然可以活得很滋润。
+
+在专制政权中从来没有社会契约，人民会说，好吧，我们会接受经济增长和更高的生活标准，而我们会把我们的自由交给你们。这里没有契约。政权不提供经济增长，它也不会说，哦，你知道，我们违反了我们的承诺。我们承诺以经济增长换取自由，所以我们现在要辞职，因为我们没有履行合同。
+
+像普京这样的专制政权的 "人气 "是怎么来的？
+
+他们有故事可讲。而且，正如你所知，故事总是比秘密警察更有力量。是的，他们也有秘密警察和普通警察，是的，他们是严肃的人，他们对那些抗议战争的人所做的事情是可怕的，把他们单独监禁起来。这是一个严肃的政权，不能掉以轻心。但他们有故事。关于俄罗斯伟大的故事，关于俄罗斯伟大的复兴，关于国内的敌人和国外的敌人，他们试图压制俄罗斯。他们可能是犹太人、乔治-索罗斯、国际货币基金组织和北约。他们可能是各种各样的敌人，你可以直接从书架上拉下来，就像一本书。
+
+我们认为审查制度是对信息的压制，但审查制度也是对某些类型的故事的积极宣传，这些故事会引起人们的共鸣。成为一个大国的愿望，在世界范围内执行特殊使命的愿望，对外人试图抓住他们或打倒他们的恐惧和怀疑：这些是在俄罗斯有效的故事。它们并不适合所有人。你知道很多俄罗斯人不相信这些，他们知道得更多。但普京的版本是强大的，他们一有机会就会宣传它。
+
+由于明显的原因，西方已经决定不与俄罗斯开战，不设立禁飞区。事实证明，经济制裁比人们几周前预想的更全面、更有力。但似乎这些制裁最直接针对的人将能够吸收它们。
+
+制裁是一种武器，当你不想打一场热战，因为你面对的是一个核大国时，你会使用这种武器。轰炸中东地区没有核武器的国家是一回事；在核时代考虑轰炸俄罗斯或中国是另一回事。可以理解的是，经济制裁，包括真正强有力的制裁，是我们所要使用的工具。
+
+广告
+
+然而，我们也在将乌克兰人武装到牙齿。在网络领域发生了大量我们不知道的事情，因为说话的人不知道，知道的人也不说。还有相当多的武装冲突，这要感谢乌克兰人的勇气和北约的反应和后勤，当然，华盛顿是领导他们的。
+
+我们还不知道制裁将如何发挥作用。制裁往往给平民百姓带来最大的痛苦。政权有时可以在制裁中生存下来，因为他们可以在内部偷取更多的东西。如果你征用某人在伦敦、法兰克福或纽约的银行账户，那么，这些钱原来是有来源的，而且他们可以回到俄罗斯境内，再次挖掘这个来源，不幸的是。普京在国外没有钱，我们可以直接制裁或征用。普京的钱是整个俄罗斯经济。他不需要有一个单独的银行账户，他肯定不会把它放在某个西方国家，让它处于弱势。
+
+最大和最重要的制裁总是关于技术转让。这是一个饿死他们的高科技的问题。如果随着时间的推移，通过商务部，你拒绝他们使用美国制造的软件、设备和产品，这几乎影响到世界上每一种重要的技术，而且你有一个目标和一个可执行的机制来做到这一点，你可以伤害这个政权，创造一个技术沙漠。
+
+但与此同时，我们看到俄罗斯军队在1999-2000年对格罗兹尼所做的事情；我们看到他们对阿勒颇所做的事情。对俄罗斯来说，如果精确性不起作用，他们就会摧毁城市。这就是我们现在在哈尔科夫和乌克兰其他地区看到的情况。而且，这可能只是刚刚开始。
+
+俄罗斯有很多他们尚未使用的武器，但这里有几个因素。首先，乌克兰只是在Twitter上赢得这场战争，而不是在战场上。他们没有赢得这场战争。俄罗斯在南部推进得非常好，那是一个非常有价值的地方，因为有黑海沿岸和港口。他们正在东部推进。如果南部和东部的推进汇合，他们将包围并切断乌克兰军队的主力部队。到目前为止，失败的是俄罗斯试图以闪电式推进的方式拿下基辅。否则，他们的战争就会展开得很好。这只是几周的时间；战争持续的时间更长。
+
+但这里有一些考虑：经过三、四个星期的战争，你需要一个战略停顿。你必须改装你的装甲，重新补给你的弹药和燃料库，修复你的飞机。你必须带来储备。在大约三到四个星期之后，总是有一个有计划的暂停。
+
+如果基辅能坚持到那个暂停期，那么它有可能坚持得比那更久，因为它可以在俄罗斯人暂停期间得到补给的同时得到补给。此外，最大和最重要的考虑是，俄罗斯无法成功占领乌克兰。他们没有这样的部队规模。他们没有他们需要的行政人员的数量，也没有民众的合作。他们甚至还没有一个吉斯林。
+
+想想所有那些会继续抵抗的乌克兰人吧。纳粹进入基辅，在1940年。他们抢占了所有的豪华酒店，但几天后，这些酒店开始爆炸。它们都有诱杀装置。如果你是被占领的乌克兰的行政人员或军事人员，你点了一杯茶，你要喝那杯茶吗？你要打开你的汽车的点火装置吗？你要打开你办公室里的电灯开关吗？只需要少量的暗杀事件就能让整个占领区动荡不安。
+
+让我们把故事带回莫斯科。我们知道沙皇保罗一世是如何被他周围的人暗杀的故事。赫鲁晓夫被推翻，最终由勃列日涅夫取代。在普京治下，是否有发生宫廷政变的可能性？
+
+宫廷政变的可能性总是存在的。这里有几个问题。一个是[西方]正在加班加点地引诱叛变。我们希望一个高级安全官员或军官坐上飞机，飞到赫尔辛基或布鲁塞尔或华沙，召开新闻发布会，说："我是某某将军，我在普京政权工作过，我反对这场战争，我反对这个政权。这里是那个政权的内部情况。"
+
+与此同时，普京正在加班加点地防止任何这样的叛变，而我们的情报部门也在加班加点地引诱这样的叛变--不是文化名人，不是前政治家，而是政权内部的现任安全和军事官员。这在斯大林时期就发生过，1938年，秘密警察Genrikh Lyushkov将军带着斯大林的军事和安全计划以及对政权的认识投奔日本人。他在东京的一次新闻发布会上谴责了他。
+
+所以现在我们在关注莫斯科。那里的政权的动态是什么？你必须记住，这些政权实行一种叫做 "消极选择 "的做法。你要提拔人们做编辑，你要雇用作家，因为他们有才华；你不怕他们是天才。但是，在一个专制政权中，他们不是这样做的。他们雇用的人有一点，正如他们在俄语中所说的，tupoi，不是很聪明。他们雇用他们，正是因为他们不会太能干，太聪明，不会组织一场针对他们的政变。普京身边的人也许不是抽屉里最锋利的工具，是故意的。
+
+广告
+
+这有两件事。它使他能够通过他所有的偏执狂感到更安全，即他们没有聪明到可以扳倒他。但它也削弱了俄罗斯国家的力量，因为你有一个建筑工头是国防部长[Sergei Shoigu]，而他正在向普京提供关于他们要在乌克兰做什么的各种废话。负面选择确实保护了领导人，但它也破坏了他的政权。
+
+但是，同样，我们不知道里面发生了什么。我们听到喋喋不休。我们正在收集许多令人惊讶的情报，这让中国人感到害怕，让他们担心：我们是否也对他们的高层人士有这种程度的渗透？但喋喋不休的是那些与普京没有太多面对面交流的人，他们在谈论他可能是个疯子。总是，当你计算错误时，当你的假设不好时，人们会认为你是个疯子。普京装疯卖傻，是为了吓唬我们，获得筹码。
+
+你认为这次核威胁的情况是这样的吗？
+
+我认为毫无疑问，这就是他的目的。问题是，我们不能假设它是一种虚张声势。我们不能假设这是一种疯狂的姿态，因为他有这个能力；他可以按下按钮。
+
+史蒂夫，中国的战争理论家孙子写道，你必须始终为你的对手建造一座 "金桥"，以便他能找到撤退的方法。美国和北约能否帮助为俄罗斯建立一条途径，在它变得更加糟糕之前结束这场可怕的谋杀性入侵？
+
+你一针见血地指出了问题所在。这句话很精辟。我们在这里有一些选择。一个选择是他打碎乌克兰：如果我不能拥有它，任何人都不能拥有它，他对乌克兰的做法就像他对格罗兹尼或叙利亚的做法。这将是一个令人难以置信的、悲惨的结果。这就是我们现在走的路。
+
+即使乌克兰人的叛乱和抵抗取得成功，也会有无数的死亡和破坏。我们需要一种方法来避免这种结果。这将意味着推动一个进程，让普京与芬兰总统（他尊重并熟悉他）或以色列总理（他与他有过接触）进行讨论；不太可能的是，与中国领导人、习近平进行讨论。有人让他参与某种类型的进程，在这种进程中，他没有最大的要求，而且进程会拖延时间，在当地发生的事情会重新安排他能做什么。
+
+我们并不是不努力。芬兰人比世界上任何国家都更了解俄罗斯。以色列是另一个不错的选择，有可能，这取决于纳夫塔利-贝内特的技巧如何。然后是中国，这个长镜头，他们正在付出沉重的代价，他们在习近平以下的精英们明白这一点。现在中国高层内部有很多担心，但习近平是负责人，与普京有私人关系。习近平已经和普京打成一片。但这种情况能持续多久，取决于欧洲人是否开始惩罚中国人。欧洲人是他们最大的贸易伙伴。
+
+中国人正在密切关注此事。他们在观察（a）我们的情报渗透，（b）一个专制主义的错误，以及（c）美国和欧洲的私营公司取消俄罗斯时，你必须支付的成本。习近平在秋季将迎来前所未有的第三个任期，他需要这一点，就像头上有一个洞。但现在他拥有它。
+
+最后，还有一张我们一直想打的牌：乌克兰在当地的抵抗，以及我们在武器和制裁方面对乌克兰人的补给。所有这些都可以帮助改变计算结果。以某种方式，我们必须继续使用我们拥有的所有工具--压力，但也有外交手段。
+
+最后，你对拜登政府宣读有关即将到来的入侵的情报、制裁以及对正在发生的事情做出的成熟反应给予了肯定。他们做错了什么？
+
+根据我们在阿富汗看到的情况，以及在向澳大利亚出售核潜艇的交易中的失误，他们做得比我们预期的要好得多。他们已经从他们的错误中吸取了教训。这就是美国的特点。我们有纠正机制。我们可以从我们的错误中学习。我们有一个惩罚错误的政治制度。我们有强大的机构。我们有一个强大的社会，一个强大而自由的媒体。表现不好的行政部门可以学习并变得更好，这在俄罗斯和中国都是不存在的。这是一个我们不能忘记的优势。
+
+现在的问题不是拜登政府犯了错误；而是很难想出如何缓和，如何走出相互之间的极端主义的漩涡。我们不断地用越来越多的制裁和取消来提高赌注。我们这边有压力要 "做点什么"，因为乌克兰人每天都在死亡，而我们却在军事上坐视不管，在某些方面。(虽然，正如我所说，我们正在向他们提供武器，而且我们在网络方面做了很多事情）。我们这边的压力是最大的，但是，你越是把他们逼到墙角，普京就越是没有什么可失去的，他就越能提高赌注，不幸的是。他有很多工具，但他没有使用，可以伤害我们。我们需要从最大限度的螺旋式上升中缓和下来，我们需要一点运气和好运气，也许在莫斯科，也许在赫尔辛基或耶路撒冷，也许在北京，但肯定在基辅。
+
+关于俄罗斯入侵乌克兰的更多信息
+
+俄罗斯在SWIFT的部分禁令有多大意义？
+
+为什么制裁经常失败？
+
+俄罗斯在叙利亚和利比亚的行为可以预测乌克兰的情况吗？
+
+在乌克兰寻找失散的儿子。
+
+一个临时性的网络正在帮助乌克兰人逃离--并对抗俄罗斯的入侵。
+
+普京的核剑拔弩张意味着什么？
+
+普京的历史性误判可能使他成为战争罪犯。
+
+拜登能做些什么来阻止普京？
+
+注册我们的每日新闻通讯，接收《纽约客》的最佳故事。
+
+大卫-雷姆尼克(David Remnick)自1998年起担任《纽约客》的编辑，自1992年起担任职员作家。他是《桥》的作者。巴拉克-奥巴马的生活和崛起》。
+
+The Weakness of the Despot
+
+An expert on Stalin discusses Putin, Russia, and the West.
+
+By David Remnick
+
+March 11, 2022
+
+“The shock is that so much has changed, and yet we’re still seeing this pattern that they can’t escape from,” the Russia expert Stephen Kotkin says.
+
+Stephen Kotkin is one of our most profound and prodigious scholars of Russian history. His masterwork is a biography of Josef Stalin. So far he has published two volumes––“Paradoxes of Power, 1878-1928,” which was a finalist for the Pulitzer Prize, and “Waiting for Hitler, 1929-1941.” A third volume will take the story through the Second World War; Stalin’s death, in 1953; and the totalitarian legacy that shaped the remainder of the Soviet experience. Taking advantage of long-forbidden archives in Moscow and beyond, Kotkin has written a biography of Stalin that surpasses those by Isaac Deutscher, Robert Conquest, Robert C. Tucker, and countless others.
+
+Kotkin has a distinguished reputation in academic circles. He is a professor of history at Princeton University and a senior fellow at the Hoover Institution, at Stanford University. He has myriad sources in various realms of contemporary Russia: government, business, culture. Both principled and pragmatic, he is also more plugged in than any reporter or analyst I know. Ever since we met in Moscow, many years ago––Kotkin was doing research on the Stalinist industrial city of Magnitogorsk––I’ve found his guidance on everything from the structure of the Putin regime to its roots in Russian history to be invaluable.
+
+[Get the in-depth analysis and on-the-ground reporting you need to understand the war in Ukraine. Subscribe today »]
+
+Earlier this week, I spoke with Kotkin about Putin, the invasion of Ukraine, the American and European response, and what comes next, including the possibility of a palace coup in Moscow. Our conversation, which appears in the video above, has been edited for length and clarity.
+
+We’ve been hearing voices both past and present saying that the reason for what has happened is, as George Kennan put it, the strategic blunder of the eastward expansion of nato. The great-power realist-school historian John Mearsheimer insists that a great deal of the blame for what we’re witnessing must go to the United States. I thought we’d begin with your analysis of that argument.
+
+I have only the greatest respect for George Kennan. John Mearsheimer is a giant of a scholar. But I respectfully disagree. The problem with their argument is that it assumes that, had nato not expanded, Russia wouldn’t be the same or very likely close to what it is today. What we have today in Russia is not some kind of surprise. It’s not some kind of deviation from a historical pattern. Way before nato existed—in the nineteenth century—Russia looked like this: it had an autocrat. It had repression. It had militarism. It had suspicion of foreigners and the West. This is a Russia that we know, and it’s not a Russia that arrived yesterday or in the nineteen-nineties. It’s not a response to the actions of the West. There are internal processes in Russia that account for where we are today.
+
+I would even go further. I would say that nato expansion has put us in a better place to deal with this historical pattern in Russia that we’re seeing again today. Where would we be now if Poland or the Baltic states were not in nato? They would be in the same limbo, in the same world that Ukraine is in. In fact, Poland’s membership in nato stiffened nato’s spine. Unlike some of the other nato countries, Poland has contested Russia many times over. In fact, you can argue that Russia broke its teeth twice on Poland: first in the nineteenth century, leading up to the twentieth century, and again at the end of the Soviet Union, with Solidarity. So George Kennan was an unbelievably important scholar and practitioner—the greatest Russia expert who ever lived—but I just don’t think blaming the West is the right analysis for where we are.
+
+When you talk about the internal dynamics of Russia, it brings to mind a piece that you wrote for Foreign Affairs, six years ago, which began, “For half a millennium, Russian foreign policy has been characterized by soaring ambitions that have exceeded the country’s capabilities. Beginning with the reign of Ivan the Terrible in the sixteenth century, Russia managed to expand at an average rate of fifty square miles per day for hundreds of years, eventually covering one-sixth of the earth’s landmass.” You go on to describe three “fleeting moments” of Russian ascendancy: first during the reign of Peter the Great, then Alexander I’s victory over Napoleon, and then, of course, Stalin’s victory over Hitler. And then you say that, “these high-water marks aside, however, Russia has almost always been a relatively weak great power.” I wonder if you could expand on that and talk about how the internal dynamics of Russia have led to the present moment under Putin.
+
+We had this debate about Iraq. Was Iraq the way it was because of Saddam, or was Saddam the way he was because of Iraq? In other words, there’s the personality, which can’t be denied, but there are also structural factors that shape the personality. One of the arguments I made in my Stalin book was that being the dictator, being in charge of Russian power in the world in those circumstances and in that time period, made Stalin who he was and not the other way around.
+
+ADVERTISEMENT
+
+Russia is a remarkable civilization: in the arts, music, literature, dance, film. In every sphere, it’s a profound, remarkable place––a whole civilization, more than just a country. At the same time, Russia feels that it has a “special place” in the world, a special mission. It’s Eastern Orthodox, not Western. And it wants to stand out as a great power. Its problem has always been not this sense of self or identity but the fact that its capabilities have never matched its aspirations. It’s always in a struggle to live up to these aspirations, but it can’t, because the West has always been more powerful.
+
+Russia is a great power, but not the great power, except for those few moments in history that you just enumerated. In trying to match the West or at least manage the differential between Russia and the West, they resort to coercion. They use a very heavy state-centric approach to try to beat the country forward and upwards in order, militarily and economically, to either match or compete with the West. And that works for a time, but very superficially. Russia has a spurt of economic growth, and it builds up its military, and then, of course, it hits a wall. It then has a long period of stagnation where the problem gets worse. The very attempt to solve the problem worsens the problem, and the gulf with the West widens. The West has the technology, the economic growth, and the stronger military.
+
+The worst part of this dynamic in Russian history is the conflation of the Russian state with a personal ruler. Instead of getting the strong state that they want, to manage the gulf with the West and push and force Russia up to the highest level, they instead get a personalist regime. They get a dictatorship, which usually becomes a despotism. They’ve been in this bind for a while because they cannot relinquish that sense of exceptionalism, that aspiration to be the greatest power, but they cannot match that in reality. Eurasia is just much weaker than the Anglo-American model of power. Iran, Russia, and China, with very similar models, are all trying to catch the West, trying to manage the West and this differential in power.
+
+What is Putinism? It’s not the same as Stalinism. It’s certainly not the same as Xi Jinping’s China or the regime in Iran. What are its special characteristics, and why would those special characteristics lead it to want to invade Ukraine, which seems a singularly stupid, let alone brutal, act?
+
+Yes, well, war usually is a miscalculation. It’s based upon assumptions that don’t pan out, things that you believe to be true or want to be true. Of course, this isn’t the same regime as Stalin’s or the tsar’s, either. There’s been tremendous change: urbanization, higher levels of education. The world outside has been transformed. And that’s the shock. The shock is that so much has changed, and yet we’re still seeing this pattern that they can’t escape from.
+
+You have an autocrat in power—or even now a despot—making decisions completely by himself. Does he get input from others? Perhaps. We don’t know what the inside looks like. Does he pay attention? We don’t know. Do they bring him information that he doesn’t want to hear? That seems unlikely. Does he think he knows better than everybody else? That seems highly likely. Does he believe his own propaganda or his own conspiratorial view of the world? That also seems likely. These are surmises. Very few people talk to Putin, either Russians on the inside or foreigners.
+
+And so we think, but we don’t know, that he is not getting the full gamut of information. He’s getting what he wants to hear. In any case, he believes that he’s superior and smarter. This is the problem of despotism. It’s why despotism, or even just authoritarianism, is all-powerful and brittle at the same time. Despotism creates the circumstances of its own undermining. The information gets worse. The sycophants get greater in number. The corrective mechanisms become fewer. And the mistakes become much more consequential.
+
+Putin believed, it seems, that Ukraine is not a real country, and that the Ukrainian people are not a real people, that they are one people with the Russians. He believed that the Ukrainian government was a pushover. He believed what he was told or wanted to believe about his own military, that it had been modernized to the point where it could organize not a military invasion but a lightning coup, to take Kyiv in a few days and either install a puppet government or force the current government and President to sign some paperwork.
+
+But think about the Prague Spring, in August, 1968. Leonid Brezhnev sent in the tanks of the Warsaw Pact to halt “socialism with a human face,” the communist reform movement of Alexander Dubček. Brezhnev kept telling Dubček, Stop it. Don’t do that. You’re ruining communism. And, if you don’t stop, we will come in. Brezhnev comes in, and they take Dubček and the other leaders of Czechoslovakia back to Moscow. They don’t have a puppet regime to install. In the Kremlin, Brezhnev is asking Dubček, after having sent the tanks in and capturing him, what should they do now? It looks ridiculous, and it was ridiculous. But, of course, it was based upon miscalculations and misunderstandings. And so they sent Dubček back to Czechoslovakia, and he stayed in power [until April, 1969], after the tanks had come in to crush the Prague Spring.
+
+ADVERTISEMENT
+
+One other example is what happened in Afghanistan, in 1979. The Soviet Union did not invade Afghanistan. It did a coup in Afghanistan, sending special forces into the capital of Kabul. It murdered the Afghan leadership and installed a puppet, Babrak Karmal, who had been hiding in exile in Czechoslovakia. It was a total success because Soviet special forces were really good. But, of course, they decided they might need some security in Afghanistan for the new regime. So they sent in all sorts of Army regiments to provide security and ended up with an insurgency and with a ten-year war that they lost.
+
+With Ukraine, we have the assumption that it could be a successful version of Afghanistan, and it wasn’t. It turned out that the Ukrainian people are brave; they are willing to resist and die for their country. Evidently, Putin didn’t believe that. But it turned out that “the television President,” Zelensky, who had a twenty-five-per-cent approval rating before the war—which was fully deserved, because he couldn’t govern—now it turns out that he has a ninety-one-per-cent approval rating. It turned out that he’s got cojones. He’s unbelievably brave. Moreover, having a TV-production company run a country is not a good idea in peacetime, but in wartime, when information war is one of your goals, it’s a fabulous thing to have in place.
+
+The biggest surprise for Putin, of course, was the West. All the nonsense about how the West is decadent, the West is over, the West is in decline, how it’s a multipolar world and the rise of China, et cetera: all of that turned out to be bunk. The courage of the Ukrainian people and the bravery and smarts of the Ukrainian government, and its President, Zelensky, galvanized the West to remember who it was. And that shocked Putin! That’s the miscalculation.
+
+How do you define “the West”?
+
+The West is a series of institutions and values. The West is not a geographical place. Russia is European, but not Western. Japan is Western, but not European. “Western” means rule of law, democracy, private property, open markets, respect for the individual, diversity, pluralism of opinion, and all the other freedoms that we enjoy, which we sometimes take for granted. We sometimes forget where they came from. But that’s what the West is. And that West, which we expanded in the nineties, in my view properly, through the expansion of the European Union and nato, is revived now, and it has stood up to Vladimir Putin in a way that neither he nor Xi Jinping expected.
+
+If you assumed that the West was just going to fold, because it was in decline and ran from Afghanistan; if you assumed that the Ukrainian people were not for real, were not a nation; if you assumed that Zelensky was just a TV actor, a comedian, a Russian-speaking Jew from Eastern Ukraine—if you assumed all of that, then maybe you thought you could take Kyiv in two days or four days. But those assumptions were wrong.
+
+Let’s discuss the nature of the Russian regime. Putin came in twenty-three years ago, and there were figures called the oligarchs from the Yeltsin years, eight or nine of them. Putin read them the riot act, saying, You can keep your riches, but stay out of politics. Those who kept their nose in politics, like Mikhail Khodorkovsky, were punished, sent to prison. Others left the country with as much of their fortune as possible. But we still talk about oligarchs. What is the nature of the regime and the people who are loyal to it? Who is important?
+
+It’s a military-police dictatorship. Those are the people who are in power. In addition, it has a brilliant coterie of people who run macroeconomics. The central bank, the finance ministry, are all run on the highest professional level. That’s why Russia has this macroeconomic fortress, these foreign-currency reserves, the “rainy day” fund. It has reasonable inflation, a very balanced budget, very low state debt—twenty per cent of G.D.P., the lowest of any major economy. It had the best macroeconomic management.
+
+So you have a military-police dictatorship in charge, with a macroeconomic team running your fiscal, military state. Those people are jockeying over who gets the upper hand. For macroeconomic stability, for economic growth, you need decent relations with the West. But, for the military security part of the regime, which is the dominant part, the West is your enemy, the West is trying to undermine you, it’s trying to overthrow your regime in some type of so-called color revolution. What happened is that the balance between those groups shifted more in favor of the military security people––let’s call it the thuggish part of the regime. And, of course, that’s where Putin himself comes from.
+
+The oligarchs were never in power under Putin. He clipped their wings. They worked for him. If they didn’t work for him, they could lose their money. He rearranged the deck chairs. He gave out the money. He allowed expropriation by his own oligarchs, people who grew up with him, who did judo with him, who summered with him. The people who were in the K.G.B. with him in Leningrad back in the day, or in post-Soviet St. Petersburg––those people became oligarchs and expropriated the property to live the high life. Some of the early Yeltsin-era people were either expropriated, fled, or were forced out. Putin built a regime in which private property, once again, was dependent on the ruler. Everybody knew this. If they didn’t know, they learned the lesson the hard way.
+
+ADVERTISEMENT
+
+Sadly, this encouraged people all up and down the regime to start stealing other people’s businesses and property. It became a kind of free-for-all. If it was good enough for Putin and his cronies, it’s good enough for me as the governor of Podunk province. The regime became more and more corrupt, less and less sophisticated, less and less trustworthy, less and less popular. It hollowed out. That’s what happens with dictatorships.
+
+But such people and such a regime, it seems to me, would care above all about wealth, about the high life, about power. Why would they care about Ukraine?
+
+It’s not clear that they do. We’re talking, at most, about six people, and certainly one person as the decision-maker. This is the thing about authoritarian regimes: they’re terrible at everything. They can’t feed their people. They can’t provide security for their people. They can’t educate their people. But they only have to be good at one thing to survive. If they can deny political alternatives, if they can force all opposition into exile or prison, they can survive, no matter how incompetent or corrupt or terrible they are.
+
+And yet, as corrupt as China is, they’ve lifted tens of millions of people out of extreme poverty. Education levels are rising. The Chinese leaders credit themselves with enormous achievements.
+
+Who did that? Did the Chinese regime do that? Or Chinese society? Let’s be careful not to allow the Chinese Communists to expropriate, as it were, the hard labor, the entrepreneurialism, the dynamism of millions and millions of people in that society. You know, in the Russian case, Navalny was arrested—
+
+This is Alexey Navalny, Putin’s most vivid political rival, who was poisoned by the F.S.B. and is now in prison.
+
+Yes. He was imprisoned in the run-up to the invasion of Ukraine. In retrospect, it could well be that this was a preparation for the invasion, the way that Ahmad Shah Massoud, for example, was blown up in Northern Afghanistan [by Al Qaeda] right before the Twin Towers came down.
+
+You have the denial of alternatives, the suppression of any opposition, arrest, exile, and then you can prosper as an élite, not with economic growth but just with theft. And, in Russia, wealth comes right up out of the ground! The problem for authoritarian regimes is not economic growth. The problem is how to pay the patronage for their élites, how to keep the élites loyal, especially the security services and the upper levels of the officer corps. If money just gushes out of the ground in the form of hydrocarbons or diamonds or other minerals, the oppressors can emancipate themselves from the oppressed. The oppressors can say, we don’t need you. We don’t need your taxes. We don’t need you to vote. We don’t rely on you for anything, because we have oil and gas, palladium and titanium. They can have zero economic growth and still live very high on the hog.
+
+There’s never a social contract in an authoritarian regime, whereby the people say, O.K., we’ll take economic growth and a higher standard of living, and we’ll give up our freedom to you. There is no contract. The regime doesn’t provide the economic growth, and it doesn’t say, Oh, you know, we’re in violation of our promise. We promised economic growth in exchange for freedom, so we’re going to resign now because we didn’t fulfill the contract.
+
+What accounts for the “popularity” of an authoritarian regime like Putin’s?
+
+They have stories to tell. And, as you know, stories are always more powerful than secret police. Yes, they have secret police and regular police, too, and, yes, they’re serious people and they’re terrible in what they’re doing to those who are protesting the war, putting them in solitary confinement. This is a serious regime, not to be taken lightly. But they have stories. Stories about Russian greatness, about the revival of Russian greatness, about enemies at home and enemies abroad who are trying to hold Russia down. And they might be Jews or George Soros or the I.M.F. and nato. They might be all sorts of enemies that you just pull right off the shelf, like a book.
+
+We think of censorship as suppression of information, but censorship is also the active promotion of certain kinds of stories that will resonate with the people. The aspiration to be a great power, the aspiration to carry out a special mission in the world, the fear and suspicion that outsiders are trying to get them or bring them down: those are stories that work in Russia. They’re not for everybody. You know many Russians who don’t buy into that and know better. But the Putin version is powerful, and they promote it every chance they get.
+
+The West has decided, for obvious reasons, not to go to war with Russia, not to have a no-fly zone. Economic sanctions have proved more comprehensive and more powerful than maybe people had anticipated some weeks ago. But it seems that the people who these are aimed at most directly will be able to absorb them.
+
+Sanctions are a weapon that you use when you don’t want to fight a hot war because you’re facing a nuclear power. It’s one thing to bomb countries in the Middle East that don’t have nuclear weapons; it’s another thing to contemplate bombing Russia or China in the nuclear age. It’s understandable that economic sanctions, including really powerful ones, are the tools that we reach for.
+
+ADVERTISEMENT
+
+We are also, however, arming the Ukrainians to the teeth. And there’s a great deal of stuff happening in the cyber realm that we don’t know anything about because the people who are talking don’t know, and the people who know are not talking. And there is quite a lot of armed conflict, thanks to the courage of the Ukrainians and the response and logistics of nato, with Washington, of course, leading them.
+
+We don’t know yet how the sanctions are going to work. The sanctions often inflict the greatest pain on the civilian population. Regimes can sometimes survive sanctions because they can just steal more internally. If you expropriate somebody’s bank account in London or Frankfurt or New York, well, there’s a source where that came from originally, and they can go back inside Russia and tap that source again, unfortunately. Putin doesn’t have money abroad that we can just sanction or expropriate. Putin’s money is the entire Russian economy. He doesn’t need to have a separate bank account, and he certainly wouldn’t keep it vulnerable in some Western country.
+
+The biggest and most important sanctions are always about technology transfer. It’s a matter of starving them of high tech. If, over time, through the Commerce Department, you deny them American-made software, equipment, and products, which affects just about every important technology in the world, and you have a target and an enforceable mechanism for doing that, you can hurt this regime and create a technology desert.
+
+In the meantime, though, we saw what Russian forces did to Grozny in 1999-2000; we saw what they did to Aleppo. For Russia, if precision doesn’t work, they will decimate cities. That is what we’re seeing now in Kharkiv and in other parts of Ukraine. And it’s only just begun, potentially.
+
+Russia has a lot of weapons that they haven’t used yet, but there are a couple of factors here. First of all, Ukraine is winning this war only on Twitter, not on the battlefield. They’re not winning this war. Russia is advancing very well in the south, which is an extremely valuable place because of the Black Sea littoral and the ports. They are advancing in the east. If the southern and eastern advances meet up, they will encircle and cut off the main forces of the Ukrainian Army. What’s failed so far is the Russian attempt to take Kyiv in a lightning advance. Otherwise, their war is unfolding well. It’s only a couple of weeks in; wars last much longer.
+
+But here are some of the considerations: after three or four weeks of war, you need a strategic pause. You have to refit your armor, resupply your ammo and fuel depots, fix your planes. You have to bring in reserves. There’s always a planned pause after about three to four weeks.
+
+If Kyiv can hold out through that pause, then potentially it could hold out for longer than that, because it can be resupplied while the Russians are being resupplied during their pause. Moreover, the largest and most important consideration is that Russia cannot successfully occupy Ukraine. They do not have the scale of forces. They do not have the number of administrators they’d need or the coöperation of the population. They don’t even have a Quisling yet.
+
+Think about all those Ukrainians who would continue to resist. The Nazis came into Kyiv, in 1940. They grabbed all the luxury hotels, but days later those hotels started to blow up. They were booby-trapped. If you’re an administrator or a military officer in occupied Ukraine and you order a cup of tea, are you going to drink that cup of tea? Do you want to turn the ignition on in your car? Are you going to turn the light switch on in your office? All it takes is a handful of assassinations to unsettle the whole occupation.
+
+Let’s take the story back to Moscow. We know the story of how Tsar Paul I was assassinated by people around him. Khrushchev was overthrown and replaced, eventually, by Brezhnev. Under Putin, is there any possibility of a palace coup?
+
+There is always a possibility of a palace coup. There are a couple of issues here. One is that [the West is] working overtime to entice a defection. We want a high-level security official or a military officer to get on a plane and fly to Helsinki or Brussels or Warsaw and hold a press conference and say, “I’m General So-and-So and I worked in the Putin regime and I oppose this war and I oppose this regime. And here’s what the inside of that regime looks like.”
+
+At the same time, Putin is working overtime to prevent any such defection while our intelligence services are working overtime to entice just such a defection––not of cultural figures, not former politicians but current security and military officials inside the regime. This happened under Stalin, when General Genrikh Lyushkov of the secret police defected to the Japanese, in 1938, with Stalin’s military and security plans and a sense of the regime. He denounced him at a press conference in Tokyo.
+
+So now we’re watching Moscow. What are the dynamics there with the regime? You have to remember that these regimes practice something called “negative selection.” You’re going to promote people to be editors, and you’re going to hire writers, because they’re talented; you’re not afraid if they’re geniuses. But, in an authoritarian regime, that’s not what they do. They hire people who are a little bit, as they say in Russian, tupoi, not very bright. They hire them precisely because they won’t be too competent, too clever, to organize a coup against them. Putin surrounds himself with people who are maybe not the sharpest tools in the drawer on purpose.
+
+ADVERTISEMENT
+
+That does two things. It enables him to feel more secure, through all his paranoia, that they’re not clever enough to take him down. But it also diminishes the power of the Russian state because you have a construction foreman who’s the defense minister [Sergei Shoigu], and he was feeding Putin all sorts of nonsense about what they were going to do in Ukraine. Negative selection does protect the leader, but it also undermines his regime.
+
+But, again, we have no idea what’s going on inside. We hear chatter. There’s a lot of amazing intelligence that we’re collecting, which is scaring the Chinese, making them worry: Do we have that level of penetration of their élites as well? But the chatter is by people who don’t have a lot of face time with Putin, talking about how he might be crazy. Always, when you miscalculate, when your assumptions are bad, people think you’re crazy. Putin pretends to be crazy in order to scare us and to gain leverage.
+
+Do you think that’s the case with this nuclear threat?
+
+I think there’s no doubt that this is what he’s trying to do. The problem is, we can’t assume it’s a bluff. We can’t assume it’s a pose of being crazy, because he has the capability; he can push the button.
+
+Steve, Sun Tzu, the Chinese theorist of war, wrote that you must always build your opponent a “golden bridge” so that he can find a way to retreat. Can the United States and nato help build a way for Russia to end this horrific and murderous invasion before it grows even worse?
+
+You hit the nail on the head. That’s a brilliant quote. We have some options here. One option is he shatters Ukraine: if I can’t have it, nobody can have it, and he does to Ukraine what he did to Grozny or Syria. That would be an unbelievable, tragic outcome. That’s the pathway we’re on now.
+
+Even if the Ukrainians succeed in their insurgency, in their resistance, there will be countless deaths and destruction. We need a way to avoid that kind of outcome. That would mean catalyzing a process to engage Putin in discussion with, say, the President of Finland, whom he respects and knows well, or the Israeli Prime Minister, who has been in contact with him; less probably, with the Chinese leadership, with Xi Jinping. Someone to engage him in some type of process where he doesn’t have maximalist demands and it stalls for time, for things to happen on the ground, that rearrange the picture of what he can do.
+
+It’s not as if we’re not trying. The Finns know Russia better than any country in the world. Israel is another good option, potentially, depending on how skillful Naftali Bennett proves to be. And then China, the long shot, where they’re paying a heavy price and their élites below Xi Jinping understand that. There’s now quite a lot of worry inside the Chinese élites, but Xi Jinping is in charge and has a personal relationship with Putin. Xi has thrown in his lot with Putin. But how long that goes on depends upon whether the Europeans begin to punish the Chinese. The Europeans are their biggest trading partner.
+
+The Chinese are watching this very closely. They’re watching (a) our intelligence penetration, (b) the mistakes of a despotism, and (c) the costs that you have to pay as the U.S. and European private companies cancel Russia up and down. Xi Jinping, who is heading for an unprecedented third term in the fall, needed this like a hole in the head. But now he owns it.
+
+Finally, there’s another card that we’ve been trying to play: the Ukrainian resistance on the ground and our resupply of the Ukrainians in terms of arms and the sanctions. All of that could help change the calculus. Somehow, we have to keep at it with all the tools that we have––pressure but also diplomacy.
+
+Finally, you’ve given credit to the Biden Administration for reading out its intelligence about the coming invasion, for sanctions, and for a kind of mature response to what’s happening. What have they gotten wrong?
+
+They’ve done much better than we anticipated based upon what we saw in Afghanistan and the botched run-up on the deal to sell nuclear submarines to the Australians. They’ve learned from their mistakes. That’s the thing about the United States. We have corrective mechanisms. We can learn from our mistakes. We have a political system that punishes mistakes. We have strong institutions. We have a powerful society, a powerful and free media. Administrations that perform badly can learn and get better, which is not the case in Russia or in China. It’s an advantage that we can’t forget.
+
+The problem now is not that the Biden Administration made mistakes; it’s that it’s hard to figure out how to de-escalate, how to get out of the spiral of mutual maximalism. We keep raising the stakes with more and more sanctions and cancellations. There is pressure on our side to “do something” because the Ukrainians are dying every day while we are sitting on the sidelines, militarily, in some ways. (Although, as I said, we’re supplying them with arms, and we’re doing a lot in cyber.) The pressure is on to be maximalist on our side, but, the more you corner them, the more there’s nothing to lose for Putin, the more he can raise the stakes, unfortunately. He has many tools that he hasn’t used that can hurt us. We need a de-escalation from the maximalist spiral, and we need a little bit of luck and good fortune, perhaps in Moscow, perhaps in Helsinki or Jerusalem, perhaps in Beijing, but certainly in Kyiv.
+
+More on Russia’s Invasion of Ukraine
+
+How significant is Russia’s partial ban from SWIFT?
+
+Why sanctions often fail.
+
+Can Russia’s conduct in Syria and Libya predict what’s in store for Ukraine?
+
+Searching for a lost son in Ukraine.
+
+An ad-hoc network is helping Ukrainians flee—and fight—the Russian invasion.
+
+What does Putin’s nuclear sabre rattling mean?
+
+Putin’s historic miscalculation may make him a war criminal.
+
+What can Biden do to stop Putin?
+
+Sign up for our daily newsletter to receive the best stories from The New Yorker.
+
+David Remnick has been editor of The New Yorker since 1998 and a staff writer since 1992. He is the author of “The Bridge: The Life and Rise of Barack Obama.”

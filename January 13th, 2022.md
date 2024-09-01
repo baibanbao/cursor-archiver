@@ -1,0 +1,16 @@
+- 今日之事
+- 翻译
+    - 下周的文章
+        - 下周的文章如下：
+        - [https://www.thegospelcoalition.org/article/hamilton-healing-balm-restless-immigrants/]()
+        - [https://www.thegospelcoalition.org/article/against-music/]()
+        - [https://www.thegospelcoalition.org/article/justice-adolf-eichmann-operation-finale/[https://www.thegospelcoalition.org/article/4-ways-jerk-online/]()[https://www.thegospelcoalition.org/article/pastors-friends-church/[https://www.thegospelcoalition.org/reviews/theology-economics/]()]()]()
+- 完成两篇翻译
+    - 周三：https://www.thegospelcoalition.org/article/give-kids-the-big-picture-of-stewardship
+    - 周四：https://www.thegospelcoalition.org/article/mistake-transfer-growth-evangelism
+- 准备好中文gc7e04讲稿
+    - 第一性原理？
+    - 抽象的阶梯？
+- 白天睡觉不要超过2小时
+    - 晚上，上完课后早睡
+    - 

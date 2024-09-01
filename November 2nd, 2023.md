@@ -1,0 +1,41 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - #[[Prayers&Answers]]
+        - Date: [[November 2nd, 2023]] 14:01
+            - 赞美感谢
+                - 赞美主的创造，护理，纵然在我灰心失望的时候，依然爱我。
+                - 赞美主告诉我方向，在这些阴郁的日子，带来光明
+            - 认罪悔改
+                - 为自己信心的缺乏，经不起考验，受不了磨难，而认罪
+                - 为自己脾气乖张而认罪
+                - 为自己不坦诚，良心麻木而认罪
+            - 祈求
+                - 求主让我度过今天的艰难时光，能够募集到2个学员
+                - 求主让国大的款项快点到账
+                - 求主解除我的后顾之忧，让我全心创作
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 12:39
+- Daily Tasks
+    - {{[[TODO]]}} Dfree
+        - {{[[TODO]]}} Recruit 2 students
+    - {{[[TODO]]}} Record podcast
+    - {{[[TODO]]}} cook dinner
+    - {{[[DONE]]}} Forget myself
+    - {{[[DONE]]}} Urge #[[Jonas]] to go over English
+    - {{[[DONE]]}} transfer 100 RMB to [[刘作谦]]弟兄的婚礼礼物
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+    - 
+- [[Daily Reading]]
+    - I have lost everything including hope.
+    - [Home | SLBC Public Sharing](https://file.slbc.app:63443/) #[[SLBC]]
+        - 如何利用slbc的资源
+            - 不要外传外泄
+            - 需要唱歌就自己唱
+            - 可以使用slbc的歌谱00000
+- ---

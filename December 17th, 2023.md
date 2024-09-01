@@ -1,0 +1,106 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 17th, 2023]] 07:48
+        - 赞美感谢
+            - 赞美神的创造
+            - 赞美神的护理
+            - 赞美神奇妙的救恩
+            - 赞美神带来的改变
+        - 认罪悔改
+            - 为自己惹妻生气
+            - 为自己不喜乐
+            - 为自己缺乏规划
+        - 祈求代求
+            - 为[[邵粉兰]]阿姨祷告
+            - 为最近见面的两位弟兄
+            - 为[[胡天津]]祷告
+            - 为#[[jfx]]祷告
+            - 为自己的眼睛祷告
+            - 为父亲的病症祷告
+            - 为岳父母祷告
+            - 为圣诞节来临祷告
+            - 为地上的教会祷告
+            - 为自己不喜欢的人祷告
+            - 为自己喜欢的sally老师祷告
+- [[Day Start]] 05:29
+- Daily Tasks
+    - {{[[DONE]]}} 聚会
+        - 在教会与人交通
+    - {{[[DONE]]}} 晚上回家团聚晚宴吃螃蟹
+    - {{[[TODO]]}} 写两个[[pomo writing]]
+    - {{[[DONE]]}} 更新[[两句半]]
+    - {{[[DONE]]}} 与#[[Seven]]录制[[白板报夜话]]
+    - {{[[DONE]]}} 尽量缓和#[[Seven]] #[[Jonas]]纷争与矛盾
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+                    - 论学习与创作
+                        - 学习容易上瘾，但是学习是学不完的，世界上这么多学科，每一门学科又有那么多分支，每一个分支都有那么多y叶片，每一个叶片上都有那么多叶脉，你怎么能掌握得完。最终还是需要有一套熟悉的肌肉记忆的路径，来减少学习带来的焦虑。
+                        - 就拿笔记软件来说，我当然很羡慕[[王树义]]老师对于[[Heptabase]]的华丽使用，也佩服[[yining]]兄弟如此娴熟地使用[[vim]]，但我却无法达到他们的境界。我只能固守我自己现有的系统，一板一眼地苦度时光。
+                        - 不要在学习上投入太多精力，否则是得不偿失的。我现在需要的是创作，是输出，是不停地写，是空下来思考的时间，是观察，是与人相交，是把神的爱传递给别人，而不是整天琢磨那些艰难的不靠谱的东西。当然这不是完全否定学习的价值，该学的东西还是要学一点，不过都是为了用才去学。
+                        - 我不知道为什么在推特上block了优秀的推主，包括[[董小毛]]女士，她作为一名创业者，能够给我带来多少的见识，我居然一点也不珍惜这样的博主，而是看一些妄人。包括[[Mina]]，跟这个女人，我是完全掰了。我不论断人，但是她的假冒为善真让人受够了。让她去吧，让她去吧。
+                        - 我现在应该学习那些成本最低，受益最大的软件，包括且不限于：
+                            - [[Magnet]]
+                            - [[shottr]]
+                            - [[剪映]]
+                            - [[CloverTextEdit]]
+                            - [[The Archive ]]
+                            - [[Byword]]
+                            - [[Recut]]
+                            - [[Memo]]
+                            - [[Flomo]]
+                        - 太复杂的软件性价比太低了，还要不要学呢，我觉得不要学了，学海无涯。我还有那么多专业书都没有看，那些可以厘清最基本概念的专业书，例如[[戏剧的味道]]
+                        - 生命短暂，我已经53岁，马上要54了，身欠巨债，还需要赚钱养家，不能放任自己去学那些没用的东西。放弃吧放弃吧，生命的奢侈品，什么乐器，什么玩意，都与我无关。我现在要做的就是磨练自己的技艺，并且集中优势兵力，集中火力做自己擅长的事。
+                        - 我擅长的是好中文，我擅长的是编剧故事营，我擅长的事ai写作，最近的重点就是ai写作，把所有的火力转移到这儿来，一切围绕中心，一切为此服务。而不是本末倒置。上面这些软件只是锦上添花，但[[AI写作]]对我可是雪中送炭啊。所以不要整那些没用的，我不需要图谱，我不需要卡片帮我思索，我也不需要视觉化，我只需要一个双链系统，可以方便帮我找到我思考过和我写过的东西就可以了。
+                        - 所以接下来的路径就非常明确，以ai写作为中心，以ai为重点，不要陷入无知的泥潭，不要妄想那些不可能的事，做具体的事，见有位格的人，过有意义的人生。
+                        - 我已经得到了很好的神学装备，sally老师的教导依然事我需要多多聆听和思考的，不要耳朵发痒去听那些异端，而是牢牢抓住大公教会的纯正信仰，一切都在圣经里，而不在虚无缥缈之处。让我们重新回到圣经，回到神的话，从神的话语里直接寻找亮光和力量。做衷心管家，神的仆人。
+                        - 所以可以看到以下的人生路径。
+                            - [[中文AI写作]]为中心的学习体系
+                                - [[zhongwen.ai]]网站做大，积累1000订户。铁杆不铁杆不知掉，也不重要，重要的事我现在明白我自己做什么了。
+                                    - 升级成pro版，为使用[[Inkdrop]]，只服务于这个服务，只做这个和medium的更新，现在的域名已经改成了[[wangpei.pro]]
+                                    - 其余的博客当然也要更新但是在[[zhongwen.ai]]的联动之下
+                                        - youtube要做
+                                        - 小红书也要做
+                                        - 抖音也可以做
+                                    - 这么多，做的过来吗？当然做不过来，那怎么办？以[[Roam Research]]为核心。这才是我最熟悉的打法，其余都不适合我，相信吧，如果不是这个rr，我现在l25分钟的连续写作都做不到，也做不到按时祈祷。
+                        - 不要想通过花钱完成不可能的任务，那事没用的，只是徒劳。
+                        - 最重要的事以现有的工具为基础，开始不息的创造。
+- [[Daily Reading]]
+    - 批判[[标竿人生]]
+        - [标杆人生Purpose Driven Life及批判 | Godwithus Blog 神同在博客](https://ymnl.wordpress.com/2010/03/13/%E6%A0%87%E6%9D%86%E4%BA%BA%E7%94%9Fpurpose-driven-life%E5%8F%8A%E6%89%B9%E5%88%A4/)
+        - [华理克 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%90%86%E5%85%8B#cite_note-Dennett-12)
+    - [提升软件工程效率的小技巧：留点悬念，让工作更流畅 [译] | 宝玉的分享](https://baoyu.io/translations/software-engineering/simple-software-engineering-habits)
+    - [提示工程指南 [译] | 宝玉的分享](https://baoyu.io/translations/prompt-engineering/guide-prompt-engineering)
+    - [[prompt engineer]] #zhongwen.ai
+        - [Create a new post](https://mataroa.blog/new/post/)
+        - [测试新功能 - WorkFlowy](https://workflowy.com/#/73b4c646377d)
+        - [Simple Notebook | List view](https://www.notion.so/baibanbao/bb8c7e8724eb4521980e0bc2da881796?v=622a14de15d542c4ba9855b28f7a8d61)
+        - [翻译 | 宝玉的分享](https://baoyu.io/translations)
+        - [利用 AI 进行角色扮演：对作家和教育者来说是个重要工具 [译] | 宝玉的分享](https://baoyu.io/translations/ai/roleplaying-with-ai-will-be-powerful-tool)
+        - [探索编写提示词的乐趣：蒙特卡洛方法、木偶剧和笑声的融合 [译] | 宝玉的分享](https://baoyu.io/translations/llm/monte-carlo-puppetry-and-laughter-the-unexpected-joys-of-prompt-engineering)
+        - [为你的生活打造 AI 旁白的指南 [译] | 宝玉的分享](https://baoyu.io/translations/replicate/how-to-create-an-ai-narrator)
+        - [针对 Claude 2.1 的长篇幅提示技巧 [译] | 宝玉的分享](https://baoyu.io/translations/anthropic/long-context-prompting-for-claude-2-1)
+        - [战争与和平 (WarAgent)：基于大语言模型的世界大战多智能体模拟 [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/war-and-peace-war-agent)
+        - [童话故事的策略规划：系统化的战略布局 [译] | 宝玉的分享](https://baoyu.io/translations/strategic/the-fairytale-narrative-structured-strategic-planning)
+        - [当 AI 无需联网，一切皆有可能 [译] | 宝玉的分享](https://baoyu.io/translations/ai/when-ai-unplugs-all-bets-are-off)
+        - [如何从 ChatGPT 中提取其训练数据 [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/extracting-training-data-from-chatgpt)
+        - [在你找到金矿之前，别急着建造矿井 [译] | 宝玉的分享](https://baoyu.io/translations/startup/dont-build-mine-before-struck-gold)
+        - [技术写作入门 [译] | 宝玉的分享](https://baoyu.io/translations/writing/get-started-with-technical-writing)
+        - [我使用 Claude AI 编写原创、完整、类似人类风格文章的尝试 [译] | 宝玉的分享](https://baoyu.io/translations/claude/writing-full-length-articles-with-claude-ai)
+        - [利用 GPT 的视觉能力和 TTS API 来处理视频并添加旁白 [译] | 宝玉的分享](https://baoyu.io/translations/openai/gpt_with_vision_for_video_understanding)
+        - [提示工程 [译] | 宝玉的分享](https://baoyu.io/translations/prompt-engineering/prompt-engineering)
+        - [长故事概要：针对长视频问答的“概括后检索”方法 [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/long-story-short-a-summarize-then-search-method-for-long-video-question-answering)
+        - [创新输入法：引领输入技术的未来潮流 [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/generative-input-towards-next-generation-input-methods-paradigm)
+        - [探索提示工程的多彩世界 [译] | 宝玉的分享](https://baoyu.io/translations/prompt-engineering/the-prompt-landscape)
+        - [PromptAgent：借助语言模型进行策略性规划，达到专家级的提示优化 [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/prompt-agent-strategic-planning-with-language-models-enables-expert-level-prompt-optimization)
+        - [深入分析 GPTs 在机器翻译中的上下文学习[译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/dissecting-in-context-learning-of-translations-in-gpts)
+        - [如何通过“链式验证”降低大语言模型的“幻觉” [译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/chain-of-verification-reduces-hallucination-in-large-language-models)
+        - [小语种成功“破解”了 GPT-4 的限制[译] | 宝玉的分享](https://baoyu.io/translations/ai-paper/low-resource-languages-jailbreak-gpt-4)
+        - [提示工程指南 [译] | 宝玉的分享](https://baoyu.io/translations/prompt-engineering/guide-prompt-engineering)
+        - [提示工程指南 [译] | 宝玉的分享](https://baoyu.io/translations/prompt-engineering/guide-prompt-engineering)
+        - [提升软件工程效率的小技巧：留点悬念，让工作更流畅 [译] | 宝玉的分享](https://baoyu.io/translations/software-engineering/simple-software-engineering-habits)
+        - [提升软件工程效率的小技巧：留点悬念，让工作更流畅 [译] | 宝玉的分享](https://baoyu.io/translations/software-engineering/simple-software-engineering-habits)
+- ---

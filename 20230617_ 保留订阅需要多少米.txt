@@ -1,0 +1,12 @@
+﻿Dropbox: $16.5
+YouTube Premium: $10
+Twitter Blue: $8
+Protonmail: $5
+Flomo: $1.5
+ChatGPT: $20
+Poe: $20
+RoamResearch: $5
+Zoom: $20
+Google: $15
+iCloud: $5
+sum=126.00 count=19 avg=6.63 mid=5

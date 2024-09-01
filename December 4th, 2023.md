@@ -1,0 +1,22 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 4th, 2023]] 03:49
+        - 赞美感谢
+            - 
+        - 认罪悔改
+            - 
+        - 祈求
+            - 
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 03:49
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

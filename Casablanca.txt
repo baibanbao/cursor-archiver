@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Michael Curtiz]]
+        - Writer:: [[Julius J Epstein]] [[Philip G Epstein]] [[Howard Koch]]
+        - Cast:: [[Humphrey Bogart]] [[Ingrid Bergman]] [[Paul Henreid]]
+        - Year:: [[1942]]
+        - Genre:: #Drama #Romance #War
+    - **IMDb:** https://www.imdb.com/title/tt0034583
+    - **Plot Summary:** A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLfgEJMbCL7.pdf?alt=media&token=23e916dc-d838-4e6f-a599-33eb86b26e8d}}

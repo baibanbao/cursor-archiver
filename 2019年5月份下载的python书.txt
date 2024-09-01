@@ -1,0 +1,32 @@
+tags = #100DaysOfCode #programmer  #python #Python
+
+今年下载了不少书，包括但不限于：
+
+简单易读的：
+
+Coffee Break Python
+
+https://www.dropbox.com/s/lp3s6ud7sohaaa0/Christian%20Mayer%20-%20Coffee%20Break%20Python_%2050%20Workouts%20to%20Kickstart%20Your%20Rapid%20Code%20Understanding%20in%20Python-Christian%20Mayer%20%282018%29.pdf?dl=0
+
+Learn Python in One Day
+
+https://www.dropbox.com/s/l1fyta6tzy5dbsg/Jamie%20Chan%20-%20Learn%20Python%20in%20One%20Day%20and%20Learn%20It%20Well_%20Python%20for%20Beginners%20with%20Hands-on%20Project.%20The%20only%20book%20you%20need%20to%20start%20coding%20in%20Python%20immediately-CreateSpace%20Independent%20Publishing%20Plat.epub?dl=0
+
+打实基础的书
+
+PYTHON PROGRAMMING:AN INTRODUCTION TO COMPUTER SCIENCE
+THIRD EDITION
+
+https://www.dropbox.com/s/uriucjnxp0kmtqe/John%20M.%20Zelle%20-%20Python%20Programming_%20An%20Introduction%20to%20Computer%20Science-Franklin%2C%20Beedle%20%26%20Associates%20%282016%29.pdf?dl=0
+
+最翔实的书
+
+Mark Lutz - Learning Python, 5th Edition-O’Reilly Media (2013).pdf
+
+https://www.dropbox.com/s/iqolz5p9n8uo0qs/Mark%20Lutz%20-%20Learning%20Python%2C%205th%20Edition-O%E2%80%99Reilly%20Media%20%282013%29.pdf?dl=0
+
+最有趣的书
+
+T  J O'Connor - Violent Python _ a cookbook for hackers, forensic analysts, penetration testers and security engineers-Syngress (2013)
+
+https://www.dropbox.com/s/yux9rryc92m5b81/T%20%20J%20O%27Connor%20-%20Violent%20Python%20_%20a%20cookbook%20for%20hackers%2C%20forensic%20analysts%2C%20penetration%20testers%20and%20security%20engineers-Syngress%20%282013%29.pdf?dl=0

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjE2NjEyMDg0M15BMl5BanBnXkFtZTcwODYyODg5Mg@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Levent Semerci, Erdem Can]]
+        - Writer:: [[Mehmet Ilker Altinay]] [[Hakan Evrensel]] [[Levent Semerci]]
+        - Cast:: [[Mete Horozoglu]] [[Ilker Kizmaz]] [[Baris Bagci]]
+        - Year:: [[2009]]
+        - Genre:: #Action #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt1171701
+    - **Plot Summary:** Story of 40-man Turkish task force who must defend a relay station.

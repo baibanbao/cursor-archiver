@@ -1,0 +1,16 @@
+- [[Projects]]
+    - 今天掌握了用word排版话剧剧本的技术
+        - [(99+ 封私信 / 31 条消息) 如何用word給剧本排版？ - 知乎](https://www.zhihu.com/question/330584903/answer/812274970)
+- [[Area]]
+- [[resources]]
+- [[Archives]]
+- #[[Prayers&Answers]]
+    - Date: [[October 20th, 2023]] 03:13
+        - 赞美感谢
+            - 
+        - 认罪悔改
+            - 
+        - 祈求
+            - 
+        - Tongues
+            - Set a Pomodoro

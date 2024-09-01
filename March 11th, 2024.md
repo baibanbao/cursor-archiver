@@ -1,0 +1,54 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+        - 赞美感谢神
+        - 感恩[[BTC]]
+    - 认罪悔改
+        - 为自己闲懒不结果子
+        - 为自己没有找到正确的工作节奏
+        - 为自己又想瞒天过海，故态复萌
+    - 祈求代求
+        - 为[[Mina]]
+        - 为[[郑永胜]]弟兄一家
+        - 为[[小山]]
+        - 为[[Helen]]
+    - Depth
+        - 三分钟
+- [[Day Start]] 15:45
+- Daily Tasks
+    - {{[[DONE]]}} 开始使用[[Cold Turkey]]管理自己
+    - {{[[TODO]]}} 使用[[硬核机械番茄钟]]
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **15:45** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+    - 今晚去走路，无论想去不想去
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[一娱多吃]]
+    - 改名为：一鱼 One Fish
+        - 为了名字不至于太轻佻
+    - 预备好写作工具
+        - {{[[TODO]]}} [[Heptabase]]
+        - {{[[DONE]]}} 黑巧克力
+        - {{[[DONE]]}} [[张一元]]茉莉花茶
+        - {{[[TODO]]}} 双键盘
+        - {{[[DONE]]}} 物理番茄钟
+- [[写作GPTs]]
+- [[两句半]]
+- [[背诵]]#Jonas 
+- [[写书]]
+- #Finance
+    - 人要脸，树要皮。外面那么多饥荒，不是什么好现象。要想明白自己的处境，找到办法解决。
+    - 研究[[BTC]]
+        - 看来一枚比特币就可以养老的时代，就要到来了。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FRhYAzn3JV7.png?alt=media&token=b9a6f487-be41-496f-8ca2-4f90117059f1)
+- ---

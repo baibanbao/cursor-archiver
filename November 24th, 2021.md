@@ -1,0 +1,84 @@
+- 前十字韧带重建手术
+    - 亚洲医生的文章
+        - # __前十字韧带的常见问题__
+            - __由[江志聪医生](https://asiamedicalspecialists.hk/sc/team/8/%E6%B1%9F%E5%BF%97%E8%81%AA%E5%8C%BB%E7%94%9F)撰写英文版本__
+            - __(更新日期: __Oct 12th 2020__)__
+            - ****
+            - __**您正从侧翼推进，对方后卫向您冲过来，您尝试内切来避过他，当走开时，膝部「啪」一声，您极度痛苦地跌倒在场上。您被抬出场外，以冰袋敷著膝部，看著球队在没有您参与的情况下赢得比赛。比赛结束后，您的膝部彷彿好了些，并与队友庆祝一番。回家后，您觉得膝部经已好了很多。**__
+            - __**第二天早上，您的膝部剧痛难忍！您一瘸一拐的去看医生并做了 X光检查，医生说您的骨头并无问题。几星期后您的膝部渐渐康复，所以您很快就回到球场，沿侧翼向前冲…切入避过后卫… 最后再一次跌倒在球场上。**__
+            - **__这个故事听起来是不是很熟悉？这就是典型的前十字韧带撕裂。__**
+        - ### 前十字韧带是什么?****
+            - 前十字韧带是膝部内一条连接股骨与胫骨的坚韧胶原蛋白。它大约稍长于一英寸，像您的手指般粗，由两束纤维所组成 (包括前内侧，简称「AM」，及后外侧，简称「PL」)。一束控制前后动作，另一束则控制扭转动作 (图1)。它是膝关节系统的重要部分，控制膝部做出复杂的滑动和弯曲动作，让人们可进行漫步到芭蕾舞及体操等各种活动。
+        - ### 前十字韧带是如何撕裂的？****
+            - 一次严重的受伤，如滑雪意外或跌倒便足以令前十字韧带断裂 (图2)，但大部份的前十字韧带受伤都属「非接触性」：当膝部转幅太大或转向太快，都可能令前十字韧带撕裂。很多女士在投球或篮球活动时，只是简单地因为跳跃后著地不当，便导致前十字韧带撕裂。
+            - ![](https://asiamedicalspecialists.hk/files/article/7/ACL_FAQ_fig1.jpg?1470283755614)
+            - **图1** 未受损的双束前十字韧带
+            - ![](https://asiamedicalspecialists.hk/files/article/7/ACL_FAQ_fig2.jpg?1470283783890)
+            - **图2** 撕裂的前十字韧带
+        - ### 前十字韧带撕裂会对膝部造成什么影响？
+            - 如您不理会这个问题，您会重复地感到膝部不稳定或是支撑不住，引致半月板撕裂，软骨受伤及最后患上关节炎 [1]。而且活动愈多，患上关节炎的速度亦会愈快 - 如果您的前十字韧带撕裂，且带伤参与足球运动十年，那么您大概需要准备进行膝关节置换了！相反，如果您已六十岁，而只是踏单车作运动的话，因撕裂的衍生问题大概不会发生在您身上。
+        - ### 怎样知道我的前十字韧带撕裂了？****
+            - 不幸地，有相当多的急性前十字韧带撕裂都没被发现 [2]。 这个问题导致很多人在受伤后，尽管膝部功能未完全恢复情况，都会因为情况有所改善，而再次进行运动。
+            - 当接受「轴移试验」检查时，如果感觉到膝关节松弛，可以确定前十字韧带已经撕裂 [3,4]，但如果只是有点酸痛，肌肉痉挛很容易将问题隐藏，因而得出假阴性的结果。
+            - 磁力共振扫描能显示前十字韧带 (图3)，但并不能每次都显示前十字韧带的纤维是绷紧且功能正常，还是松驰及不能运作。不过即使前十字韧带纤维能清晰可见，如果在磁力共振扫描显示膝部的外半侧有微小裂缝 (又称为骨瘀伤) 的话，前十字韧带很大机会已完全撕裂了 [5]。
+            - ![](https://asiamedicalspecialists.hk/files/article/7/ACL_FAQ_fig3.jpg?1470283953401)
+            - **图3** 来自上海的磁力共振青扫描显示箭咀标记的是未受损的前十字韧带
+            - 亚洲专科医生的[膝部外科医生](https://asiamedicalspecialists.hk/en/team/details.php?team_member_id=12&doctor=Dr-Terence-CHAN)经常为那些长期有膝部问题而无法被确诊的患者，诊断出前十字韧带撕裂的问题。
+        - ### 若我的前十字韧带撕裂了，该怎么办？
+            - 现代的答案是「把它重建」，令它回复正常功能及减少患上关节炎的可能。
+        - ### 前十字韧带手术是绝对需要的吗？****
+            - 其实不然。有些患者愿意改变他们的活动习惯– 尽量减少涉及旋转及切入动作的运动。即使没有完整的前十字韧带，他们仍有可能如常活动。不过，有前十字韧带缺陷的膝部仍有机会在日常练习中「支撑不住」，导致半月板和软骨受伤，最后引发关节炎。由于现时的前十字韧带重建手术效果良好及相对简易，大部份患者都会选择将前十字韧带重建。
+        - ### 可以用护膝代替吗？****
+            - 不幸地，护膝在膝部负重至卸重﹑及由卸重至负重的重要转移时刻会「丧失控制」能力(例如跳跃著地的一刻)。所以穿著护膝进行运动，具有重大的风险 [6]。
+        - ### 重建前十字韧带有没有年龄限制？
+            - 没有规定。儿童与成人同样需要前十字韧带。有时他们的前十字韧带是在连接骨骼位置撕裂，因此可以修复而无须置换。不过，若前十字韧带本身已撕裂，那就必须重建。对于骨骼尚未发展成熟的儿童，为了减少骨骼生长障碍，所用的手术技巧会略有不同。
+            - 如果长者因膝关节不稳定而产生问题，重建前十字韧带亦是必须的 [7,8]。在医学文献纪录里，接受前十字韧带重建手术的患者中，年纪最大的是一位农场工人，他因膝部不稳定而无法正常工作。当时他已是八十四岁 [9]。
+        - ### 前十字韧带重建术涉及甚么程序？****
+            - 前十字韧带重建术是在医院以关节镜(微创)手术进行，您要接受半身或全身麻醉。手术进行少于2小时。术后当日已可步行，虽有点疼酸痛，但不致疼痛。留院观察一晚后，大多数人都可于手术翌日回家，及在3-4 日后回复文书工作。无需带护膝。患者可以完全负重步行，但大部份人都会使用拐杖数星期。
+            - 物理治疗师会监察您的复康过程 – 理想情况下患者大概需要于6 个月内进行20 次治疗。通常术后3个月可作缓步跑，6 个月后可再开始轻量运动的训练，同时可望于下一季参加比赛，即第9 - 12个月。
+        - ### 涉及什么外科技术？****
+            - 亚洲专科医生的膝部外科医生可施行现代的「双束前十字韧带解剖重建术」(图 4及5)。这个手术可准确地把前十字韧带重建至未受伤前的正常状况。手术会以患者本身的膕绳肌腱来重建两束前十字韧带，而膕绳肌腱能再生，就像蜥蝪的尾巴一样 [10]。若膝部有其他问题，例如半月板撕裂，都会一并处理。
+            - ![](https://asiamedicalspecialists.hk/files/article/7/ACL_FAQ_fig4.jpg?1470284563623)
+            - **图4** 进行前十字韧带重建手术时，透过关节镜显示双束前十字韧带交差的影像
+            - ![](https://asiamedicalspecialists.hk/files/article/7/ACL_FAQ_fig5.jpg?1470284573494)
+            - **图5** 重建后的双束前十字韧带
+        - ### 为何要双束重建而不是单束？****
+            - 传统的「单束」重建前十字韧带方法只能把前内侧那束重建，不能回复原来的稳定性，特别是胫骨旋转动作 [11,12]。 虽然重建单束前十字韧带远比一个韧带有缺陷的膝部好，但效果始终不是完美。
+            - 长期跟进单束前十字韧带重建手术个案的研究中，发现约有一至三成个案投诉膝部疼痛及有残余的不稳定，而在X光检查中发现约有九成病人患上关节炎 [13,14]。
+            - 从生物力学的研究显示，接受双束前十字韧带重建手术者膝部的旋转动作远比接受单束重建手术的更具稳定性 [15]。
+            - 最近的前瞻性随机对照试验比较了单束与双束的技术，发现双束手术的结果更优胜 [16,17,18]。这个短期优胜的结果将有很大机会能长期维持。
+            - 这个短期优胜的结果将有很大机会能长期维持。
+        - ### 在前十字韧带重建术后我可以期待甚么？
+            - 亚洲专科医生的[膝部外科医生](https://asiamedicalspecialists.hk/en/team/details.php?team_member_id=12&doctor=Dr-Terence-CHAN)在双束前十字韧带重建方面有很卓越的成绩。很多曾经接受这手术的患者都觉得他们的膝部「正常」 – 这是高度评价，而且大部份患者都可重回受伤前的运动水准 – 包括专业运动员、舞蹈家、杂技演员及其他高要求人仕。
+            - **如欲获取更多资讯，可参阅[前十字**韧带重建手术资讯影片**](https://asiamedicalspecialists.hk/tc/health-information/video.php?page=1)****。此资讯影片将会介绍前十字韧带撕裂的诊断方法，治疗，手术前准备，手术过程，及复康护理。**
+        - ### 参考文献
+            - 1. Anstey DE, Heyworth BE, Price MD, Gill TJ. (2012). "Effect of timing of ACL reconstruction in surgery and development of meniscal and chondral lesions." Phys Sportsmed Feb;40(1):36-40.
+            - 2. Guillodo Y, Rannou N, Dubrana F, Lefevre C, Saraux A. (2008). "Diagnosis of anterior cruciate ligament rupture in an emergency department." J Trauma Nov;65(5):1078-82.
+            - 3. Fetto JF, Marshall JL. (1979). "Injury to the anterior cruciate ligament producing the pivot shift sign." JBJS Am Jul;61(5):710-4.
+            - 4. Leitze Z, Losee RE, Joki P, Johnson TR, Feagin JA. (2005) "Implications of the pivot shift in the ACL-deficient knee." CORR Jul;(436):229-36.
+            - 5. Yoon KH, Yoo JH, Kim KI. (2011).”Bone contusion and associated meniscal and medial collateral ligament injury in patients with anterior cruciate ligament rupture.” J Bone Joint Surg Am. Aug 17;93(16):1510-8.
+            - 6. B. Swirtun LR, Jansson A, Renstrom P. (2005). “The effect of functional knee brace during early treatment of patients with a non-operated acute ACL tear: a prospective randomized study.” Clin J Sport Med. Sept; 15(5):299-304.
+            - 7. Arbuthnot JE, Brink RB. (2010). “The role of anterior cruciate ligament reconstruction in the older patients, 55 years or above.” Knee surg Sports Traumatol Arthrosc. Vol 18, Number 1,73-78.
+            - 8. Osti L, Papalia R, Del Buono A, Leonardi F, Denaro V, Maffulli N. (2011). “Surgery for ACL deficiency in patients over 50.” Knee Surg Sports Traumatol Arthrosc. Mar; 19(3):412-7.
+            - 9. Miller MD, Sullivan RT. (2001). “Anterior cruciate ligament reconstruction in an 84-year-old man.” Arthroscopy Jan;17(1):70-2.
+            - 10. D. Leis HT, Sanders TG, Larsen KM, Lancaster-Weiss KJ, Miller MD. (2003). “Hamstring regrowth following harvesting for ACL reconstruction: The lizard tail phenomenon.” J Knee Surg. Jul; 16(3):159-64.
+            - 11. Tashman S, C. D., Anderson K (2004). “Abnormal rotational knee motion during running after anterior cruciate ligament reconstruction.” Am J Sports Med 32: 975-983
+            - 12. Yagi M, W. E., Kanamori A. (2002). “Biomechanical Analysis of an Anatomical Anterior Cruciate Ligament Reconstruction.” Am J Sports Med 30: 660-666
+            - 13. Anderson AF, S. R., Lipscomb AB Jr (2001). “Anterior cruciate ligament reconstruction. A prospective randomized study of 3 surgical methods. .” Am J Sports Med(29): 272-279
+            - 14. Fithian DC, P. E., Stone ML (2005). “Prospective trial of a treatment algorithm for the management of the anterior cruciate ligament-injured knee.” Am J Sports Med 33(3): 333-334.
+            - 15. Hemmerich A, van der Merwe W, Batterham M, Vaughan CL. (2011). “Double-bundle ACL surgery demostrates superior rotational kinematics to single-bundle technique during dynamic task.” Clin Biomech (Bristol, Avon). Dec; 26(10):998-1004.
+            - 16. Kondo E, Yasuda K, Azuma H, Tanabe Y, Yagi T. (2008). “Prospective clinical comparisons of anatomic double- bundle versus single-bundle ACL reconstruction procedures in 328 consecutive patients.” Am J Sports Med. Sept;36(9):1675-87.
+            - 17. Jarvela T. (2007). “Double bundle versus single-bundle ACL reconstruction: a prospective randomize clinical study.” Knee Surg Sports Taumatol Arthrosc. May;15(5):500-7.
+            - 18. Song EK, Oh LS, Gill TJ, Li G, Gadikota HR, Seon JK. (2009). “Prospective comparative study of ACL reconstruction using the double-bundle and single-bundle techniques.” Am J Sports Med. Sep;37(9):1705-11.
+            - 此文章原文由亚洲专科医生以英文撰写
+    - 前交叉韧带手术视频(普通话版本)
+        - [前十字韧带重建手术第1部份 - 诊断方法 (普通话) - YouTube](https://www.youtube.com/watch?v=D7jpG15oS0c)
+            - 第一部分：术前诊断
+                - [前十字韧带重建手术第1部份 - 诊断方法 (普通话) - YouTube](https://www.youtube.com/watch?v=D7jpG15oS0c)
+            - 第二部分：手术中
+                - [前十字韧带重建手术第2部份 - 手术过程 (普通话) - YouTube](https://www.youtube.com/watch?v=pnSiQ7jry1A)
+            - 第三部分：术后康复
+                - [前十字韧带重建手术第3部份 - 复康护理 (普通话) - YouTube](https://www.youtube.com/watch?v=cHObUoaU9XI)
+    - [前十字韧带重建手术第1部份 - 诊断方法 (普通话) - YouTube](https://www.youtube.com/watch?v=D7jpG15oS0c&list=PLdmTAJGtxgqyKFgr9z7DBZM0WYf0Dv-Yv)
+    - 参考文章
+        - [前交叉韧带损伤一定要手术吗?-前叉之家](https://www.qianchazhijia.com/mustread/3997.html)

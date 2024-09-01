@@ -1,0 +1,9 @@
+The Archive备份GIT的网址是
+
+[General](https://github.com/baibanbao/the_archive/settings)
+
+本地文件夹是
+
+`'/Users/ding/Dropbox/Mac (2)/Documents/GitHub/the_archive/'`
+
+#thearchive

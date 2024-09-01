@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzIwOTdmNjQtOWQ1ZS00ZWQ4LWIxYTMtOWFkM2NjODJiMGY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Giuseppe Tornatore]]
+        - Writer:: [[Alessandro Baricco]] [[Giuseppe Tornatore]]
+        - Cast:: [[Tim Roth]] [[Pruitt Taylor Vince]] [[Mélanie Thierry]]
+        - Year:: [[1998]]
+        - Genre:: #Drama #Music #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0120731
+    - **Plot Summary:** A baby boy, discovered in 1900 on an ocean liner, grows into a musical prodigy, never setting foot on land.

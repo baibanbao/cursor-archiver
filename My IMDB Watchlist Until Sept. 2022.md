@@ -1,0 +1,8734 @@
+- Movies
+    - Director::
+    - Screenwriter::
+    - Viewing Status::
+    - Recommended By:: 
+    - IMDB Link::
+    - 豆瓣链接::
+    - Tags:: #movies #编剧故事营 #IMDB
+- ## My IMDB Watch List 
+- Until 2022-09-04
+- 1
+- The Shawshank Redemption
+- 1994 | Movie  9.3 (2,635,261)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 2
+- The Godfather
+- 1972 | Movie  9.2 (1,826,428)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 3
+- The Godfather Part II
+- 1974 | Movie  9.0 (1,252,655)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 4
+- Pulp Fiction
+- 1994 | Movie  8.9 (2,016,959)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 5
+- 12 Angry Men
+- 1957 | Movie  9.0 (778,149)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 6
+- The Lord of the Rings: The Return of the King
+- 2003 | Movie  9.0 (1,808,857)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 7
+- Schindler's List
+- 1993 | Movie  9.0 (1,336,726)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 8
+- The Lord of the Rings: The Fellowship of the Ring
+- 2001 | Movie  8.8 (1,831,294)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 9
+- Inception
+- 2010 | Movie  8.8 (2,311,008)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 10
+- Seven Samurai
+- 1954 | Movie  8.6 (343,213)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 11
+- Forrest Gump
+- 1994 | Movie  8.8 (2,039,911)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 12
+- The Lord of the Rings: The Two Towers
+- 2002 | Movie  8.8 (1,633,491)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 13
+- The Matrix
+- 1999 | Movie  8.7 (1,886,166)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 14
+- Se7en
+- 1995 | Movie  8.6 (1,620,490)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 15
+- Casablanca
+- 1942 | Movie  8.5 (566,389)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 16
+- The Silence of the Lambs
+- 1991 | Movie  8.6 (1,408,574)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 17
+- The Usual Suspects
+- 1995 | Movie  8.5 (1,073,330)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 18
+- Rear Window
+- 1954 | Movie  8.5 (486,901)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 19
+- Psycho
+- 1960 | Movie  8.5 (663,248)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 20
+- Apocalypse Now
+- 1979 | Movie  8.5 (660,396)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 21
+- Saving Private Ryan
+- 1998 | Movie  8.6 (1,370,161)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 22
+- Spirited Away
+- 2001 | Movie  8.6 (748,582)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 23
+- Memento
+- 2000 | Movie  8.4 (1,223,395)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 24
+- Alien
+- 1979 | Movie  8.5 (869,158)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 25
+- Life Is Beautiful
+- 1997 | Movie  8.6 (686,177)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 26
+- North by Northwest
+- 1959 | Movie  8.3 (325,637)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 27
+- Bicycle Thieves
+- 1948 | Movie  8.3 (162,692)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 28
+- Braveheart
+- 1995 | Movie  8.4 (1,028,147)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 29
+- Singin' in the Rain
+- 1952 | Movie  8.3 (240,665)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 30
+- Full Metal Jacket
+- 1987 | Movie  8.3 (734,628)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 31
+- Chinatown
+- 1974 | Movie  8.2 (324,331)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 32
+- Ikiru
+- 1952 | Movie  8.3 (77,971)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 33
+- Inglourious Basterds
+- 2009 | Movie  8.3 (1,422,257)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 34
+- Up
+- 2009 | Movie  8.3 (1,030,680)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 35
+- Toy Story
+- 1995 | Movie  8.3 (981,219)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 36
+- Fargo
+- 1996 | Movie  8.1 (672,155)  10
+- Add a note
+- Added
+- 23 Sep 2013
+- 37
+- The Deer Hunter
+- 1978 | Movie  8.1 (337,366)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 38
+- Lock, Stock and Two Smoking Barrels
+- 1998 | Movie  8.2 (577,593)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 39
+- Strangers on a Train
+- 1951 | Movie  7.9 (133,679)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 40
+- High Noon
+- 1952 | Movie  8.0 (104,115)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 41
+- [[V for Vendetta]]
+- 2005 | Movie  8.2 (1,110,858)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 42
+- Butch Cassidy and the Sundance Kid
+- 1969 | Movie  8.0 (215,251)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 43
+- [[No Country for Old Men]]
+- 2007 | Movie  8.2 (957,799)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 44
+- [[Notorious]]
+- 1946 | Movie  7.9 (101,061)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 45
+- [[Platoon]]
+- 1986 | Movie  8.1 (411,578)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 46
+- The Sixth Sense
+- 1999 | Movie  8.2 (981,556)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 47
+- Annie Hall
+- 1977 | Movie  8.0 (264,832)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 48
+- Kill Bill: Vol. 1
+- 2003 | Movie  8.2 (1,100,732)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 49
+- Dial M for Murder
+- 1954 | Movie  8.2 (174,880)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 50
+- [[Finding Nemo]]
+- 2003 | Movie  8.2 (1,032,143)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 51
+- Ben-Hur
+- 1959 | Movie  8.1 (238,290)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 52
+- The King's Speech
+- 2010 | Movie  8.0 (676,448)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 53
+- Hachi: A Dog's Tale
+- 2009 | Movie  8.1 (282,565)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 54
+- Harry Potter and the Deathly Hallows: Part 2
+- 2011 | Movie  8.1 (862,259)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 55
+- The Graduate
+- 1967 | Movie  8.0 (272,174)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 56
+- The Hobbit: An Unexpected Journey
+- 2012 | Movie  7.8 (814,207)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 57
+- Black Swan
+- 2010 | Movie  8.0 (757,564)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 58
+- Life of Pi
+- 2012 | Movie  7.9 (624,589)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 59
+- In the Name of the Father
+- 1993 | Movie  8.1 (174,187)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 60
+- Slumdog Millionaire
+- 2008 | Movie  8.0 (840,211)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 61
+- Monsters, Inc.
+- 2001 | Movie  8.1 (898,037)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 62
+- A Streetcar Named Desire
+- 1951 | Movie  7.9 (108,073)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 63
+- Battleship Potemkin
+- 1925 | Movie  8.0 (57,671)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 64
+- The Truman Show
+- 1998 | Movie  8.2 (1,059,721)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 65
+- Shutter Island
+- 2010 | Movie  8.2 (1,285,795)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 66
+- Jurassic Park
+- 1993 | Movie  8.2 (975,764)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 67
+- [[7 Women]]
+- 1966 | Movie  6.7 (2,390)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 68
+- The Man Who Shot Liberty Valance
+- 1962 | Movie  8.1 (75,977)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 69
+- The Searchers
+- 1956 | Movie  7.9 (89,245)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 70
+- Mogambo
+- 1953 | Movie  6.6 (8,321)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 71
+- Mister Roberts
+- 1955 | Movie  7.6 (16,942)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 72
+- What Price Glory
+- 1952 | Movie  6.2 (1,314)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 73
+- The Quiet Man
+- 1952 | Movie  7.7 (38,840)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 74
+- Rio Grande
+- 1950 | Movie  7.0 (16,298)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 75
+- She Wore a Yellow Ribbon
+- 1949 | Movie  7.2 (17,858)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 76
+- 3 Godfathers
+- 1948 | Movie  7.1 (9,602)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 77
+- Fort Apache
+- 1948 | Movie  7.4 (18,308)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 78
+- My Darling Clementine
+- 1946 | Movie  7.7 (23,751)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 79
+- They Were Expendable
+- 1945 | Movie  7.1 (8,503)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 80
+- How Green Was My Valley
+- 1941 | Movie  7.7 (24,271)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 81
+- The Long Voyage Home
+- 1940 | Movie  6.9 (4,382)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 82
+- The Grapes of Wrath
+- 1940 | Movie  8.1 (93,020)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 83
+- Drums Along the Mohawk
+- 1939 | Movie  7.0 (6,301)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 84
+- Young Mr. Lincoln
+- 1939 | Movie  7.5 (8,433)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 85
+- Stagecoach
+- 1939 | Movie  7.8 (49,020)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 86
+- A Passage to India
+- 1984 | Movie  7.3 (19,021)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 87
+- Ryan's Daughter
+- 1970 | Movie  7.4 (9,914)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 88
+- Doctor Zhivago
+- 1965 | Movie  7.9 (76,573)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 89
+- Lawrence of Arabia
+- 1962 | Movie  8.3 (291,681)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 90
+- Great Expectations
+- 1946 | Movie  7.8 (24,536)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 91
+- The Bridge on the River Kwai
+- 1957 | Movie  8.2 (219,706)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 92
+- Frenzy
+- 1972 | Movie  7.4 (45,889)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 93
+- Marnie
+- 1964 | Movie  7.1 (49,473)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 94
+- The Birds
+- 1963 | Movie  7.6 (187,884)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 95
+- Vertigo
+- 1958 | Movie  8.3 (399,149)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 96
+- The Wrong Man
+- 1956 | Movie  7.4 (28,666)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 97
+- The Trouble with Harry
+- 1955 | Movie  7.0 (38,605)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 98
+- The Man Who Knew Too Much
+- 1934 | Movie  6.7 (19,247)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 99
+- The Man Who Knew Too Much
+- 1956 | Movie  7.4 (64,780)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 100
+- To Catch a Thief
+- 1955 | Movie  7.4 (73,026)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 101
+- An Autumn Afternoon
+- 1962 | Movie  8.1 (9,291)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 102
+- Late Autumn
+- 1960 | Movie  8.0 (5,473)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 103
+- Equinox Flower
+- 1958 | Movie  7.8 (4,304)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 104
+- Tokyo Story
+- 1953 | Movie  8.2 (61,458)  10
+- Add a note
+- Added
+- 23 Sep 2013
+- 105
+- Late Spring
+- 1949 | Movie  8.2 (17,064)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 106
+- The Hunt for Red October
+- 1990 | Movie  7.6 (198,769)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 107
+- E.T. the Extra-Terrestrial
+- 1982 | Movie  7.9 (405,160)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 108
+- The Lost World: Jurassic Park
+- 1997 | Movie  6.5 (415,891)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 109
+- Amistad
+- 1997 | Movie  7.3 (77,059)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 110
+- A.I. Artificial Intelligence
+- 2001 | Movie  7.2 (306,776)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 111
+- Minority Report
+- 2002 | Movie  7.7 (547,487)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 112
+- The Terminal
+- 2004 | Movie  7.4 (454,956)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 113
+- War of the Worlds
+- 2005 | Movie  6.5 (446,670)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 114
+- Munich
+- 2005 | Movie  7.5 (226,458)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 115
+- Nostalghia
+- 1983 | Movie  8.0 (27,094)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 116
+- The Sacrifice
+- 1986 | Movie  7.9 (28,297)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 117
+- Thelma & Louise
+- 1991 | Movie  7.5 (154,266)  10
+- Add a note
+- Added
+- 23 Sep 2013
+- 118
+- Black Hawk Down
+- 2001 | Movie  7.7 (394,042)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 119
+- Looking for Eric
+- 2009 | Movie  7.1 (17,214)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 120
+- The Wind that Shakes the Barley
+- 2006 | Movie  7.5 (50,412)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 121
+- Billy Elliot
+- 2000 | Movie  7.7 (134,847)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 122
+- Eight
+- 1998 | Short  6.6 (453)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 123
+- The Reader
+- 2008 | Movie  7.6 (244,629)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 124
+- Cashback
+- 2006 | Movie  7.1 (87,376)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 125
+- Cashback
+- 2004 | Short  7.6 (10,832)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 126
+- Bonnie and Clyde
+- 1967 | Movie  7.7 (112,836)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 127
+- True Grit
+- 1969 | Movie  7.4 (47,585)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 128
+- Blazing Saddles
+- 1974 | Movie  7.7 (138,906)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 129
+- The Straight Story
+- 1999 | Movie  8.0 (90,374)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 130
+- Crouching Tiger, Hidden Dragon
+- 2000 | Movie  7.9 (268,469)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 131
+- Lust, Caution
+- 2007 | Movie  7.5 (41,780)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 132
+- Sunrise
+- 1927 | Movie  8.1 (51,020)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 133
+- King Kong
+- 1933 | Movie  7.9 (85,398)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 134
+- The Mist
+- 2007 | Movie  7.1 (307,976)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 135
+- Cloud Atlas
+- 2012 | Movie  7.4 (361,671)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 136
+- The Matrix Reloaded
+- 2003 | Movie  7.2 (590,469)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 137
+- The Matrix Revolutions
+- 2003 | Movie  6.7 (509,739)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 138
+- WALL·E
+- 2008 | Movie  8.4 (1,101,473)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 139
+- John Carter
+- 2012 | Movie  6.6 (272,087)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 140
+- Prometheus
+- 2012 | Movie  7.0 (605,702)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 141
+- Fire Butterflies
+- 2003 | Short  7.2 (60)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 142
+- African Cats
+- 2011 | Movie  7.5 (6,501)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 143
+- Little Miss Sunshine
+- 2006 | Movie  7.8 (477,391)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 144
+- Big Fish
+- 2003 | Movie  8.0 (439,469)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 145
+- The Color Purple
+- 1985 | Movie  7.7 (86,595)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 146
+- Scent of a Woman
+- 1992 | Movie  8.0 (293,760)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 147
+- Con Air
+- 1997 | Movie  6.9 (298,571)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 148
+- Face/Off
+- 1997 | Movie  7.3 (375,581)  7
+- Add a note
+- Added
+- 23 Sep 2013
+- 149
+- National Treasure
+- 2004 | Movie  6.9 (330,795)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 150
+- Lord of War
+- 2005 | Movie  7.6 (316,195)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 151
+- American Beauty
+- 1999 | Movie  8.4 (1,143,268)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 152
+- Swing Vote
+- 2008 | Movie  6.1 (18,791)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 153
+- Waterworld
+- 1995 | Movie  6.2 (196,050)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 154
+- Once
+- 2007 | Movie  7.8 (116,587)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 155
+- True Lies
+- 1994 | Movie  7.3 (257,032)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 156
+- The Lion King
+- 1994 | Movie  8.5 (1,042,544)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 157
+- Kung Fu Panda
+- 2008 | Movie  7.6 (464,655)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 158
+- Kung Fu Panda 2
+- 2011 | Movie  7.2 (282,668)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 159
+- Enemy at the Gates
+- 2001 | Movie  7.6 (261,353)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 160
+- Hamlet
+- 1948 | Movie  7.6 (17,029)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 161
+- The Piano
+- 1993 | Movie  7.5 (88,435)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 162
+- The Legend of 1900
+- 1998 | Movie  8.0 (64,283)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 163
+- Les Misérables
+- 2012 | Movie  7.5 (328,522)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 164
+- Wanted
+- 2008 | Movie  6.7 (387,453)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 165
+- Patton
+- 1970 | Movie  7.9 (102,049)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 166
+- Gandhi
+- 1982 | Movie  8.1 (230,760)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 167
+- The Incredibles
+- 2004 | Movie  8.0 (726,504)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 168
+- The Hangover
+- 2009 | Movie  7.7 (777,522)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 169
+- Sideways
+- 2004 | Movie  7.5 (191,329)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 170
+- Erin Brockovich
+- 2000 | Movie  7.4 (196,750)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 171
+- The Last Emperor
+- 1987 | Movie  7.7 (103,082)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 172
+- Groundhog Day
+- 1993 | Movie  8.1 (624,341)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 173
+- The Virgin Spring
+- 1960 | Movie  8.1 (29,348)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 174
+- Short Time
+- 1990 | Movie  6.4 (2,396)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 175
+- Dersu Uzala
+- 1975 | Movie  8.2 (29,422)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 176
+- 8½
+- 1963 | Movie  8.0 (117,598)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 177
+- Blow-Up
+- 1966 | Movie  7.5 (62,298)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 178
+- Irreversible
+- 2002 | Movie  7.3 (134,470)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 179
+- Run Lola Run
+- 1998 | Movie  7.7 (198,675)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 180
+- Heaven
+- 2002 | Movie  7.0 (25,694)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 181
+- Eternity and a Day
+- 1998 | Movie  7.9 (12,847)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 182
+- The Discreet Charm of the Bourgeoisie
+- 1972 | Movie  7.8 (43,073)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 183
+- Ugetsu
+- 1953 | Movie  8.2 (23,537)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 184
+- Macbeth
+- 1971 | Movie  7.4 (13,957)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 185
+- Two Men and a Wardrobe
+- 1958 | Short  6.7 (2,608)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 186
+- Oliver Twist
+- 2005 | Movie  6.8 (32,921)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 187
+- Anna Karenina
+- 2012 | Movie  6.6 (100,009)  9
+- Add a note
+- Added
+- 23 Sep 2013
+- 188
+- The Full Monty
+- 1997 | Movie  7.2 (106,483)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 189
+- Before the Rain
+- 1994 | Movie  7.9 (14,996)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 190
+- Pina
+- 2011 | Movie  7.6 (15,287)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 191
+- Beyond the Clouds
+- 1995 | Movie  6.4 (5,917)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 192
+- Wings of Desire
+- 1987 | Movie  8.0 (70,995)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 193
+- Ali: Fear Eats the Soul
+- 1974 | Movie  8.0 (21,541)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 194
+- The Marriage of Maria Braun
+- 1979 | Movie  7.7 (13,779)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 195
+- In the Realm of the Senses
+- 1976 | Movie  6.6 (20,778)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 196
+- Love Story
+- 1970 | Movie  6.9 (34,379)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 197
+- Contact
+- 1997 | Movie  7.5 (273,742)  8
+- Add a note
+- Added
+- 23 Sep 2013
+- 198
+- Doubt
+- 2008 | Movie  7.5 (129,439)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 199
+- The Iron Lady
+- 2011 | Movie  6.4 (109,364)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 200
+- Unbreakable
+- 2000 | Movie  7.3 (415,476)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 201
+- Rambo
+- 2008 | Movie  7.0 (231,265)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 202
+- Cold Mountain
+- 2003 | Movie  7.2 (148,838)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 203
+- Natural Born Killers
+- 1994 | Movie  7.2 (234,248)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 204
+- Woman in the Dunes
+- 1964 | Movie  8.5 (20,091)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 205
+- Ponyo
+- 2008 | Movie  7.6 (142,701)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 206
+- Princess Mononoke
+- 1997 | Movie  8.4 (389,547)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 207
+- Hero
+- 2002 | Movie  7.9 (181,235)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 208
+- A Woman, a Gun and a Noodle Shop
+- 2009 | Movie  5.7 (3,264)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 209
+- The Bright Red Lanterns Hung High
+- 2008 | Video  7.6 (82)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 210
+- Curse of the Golden Flower
+- 2006 | Movie  7.0 (44,303)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 211
+- House of Flying Daggers
+- 2004 | Movie  7.5 (112,186)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 212
+- Happy Times
+- 2000 | Movie  7.4 (4,042)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 213
+- Not One Less
+- 1999 | Movie  7.7 (8,861)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 214
+- Keep Cool
+- 1997 | Movie  7.2 (1,971)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 215
+- Shanghai Triad
+- 1995 | Movie  7.1 (5,680)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 216
+- To Live
+- 1994 | Movie  8.3 (18,346)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 217
+- The Story of Qiu Ju
+- 1992 | Movie  7.6 (6,136)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 218
+- Raise the Red Lantern
+- 1991 | Movie  8.1 (32,696)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 219
+- Ju Dou
+- 1990 | Movie  7.6 (8,455)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 220
+- Red Sorghum
+- 1988 | Movie  7.3 (9,125)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 221
+- Farewell My Concubine
+- 1993 | Movie  8.1 (28,917)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 222
+- 24 City
+- 2008 | Movie  7.1 (2,144)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 223
+- Platform
+- 2000 | Movie  7.4 (2,812)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 224
+- Pickpocket
+- 1997 | Movie  7.4 (2,795)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 225
+- Unknown Pleasures
+- 2002 | Movie  6.8 (2,427)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 226
+- Lolita
+- 1962 | Movie  7.5 (101,313)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 227
+- Lolita
+- 1997 | Movie  6.8 (59,186)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 228
+- Argo
+- 2012 | Movie  7.7 (611,364)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 229
+- A Walk in the Clouds
+- 1995 | Movie  6.7 (34,333)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 230
+- Little Buddha
+- 1993 | Movie  6.1 (16,980)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 231
+- 2012
+- 2009 | Movie  5.8 (376,179)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 232
+- The Day After Tomorrow
+- 2004 | Movie  6.4 (445,786)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 233
+- Independence Day
+- 1996 | Movie  7.0 (572,178)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 234
+- Mars Attacks!
+- 1996 | Movie  6.4 (226,709)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 235
+- Planet of the Apes
+- 2001 | Movie  5.7 (219,817)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 236
+- Corpse Bride
+- 2005 | Movie  7.3 (269,630)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 237
+- Rise of the Planet of the Apes
+- 2011 | Movie  7.6 (525,824)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 238
+- Shakespeare in Love
+- 1998 | Movie  7.1 (224,801)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 239
+- Four Weddings and a Funeral
+- 1994 | Movie  7.1 (152,517)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 240
+- Notting Hill
+- 1999 | Movie  7.2 (308,055)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 241
+- Mr. Bean's Holiday
+- 2007 | Movie  6.4 (126,065)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 242
+- Lost in Translation
+- 2003 | Movie  7.7 (450,724)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 243
+- Somewhere
+- 2010 | Movie  6.3 (44,970)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 244
+- Unforgiven
+- 1992 | Movie  8.2 (409,199)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 245
+- Deep Impact
+- 1998 | Movie  6.2 (178,330)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 246
+- Die Hard
+- 1988 | Movie  8.2 (867,322)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 247
+- The Fifth Element
+- 1997 | Movie  7.6 (470,370)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 248
+- Mercury Rising
+- 1998 | Movie  6.1 (74,246)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 249
+- Armageddon
+- 1998 | Movie  6.7 (423,801)  7
+- Add a note
+- Added
+- 23 Sep 2013
+- 250
+- The Ten Commandments
+- 1956 | Movie  7.9 (71,016)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 251
+- Born on the Fourth of July
+- 1989 | Movie  7.2 (106,853)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 252
+- Five Dedicated to Ozu
+- 2003 | Movie  6.5 (841)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 253
+- Hamlet
+- 1990 | Movie  6.7 (22,543)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 254
+- Romeo and Juliet
+- 1968 | Movie  7.6 (31,857)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 255
+- Avatar
+- 2009 | Movie  7.8 (1,219,187)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 256
+- Titanic
+- 1997 | Movie  7.9 (1,155,342)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 257
+- Mystic River
+- 2003 | Movie  7.9 (453,911)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 258
+- Pretty Woman
+- 1990 | Movie  7.1 (321,992)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 259
+- Back to 1942
+- 2012 | Movie  6.8 (3,462)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 260
+- Chicago
+- 2002 | Movie  7.2 (229,839)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 261
+- Shine
+- 1996 | Movie  7.7 (54,323)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 262
+- La Grande Vadrouille
+- 1966 | Movie  7.9 (18,089)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 263
+- Amélie
+- 2001 | Movie  8.3 (750,815)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 264
+- Dancer in the Dark
+- 2000 | Movie  7.9 (109,753)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 265
+- Hotel Rwanda
+- 2004 | Movie  8.1 (354,313)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 266
+- The Hurt Locker
+- 2008 | Movie  7.5 (449,425)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 267
+- K-19: The Widowmaker
+- 2002 | Movie  6.7 (63,625)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 268
+- The Fugitive
+- 1993 | Movie  7.8 (293,378)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 269
+- Air Force One
+- 1997 | Movie  6.5 (195,688)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 270
+- Black Book
+- 2006 | Movie  7.7 (76,968)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 271
+- The Da Vinci Code
+- 2006 | Movie  6.6 (430,651)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 272
+- Cars
+- 2006 | Movie  7.2 (415,952)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 273
+- The Polar Express
+- 2004 | Movie  6.6 (205,051)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 274
+- Cast Away
+- 2000 | Movie  7.8 (585,508)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 275
+- The Green Mile
+- 1999 | Movie  8.6 (1,279,818)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 276
+- You've Got Mail
+- 1998 | Movie  6.7 (213,179)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 277
+- Apollo 13
+- 1995 | Movie  7.7 (293,557)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 278
+- Team America: World Police
+- 2004 | Movie  7.2 (169,222)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 279
+- The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+- 2005 | Movie  6.9 (395,414)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 280
+- Shrek 2
+- 2004 | Movie  7.3 (458,661)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 281
+- The Queen
+- 2006 | Movie  7.3 (110,527)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 282
+- In the Heat of the Sun
+- 1994 | Movie  8.1 (4,737)  8
+- Add a note
+- Added
+- 23 Sep 2013
+- 283
+- The Sound of Music
+- 1965 | Movie  8.1 (231,935)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 284
+- The People vs. Larry Flynt
+- 1996 | Movie  7.3 (95,057)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 285
+- A Fish Called Wanda
+- 1988 | Movie  7.5 (142,370)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 286
+- The Lives of Others
+- 2006 | Movie  8.4 (387,093)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 287
+- An Inconvenient Truth
+- 2006 | Movie  7.4 (83,364)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 288
+- Atonement
+- 2007 | Movie  7.8 (276,411)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 289
+- Mulholland Drive
+- 2001 | Movie  7.9 (352,477)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 290
+- Valiant
+- 2005 | Movie  5.5 (23,005)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 291
+- The Triplets of Belleville
+- 2003 | Movie  7.7 (54,516)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 292
+- The Illusionist
+- 2010 | Movie  7.5 (35,295)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 293
+- Shark Tale
+- 2004 | Movie  6.0 (182,596)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 294
+- Chinese in Paris
+- 1974 | Movie  6.2 (627)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 295
+- The Postman
+- 1994 | Movie  7.7 (36,579)  8
+- Add a note
+- Added
+- 23 Sep 2013
+- 296
+- The Outrage
+- 2010 | Movie  6.8 (13,689)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 297
+- Memories of Murder
+- 2003 | Movie  8.1 (179,758)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 298
+- The Host
+- 2006 | Movie  7.1 (121,097)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 299
+- Memoirs of a Geisha
+- 2005 | Movie  7.3 (149,361)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 300
+- Colombiana
+- 2011 | Movie  6.4 (101,539)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 301
+- The Bourne Legacy
+- 2012 | Movie  6.6 (301,674)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 302
+- Star Trek Into Darkness
+- 2013 | Movie  7.7 (482,384)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 303
+- Mission: Impossible - Ghost Protocol
+- 2011 | Movie  7.4 (487,987)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 304
+- Source Code
+- 2011 | Movie  7.5 (517,306)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 305
+- Despicable Me
+- 2010 | Movie  7.6 (543,058)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 306
+- The Curious Case of Benjamin Button
+- 2008 | Movie  7.8 (644,397)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 307
+- A Beautiful Mind
+- 2001 | Movie  8.2 (922,994)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 308
+- The Prestige
+- 2006 | Movie  8.5 (1,313,913)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 309
+- Paperman
+- 2012 | Short  8.2 (33,623)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 310
+- The Butterfly Effect
+- 2004 | Movie  7.6 (486,216)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 311
+- Rio
+- 2011 | Movie  6.9 (226,645)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 312
+- How to Train Your Dragon
+- 2010 | Movie  8.1 (731,796)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 313
+- Crash
+- 2004 | Movie  7.8 (435,673)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 314
+- Sherlock Holmes
+- 2009 | Movie  7.6 (628,844)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 315
+- Home Alone
+- 1990 | Movie  7.7 (560,037)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 316
+- The Man from Earth
+- 2007 | Movie  7.9 (187,005)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 317
+- The Mask
+- 1994 | Movie  6.9 (382,712)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 318
+- Madagascar
+- 2005 | Movie  6.9 (400,697)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 319
+- Thor
+- 2011 | Movie  7.0 (838,747)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 320
+- The Talented Mr. Ripley
+- 1999 | Movie  7.4 (210,985)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 321
+- Zodiac
+- 2007 | Movie  7.7 (534,342)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 322
+- I, Robot
+- 2004 | Movie  7.1 (536,217)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 323
+- Quantum of Solace
+- 2008 | Movie  6.6 (446,415)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 324
+- Phone Booth
+- 2002 | Movie  7.1 (268,299)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 325
+- TRON: Legacy
+- 2010 | Movie  6.8 (335,555)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 326
+- Changeling
+- 2008 | Movie  7.8 (254,981)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 327
+- 300
+- 2006 | Movie  7.6 (813,589)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 328
+- Clash of the Titans
+- 2010 | Movie  5.8 (282,132)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 329
+- Jumanji
+- 1995 | Movie  7.0 (342,454)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 330
+- Battle Los Angeles
+- 2011 | Movie  5.7 (180,427)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 331
+- Partly Cloudy
+- 2009 | Short  8.1 (22,115)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 332
+- Speed
+- 1994 | Movie  7.3 (361,618)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 333
+- Troy
+- 2004 | Movie  7.3 (530,637)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 334
+- Chicken Run
+- 2000 | Movie  7.1 (191,359)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 335
+- Happy Feet
+- 2006 | Movie  6.4 (185,288)  Rate
+- Add a note
+- Added
+- 23 Sep 2013
+- 336
+- Rush Hour
+- 1998 | Movie  7.0 (266,078)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 337
+- Driving Miss Daisy
+- 1989 | Movie  7.3 (109,776)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 338
+- Live Free or Die Hard
+- 2007 | Movie  7.1 (405,202)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 339
+- O Brother, Where Art Thou?
+- 2000 | Movie  7.7 (310,201)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 340
+- Misery
+- 1990 | Movie  7.8 (208,861)  7
+- Add a note
+- Added
+- 24 Sep 2013
+- 341
+- Léon: The Professional
+- 1994 | Movie  8.5 (1,144,454)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 342
+- Windtalkers
+- 2002 | Movie  6.1 (69,579)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 343
+- The Mummy: Tomb of the Dragon Emperor
+- 2008 | Movie  5.2 (160,644)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 344
+- Anna Karenina
+- 1997 | Movie  6.2 (5,942)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 345
+- Somewhere in Time
+- 1980 | Movie  7.2 (29,697)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 346
+- The Golden Compass
+- 2007 | Movie  6.1 (188,130)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 347
+- The Prince of Egypt
+- 1998 | Movie  7.1 (131,800)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 348
+- United 93
+- 2006 | Movie  7.6 (106,400)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 349
+- Die Another Day
+- 2002 | Movie  6.1 (219,140)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 350
+- Seabiscuit
+- 2003 | Movie  7.3 (73,178)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 351
+- Presto
+- 2008 | Short  8.3 (24,549)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 352
+- Bathing Beauty
+- 1944 | Movie  6.4 (1,702)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 353
+- 10,000 BC
+- 2008 | Movie  5.1 (131,314)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 354
+- A Railway Station for Two
+- 1983 | Movie  7.8 (3,285)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 355
+- Office Romance
+- 1977 | Movie  8.3 (9,320)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 356
+- Unbelievable Adventures of Italians in Russia
+- 1974 | Movie  7.6 (5,806)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 357
+- The Horseman on the Roof
+- 1995 | Movie  7.0 (6,076)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 358
+- Broken Arrow
+- 1996 | Movie  6.1 (98,761)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 359
+- Battle Royale
+- 2000 | Movie  7.6 (182,594)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 360
+- Lost Paradise
+- 1997 | Movie  6.6 (632)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 361
+- Shall We Dance?
+- 1996 | Movie  7.7 (11,166)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 362
+- The Eel
+- 1997 | Movie  7.3 (6,014)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 363
+- The Gate of Youth
+- 1975 | Movie  6.9 (18)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 364
+- Most
+- 1969 | Movie  7.5 (1,145)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 365
+- Walter Defends Sarajevo
+- 1972 | Movie  8.1 (2,657)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 366
+- The Fugitives
+- 1986 | Movie  7.0 (7,000)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 367
+- The Man in the Iron Mask
+- 1998 | Movie  6.5 (167,412)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 368
+- 28 Days Later...
+- 2002 | Movie  7.5 (410,616)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 369
+- Signs
+- 2002 | Movie  6.8 (361,527)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 370
+- London to Brighton
+- 2006 | Movie  6.9 (8,499)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 371
+- An Education
+- 2009 | Movie  7.3 (134,331)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 372
+- My Sassy Girl
+- 2001 | Movie  8.0 (48,197)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 373
+- Chungking Express
+- 1994 | Movie  8.0 (80,698)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 374
+- Home
+- 2009 | Movie  8.5 (22,453)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 375
+- Harlan County U.S.A.
+- 1976 | Movie  8.2 (5,882)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 376
+- Simon of the Desert
+- 1965 | Short  7.9 (10,234)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 377
+- Castle in the Sky
+- 1986 | Movie  8.0 (165,460)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 378
+- Ben-Hur: A Tale of the Christ
+- 1925 | Movie  7.8 (7,657)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 379
+- Dog Day Afternoon
+- 1975 | Movie  8.0 (255,868)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 380
+- Waltz with Bashir
+- 2008 | Movie  8.0 (57,969)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 381
+- Fight Club
+- 1999 | Movie  8.8 (2,079,009)  Rate
+- Add a note
+- Added
+- 24 Sep 2013
+- 382
+- Taxi Driver
+- 1976 | Movie  8.2 (816,504)  8
+- Add a note
+- Added
+- 24 Sep 2013
+- 383
+- This Is It
+- 2009 | Movie  7.2 (40,483)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 384
+- Departures
+- 2008 | Movie  8.0 (52,143)  8
+- Add a note
+- Added
+- 27 Sep 2013
+- 385
+- Yang Ban Xi: The 8 Modelworks
+- 2005 | Movie  7.1 (71)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 386
+- Wings
+- 1927 | Movie  7.6 (13,008)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 387
+- March of the Penguins
+- 2005 | Movie  7.5 (58,136)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 388
+- Winged Migration
+- 2001 | Movie  7.9 (11,959)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 389
+- Microcosmos
+- 1996 | Movie  7.9 (11,225)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 390
+- Oceans
+- 2009 | Movie  7.7 (9,727)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 391
+- Perfume: The Story of a Murderer
+- 2006 | Movie  7.5 (249,637)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 392
+- Ironclad
+- 2011 | Movie  6.1 (42,220)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 393
+- My Left Foot
+- 1989 | Movie  7.9 (74,338)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 394
+- Chariots of Fire
+- 1981 | Movie  7.1 (60,446)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 395
+- Goal! The Dream Begins
+- 2005 | Movie  6.7 (63,420)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 396
+- Encounters at the End of the World
+- 2007 | Movie  7.7 (18,478)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 397
+- Whatever Works
+- 2009 | Movie  7.1 (74,309)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 398
+- Olympia Part One: Festival of the Nations
+- 1938 | Movie  7.8 (4,882)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 399
+- Olympia Part Two: Festival of Beauty
+- 1938 | Movie  7.7 (4,052)  Rate
+- Add a note
+- Added
+- 27 Sep 2013
+- 400
+- Kind Hearts and Coronets
+- 1949 | Movie  8.0 (37,375)  Rate
+- Add a note
+- Added
+- 10 Oct 2013
+- 401
+- To Be or Not to Be
+- 1942 | Movie  8.2 (37,064)  Rate
+- Add a note
+- Added
+- 10 Oct 2013
+- 402
+- Some Like It Hot
+- 1959 | Movie  8.2 (265,521)  10
+- Add a note
+- Added
+- 10 Oct 2013
+- 403
+- Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+- 1964 | Movie  8.4 (486,677)  Rate
+- Add a note
+- Added
+- 17 Oct 2013
+- 404
+- It's a Wonderful Life
+- 1946 | Movie  8.6 (450,812)  9
+- Add a note
+- Added
+- 17 Oct 2013
+- 405
+- The Lost Weekend
+- 1945 | Movie  7.9 (37,237)  Rate
+- Add a note
+- Added
+- 19 Oct 2013
+- 406
+- Yojimbo
+- 1961 | Movie  8.2 (122,472)  Rate
+- Add a note
+- Added
+- 23 Dec 2013
+- 407
+- Gravity
+- 2013 | Movie  7.7 (819,684)  Rate
+- Add a note
+- Added
+- 23 Dec 2013
+- 408
+- Children of Men
+- 2006 | Movie  7.9 (497,167)  Rate
+- Add a note
+- Added
+- 23 Dec 2013
+- 409
+- The 39 Steps
+- 1935 | Movie  7.6 (57,020)  Rate
+- Add a note
+- Added
+- 05 Feb 2014
+- 410
+- Spellbound
+- 2002 | Movie  7.6 (12,265)  Rate
+- Add a note
+- Added
+- 13 Feb 2014
+- 411
+- Non-Stop
+- 2014 | Movie  6.9 (264,204)  Rate
+- Add a note
+- Added
+- 10 Jun 2014
+- 412
+- Cat People
+- 1942 | Movie  7.2 (22,819)  Rate
+- Add a note
+- Added
+- 06 Jul 2014
+- 413
+- The Ghost Ship
+- 1943 | Movie  6.6 (3,399)  Rate
+- Add a note
+- Added
+- 06 Jul 2014
+- 414
+- East of Eden
+- 1955 | Movie  7.8 (45,594)  Rate
+- Add a note
+- Added
+- 01 Aug 2014
+- 415
+- The Boat
+- 1981 | Movie  8.4 (249,799)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 416
+- The Seven Year Itch
+- 1955 | Movie  7.1 (39,011)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 417
+- Ace in the Hole
+- 1951 | Movie  8.1 (35,978)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 418
+- The Emperor Waltz
+- 1948 | Movie  6.1 (1,740)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 419
+- The Apartment
+- 1960 | Movie  8.3 (180,510)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 420
+- Double Indemnity
+- 1944 | Movie  8.3 (156,494)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 421
+- Sunset Blvd.
+- 1950 | Movie  8.4 (220,533)  10
+- Add a note
+- Added
+- 09 Aug 2014
+- 422
+- 3 Idiots
+- 2009 | Movie  8.4 (394,847)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 423
+- Gladiator
+- 2000 | Movie  8.5 (1,477,414)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 424
+- Mirror
+- 1975 | Movie  8.0 (46,551)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 425
+- The Steamroller and the Violin
+- 1961 | Movie  7.4 (6,467)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 426
+- Dreams
+- 1990 | Movie  7.7 (26,540)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 427
+- Ran
+- 1985 | Movie  8.2 (124,997)  Rate
+- Add a note
+- Added
+- 09 Aug 2014
+- 428
+- One, Two, Three
+- 1961 | Movie  7.9 (21,326)  Rate
+- Add a note
+- Added
+- 13 Aug 2014
+- 429
+- Bad Seed
+- 1934 | Movie  6.1 (798)  Rate
+- Add a note
+- Added
+- 13 Aug 2014
+- 430
+- A Bug's Life
+- 1998 | Movie  7.2 (291,046)  Rate
+- Add a note
+- Added
+- 13 Aug 2014
+- 431
+- Summer Wars
+- 2009 | Movie  7.4 (29,612)  Rate
+- Add a note
+- Added
+- 13 Aug 2014
+- 432
+- Zero Dark Thirty
+- 2012 | Movie  7.4 (299,158)  Rate
+- Add a note
+- Added
+- 14 Aug 2014
+- 433
+- Captain Phillips
+- 2013 | Movie  7.8 (456,736)  Rate
+- Add a note
+- Added
+- 14 Aug 2014
+- 434
+- Heat
+- 1995 | Movie  8.3 (646,921)  Rate
+- Add a note
+- Added
+- 14 Aug 2014
+- 435
+- Coming Home
+- 2014 | Movie  7.2 (6,188)  Rate
+- Add a note
+- Added
+- 14 Aug 2014
+- 436
+- The Major and the Minor
+- 1942 | Movie  7.4 (6,977)  Rate
+- Add a note
+- Added
+- 14 Aug 2014
+- 437
+- Muse of Fire
+- 2013 | Movie  7.4 (129)  Rate
+- Add a note
+- Added
+- 16 Sep 2014
+- 438
+- Show Me Love
+- 1998 | Movie  7.5 (52,550)  Rate
+- Add a note
+- Added
+- 08 Oct 2014
+- 439
+- Interstellar
+- 2014 | Movie  8.6 (1,777,488)  Rate
+- Add a note
+- Added
+- 17 Nov 2014
+- 440
+- Django Unchained
+- 2012 | Movie  8.4 (1,524,805)  Rate
+- Add a note
+- Added
+- 17 Nov 2014
+- 441
+- Wild River
+- 1960 | Movie  7.5 (5,544)  Rate
+- Add a note
+- Added
+- 30 Jan 2015
+- 442
+- Eternal Sunshine of the Spotless Mind
+- 2004 | Movie  8.3 (994,775)  Rate
+- Add a note
+- Added
+- 02 Mar 2015
+- 443
+- To Kill a Mockingbird
+- 1962 | Movie  8.3 (314,860)  Rate
+- Add a note
+- Added
+- 06 Mar 2015
+- 444
+- The Treasure of the Sierra Madre
+- 1948 | Movie  8.2 (124,576)  Rate
+- Add a note
+- Added
+- 06 Mar 2015
+- 445
+- Touch of Evil
+- 1958 | Movie  8.0 (104,360)  Rate
+- Add a note
+- Added
+- 13 Mar 2015
+- 446
+- Big Hero 6
+- 2014 | Movie  7.8 (456,933)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 447
+- Exodus: Gods and Kings
+- 2014 | Movie  6.0 (168,735)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 448
+- Noah
+- 2014 | Movie  5.8 (254,808)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 449
+- Fantastic Mr. Fox
+- 2009 | Movie  7.9 (229,336)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 450
+- Cars 2
+- 2011 | Movie  6.2 (187,862)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 451
+- Planes
+- 2013 | Movie  5.7 (45,413)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 452
+- Brave
+- 2012 | Movie  7.1 (408,257)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 453
+- Frozen
+- 2013 | Movie  7.4 (618,845)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 454
+- Goodfellas
+- 1990 | Movie  8.7 (1,141,827)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 455
+- Dearest
+- 2012 | Movie  7.0 (451)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 456
+- Comrades, Almost a Love Story
+- 1996 | Movie  8.1 (6,336)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 457
+- The Hunger Games: Mockingjay - Part 1
+- 2014 | Movie  6.6 (451,493)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 458
+- The Expendables 3
+- 2014 | Movie  6.1 (182,068)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 459
+- The Butterfly
+- 2002 | Movie  7.1 (3,129)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 460
+- Autumn Marathon
+- 1979 | Movie  7.8 (3,276)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 461
+- October (Ten Days that Shook the World)
+- 1927 | Movie  7.4 (7,890)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 462
+- Forever Enthralled
+- 2008 | Movie  6.7 (1,560)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 463
+- The Grandmaster
+- 2013 | Movie  6.5 (34,470)  8
+- Add a note
+- Added
+- 14 Mar 2015
+- 464
+- The Bow
+- 2005 | Movie  7.1 (11,395)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 465
+- Rebecca
+- 1940 | Movie  8.1 (136,730)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 466
+- Sicko
+- 2007 | Movie  8.0 (75,540)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 467
+- Toy Story 3
+- 2010 | Movie  8.3 (827,174)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 468
+- Pride
+- 2014 | Movie  7.8 (57,127)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 469
+- My Neighbor Totoro
+- 1988 | Movie  8.1 (334,437)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 470
+- The Cat Returns
+- 2002 | Movie  7.2 (56,651)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 471
+- Panda! Go Panda!
+- 1972 | Short  6.8 (1,835)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 472
+- Raining Cats and Frogs
+- 2003 | Movie  6.6 (937)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 473
+- Kirikou and the Sorceress
+- 1998 | Movie  7.5 (9,827)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 474
+- The Chorus
+- 2004 | Movie  7.8 (62,163)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 475
+- Skyfall
+- 2012 | Movie  7.8 (692,170)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 476
+- Revolutionary Road
+- 2008 | Movie  7.3 (212,785)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 477
+- Romeo + Juliet
+- 1996 | Movie  6.7 (228,484)  Rate
+- Add a note
+- Added
+- 14 Mar 2015
+- 478
+- GoldenEye 007
+- 2010 | Video Game  7.3 (1,318)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 479
+- Chung Kuo - Cina
+- 1972 | Movie  7.6 (822)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 480
+- Landscape in the Mist
+- 1988 | Movie  8.0 (8,512)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 481
+- The Spring River Flows East
+- 1947 | Movie  7.3 (337)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 482
+- Black Coal, Thin Ice
+- 2014 | Movie  6.7 (8,739)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 483
+- The Chinese Mayor
+- 2015 | Movie  7.7 (733)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 484
+- The Transition Period
+- 2010 | Movie  7.7 (100)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 485
+- Brokeback Mountain
+- 2005 | Movie  7.7 (354,899)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 486
+- Kung Fu Hustle
+- 2004 | Movie  7.7 (139,165)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 487
+- Shaolin Soccer
+- 2001 | Movie  7.3 (80,564)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 488
+- King of Comedy
+- 1999 | Movie  7.2 (7,258)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 489
+- CJ7
+- 2008 | Movie  6.4 (15,958)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 490
+- A Chinese Odyssey: Part 2 - Cinderella
+- 1995 | Movie  7.8 (7,539)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 491
+- A Chinese Odyssey: Part One - Pandora's Box
+- 1995 | Movie  7.6 (7,368)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 492
+- Flirting Scholar
+- 1993 | Movie  7.5 (5,378)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 493
+- Hail the Judge
+- 1994 | Movie  7.5 (4,076)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 494
+- From Beijing with Love
+- 1994 | Movie  7.1 (6,673)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 495
+- Once Upon a Time in China
+- 1991 | Movie  7.2 (18,752)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 496
+- The Forbidden Kingdom
+- 2008 | Movie  6.5 (105,894)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 497
+- Tai Chi Master
+- 1993 | Movie  7.2 (10,212)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 498
+- A Simple Life
+- 2011 | Movie  7.5 (5,936)  8
+- Add a note
+- Added
+- 15 Mar 2015
+- 499
+- Green Snake
+- 1993 | Movie  7.2 (3,121)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 500
+- Detective Dee: The Mystery of the Phantom Flame
+- 2010 | Movie  6.6 (11,343)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 501
+- The Lovers
+- 1994 | Movie  7.3 (901)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 502
+- The Swordsman
+- 1990 | Movie  6.8 (2,373)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 503
+- Manhunt
+- 1976 | Movie  6.9 (501)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 504
+- Brothel No. 8
+- 1974 | Movie  7.5 (612)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 505
+- My Memories of Old Beijing
+- 1983 | Movie  7.7 (391)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 506
+- Teahouse
+- 1982 | Movie  8.2 (333)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 507
+- Awaara
+- 1951 | Movie  7.8 (4,147)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 508
+- Noorie
+- 1979 | Movie  6.2 (279)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 509
+- Yesenia
+- 1971 | Movie  6.3 (232)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 510
+- The Old Gun
+- 1975 | Movie  7.6 (4,335)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 511
+- Garrison's Gorillas
+- 1967 | TV Series  7.9 (323)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 512
+- Zorro
+- 1975 | Movie  6.4 (3,713)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 513
+- Shaolin Temple
+- 1982 | Movie  6.8 (4,420)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 514
+- Who Am I?
+- 1998 | Movie  6.8 (40,151)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 515
+- Rumble in the Bronx
+- 1995 | Movie  6.7 (42,502)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 516
+- The Myth
+- 2005 | Movie  6.1 (15,531)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 517
+- Shanghai Noon
+- 2000 | Movie  6.6 (127,423)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 518
+- Shrek
+- 2001 | Movie  7.9 (668,978)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 519
+- Toy Story 2
+- 1999 | Movie  7.9 (575,521)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 520
+- Mission: Impossible III
+- 2006 | Movie  6.9 (355,339)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 521
+- Planes: Fire & Rescue
+- 2014 | Movie  5.9 (18,211)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 522
+- The Expendables
+- 2010 | Movie  6.4 (344,446)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 523
+- Mission: Impossible
+- 1996 | Movie  7.1 (424,045)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 524
+- Shrek the Third
+- 2007 | Movie  6.1 (304,981)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 525
+- Rush Hour 2
+- 2001 | Movie  6.6 (218,660)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 526
+- Die Hard with a Vengeance
+- 1995 | Movie  7.6 (385,742)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 527
+- The God of Cookery
+- 1996 | Movie  7.2 (9,067)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 528
+- U-571
+- 2000 | Movie  6.6 (82,551)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 529
+- Terminator 2: Judgment Day
+- 1991 | Movie  8.6 (1,084,474)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 530
+- Casino Royale
+- 2006 | Movie  8.0 (652,323)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 531
+- Snatch
+- 2000 | Movie  8.3 (847,240)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 532
+- King of Beggars
+- 1992 | Movie  6.8 (3,828)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 533
+- Jurassic Park III
+- 2001 | Movie  5.9 (321,258)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 534
+- Mr. & Mrs. Smith
+- 2005 | Movie  6.5 (491,585)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 535
+- Let the Bullets Fly
+- 2010 | Movie  7.2 (11,303)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 536
+- Total Recall
+- 1990 | Movie  7.5 (328,807)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 537
+- The Hobbit: The Desolation of Smaug
+- 2013 | Movie  7.8 (652,633)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 538
+- An Autumn's Tale
+- 1987 | Movie  7.6 (1,945)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 539
+- Da wan
+- 2001 | Movie  6.6 (2,271)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 540
+- Beijing Bicycle
+- 2001 | Movie  7.2 (4,607)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 541
+- The Ten Commandments
+- 1923 | Movie  6.8 (2,302)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 542
+- Dawn of the Planet of the Apes
+- 2014 | Movie  7.6 (439,260)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 543
+- The Continent
+- 2014 | Movie  6.2 (1,723)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 544
+- Knowing
+- 2009 | Movie  6.2 (234,322)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 545
+- Flying Swords of Dragon Gate
+- 2011 | Movie  5.9 (8,237)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 546
+- The Missing Gun
+- 2002 | Movie  6.6 (1,238)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 547
+- Spider-Man 2
+- 2004 | Movie  7.4 (645,106)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 548
+- The Emperor and the Assassin
+- 1998 | Movie  7.2 (6,253)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 549
+- Kirikou and the Wild Beasts
+- 2005 | Movie  6.6 (1,562)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 550
+- Spartacus
+- 1960 | Movie  7.9 (134,694)  8
+- Add a note
+- Added
+- 15 Mar 2015
+- 551
+- Green Tea
+- 2003 | Movie  6.5 (744)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 552
+- Seventeen Years
+- 1999 | Movie  7.0 (613)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 553
+- Crazy English
+- 1999 | Movie  6.5 (105)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 554
+- The Spring Festival
+- 1991 | Movie  7.5 (235)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 555
+- Tokyo Family
+- 2013 | Movie  7.5 (2,087)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 556
+- Kabei: Our Mother
+- 2008 | Movie  7.6 (1,449)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 557
+- The Bible
+- 2013 | TV Mini Series  7.4 (11,646)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 558
+- Miracle in Cell No. 7
+- 2013 | Movie  8.1 (20,495)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 559
+- I Remember
+- 1973 | Movie  7.9 (43,643)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 560
+- Crazy Stone
+- 2006 | Movie  7.6 (3,936)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 561
+- Silver Medallist
+- 2009 | Movie  7.4 (2,379)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 562
+- Love Actually
+- 2003 | Movie  7.6 (477,823)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 563
+- War Horse
+- 2011 | Movie  7.2 (157,249)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 564
+- The Boat That Rocked
+- 2009 | Movie  7.3 (111,768)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 565
+- Bridget Jones's Diary
+- 2001 | Movie  6.7 (243,225)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 566
+- Bean
+- 1997 | Movie  6.5 (105,224)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 567
+- Mr. Bean
+- 1990 | TV Series  8.6 (118,576)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 568
+- Feng kuang de dai jia
+- 1988 | Movie  6.9 (57)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 569
+- Ermo
+- 1994 | Movie  7.0 (447)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 570
+- And the Spring Comes
+- 2007 | Movie  7.4 (581)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 571
+- Devils on the Doorstep
+- 2000 | Movie  8.2 (7,792)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 572
+- Codename Cougar
+- 1989 | Movie  4.2 (269)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 573
+- Death of a Salesman
+- 1985 | TV Movie  7.2 (10,981)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 574
+- Kramer vs. Kramer
+- 1979 | Movie  7.8 (144,918)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 575
+- One Flew Over the Cuckoo's Nest
+- 1975 | Movie  8.7 (996,349)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 576
+- The Adventure of Panda and Friends: The Circus in the Rain
+- 1973 | Short  6.8 (999)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 577
+- Cape No. 7
+- 2008 | Movie  7.0 (4,225)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 578
+- Havoc in Heaven
+- 1963 | Movie  8.0 (2,078)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 579
+- Prince Nezha's Triumph Against Dragon King
+- 1979 | Movie  7.7 (1,090)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 580
+- Lara Croft: Tomb Raider
+- 2001 | Movie  5.7 (209,248)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 581
+- The Equalizer
+- 2014 | Movie  7.2 (368,183)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 582
+- If You Are the One
+- 2008 | Movie  6.8 (3,490)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 583
+- Personal Tailor
+- 2013 | Movie  5.2 (1,277)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 584
+- If You Are the One 2
+- 2010 | Movie  5.9 (1,547)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 585
+- Aftershock
+- 2010 | Movie  7.5 (9,229)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 586
+- A World Without Thieves
+- 2004 | Movie  7.2 (5,181)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 587
+- Cell Phone
+- 2003 | Movie  7.0 (1,414)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 588
+- Sigh
+- 2000 | Movie  7.1 (395)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 589
+- Sorry Baby
+- 1999 | Movie  6.8 (884)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 590
+- Be There or Be Square
+- 1998 | Movie  7.2 (1,239)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 591
+- The Dream Factory
+- 1997 | Movie  7.3 (1,525)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 592
+- Mountain Patrol
+- 2004 | Movie  7.6 (5,137)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 593
+- City of Life and Death
+- 2009 | Movie  7.7 (11,100)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 594
+- How Yukong Moved the Mountains
+- 1976 | Movie  7.9 (101)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 595
+- The Azalea Mountain
+- 1974 | Movie  5.2 (6)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 596
+- The Legend of the Red Lantern
+- 1970 | Movie  6.5 (12)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 597
+- Taking Tiger Mountain by Strategy
+- 1970 | Movie  6.0 (50)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 598
+- Beyond Beauty: Taiwan from Above
+- 2013 | Movie  7.9 (676)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 599
+- Taste of Cherry
+- 1997 | Movie  7.7 (30,985)  Rate
+- Add a note
+- Added
+- 15 Mar 2015
+- 600
+- Paddington
+- 2014 | Movie  7.2 (115,191)  Rate
+- Add a note
+- Added
+- 17 Mar 2015
+- 601
+- Shadow of a Doubt
+- 1943 | Movie  7.8 (65,529)  9
+- Add a note
+- Added
+- 18 Mar 2015
+- 602
+- Billy Elliot
+- 2014 | Movie  8.4 (1,792)  Rate
+- Add a note
+- Added
+- 20 Mar 2015
+- 603
+- Munna Bhai M.B.B.S.
+- 2003 | Movie  8.1 (81,657)  Rate
+- Add a note
+- Added
+- 25 Mar 2015
+- 604
+- The Men Who Made Us Spend
+- 2014 | TV Series  7.9 (121)  Rate
+- Add a note
+- Added
+- 26 Mar 2015
+- 605
+- Laggies
+- 2014 | Movie  6.4 (44,185)  Rate
+- Add a note
+- Added
+- 26 Mar 2015
+- 606
+- The Kid
+- 1921 | Movie  8.3 (125,993)  Rate
+- Add a note
+- Added
+- 27 Mar 2015
+- 607
+- The General
+- 1926 | Movie  8.2 (91,126)  Rate
+- Add a note
+- Added
+- 28 Mar 2015
+- 608
+- A Girl at My Door
+- 2014 | Movie  6.9 (2,842)  Rate
+- Add a note
+- Added
+- 28 Mar 2015
+- 609
+- Seven Chances
+- 1925 | Movie  7.8 (10,409)  Rate
+- Add a note
+- Added
+- 28 Mar 2015
+- 610
+- Bruce Almighty
+- 2003 | Movie  6.8 (401,009)  Rate
+- Add a note
+- Added
+- 29 Mar 2015
+- 611
+- Alexander and the Terrible, Horrible, No Good, Very Bad Day
+- 2014 | Movie  6.2 (44,331)  Rate
+- Add a note
+- Added
+- 29 Mar 2015
+- 612
+- This Is Where I Leave You
+- 2014 | Movie  6.6 (80,390)  Rate
+- Add a note
+- Added
+- 29 Mar 2015
+- 613
+- Airport 2013
+- 2013 | TV Movie  7.1 (444)  Rate
+- Add a note
+- Added
+- 30 Mar 2015
+- 614
+- In the Mood for Love
+- 2000 | Movie  8.1 (148,031)  Rate
+- Add a note
+- Added
+- 30 Mar 2015
+- 615
+- Confessions
+- 2010 | Movie  7.7 (39,202)  Rate
+- Add a note
+- Added
+- 31 Mar 2015
+- 616
+- It Happened One Night
+- 1934 | Movie  8.1 (103,608)  Rate
+- Add a note
+- Added
+- 02 Apr 2015
+- 617
+- Johnny English Reborn
+- 2011 | Movie  6.3 (130,899)  Rate
+- Add a note
+- Added
+- 03 Apr 2015
+- 618
+- The Night of the Hunter
+- 1955 | Movie  8.0 (89,337)  10
+- Add a note
+- Added
+- 03 Apr 2015
+- 619
+- First Position
+- 2011 | Movie  7.5 (3,392)  Rate
+- Add a note
+- Added
+- 05 Apr 2015
+- 620
+- Ordinary People
+- 1980 | Movie  7.7 (52,218)  Rate
+- Add a note
+- Added
+- 05 Apr 2015
+- 621
+- McDull: Pork of Music
+- 2012 | Movie  6.7 (290)  Rate
+- Add a note
+- Added
+- 05 Apr 2015
+- 622
+- Tuya's Marriage
+- 2006 | Movie  7.2 (2,358)  Rate
+- Add a note
+- Added
+- 06 Apr 2015
+- 623
+- Rain Man
+- 1988 | Movie  8.0 (510,631)  Rate
+- Add a note
+- Added
+- 06 Apr 2015
+- 624
+- Going Clear: Scientology & the Prison of Belief
+- 2015 | Movie  8.0 (39,283)  Rate
+- Add a note
+- Added
+- 07 Apr 2015
+- 625
+- The Maltese Falcon
+- 1941 | Movie  8.0 (158,212)  Rate
+- Add a note
+- Added
+- 10 Apr 2015
+- 626
+- Fifty Years on Stage
+- 2013 | TV Movie  8.8 (255)  Rate
+- Add a note
+- Added
+- 12 Apr 2015
+- 627
+- Love Lessons
+- 1995 | Movie  6.9 (6,581)  Rate
+- Add a note
+- Added
+- 13 Apr 2015
+- 628
+- The Salt of the Earth
+- 2014 | Movie  8.4 (21,767)  Rate
+- Add a note
+- Added
+- 15 Apr 2015
+- 629
+- Caesar Must Die
+- 2012 | Movie  7.3 (6,567)  Rate
+- Add a note
+- Added
+- 15 Apr 2015
+- 630
+- American Sniper
+- 2014 | Movie  7.3 (482,914)  Rate
+- Add a note
+- Added
+- 17 Apr 2015
+- 631
+- Everybody's Fine
+- 2009 | Movie  7.1 (61,655)  Rate
+- Add a note
+- Added
+- 20 Apr 2015
+- 632
+- Notes on a Scandal
+- 2006 | Movie  7.4 (78,948)  Rate
+- Add a note
+- Added
+- 25 Apr 2015
+- 633
+- Sex: My British Job
+- 2013 | Movie  6.1 (417)  Rate
+- Add a note
+- Added
+- 29 Apr 2015
+- 634
+- Coherence
+- 2013 | Movie  7.2 (127,303)  Rate
+- Add a note
+- Added
+- 13 May 2015
+- 635
+- I Know What You Did Last Summer
+- 1997 | Movie  5.8 (146,027)  Rate
+- Add a note
+- Added
+- 14 May 2015
+- 636
+- Chappie
+- 2015 | Movie  6.8 (250,585)  Rate
+- Add a note
+- Added
+- 17 May 2015
+- 637
+- Bad Words
+- 2013 | Movie  6.6 (50,800)  Rate
+- Add a note
+- Added
+- 19 May 2015
+- 638
+- PK
+- 2014 | Movie  8.1 (186,174)  Rate
+- Add a note
+- Added
+- 23 May 2015
+- 639
+- San Andreas
+- 2015 | Movie  6.0 (235,964)  Rate
+- Add a note
+- Added
+- 02 Jun 2015
+- 640
+- Witness for the Prosecution
+- 1957 | Movie  8.4 (124,438)  Rate
+- Add a note
+- Added
+- 30 Jun 2015
+- 641
+- Stalag 17
+- 1953 | Movie  8.0 (55,893)  Rate
+- Add a note
+- Added
+- 01 Jul 2015
+- 642
+- Begin Again
+- 2013 | Movie  7.4 (156,185)  Rate
+- Add a note
+- Added
+- 01 Jul 2015
+- 643
+- Sabrina
+- 1954 | Movie  7.6 (65,028)  Rate
+- Add a note
+- Added
+- 03 Jul 2015
+- 644
+- Jurassic World
+- 2015 | Movie  6.9 (637,898)  Rate
+- Add a note
+- Added
+- 03 Jul 2015
+- 645
+- Mad Max: Fury Road
+- 2015 | Movie  8.1 (986,933)  Rate
+- Add a note
+- Added
+- 13 Jul 2015
+- 646
+- Monkey King: Hero Is Back
+- 2015 | Movie  6.7 (4,324)  Rate
+- Add a note
+- Added
+- 13 Jul 2015
+- 647
+- The Vanishing
+- 1988 | Movie  7.7 (39,041)  Rate
+- Add a note
+- Added
+- 18 Jul 2015
+- 648
+- Oblivion
+- 2013 | Movie  7.0 (521,091)  Rate
+- Add a note
+- Added
+- 22 Jul 2015
+- 649
+- Sex and the City
+- 2008 | Movie  5.7 (122,299)  Rate
+- Add a note
+- Added
+- 22 Jul 2015
+- 650
+- Early Spring
+- 1956 | Movie  7.8 (3,265)  Rate
+- Add a note
+- Added
+- 22 Jul 2015
+- 651
+- Early Summer
+- 1951 | Movie  8.1 (8,618)  Rate
+- Add a note
+- Added
+- 22 Jul 2015
+- 652
+- Good Morning
+- 1959 | Movie  7.8 (9,645)  8
+- Add a note
+- Added
+- 22 Jul 2015
+- 653
+- Hot Pursuit
+- 2015 | Movie  5.1 (51,512)  Rate
+- Add a note
+- Added
+- 31 Jul 2015
+- 654
+- Pickpocket
+- 1959 | Movie  7.6 (22,624)  Rate
+- Add a note
+- Added
+- 01 Aug 2015
+- 655
+- Dead Man Walking
+- 1995 | Movie  7.5 (95,148)  Rate
+- Add a note
+- Added
+- 04 Oct 2015
+- 656
+- April 9th
+- 2015 | Movie  6.6 (5,879)  Rate
+- Add a note
+- Added
+- 10 Oct 2015
+- 657
+- Knock Knock
+- 2015 | Movie  4.9 (94,174)  Rate
+- Add a note
+- Added
+- 20 Oct 2015
+- 658
+- Liar Liar
+- 1997 | Movie  6.9 (307,348)  Rate
+- Add a note
+- Added
+- 22 Oct 2015
+- 659
+- Up in the Air
+- 2009 | Movie  7.4 (334,723)  Rate
+- Add a note
+- Added
+- 22 Oct 2015
+- 660
+- Star Wars
+- 1977 | Movie  8.6 (1,346,920)  Rate
+- Add a note
+- Added
+- 01 Nov 2015
+- 661
+- Secret Sunshine
+- 2007 | Movie  7.5 (8,388)  Rate
+- Add a note
+- Added
+- 06 Nov 2015
+- 662
+- No Escape
+- 2015 | Movie  6.7 (85,924)  Rate
+- Add a note
+- Added
+- 14 Nov 2015
+- 663
+- Chuang ye
+- 1974 | Movie  6.0 (7)  7
+- Add a note
+- Added
+- 03 Dec 2015
+- 664
+- Flight
+- 2012 | Movie  7.3 (352,617)  Rate
+- Add a note
+- Added
+- 08 Dec 2015
+- 665
+- Death and the Maiden
+- 1994 | Movie  7.3 (24,999)  Rate
+- Add a note
+- Added
+- 08 Dec 2015
+- 666
+- Hot Fuzz
+- 2007 | Movie  7.8 (502,103)  Rate
+- Add a note
+- Added
+- 10 Dec 2015
+- 667
+- Rosemary's Baby
+- 1968 | Movie  8.0 (214,477)  Rate
+- Add a note
+- Added
+- 11 Dec 2015
+- 668
+- Requiem for a Dream
+- 2000 | Movie  8.3 (832,327)  Rate
+- Add a note
+- Added
+- 16 Dec 2015
+- 669
+- Jimmy's Hall
+- 2014 | Movie  6.7 (6,526)  Rate
+- Add a note
+- Added
+- 23 Dec 2015
+- 670
+- The Martian
+- 2015 | Movie  8.0 (841,786)  Rate
+- Add a note
+- Added
+- 23 Dec 2015
+- 671
+- Mission: Impossible - Rogue Nation
+- 2015 | Movie  7.4 (370,905)  Rate
+- Add a note
+- Added
+- 23 Dec 2015
+- 672
+- A Pigeon Sat on a Branch Reflecting on Existence
+- 2014 | Movie  6.9 (18,458)  7
+- Add a note
+- Added
+- 24 Dec 2015
+- 673
+- Floating Weeds
+- 1959 | Movie  7.9 (8,137)  Rate
+- Add a note
+- Added
+- 25 Dec 2015
+- 674
+- Sicario
+- 2015 | Movie  7.6 (424,578)  Rate
+- Add a note
+- Added
+- 27 Dec 2015
+- 675
+- Prisoners
+- 2013 | Movie  8.1 (696,673)  Rate
+- Add a note
+- Added
+- 27 Dec 2015
+- 676
+- Searching for Sugar Man
+- 2012 | Movie  8.2 (68,336)  Rate
+- Add a note
+- Added
+- 30 Dec 2015
+- 677
+- My Life as McDull
+- 2001 | Movie  7.3 (1,139)  Rate
+- Add a note
+- Added
+- 03 Jan 2016
+- 678
+- Wild Tales
+- 2014 | Movie  8.1 (196,734)  Rate
+- Add a note
+- Added
+- 10 Jan 2016
+- 679
+- Steve Jobs
+- 2015 | Movie  7.2 (168,915)  Rate
+- Add a note
+- Added
+- 15 Jan 2016
+- 680
+- Taxi
+- 2015 | Movie  7.3 (15,225)  Rate
+- Add a note
+- Added
+- 22 Jan 2016
+- 681
+- The Big Lebowski
+- 1998 | Movie  8.1 (800,364)  Rate
+- Add a note
+- Added
+- 26 Jan 2016
+- 682
+- Mojin: The Lost Legend
+- 2015 | Movie  5.9 (3,963)  Rate
+- Add a note
+- Added
+- 26 Jan 2016
+- 683
+- Life of Brian
+- 1979 | Movie  8.0 (397,243)  Rate
+- Add a note
+- Added
+- 27 Jan 2016
+- 684
+- The Big Sleep
+- 1946 | Movie  7.9 (85,735)  Rate
+- Add a note
+- Added
+- 28 Jan 2016
+- 685
+- The End of the Tour
+- 2015 | Movie  7.2 (30,796)  8
+- Add a note
+- Added
+- 08 Feb 2016
+- 686
+- I Am Dragon
+- 2015 | Movie  6.8 (5,350)  7
+- Add a note
+- Added
+- 15 Feb 2016
+- 687
+- Son of Saul
+- 2015 | Movie  7.4 (48,862)  Rate
+- Add a note
+- Added
+- 05 Mar 2016
+- 688
+- Zootopia
+- 2016 | Movie  8.0 (491,634)  Rate
+- Add a note
+- Added
+- 05 Mar 2016
+- 689
+- One Child
+- 2014 | TV Mini Series  6.7 (329)  Rate
+- Add a note
+- Added
+- 05 Mar 2016
+- 690
+- King Lear
+- 2014 | Movie  7.6 (159)  Rate
+- Add a note
+- Added
+- 05 Mar 2016
+- 691
+- Hamlet
+- 2015 | Movie  8.5 (2,207)  Rate
+- Add a note
+- Added
+- 05 Mar 2016
+- 692
+- With a Little Patience
+- 2007 | Short  7.1 (506)  Rate
+- Add a note
+- Added
+- 06 Mar 2016
+- 693
+- National Theatre Live: The Habit of Art
+- 2010 | Movie  8.4 (87)  Rate
+- Add a note
+- Added
+- 07 Mar 2016
+- 694
+- Downfall
+- 2004 | Movie  8.2 (353,772)  Rate
+- Add a note
+- Added
+- 11 Mar 2016
+- 695
+- The Rainmaker
+- 1997 | Movie  7.2 (74,365)  Rate
+- Add a note
+- Added
+- 03 Apr 2016
+- 696
+- And Then There Were None
+- 2015 | TV Mini Series  7.9 (39,041)  Rate
+- Add a note
+- Added
+- 04 Apr 2016
+- 697
+- Ruby & Quentin
+- 2003 | Movie  7.1 (29,009)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 698
+- Otoko-tachi no Yamato
+- 2005 | Movie  6.4 (2,237)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 699
+- The Revenant
+- 2015 | Movie  8.0 (792,103)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 700
+- Wreaths at the Foot of the Mountain
+- 1985 | Movie  7.9 (263)  9
+- Add a note
+- Added
+- 05 Apr 2016
+- 701
+- Getting Home
+- 2007 | Movie  7.4 (1,749)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 702
+- Shang gan ling
+- 1956 | Movie  6.6 (145)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 703
+- Kunta
+- 2013 | Movie  3.8 (11)  Rate
+- Add a note
+- Added
+- 05 Apr 2016
+- 704
+- Warm Water Under a Red Bridge
+- 2001 | Movie  6.8 (2,685)  Rate
+- Add a note
+- Added
+- 06 Apr 2016
+- 705
+- Somewhere Only We Know
+- 2015 | Movie  5.2 (752)  Rate
+- Add a note
+- Added
+- 06 Apr 2016
+- 706
+- Kingdom of Heaven
+- 2005 | Movie  7.2 (287,241)  Rate
+- Add a note
+- Added
+- 06 Apr 2016
+- 707
+- Eagle vs Shark
+- 2007 | Movie  6.7 (24,855)  Rate
+- Add a note
+- Added
+- 11 Apr 2016
+- 708
+- It Felt Like a Kiss
+- 2009 | Movie  7.8 (860)  8
+- Add a note
+- Added
+- 14 Apr 2016
+- 709
+- Bitter Lake
+- 2015 | Movie  8.1 (3,291)  8
+- Add a note
+- Added
+- 17 Apr 2016
+- 710
+- The Mad Phoenix
+- 1997 | Movie  8.1 (361)  8
+- Add a note
+- Added
+- 27 Apr 2016
+- 711
+- The Jungle Book
+- 2016 | Movie  7.4 (276,078)  6
+- Add a note
+- Added
+- 27 Apr 2016
+- 712
+- Flying Colors
+- 2015 | Movie  7.3 (3,376)  8
+- Add a note
+- Added
+- 05 May 2016
+- 713
+- Our Little Sister
+- 2015 | Movie  7.5 (14,909)  8
+- Add a note
+- Added
+- 05 May 2016
+- 714
+- Stalker
+- 1979 | Movie  8.1 (133,304)  10
+- Add a note
+- Added
+- 14 Jun 2016
+- 715
+- Solaris
+- 1972 | Movie  8.0 (90,977)  Rate
+- Add a note
+- Added
+- 18 Jun 2016
+- 716
+- King Lear
+- 1970 | Movie  7.2 (870)  Rate
+- Add a note
+- Added
+- 18 Jun 2016
+- 717
+- Ivan the Terrible, Part I
+- 1944 | Movie  7.7 (10,071)  Rate
+- Add a note
+- Added
+- 20 Jun 2016
+- 718
+- Smile Pinki
+- 2008 | Short  7.9 (436)  Rate
+- Add a note
+- Added
+- 28 Jun 2016
+- 719
+- The Shallows
+- 2016 | Movie  6.3 (132,746)  Rate
+- Add a note
+- Added
+- 06 Oct 2016
+- 720
+- Westworld
+- 2016 | TV Series  8.5 (495,269)  Rate
+- Add a note
+- Added
+- 06 Oct 2016
+- 721
+- Westworld
+- 1973 | Movie  6.9 (58,525)  Rate
+- Add a note
+- Added
+- 07 Oct 2016
+- 722
+- The Last Samurai
+- 2003 | Movie  7.8 (437,623)  Rate
+- Add a note
+- Added
+- 24 Nov 2016
+- 723
+- Ninotchka
+- 1939 | Movie  7.8 (21,164)  9
+- Add a note
+- Added
+- 28 Nov 2016
+- 724
+- The Shop Around the Corner
+- 1940 | Movie  8.1 (33,096)  Rate
+- Add a note
+- Added
+- 09 Dec 2016
+- 725
+- Silence
+- 2016 | Movie  7.1 (112,592)  9
+- Add a note
+- Added
+- 27 Jan 2017
+- 726
+- Carnage
+- 2011 | Movie  7.1 (126,918)  Rate
+- Add a note
+- Added
+- 24 May 2017
+- 727
+- Making a Murderer
+- 2015 | TV Series  8.6 (95,350)  Rate
+- Add a note
+- Added
+- 24 May 2017
+- 728
+- The Keepers
+- 2017 | TV Mini Series  8.1 (22,438)  Rate
+- Add a note
+- Added
+- 24 May 2017
+- 729
+- About Her Brother
+- 2010 | Movie  7.0 (808)  9
+- Add a note
+- Added
+- 24 Jun 2017
+- 730
+- What a Wonderful Family
+- 2017 | Movie  7.0 (729)  Rate
+- Add a note
+- Added
+- 24 Jun 2017
+- 731
+- I, Daniel Blake
+- 2016 | Movie  7.8 (59,981)  10
+- Add a note
+- Added
+- 25 Jun 2017
+- 732
+- Man on Fire
+- 2004 | Movie  7.7 (361,106)  Rate
+- Add a note
+- Added
+- 25 Jun 2017
+- 733
+- Kes
+- 1969 | Movie  7.9 (20,962)  Rate
+- Add a note
+- Added
+- 26 Jun 2017
+- 734
+- Skylight
+- 2014 | Movie  8.5 (494)  Rate
+- Add a note
+- Added
+- 27 Jun 2017
+- 735
+- Murder on the Orient Express
+- 1974 | Movie  7.3 (62,397)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 736
+- Sky Ladder: The Art of Cai Guo-Qiang
+- 2016 | Movie  7.3 (1,472)  8
+- Add a note
+- Added
+- 01 Jul 2017
+- 737
+- What a Wonderful Family!
+- 2016 | Movie  6.8 (1,195)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 738
+- Duckweed
+- 2017 | Movie  6.4 (1,404)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 739
+- Arrival
+- 2016 | Movie  7.9 (682,532)  8
+- Add a note
+- Added
+- 01 Jul 2017
+- 740
+- The New Year's Eve of Old Lee
+- 2016 | Movie  4.6 (62)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 741
+- Journey to the West: The Demons Strike Back
+- 2017 | Movie  5.4 (3,203)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 742
+- Chronicles of the Ghostly Tribe
+- 2015 | Movie  5.1 (1,778)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 743
+- Song of the Sea
+- 2014 | Movie  8.0 (58,217)  Rate
+- Add a note
+- Added
+- 01 Jul 2017
+- 744
+- Impostor
+- 2001 | Movie  6.1 (23,788)  6
+- Add a note
+- Added
+- 24 Sep 2017
+- 745
+- In the Underground
+- 2015 | Movie  8
+- Add a note
+- Added
+- 24 Sep 2017
+- 746
+- A Taxi Driver
+- 2017 | Movie  7.9 (24,242)  8
+- Add a note
+- Added
+- 06 Oct 2017
+- 747
+- Gone Girl
+- 2014 | Movie  8.1 (968,713)  Rate
+- Add a note
+- Added
+- 11 Oct 2017
+- 748
+- Vietnam: A Television History
+- 1983 | TV Mini Series  8.8 (320)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 749
+- Faces Places
+- 2017 | Movie  7.8 (12,502)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 750
+- Viva Zapata!
+- 1952 | Movie  7.3 (11,536)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 751
+- Black Mirror
+- 2011 | TV Series  8.8 (532,919)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 752
+- Darkest Hour
+- 2017 | Movie  7.4 (199,903)  8
+- Add a note
+- Added
+- 02 Jan 2018
+- 753
+- Youth
+- 2017 | Movie  7.0 (3,132)  7
+- Add a note
+- Added
+- 02 Jan 2018
+- 754
+- Dunkirk
+- 2017 | Movie  7.8 (646,105)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 755
+- Blade Runner 2049
+- 2017 | Movie  8.0 (557,446)  Rate
+- Add a note
+- Added
+- 02 Jan 2018
+- 756
+- Fitzcarraldo
+- 1982 | Movie  8.0 (34,996)  10
+- Add a note
+- Added
+- 13 Jan 2018
+- 757
+- Grizzly Man
+- 2005 | Movie  7.8 (57,532)  9
+- Add a note
+- Added
+- 13 Jan 2018
+- 758
+- Into the Abyss
+- 2011 | Movie  7.3 (16,652)  8
+- Add a note
+- Added
+- 13 Jan 2018
+- 759
+- Lo and Behold: Reveries of the Connected World
+- 2016 | Movie  7.0 (12,874)  7
+- Add a note
+- Added
+- 13 Jan 2018
+- 760
+- Into the Inferno
+- 2016 | Movie  7.2 (8,796)  8
+- Add a note
+- Added
+- 13 Jan 2018
+- 761
+- Burden of Dreams
+- 1982 | Movie  7.9 (7,311)  8
+- Add a note
+- Added
+- 13 Jan 2018
+- 762
+- The Room
+- 2003 | Movie  3.6 (89,254)  7
+- Add a note
+- Added
+- 13 Jan 2018
+- 763
+- The Invisible Guest
+- 2016 | Movie  8.0 (174,082)  7
+- Add a note
+- Added
+- 13 Jan 2018
+- 764
+- Herdsmen of the Sun
+- 1989 | TV Movie  7.2 (757)  7
+- Add a note
+- Added
+- 14 Jan 2018
+- 765
+- The White Diamond
+- 2004 | Movie  7.5 (4,725)  9
+- Add a note
+- Added
+- 14 Jan 2018
+- 766
+- Wings of Hope
+- 1999 | TV Movie  7.5 (1,266)  9
+- Add a note
+- Added
+- 16 Jan 2018
+- 767
+- Wheel of Time
+- 2003 | Movie  7.1 (2,540)  Rate
+- Add a note
+- Added
+- 19 Jan 2018
+- 768
+- The Greatest Showman
+- 2017 | Movie  7.5 (277,893)  Rate
+- Add a note
+- Added
+- 01 Feb 2018
+- 769
+- Three Billboards Outside Ebbing, Missouri
+- 2017 | Movie  8.1 (498,817)  7
+- Add a note
+- Added
+- 06 Mar 2018
+- 770
+- Fireworks
+- 1997 | Movie  7.7 (30,721)  Rate
+- Add a note
+- Added
+- 30 Mar 2018
+- 771
+- Bajrangi Bhaijaan
+- 2015 | Movie  8.1 (87,275)  Rate
+- Add a note
+- Added
+- 30 Mar 2018
+- 772
+- The Flavor of Green Tea Over Rice
+- 1952 | Movie  7.7 (3,093)  9
+- Add a note
+- Added
+- 30 Mar 2018
+- 773
+- Speedy
+- 1928 | Movie  7.6 (3,798)  8
+- Add a note
+- Added
+- 05 Apr 2018
+- 774
+- Ready Player One
+- 2018 | Movie  7.4 (429,273)  7
+- Add a note
+- Added
+- 05 Apr 2018
+- 775
+- The Love Nest
+- 1923 | Short  6.8 (2,311)  7
+- Add a note
+- Added
+- 11 Apr 2018
+- 776
+- Cops
+- 1922 | Short  7.6 (6,308)  8
+- Add a note
+- Added
+- 11 Apr 2018
+- 777
+- The Electric House
+- 1922 | Short  7.2 (2,791)  Rate
+- Add a note
+- Added
+- 11 Apr 2018
+- 778
+- Go West
+- 1925 | Movie  7.2 (4,396)  7
+- Add a note
+- Added
+- 11 Apr 2018
+- 779
+- Annihilation
+- 2018 | Movie  6.8 (321,953)  8
+- Add a note
+- Added
+- 14 Apr 2018
+- 780
+- Triangle
+- 2009 | Movie  6.9 (115,576)  6
+- Add a note
+- Added
+- 29 Apr 2018
+- 781
+- Unstoppable
+- 2010 | Movie  6.8 (197,272)  7
+- Add a note
+- Added
+- 03 May 2018
+- 782
+- Black Mirror
+- 2017 | Video Game  5.7 (204)  Rate
+- Add a note
+- Added
+- 28 May 2018
+- 783
+- Stand by Me
+- 1986 | Movie  8.1 (399,558)  7
+- Add a note
+- Added
+- 07 Jun 2018
+- 784
+- Belle de Jour
+- 1967 | Movie  7.7 (44,703)  9
+- Add a note
+- Added
+- 18 Jun 2018
+- 785
+- Submergence
+- 2017 | Movie  5.4 (8,580)  8
+- Add a note
+- Added
+- 18 Jun 2018
+- 786
+- The Wages of Fear
+- 1953 | Movie  8.2 (61,041)  9
+- Add a note
+- Added
+- 19 Jun 2018
+- 787
+- 2001: A Space Odyssey
+- 1968 | Movie  8.3 (661,170)  7
+- Add a note
+- Added
+- 21 Jun 2018
+- 788
+- Midnight Bus
+- 2017 | Movie  7.5 (48)  6
+- Add a note
+- Added
+- 21 Jun 2018
+- 789
+- You Were Never Really Here
+- 2017 | Movie  6.7 (118,847)  7
+- Add a note
+- Added
+- 21 Jun 2018
+- 790
+- Tokyo Twilight
+- 1957 | Movie  8.1 (4,156)  8
+- Add a note
+- Added
+- 21 Jun 2018
+- 791
+- AlphaGo
+- 2017 | Movie  7.8 (6,172)  8
+- Add a note
+- Added
+- 21 Jun 2018
+- 792
+- Jurassic World: Fallen Kingdom
+- 2018 | Movie  6.1 (313,205)  6
+- Add a note
+- Added
+- 21 Jun 2018
+- 793
+- Mr. No Problem
+- 2016 | Movie  7.3 (590)  5
+- Add a note
+- Added
+- 21 Jun 2018
+- 794
+- The Disaster Artist
+- 2017 | Movie  7.3 (153,394)  7
+- Add a note
+- Added
+- 21 Jun 2018
+- 795
+- Fanny and Alexander
+- 1982 | Movie  8.1 (63,702)  9
+- Add a note
+- Added
+- 22 Jun 2018
+- 796
+- The Abyss
+- 1989 | Movie  7.5 (177,256)  6
+- Add a note
+- Added
+- 22 Jun 2018
+- 797
+- American Animals
+- 2018 | Movie  7.0 (44,715)  7
+- Add a note
+- Added
+- 23 Jun 2018
+- 798
+- The Workshop
+- 2017 | Movie  6.5 (2,146)  6
+- Add a note
+- Added
+- 23 Jun 2018
+- 799
+- Occurrence at Owl Creek Bridge
+- 1961 | Short  8.1 (4,004)  Rate
+- Add a note
+- Added
+- 09 Jul 2018
+- 800
+- The End of Summer
+- 1961 | Movie  7.7 (4,100)  Rate
+- Add a note
+- Added
+- 14 Jul 2018
+- 801
+- Dying to Survive
+- 2018 | Movie  7.8 (6,380)  Rate
+- Add a note
+- Added
+- 14 Jul 2018
+- 802
+- Requiem
+- 2014 | Short  6.7 (25)  Rate
+- Add a note
+- Added
+- 14 Jul 2018
+- 803
+- Blade Runner
+- 1982 | Movie  8.1 (760,603)  8
+- Add a note
+- Added
+- 15 Jul 2018
+- 804
+- Citizen Kane
+- 1941 | Movie  8.3 (439,109)  10
+- Add a note
+- Added
+- 22 Jul 2018
+- 805
+- Shoplifters
+- 2018 | Movie  7.9 (75,691)  8
+- Add a note
+- Added
+- 04 Aug 2018
+- 806
+- The Spanish Earth
+- 1937 | Movie  6.6 (793)  9
+- Add a note
+- Added
+- 07 Aug 2018
+- 807
+- Coco
+- 2017 | Movie  8.4 (493,261)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 808
+- Aliens
+- 1986 | Movie  8.4 (709,684)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 809
+- Monty Python and the Holy Grail
+- 1975 | Movie  8.2 (537,605)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 810
+- Metropolis
+- 1927 | Movie  8.3 (173,431)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 811
+- Rashomon
+- 1950 | Movie  8.2 (167,627)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 812
+- Howl's Moving Castle
+- 2004 | Movie  8.2 (388,790)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 813
+- 12 Years a Slave
+- 2013 | Movie  8.1 (694,552)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 814
+- Nausicaä of the Valley of the Wind
+- 1984 | Movie  8.0 (168,415)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 815
+- La La Land
+- 2016 | Movie  8.0 (577,126)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 816
+- The Terminator
+- 1984 | Movie  8.1 (855,281)  Rate
+- Add a note
+- Added
+- 19 Aug 2018
+- 817
+- Dangal
+- 2016 | Movie  8.3 (188,476)  7
+- Add a note
+- Added
+- 19 Aug 2018
+- 818
+- Dead Poets Society
+- 1989 | Movie  8.1 (482,788)  Rate
+- Add a note
+- Added
+- 10 Sep 2018
+- 819
+- Body Heat
+- 1981 | Movie  7.4 (35,804)  8
+- Add a note
+- Added
+- 01 Oct 2018
+- 820
+- Detour
+- 1945 | Movie  7.3 (17,601)  7
+- Add a note
+- Added
+- 01 Oct 2018
+- 821
+- Written on the Wind
+- 1956 | Movie  7.4 (11,820)  8
+- Add a note
+- Added
+- 03 Oct 2018
+- 822
+- Early Spring
+- 1963 | Movie  7.2 (153)  8
+- Add a note
+- Added
+- 03 Oct 2018
+- 823
+- Spring in a Small Town
+- 1948 | Movie  7.3 (3,027)  6
+- Add a note
+- Added
+- 03 Oct 2018
+- 824
+- Manhattan
+- 1979 | Movie  7.9 (140,072)  6
+- Add a note
+- Added
+- 04 Oct 2018
+- 825
+- Lu ming cui gu
+- 1981 | Movie  5.8 (7)  7
+- Add a note
+- Added
+- 05 Oct 2018
+- 826
+- Cong nu li dao jiang jun
+- 1981 | Movie  6.6 (13)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 827
+- Bao feng zhou yu
+- 1961 | Movie  5.4 (9)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 828
+- Reconnaissance Across the Yangtze
+- 1954 | Movie  6.4 (13)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 829
+- Li Shuangshuang
+- 1962 | Movie  6.4 (42)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 830
+- Zhui yu
+- 1959 | Movie  7.7 (12)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 831
+- Tian xian pei
+- 1955 | Movie  7.3 (24)  Rate
+- Add a note
+- Added
+- 05 Oct 2018
+- 832
+- The Third Man
+- 1949 | Movie  8.1 (171,105)  9
+- Add a note
+- Added
+- 06 Oct 2018
+- 833
+- On the Waterfront
+- 1954 | Movie  8.1 (154,552)  8
+- Add a note
+- Added
+- 06 Oct 2018
+- 834
+- Sweet Smell of Success
+- 1957 | Movie  8.0 (32,150)  6
+- Add a note
+- Added
+- 14 Oct 2018
+- 835
+- Searching
+- 2018 | Movie  7.6 (161,455)  7
+- Add a note
+- Added
+- 29 Oct 2018
+- 836
+- Manchester by the Sea
+- 2016 | Movie  7.8 (278,755)  7
+- Add a note
+- Added
+- 30 Oct 2018
+- 837
+- The Looming Tower
+- 2018 | TV Mini Series  8.0 (14,998)  8
+- Add a note
+- Added
+- 02 Nov 2018
+- 838
+- Breaking Bad
+- 2008 | TV Series  9.5 (1,815,499)  Rate
+- Add a note
+- Added
+- 20 Nov 2018
+- 839
+- Einstein and Einstein
+- 2013 | Movie  7.5 (1,010)  7
+- Add a note
+- Added
+- 10 Dec 2018
+- 840
+- A Cool Fish
+- 2018 | Movie  6.9 (1,752)  6
+- Add a note
+- Added
+- 10 Dec 2018
+- 841
+- Aquaman
+- 2018 | Movie  6.8 (465,563)  7
+- Add a note
+- Added
+- 10 Dec 2018
+- 842
+- The Final Master
+- 2015 | Movie  6.8 (2,521)  7
+- Add a note
+- Added
+- 14 Dec 2018
+- 843
+- Hidden Agenda
+- 1990 | Movie  6.9 (4,161)  8
+- Add a note
+- Added
+- 19 Dec 2018
+- 844
+- Versus: The Life and Films of Ken Loach
+- 2016 | Movie  7.3 (461)  8
+- Add a note
+- Added
+- 19 Dec 2018
+- 845
+- Spider-Man: Into the Spider-Verse
+- 2018 | Movie  8.4 (511,862)  8
+- Add a note
+- Added
+- 26 Dec 2018
+- 846
+- The Lavender Hill Mob
+- 1951 | Movie  7.5 (14,462)  8
+- Add a note
+- Added
+- 27 Dec 2018
+- 847
+- Suspicion
+- 1941 | Movie  7.3 (38,601)  8
+- Add a note
+- Added
+- 04 Jan 2019
+- 848
+- Black Narcissus
+- 1947 | Movie  7.7 (24,937)  9
+- Add a note
+- Added
+- 06 Jan 2019
+- 849
+- Tom Jones
+- 1963 | Movie  6.4 (13,117)  8
+- Add a note
+- Added
+- 06 Jan 2019
+- 850
+- Brief Encounter
+- 1945 | Movie  8.0 (40,189)  9
+- Add a note
+- Added
+- 06 Jan 2019
+- 851
+- Samson and Delilah
+- 1949 | Movie  6.8 (8,062)  7
+- Add a note
+- Added
+- 16 Jan 2019
+- 852
+- Cold War
+- 2018 | Movie  7.5 (56,812)  8
+- Add a note
+- Added
+- 27 Jan 2019
+- 853
+- Bohemian Rhapsody
+- 2018 | Movie  7.9 (530,484)  8
+- Add a note
+- Added
+- 28 Jan 2019
+- 854
+- Green Book
+- 2018 | Movie  8.2 (478,457)  8
+- Add a note
+- Added
+- 27 Feb 2019
+- 855
+- The Wandering Earth
+- 2019 | Movie  5.9 (30,538)  6
+- Add a note
+- Added
+- 27 Feb 2019
+- 856
+- Free Solo
+- 2018 | Movie  8.1 (67,613)  8
+- Add a note
+- Added
+- 27 Feb 2019
+- 857
+- The Post
+- 2017 | Movie  7.2 (150,483)  8
+- Add a note
+- Added
+- 28 Feb 2019
+- 858
+- In the House
+- 2012 | Movie  7.4 (32,411)  7
+- Add a note
+- Added
+- 02 Mar 2019
+- 859
+- A Countess from Hong Kong
+- 1967 | Movie  6.0 (6,377)  7
+- Add a note
+- Added
+- 03 Mar 2019
+- 860
+- Roma
+- 2018 | Movie  7.7 (156,962)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 861
+- The Days Without Lei Feng
+- 1996 | Movie  6.3 (167)  7
+- Add a note
+- Added
+- 04 Mar 2019
+- 862
+- The Founding of a Republic
+- 2009 | Movie  4.9 (3,679)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 863
+- A Murder Beside Yan He River
+- 2014 | Movie  7.1 (80)  5
+- Add a note
+- Added
+- 04 Mar 2019
+- 864
+- The Favourite
+- 2018 | Movie  7.5 (198,430)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 865
+- Jin guang da dao shang ji
+- 1975 | Movie  4.9 (9)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 866
+- Troubled Laughter
+- 1981 | Movie  7.8 (37)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 867
+- Murder in 405
+- 1980 | Movie  7.5 (135)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 868
+- A Sweet Life
+- 1979 | Movie  7.5 (6)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 869
+- Bus Number 3
+- 1980 | Movie  6.5 (16)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 870
+- Xiao hua
+- 1979 | Movie  6.4 (160)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 871
+- Xiao Jie
+- 1981 | Movie  7.7 (33)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 872
+- At Middle Age
+- 1982 | Movie  7.7 (81)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 873
+- Under the Bridge
+- 1983 | Movie  7.3 (57)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 874
+- Xue, zong shi re de
+- 1983 | Movie  7.0 (9)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 875
+- The Castle of Sand
+- 1974 | Movie  7.3 (1,296)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 876
+- Proof of the Man
+- 1977 | Movie  6.6 (369)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 877
+- Man with a Million
+- 1954 | Movie  6.8 (3,803)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 878
+- Caravan
+- 1971 | Movie  6.7 (284)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 879
+- Do Bigha Zamin
+- 1953 | Movie  8.2 (2,054)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 880
+- The Secret World of Arrietty
+- 2010 | Movie  7.6 (92,110)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 881
+- Peacock
+- 2005 | Movie  7.6 (1,059)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 882
+- Yi ge he ba ge
+- 1984 | Movie  6.8 (78)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 883
+- Yellow Earth
+- 1984 | Movie  7.1 (2,387)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 884
+- The Swordsman in Double Flag Town
+- 1991 | Movie  7.0 (553)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 885
+- Red Firecracker, Green Firecracker
+- 1994 | Movie  6.9 (493)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 886
+- Gua fu cun
+- 1989 | Movie  7.9 (74)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 887
+- Hibiscus Town
+- 1987 | Movie  8.1 (1,010)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 888
+- Life
+- 1984 | Movie  7.6 (86)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 889
+- Legend of Tianyun Mountain
+- 1980 | Movie  7.4 (177)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 890
+- Romance on Lushan Mountain
+- 1980 | Movie  7.4 (54)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 891
+- In-Laws
+- 1981 | Movie  7.4 (38)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 892
+- Laughter in the Moon Village
+- 1981 | Movie  6.4 (5)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 893
+- Yue liang wan de feng bo
+- 1984 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 894
+- A, yao lan
+- 1979 | Movie  7.1 (37)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 895
+- The Opium War
+- 1997 | Movie  6.4 (564)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 896
+- Qiu Jin
+- 1984 | Movie  7.0 (32)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 897
+- The Herdsman
+- 1982 | Movie  7.2 (268)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 898
+- Big Li, Little Li and Old Li
+- 1962 | Movie  7.5 (72)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 899
+- The Red Detachment of Women
+- 1961 | Movie  6.8 (331)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 900
+- Nu lan wu hao
+- 1957 | Movie  6.3 (116)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 901
+- Harbour
+- 1972 | Movie  4.6 (6)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 902
+- Chunmiao
+- 1975 | Movie  5.7 (19)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 903
+- The Last Aristocrats
+- 1989 | Movie  7.6 (58)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 904
+- Fortress Besieged
+- 1990 | TV Series  8.6 (112)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 905
+- Lotus Lantern
+- 1999 | Movie  6.7 (755)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 906
+- Evening Rain
+- 1980 | Movie  7.3 (111)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 907
+- Expectation
+- 1990 | TV Series  7.8 (40)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 908
+- Jiao Yulu
+- 1990 | Movie  6.0 (86)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 909
+- Under the Hawthorn Tree
+- 2010 | Movie  7.1 (3,269)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 910
+- Secret Love in Peach Blossom Land
+- 1992 | Movie  7.5 (387)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 911
+- Chicken Poets
+- 2002 | Movie  7.0 (136)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 912
+- The Road Home
+- 1999 | Movie  7.8 (13,275)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 913
+- 2046
+- 2004 | Movie  7.4 (57,676)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 914
+- Zu Warriors
+- 2001 | Movie  5.1 (3,561)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 915
+- The Lin Family Shop
+- 1959 | Movie  7.1 (140)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 916
+- A Dream in Red Mansions
+- 1988 | Movie  7.4 (62)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 917
+- The Red Detachment of Women
+- 1970 | Movie  7.5 (105)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 918
+- Zhi yin
+- 1981 | Movie  6.8 (27)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 919
+- The Stars Are Bright Tonight
+- 1980 | Movie  7.6 (5)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 920
+- Da he ben liu
+- 1978 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 921
+- Haixia
+- 1975 | Movie  6.0 (10)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 922
+- Ode to the Dragon River
+- 1972 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 923
+- An Express Train
+- 1965 | Movie  7.1 (8)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 924
+- Visitors on the Icy Mountain
+- 1963 | Movie  6.7 (46)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 925
+- Serfs
+- 1963 | Movie  6.4 (24)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 926
+- The Story of Liubao
+- 1957 | Movie  6.0 (15)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 927
+- Zan men de niu bai sui
+- 1983 | Movie  6.7 (17)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 928
+- Kill Mobile
+- 2018 | Movie  5.5 (355)  6
+- Add a note
+- Added
+- 04 Mar 2019
+- 929
+- Airpocalypse
+- 2018 | Movie  3.9 (130)  1
+- Add a note
+- Added
+- 04 Mar 2019
+- 930
+- Star Wars: Episode V - The Empire Strikes Back: Deleted Scenes
+- 2011 | Video  8.8 (15,025)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 931
+- Star Wars: Episode V - The Empire Strikes Back
+- 1980 | Movie  8.7 (1,274,233)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 932
+- Oliver Twist
+- 1948 | Movie  7.8 (12,576)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 933
+- Secrets of the Heavenly Book
+- 1983 | Movie  7.7 (461)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 934
+- Nine-Colored Deer
+- 1981 | Short  7.7 (182)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 935
+- The Tales of Effendi
+- 1979 | TV Series  7.9 (34)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 936
+- The Fishing Child
+- 1959 | Short  7.1 (52)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 937
+- The Magic Brush
+- 1955 | Short  6.8 (85)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 938
+- Three Monks
+- 1980 | Short  7.7 (387)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 939
+- Have a Nice Day
+- 2017 | Movie  6.5 (2,017)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 940
+- Xu Mao and his Daughters
+- 1983 | Movie  7.0 (20)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 941
+- River Without Buoys
+- 1984 | Movie  7.2 (40)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 942
+- A Mongolian Tale
+- 1995 | Movie  7.3 (250)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 943
+- The Drive to Win
+- 2019 | Movie  6.6 (33)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 944
+- Hai shang sheng ming yue
+- 1983 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 945
+- Huan le ying xiong
+- 1988 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 946
+- Don't Cry, Nanking
+- 1995 | Movie  6.6 (257)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 947
+- The Living and the Dead
+- 1988 | Movie  7.1 (9)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 948
+- Cute Girl
+- 1980 | Movie  5.7 (392)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 949
+- A City of Sadness
+- 1989 | Movie  7.8 (4,942)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 950
+- Harry Potter and the Prisoner of Azkaban
+- 2004 | Movie  7.9 (624,654)  8
+- Add a note
+- Added
+- 04 Mar 2019
+- 951
+- Harry Potter and the Sorcerer's Stone
+- 2001 | Movie  7.6 (765,303)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 952
+- Harry Potter and the Goblet of Fire
+- 2005 | Movie  7.7 (617,514)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 953
+- Harry Potter and the Chamber of Secrets
+- 2002 | Movie  7.4 (625,406)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 954
+- Harry Potter and the Order of the Phoenix
+- 2007 | Movie  7.5 (573,466)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 955
+- Harry Potter and the Deathly Hallows: Part 1
+- 2010 | Movie  7.7 (540,801)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 956
+- The Godfather Trilogy: 1901-1980
+- 1992 | Video  9.3 (16,015)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 957
+- The Godfather Part III
+- 1990 | Movie  7.6 (393,634)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 958
+- How the West Was Won
+- 1962 | Movie  7.0 (20,982)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 959
+- Wee Willie Winkie
+- 1937 | Movie  6.9 (1,742)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 960
+- Mary of Scotland
+- 1936 | Movie  6.3 (2,587)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 961
+- The Prisoner of Shark Island
+- 1936 | Movie  7.2 (2,273)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 962
+- The Informer
+- 1935 | Movie  7.4 (6,539)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 963
+- The Iron Horse
+- 1924 | Movie  7.2 (2,204)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 964
+- Kiss Me, Stupid
+- 1964 | Movie  6.9 (7,986)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 965
+- Five Graves to Cairo
+- 1943 | Movie  7.3 (6,085)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 966
+- Heaven Can Wait
+- 1943 | Movie  7.4 (11,255)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 967
+- The Munekata Sisters
+- 1950 | Movie  7.4 (930)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 968
+- A Story of Floating Weeds
+- 1934 | Movie  7.7 (3,151)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 969
+- The Last Supper
+- 2012 | Movie  5.7 (846)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 970
+- Legend of the Daming Palace
+- 2010 | Short  7.7 (8)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 971
+- The Old Summer Palace
+- 2006 | Movie  7.7 (71)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 972
+- The Island
+- 2018 | Movie  6.2 (1,732)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 973
+- Xuan Zang
+- 2016 | Movie  6.1 (455)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 974
+- Breakup Buddies
+- 2014 | Movie  6.4 (1,647)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 975
+- The Great Hypnotist
+- 2014 | Movie  6.9 (2,777)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 976
+- No Man's Land
+- 2013 | Movie  7.3 (2,422)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 977
+- One Night Surprise
+- 2013 | Movie  5.4 (413)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 978
+- Lost in Thailand
+- 2012 | Movie  6.2 (3,508)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 979
+- Battle of Memories
+- 2017 | Movie  6.4 (1,101)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 980
+- Design of Death
+- 2012 | Movie  6.4 (554)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 981
+- Guns and Roses
+- 2012 | Movie  5.9 (663)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 982
+- Cow
+- 2009 | Movie  7.2 (848)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 983
+- Get in, and Go
+- 2000 | TV Movie  6.7 (44)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 984
+- Monster Hunt
+- 2015 | Movie  6.1 (5,286)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 985
+- Love is Not Blind
+- 2011 | Movie  6.5 (1,695)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 986
+- Sacrifice
+- 2010 | Movie  6.2 (2,380)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 987
+- Cala, My Dog!
+- 2003 | Movie  7.0 (443)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 988
+- Hai ma ge wu ting
+- 1993 | TV Series  6.3 (8)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 989
+- Da Sa Ba
+- 1993 | Movie  7.3 (154)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 990
+- I Love My Family
+- 1993 | TV Series  8.6 (245)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 991
+- Conned Once
+- 1992 | Movie  6.4 (42)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 992
+- Stories of an Editorial Board
+- 1991 | TV Series  8.2 (155)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 993
+- Steel Meets Fire
+- 1991 | Movie  6.4 (32)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 994
+- Huang he yao
+- 1990 | Movie  7.7 (25)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 995
+- The Troubleshooters
+- 1989 | Movie  7.5 (446)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 996
+- Someone to Talk To
+- 2016 | Movie  6.4 (158)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 997
+- Lucky Dog
+- 2008 | Movie  7.1 (85)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 998
+- The Road
+- 2006 | Movie  7.0 (291)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 999
+- Gimme Kudos
+- 2005 | Movie  6.7 (171)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1000
+- Liu lao gen
+- 2002 | TV Series  7.4 (19)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1001
+- Da Xiao Jiang Hu
+- 2010 | Movie  4.0 (333)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1002
+- Village of Love
+- 2006 | TV Series  6.1 (32)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1003
+- A Tree in House
+- 1998 | Movie  6.9 (202)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1004
+- Surveillance
+- 1997 | Movie  6.7 (100)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1005
+- Kiss Russia
+- 1994 | Movie  6.8 (6)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1006
+- Stand Straight, Never Give In
+- 1993 | Movie  6.9 (144)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1007
+- Da zuo deng xiang you zhuan
+- 1996 | Movie  7.2 (51)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1008
+- Back to Back, Face to Face
+- 1994 | Movie  8.1 (557)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1009
+- Samsara
+- 1988 | Movie  7.0 (28)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1010
+- The Black Cannon Incident
+- 1985 | Movie  7.3 (390)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1011
+- Ocean Flame
+- 2008 | Movie  6.1 (441)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1012
+- Dreams May Come
+- 2006 | Movie  5.8 (88)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1013
+- Little Red Flowers
+- 2006 | Movie  6.7 (1,491)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1014
+- Guo ba yin
+- 1994 | TV Series  7.7 (55)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1015
+- Yong shi wo ai
+- 1994 | Movie  5.3 (73)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1016
+- No More Applause
+- 1993 | Movie  7.0 (10)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1017
+- Qingchun wu hui
+- 1991 | Movie  7.6 (19)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1018
+- Half Flame, Half Brine
+- 1989 | Movie  5.9 (8)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1019
+- Assembly
+- 2007 | Movie  7.3 (7,021)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1020
+- Yi di ji mao
+- 1995 | TV Series  7.6 (42)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1021
+- A Native of Beijing in New York
+- 1993 | TV Series  7.9 (168)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1022
+- Rock Kids
+- 1988 | Movie  5.8 (28)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1023
+- Lie chang zha sha
+- 1984 | Movie  6.5 (28)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1024
+- Summer Palace
+- 2006 | Movie  7.1 (3,672)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 1025
+- The World
+- 2004 | Movie  7.1 (3,332)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1026
+- Still Life
+- 2006 | Movie  7.3 (6,800)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1027
+- Dead Souls
+- 2018 | Movie  7.9 (334)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1028
+- Tie Xi Qu: West of the Tracks
+- 2002 | Movie  8.2 (1,179)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1029
+- A Bite of China
+- 2012 | TV Series  8.5 (513)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1030
+- A Bite of China II
+- 2014 | TV Series  7.8 (329)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1031
+- 28 Days
+- 2000 | Movie  6.1 (50,107)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1032
+- A Time to Kill
+- 1996 | Movie  7.4 (159,729)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1033
+- Sacrificed Youth
+- 1986 | Movie  7.5 (124)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1034
+- A Symphony of Cooking Utensils
+- 1983 | Movie  5.3 (9)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1035
+- Rang shi jie chong man ai
+- 1987 | Movie  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1036
+- Chess King
+- 1988 | Movie  6.7 (30)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1037
+- Life of a Beijing Policeman
+- 1950 | Movie  7.2 (185)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1038
+- The Yellow Storm
+- 1985 | TV Series  7.8 (20)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1039
+- The Teahouse
+- 2010 | TV Series  7.9 (15)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1040
+- Rickshaw Boy
+- 1982 | Movie  7.1 (175)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1041
+- Eternal Moment
+- 2011 | Movie  5.5 (316)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1042
+- Go Lala Go!
+- 2010 | Movie  5.2 (687)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1043
+- Letter from an Unknown Woman
+- 2004 | Movie  6.7 (725)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1044
+- Goodbye Mr. Loser
+- 2015 | Movie  6.7 (2,938)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1045
+- Never Say Die
+- 2017 | Movie  6.1 (1,571)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1046
+- Hello Mr. Billionaire
+- 2018 | Movie  6.1 (2,165)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1047
+- Monsieur Verdoux
+- 1947 | Movie  7.8 (17,655)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1048
+- The Great Dictator
+- 1940 | Movie  8.4 (222,659)  8
+- Add a note
+- Added
+- 04 Mar 2019
+- 1049
+- Modern Times
+- 1936 | Movie  8.5 (240,565)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 1050
+- City Lights
+- 1931 | Movie  8.5 (183,693)  9
+- Add a note
+- Added
+- 04 Mar 2019
+- 1051
+- The Circus
+- 1928 | Movie  8.1 (33,775)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1052
+- The Gold Rush
+- 1925 | Movie  8.2 (110,969)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1053
+- Minority Report
+- 2015 | TV Mini Series  5.8 (10,303)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1054
+- Second Variety
+- 2014 | Short  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1055
+- The Adjustment Bureau
+- 2011 | Movie  7.0 (256,999)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1056
+- Next
+- 2007 | Movie  6.2 (158,594)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1057
+- A Scanner Darkly
+- 2006 | Movie  7.0 (112,106)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1058
+- Paycheck
+- 2003 | Movie  6.3 (108,900)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1059
+- Looper
+- 2012 | Movie  7.4 (572,404)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1060
+- Perfect Stranger
+- 2007 | Movie  5.7 (48,256)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1061
+- Hart's War
+- 2002 | Movie  6.3 (53,257)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1062
+- Friends
+- 1994 | TV Series  8.9 (975,254)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1063
+- The Siege
+- 1998 | Movie  6.4 (73,448)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1064
+- The Fifth Element
+- 1998 | Video Game  7.6 (11,903)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1065
+- Die Hard 2
+- 1990 | Movie  7.1 (360,101)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1066
+- The Shipping News
+- 2001 | Movie  6.7 (33,055)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1067
+- Long Day's Journey Into Night
+- 1987 | TV Movie  7.2 (253)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1068
+- Kung Fu Panda: Secrets of the Masters
+- 2011 | Video  6.8 (3,903)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1069
+- Tootsie
+- 1982 | Movie  7.4 (106,697)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1070
+- The Hateful Eight
+- 2015 | Movie  7.8 (590,045)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1071
+- Unthinkable
+- 2010 | Movie  7.0 (88,454)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1072
+- Astro Boy
+- 2009 | Movie  6.2 (36,948)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1073
+- Star Wars: The Clone Wars
+- 2008 | Movie  5.9 (66,113)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1074
+- Star Wars: Episode III - Revenge of the Sith
+- 2005 | Movie  7.6 (782,172)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1075
+- Kill Bill: Vol. 2
+- 2004 | Movie  8.0 (747,816)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1076
+- Star Wars: Episode II - Attack of the Clones
+- 2002 | Movie  6.6 (703,404)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1077
+- Star Wars: Episode I - The Phantom Menace
+- 1999 | Movie  6.5 (797,228)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1078
+- Swordfish
+- 2001 | Movie  6.5 (187,426)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1079
+- Left Behind
+- 2014 | Movie  3.1 (39,972)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1080
+- Bad Lieutenant: Port of Call New Orleans
+- 2009 | Movie  6.6 (77,555)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1081
+- National Treasure: Book of Secrets
+- 2007 | Movie  6.5 (236,635)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1082
+- World Trade Center
+- 2006 | Movie  6.0 (83,873)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1083
+- Adaptation.
+- 2002 | Movie  7.7 (192,250)  7
+- Add a note
+- Added
+- 04 Mar 2019
+- 1084
+- Snake Eyes
+- 1998 | Movie  6.1 (81,884)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1085
+- City of Angels
+- 1998 | Movie  6.7 (120,800)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1086
+- Sully
+- 2016 | Movie  7.4 (270,202)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1087
+- Toy Story Toons: Hawaiian Vacation
+- 2011 | Short  7.2 (9,087)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1088
+- The Pacific
+- 2010 | TV Mini Series  8.3 (111,450)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1089
+- Angels & Demons
+- 2009 | Movie  6.7 (292,232)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1090
+- Band of Brothers
+- 2001 | TV Mini Series  9.4 (460,229)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1091
+- Sleepless in Seattle
+- 1993 | Movie  6.8 (175,627)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1092
+- Cave of Forgotten Dreams
+- 2010 | Movie  7.4 (16,668)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1093
+- The Enigma of Kaspar Hauser
+- 1974 | Movie  7.7 (17,764)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1094
+- Aguirre, the Wrath of God
+- 1972 | Movie  7.8 (57,182)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1095
+- The Devil Wears Prada
+- 2006 | Movie  6.9 (414,920)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1096
+- Angels in America
+- 2003 | TV Mini Series  8.1 (28,041)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1097
+- Out of Africa
+- 1985 | Movie  7.1 (79,889)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1098
+- Sophie's Choice
+- 1982 | Movie  7.5 (48,199)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1099
+- The Mist
+- 2017 | TV Series  5.4 (25,088)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1100
+- Under the Dome
+- 2013 | TV Series  6.5 (106,333)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1101
+- The Shining
+- 1980 | Movie  8.4 (1,003,387)  Rate
+- Add a note
+- Added
+- 04 Mar 2019
+- 1102
+- Heintje - Einmal wird die Sonne wieder scheinen
+- 1970 | Movie  5.8 (264)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1103
+- I teti në bronx
+- 1970 | Movie  7.7 (34)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1104
+- The Forty-First
+- 1956 | Movie  7.5 (1,550)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1105
+- The Journey
+- 1992 | Movie  7.0 (759)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1106
+- The Pope's Toilet
+- 2007 | Movie  7.2 (2,786)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1107
+- Give It All
+- 1998 | Movie  7.0 (262)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1108
+- He Never Gives Up
+- 1979 | Movie  6.5 (56)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1109
+- Papa Can Her Your Me Sing
+- 1983 | Movie  7.5 (328)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1110
+- Yang ya ren jia
+- 1965 | Movie  6.1 (160)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1111
+- Goddess of Mercy
+- 2003 | Movie  6.2 (491)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1112
+- Fight Back to School
+- 1991 | Movie  7.0 (4,149)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1113
+- Forbidden City Cop
+- 1996 | Movie  6.9 (4,143)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1114
+- All's Well, Ends Well 1997
+- 1997 | Movie  6.2 (1,058)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1115
+- Sixty Million Dollar Man
+- 1995 | Movie  6.2 (2,637)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1116
+- Journey to the West
+- 2013 | Movie  6.7 (12,859)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1117
+- Lawyer Lawyer
+- 1997 | Movie  6.2 (1,601)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1118
+- The Tricky Master
+- 1999 | Movie  5.9 (1,619)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1119
+- The Mermaid
+- 2016 | Movie  6.2 (9,321)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1120
+- No Risk, No Gain: Casino Raiders - The Sequel
+- 1990 | Movie  5.6 (161)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1121
+- Running on Karma
+- 2003 | Movie  6.6 (3,098)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1122
+- Running Out of Time
+- 1999 | Movie  7.3 (5,989)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1123
+- Infernal Affairs
+- 2002 | Movie  8.0 (124,516)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1124
+- God of Gamblers
+- 1989 | Movie  7.2 (5,579)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1125
+- McDull, Prince de la Bun
+- 2004 | Movie  7.1 (561)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1126
+- McDull: Rise of the Rice Cooker
+- 2016 | Movie  5.3 (66)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1127
+- McDull: Me & My Mum
+- 2014 | Movie  6.6 (256)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1128
+- McDull, the Alumni
+- 2006 | Movie  5.2 (379)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1129
+- McDull, Kung Fu Kindergarten
+- 2009 | Movie  6.3 (417)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1130
+- Infernal Affairs III
+- 2003 | Movie  6.8 (13,569)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1131
+- Infernal Affairs II
+- 2003 | Movie  7.3 (18,208)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1132
+- Cold War
+- 2012 | Movie  6.6 (4,777)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1133
+- Lost and Love
+- 2015 | Movie  6.4 (713)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1134
+- Zhang Ga the Soldier Boy
+- 1963 | Movie  6.8 (163)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1135
+- Di dao zhan
+- 1965 | Movie  6.5 (332)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1136
+- Landmine Warfare
+- 1962 | Movie  6.2 (95)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1137
+- The Letter with Feathers
+- 1954 | Movie  5.3 (68)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1138
+- Ingeniously Taking Mount Hua
+- 1953 | Movie  6.2 (23)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1139
+- Dong Cunrui
+- 1955 | Movie  5.7 (43)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1140
+- For the Children
+- 2003 | Movie  6.5 (157)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1141
+- Xue cheng
+- 1988 | TV Mini Series  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1142
+- The Echo of Qi Lian Mountain
+- 1989 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1143
+- Beijing Rocks
+- 2001 | Movie  6.6 (276)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1144
+- The Dancing Warrior
+- 1985 | Movie  6.0 (25)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1145
+- Deadly Fury
+- 1988 | Movie  7.2 (76)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1146
+- Yellow River Fighter
+- 1988 | Movie  6.9 (164)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1147
+- Little Heroes
+- 1983 | Movie  7.3 (56)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1148
+- Seven Swordsmen
+- 2005 | TV Series  6.7 (77)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1149
+- Kids from Shaolin
+- 1984 | Movie  6.2 (1,661)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1150
+- Martial Arts of Shaolin
+- 1986 | Movie  6.4 (2,345)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1151
+- Heroes Returning to the East
+- 1993 | Movie  5.1 (11)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1152
+- Crash Dive
+- 1943 | Movie  6.4 (1,585)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1153
+- Midway
+- 1976 | Movie  6.7 (19,620)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1154
+- Triumphantly Returning at Midnight
+- 1987 | TV Series  6.9 (15)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1155
+- Di ying shi ba nian
+- 1981 | TV Series  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1156
+- Akai giwaku
+- 1975 | TV Series  7.6 (30)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1157
+- Yae no sakura
+- 2013 | TV Series  7.0 (133)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1158
+- Gyarakushî kaidou
+- 2015 | Movie  4.7 (242)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1159
+- Shinsengumi!
+- 2004 | TV Series  8.0 (142)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1160
+- Ryômaden
+- 2010 | TV Series  8.0 (330)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1161
+- Station to Heaven
+- 1984 | Movie  7.2 (84)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1162
+- Izu no odoriko
+- 1963 | Movie  6.9 (54)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1163
+- Moscow Does Not Believe in Tears
+- 1980 | Movie  8.1 (12,996)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1164
+- Little Mole
+- 1957 | TV Series  7.9 (2,151)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1165
+- Kimba the White Lion
+- 1965 | TV Series  6.9 (1,007)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1166
+- Astro Boy
+- 1963 | TV Series  7.4 (932)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1167
+- Heidi
+- 1978 | TV Series  7.2 (195)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1168
+- Bianca Vidal
+- 1982 | TV Series  6.6 (14)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1169
+- Falcon Crest
+- 1981 | TV Series  6.1 (3,833)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1170
+- East of Eden
+- 2008 | TV Series  7.4 (185)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1171
+- Hitchcock/Truffaut
+- 2015 | Movie  7.3 (6,584)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1172
+- The Lodger: A Story of the London Fog
+- 1927 | Movie  7.3 (11,953)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1173
+- Star Wars: Episode VII - The Force Awakens
+- 2015 | Movie  7.8 (921,608)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1174
+- Lost
+- 2004 | TV Series  8.3 (546,795)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1175
+- Kagemusha
+- 1980 | Movie  7.9 (35,704)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1176
+- Throne of Blood
+- 1957 | Movie  8.1 (52,161)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1177
+- Taken
+- 2008 | Movie  7.8 (599,665)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1178
+- Taxi 2
+- 2000 | Movie  6.5 (55,778)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1179
+- Taxi
+- 1998 | Movie  6.9 (83,545)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1180
+- Valerian and the City of a Thousand Planets
+- 2017 | Movie  6.4 (180,654)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1181
+- Once a Thief
+- 1991 | Movie  6.7 (6,631)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1182
+- A Better Tomorrow
+- 1986 | Movie  7.4 (23,167)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1183
+- The Killer
+- 1989 | Movie  7.8 (48,520)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1184
+- A Better Tomorrow II
+- 1987 | Movie  7.2 (10,413)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1185
+- Peace Hotel
+- 1995 | Movie  6.2 (1,192)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1186
+- Mission: Impossible II
+- 2000 | Movie  6.1 (341,010)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1187
+- Hard Target
+- 1993 | Movie  6.2 (51,598)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1188
+- Red Cliff II
+- 2009 | Movie  7.5 (24,322)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1189
+- Red Cliff
+- 2008 | Movie  7.3 (46,420)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1190
+- A Chinese Ghost Story
+- 1987 | Movie  7.4 (10,116)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1191
+- Dragon Inn
+- 1992 | Movie  7.2 (4,394)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1192
+- A Chinese Ghost Story: The Tsui Hark Animation
+- 1997 | Movie  6.5 (809)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1193
+- Once Upon a Time in China II
+- 1992 | Movie  7.3 (9,964)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1194
+- A Chinese Ghost Story II
+- 1990 | Movie  6.9 (3,644)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1195
+- Once Upon a Time in China III
+- 1992 | Movie  6.7 (7,137)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1196
+- The Taking of Tiger Mountain
+- 2014 | Movie  6.4 (3,107)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1197
+- The Legend
+- 1993 | Movie  7.1 (7,921)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1198
+- Shanghai Grand
+- 1996 | Movie  6.6 (815)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1199
+- Mad Mission
+- 1982 | Movie  6.6 (1,632)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1200
+- Swordsman III: The East Is Red
+- 1993 | Movie  6.1 (1,595)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1201
+- Once Upon a Time in China IV
+- 1993 | Movie  5.9 (1,183)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1202
+- Zu: Warriors from the Magic Mountain
+- 1983 | Movie  6.5 (2,770)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1203
+- Once Upon a Time in China and America
+- 1997 | Movie  6.3 (3,968)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1204
+- A Terra-Cotta Warrior
+- 1989 | Movie  6.8 (1,000)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1205
+- Once Upon a Time in China V
+- 1994 | Movie  5.9 (1,039)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1206
+- The Master
+- 1992 | Movie  5.7 (2,817)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1207
+- Around the World in 80 Days
+- 2004 | Movie  5.8 (90,096)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1208
+- Police Story
+- 1985 | Movie  7.5 (36,484)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1209
+- Project A
+- 1983 | Movie  7.3 (16,978)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1210
+- Mulan
+- 1998 | Movie  7.6 (285,029)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1211
+- The Legend of Drunken Master
+- 1994 | Movie  7.5 (46,091)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1212
+- Drunken Master
+- 1978 | Movie  7.4 (40,278)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1213
+- Rob-B-Hood
+- 2006 | Movie  6.6 (14,657)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1214
+- The Foreigner
+- 2017 | Movie  7.0 (114,284)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1215
+- Mr. Nice Guy
+- 1997 | Movie  6.2 (27,289)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1216
+- Shen hua
+- 2010 | TV Series  7.7 (84)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1217
+- Little Big Soldier
+- 2010 | Movie  6.9 (15,387)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1218
+- Chinese Zodiac
+- 2012 | Movie  6.0 (23,095)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1219
+- The Accidental Spy
+- 2001 | Movie  5.8 (17,641)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1220
+- Shanghai Knights
+- 2003 | Movie  6.2 (106,369)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1221
+- New Fist of Fury
+- 1976 | Movie  5.4 (1,636)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1222
+- The Eagle Shooting Heroes
+- 1993 | Movie  7.0 (2,798)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1223
+- Ashes of Time
+- 1994 | Movie  7.0 (15,482)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1224
+- Prison on Fire
+- 1987 | Movie  7.3 (2,903)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1225
+- Election
+- 2005 | Movie  7.1 (10,402)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1226
+- It's a Wonderful Life
+- 1994 | Movie  6.4 (257)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1227
+- Reign Behind a Curtain
+- 1983 | Movie  6.9 (135)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1228
+- Burning of the Imperial Palace
+- 1983 | Movie  6.9 (194)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1229
+- 20:30:40
+- 2004 | Movie  6.6 (1,308)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1230
+- All Men Are Brothers: Blood of the Leopard
+- 1993 | Movie  6.3 (279)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1231
+- Cold War 2
+- 2016 | Movie  6.5 (2,903)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1232
+- Lost in Beijing
+- 2007 | Movie  6.7 (2,284)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1233
+- Zhou Yu's Train
+- 2002 | Movie  6.5 (1,546)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1234
+- Rise of the Legend
+- 2014 | Movie  6.4 (3,888)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1235
+- Asura
+- 2018 | Movie  2.8 (191)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1236
+- All's Well, Ends Well Too
+- 1993 | Movie  6.2 (442)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1237
+- Tricky Brains
+- 1991 | Movie  7.0 (2,619)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1238
+- Dr. Wai in the Scripture with No Words
+- 1996 | Movie  5.7 (1,931)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1239
+- Vengeance Is Mine
+- 1988 | Movie  6.0 (56)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1240
+- Fly Me to Polaris
+- 1999 | Movie  7.2 (1,069)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1241
+- Ngo ga yau yat chek hiu dung see
+- 2002 | Movie  5.9 (563)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1242
+- Cat and Mouse
+- 2003 | Movie  5.2 (511)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1243
+- The Promise
+- 2005 | Movie  5.6 (9,277)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1244
+- The Lion Roars 2
+- 2012 | Movie  3.9 (120)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1245
+- Palace of Desire
+- 2000 | TV Series  7.8 (130)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1246
+- The Message
+- 2009 | Movie  7.3 (3,782)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1247
+- Suzhou River
+- 2000 | Movie  7.4 (5,054)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1248
+- The Equation of Love and Death
+- 2008 | Movie  6.9 (1,299)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1249
+- Perhaps Love
+- 2005 | Movie  6.8 (2,565)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1250
+- Legend of Eagle Shooting Hero
+- 2003 | TV Series  7.1 (322)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1251
+- Where Have All the Flowers Gone
+- 2002 | Movie  6.2 (110)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1252
+- The Silent War
+- 2012 | Movie  6.2 (1,673)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1253
+- Painted Skin
+- 2008 | Movie  6.3 (4,963)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1254
+- The Last Ship
+- 2014 | TV Series  7.4 (58,489)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1255
+- London Has Fallen
+- 2016 | Movie  5.9 (158,200)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1256
+- Submersion of Japan
+- 1973 | Movie  5.4 (442)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1257
+- Vexille
+- 2007 | Movie  6.8 (7,706)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1258
+- Tokyo-Ga
+- 1985 | Movie  7.3 (2,928)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1259
+- Paris, Texas
+- 1984 | Movie  8.1 (105,633)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1260
+- Until the End of the World
+- 1991 | Movie  6.8 (10,376)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1261
+- The State of Things
+- 1982 | Movie  6.9 (3,283)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1262
+- The Cider House Rules
+- 1999 | Movie  7.4 (99,130)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1263
+- Marco Polo
+- 1982 | TV Mini Series  7.7 (1,201)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1264
+- Doctor Bethune
+- 1964 | Movie  6.9 (20)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1265
+- Twin Peaks
+- 1990 | TV Series  8.8 (195,619)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1266
+- The Sun Also Rises
+- 2007 | Movie  7.2 (2,266)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1267
+- Hearts for the Motherland
+- 1979 | Movie  6.9 (19)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1268
+- Tai-Pan
+- 1986 | Movie  5.5 (1,764)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1269
+- What a Family
+- 1979 | Movie  7.3 (86)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1270
+- A Woman for Two
+- 1988 | Movie  7.3 (36)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1271
+- The Savage Land
+- 1981 | Movie  6.7 (31)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1272
+- The Last Eunuch
+- 1991 | Movie  6.6 (112)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1273
+- The Empress Dowager
+- 1989 | Movie  6.1 (112)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1274
+- A Girl from Hunan
+- 1987 | Movie  7.1 (189)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1275
+- Lei yu
+- 1984 | Movie  6.9 (40)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1276
+- Aolei Yilan
+- 1979 | Movie  7.5 (17)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1277
+- Han Ye
+- 1984 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1278
+- Qing Yi
+- 2002 | TV Series  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1279
+- Sun Zhongshan
+- 2001 | TV Series  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1280
+- Ri Chu
+- 1986 | Movie  8.2 (75)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1281
+- A Romance of Smith Zhang
+- 1982 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1282
+- Corner Left Unnoticed by Love
+- 1981 | Movie  7.6 (27)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1283
+- Deng Xiaoping at History's Crossroads
+- 2014 | TV Series  7.7 (27)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1284
+- Cliff
+- 2012 | TV Series  7.3 (33)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1285
+- Dwelling Narrowness
+- 2009 | TV Series  7.3 (105)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1286
+- Loquacious Zhang Damin's Happy Life
+- 1999 | TV Series  7.6 (47)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1287
+- Crash Landing
+- 2000 | Movie  5.6 (114)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1288
+- Mr. Six
+- 2015 | Movie  6.9 (3,915)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1289
+- Life on a String
+- 1991 | Movie  6.9 (672)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1290
+- Journey to the West
+- 1986 | TV Series  8.7 (1,425)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1291
+- Lover's Grief Over the Yellow River
+- 1999 | Movie  6.3 (310)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1292
+- Red River Valley
+- 1997 | Movie  6.6 (353)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1293
+- A Trança Feiticeira
+- 1996 | Movie  7.0 (21)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1294
+- Lan ling wang
+- 1995 | Movie  6.5 (42)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1295
+- The Monkey King 2
+- 2016 | Movie  5.9 (3,214)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1296
+- Temptress Moon
+- 1996 | Movie  6.7 (1,932)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1297
+- A Soul Haunted by Painting
+- 1994 | Movie  6.6 (435)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1298
+- My 1919
+- 1999 | Movie  6.9 (156)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1299
+- A Storm Will Come Tonight
+- 1984 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1300
+- Chang Zheng
+- 2001 | TV Series  7.3 (21)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1301
+- Tales of the Marshes
+- 1997 | TV Series  7.8 (478)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1302
+- Yong Zheng wang chao
+- 1997 | TV Series  8.4 (194)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1303
+- San guo yan yi
+- 1995 | TV Series  8.6 (895)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1304
+- Cross the Chishui River Four Times
+- 1983 | Movie  4.4 (18)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1305
+- Kong que gong zhu
+- 1982 | Movie  7.4 (33)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1306
+- The Story of the South China Sea
+- 1976 | Movie  4.3 (6)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1307
+- Tan Si Tong
+- 1984 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1308
+- Dong gang die ying
+- 1978 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1309
+- Unforgettable Battle
+- 1975 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1310
+- Zhou Enlai
+- 1992 | Movie  7.4 (79)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1311
+- The Xi'an Incident
+- 1981 | Movie  5.7 (40)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1312
+- Li Siguang
+- 1979 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1313
+- Deng Xiaoping
+- 2002 | Movie  5.0 (16)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1314
+- The Birth of New China
+- 1989 | Movie  5.5 (64)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1315
+- The Baise Uprising
+- 1989 | Movie  5.3 (18)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1316
+- Niu lang zhi nü
+- 1963 | Movie  7.0 (5)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1317
+- Quan shui ding dong
+- 1982 | Movie  7.2 (24)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1318
+- Spring Is Splended Color
+- 1959 | Movie  7.0 (8)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1319
+- Family
+- 1957 | Movie  7.2 (46)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1320
+- Nie Er
+- 1960 | Movie  6.9 (31)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1321
+- From Victory to Victory
+- 1952 | Movie  5.8 (62)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1322
+- Gao shan xia de hua huan
+- 1984 | TV Mini Series  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1323
+- Ping ying fen
+- 1978 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1324
+- Zhong an liu zu
+- 2001 | TV Series  7.6 (40)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1325
+- A Plainclothes Policeman
+- 1987 | TV Series  7.4 (9)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1326
+- Wu long shan jiao fei ji
+- 1986 | TV Mini Series  6.7 (6)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1327
+- Secret Decree
+- 1985 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1328
+- All Quiet in Beiping
+- 2014 | TV Series  7.7 (117)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1329
+- Han Wu Da Di
+- 2005 | TV Series  8.3 (80)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1330
+- Woman Sesame Oil Maker
+- 1993 | Movie  7.2 (354)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1331
+- The Magic Braid
+- 1986 | Movie  6.1 (92)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1332
+- Cross the Dadu River
+- 1980 | Movie  5.7 (22)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1333
+- Fei chang da zong tong
+- 1986 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1334
+- 51 Depot
+- 1961 | Movie  6.1 (8)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1335
+- A Revolutionary Family
+- 1960 | Movie  6.5 (20)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1336
+- The Eternal Wave
+- 1958 | Movie  7.3 (70)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1337
+- Crows and Sparrows
+- 1949 | Movie  7.2 (279)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1338
+- Ming gu niang
+- 1984 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1339
+- The Poetess Li Qingzhao
+- 1981 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1340
+- Qing chun zhi ge
+- 1959 | Movie  6.3 (44)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1341
+- Today, I Rest
+- 1959 | Movie  6.2 (18)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1342
+- Black Snow
+- 1990 | Movie  7.2 (498)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1343
+- What a Wonderful Family!
+- 2017 | Movie  4.5 (57)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1344
+- The Tokyo Trial
+- 2006 | Movie  6.6 (467)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1345
+- Home with Kids
+- 2005 | TV Series  7.2 (203)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1346
+- Xiao zi xian sun ci hou zhe
+- 1993 | Movie  7.2 (76)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1347
+- Dew on Scallions
+- 2011 | Movie  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1348
+- Beijing Blues
+- 2012 | Movie  6.5 (292)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1349
+- Wind Blast
+- 2010 | Movie  5.1 (399)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1350
+- Tou fa luan le
+- 1994 | Movie  5.5 (18)  Rate
+- Add a note
+- Added
+- 05 Mar 2019
+- 1351
+- Postmen in the Mountains
+- 1999 | Movie  7.8 (1,606)  Rate
+- Add a note
+- Added
+- 06 Mar 2019
+- 1352
+- Zan men de tui wu bing
+- 1985 | Movie  Rate
+- Add a note
+- Added
+- 08 Mar 2019
+- 1353
+- Shui shou zhang de gu shi
+- 1963 | Movie  Rate
+- Add a note
+- Added
+- 08 Mar 2019
+- 1354
+- Li Shizhen
+- 1956 | Movie  7.0 (26)  Rate
+- Add a note
+- Added
+- 08 Mar 2019
+- 1355
+- Railway Guerrilla
+- 1956 | Movie  6.2 (93)  Rate
+- Add a note
+- Added
+- 08 Mar 2019
+- 1356
+- Young and Innocent
+- 1937 | Movie  6.8 (9,773)  Rate
+- Add a note
+- Added
+- 14 Mar 2019
+- 1357
+- Sabotage
+- 1936 | Movie  7.0 (17,022)  Rate
+- Add a note
+- Added
+- 14 Mar 2019
+- 1358
+- The New King of Comedy
+- 2019 | Movie  6.2 (1,698)  7
+- Add a note
+- Added
+- 15 Mar 2019
+- 1359
+- War for the Planet of the Apes
+- 2017 | Movie  7.4 (254,885)  Rate
+- Add a note
+- Added
+- 15 Mar 2019
+- 1360
+- More Than Blue
+- 2018 | Movie  6.1 (1,212)  8
+- Add a note
+- Added
+- 19 Mar 2019
+- 1361
+- Love, Death & Robots
+- 2019 | TV Series  8.4 (163,527)  8
+- Add a note
+- Added
+- 23 Mar 2019
+- 1362
+- The Milkwoman
+- 2005 | Movie  7.1 (137)  9
+- Add a note
+- Added
+- 30 Mar 2019
+- 1363
+- [[Twenty-Four Eyes]]
+- 1954 | Movie  8.0 (2,570)  8
+- Add a note
+- Added
+- 01 Apr 2019
+- 1364
+- Kwaidan
+- 1964 | Movie  7.9 (17,785)  8
+- Add a note
+- Added
+- 04 Apr 2019
+- 1365
+- [[Yi Yi: A One and a Two...]]
+- 2000 | Movie  8.1 (24,433)  9
+- Add a note
+- Added
+- 04 Apr 2019
+- 1366
+- [[The Mule]]
+- 2018 | Movie  7.0 (136,381)  8
+- Add a note
+- Added
+- 13 Apr 2019
+- 1367
+- [[Harakiri]]
+- 1962 | Movie  8.6 (55,959)  9
+- Add a note
+- Added
+- 15 Apr 2019
+- 1368
+- [[Guardian of the Light]]
+- 2018 | Movie  7.5 (74)  6
+- Add a note
+- Added
+- 18 Jun 2019
+- 1369
+- [[At Berkeley]]
+- 2013 | Movie  7.3 (658)  8
+- Add a note
+- Added
+- 18 Jun 2019
+- 1370
+- [[Varda by Agnès]]
+- 2019 | TV Mini Series  7.8 (2,235)  8
+- Add a note
+- Added
+- 18 Jun 2019
+- 1371
+- Sorry We Missed You
+- 2019 | Movie  7.6 (22,439)  8
+- Add a note
+- Added
+- 18 Jun 2019
+- 1372
+- Akira
+- 1988 | Movie  8.0 (184,709)  7
+- Add a note
+- Added
+- 18 Jun 2019
+- 1373
+- Little Joe
+- 2019 | Movie  5.8 (7,981)  8
+- Add a note
+- Added
+- 19 Jun 2019
+- 1374
+- Distant Voices, Still Lives
+- 1988 | Movie  7.4 (4,385)  7
+- Add a note
+- Added
+- 22 Jun 2019
+- 1375
+- National Gallery
+- 2014 | Movie  7.3 (1,541)  9
+- Add a note
+- Added
+- 22 Jun 2019
+- 1376
+- Les Misérables
+- 2019 | Movie  7.6 (24,884)  7
+- Add a note
+- Added
+- 24 Jun 2019
+- 1377
+- The Traitor
+- 2019 | Movie  7.1 (11,281)  7
+- Add a note
+- Added
+- 24 Jun 2019
+- 1378
+- Chernobyl
+- 2019 | TV Mini Series  9.4 (728,912)  8
+- Add a note
+- Added
+- 29 Jun 2019
+- 1379
+- Jesus Camp
+- 2006 | Movie  7.4 (27,982)  8
+- Add a note
+- Added
+- 25 Jul 2019
+- 1380
+- The Trials of Ted Haggard
+- 2009 | TV Movie  6.6 (345)  7
+- Add a note
+- Added
+- 28 Jul 2019
+- 1381
+- The Breadwinner
+- 2017 | Movie  7.7 (25,371)  7
+- Add a note
+- Added
+- 29 Jul 2019
+- 1382
+- The Lion King
+- 2019 | Movie  6.8 (242,254)  6
+- Add a note
+- Added
+- 29 Jul 2019
+- 1383
+- Parasite
+- 2019 | Movie  8.5 (772,641)  9
+- Add a note
+- Added
+- 11 Aug 2019
+- 1384
+- American Factory
+- 2019 | Movie  7.4 (21,897)  8
+- Add a note
+- Added
+- 25 Aug 2019
+- 1385
+- Monsieur Hulot's Holiday
+- 1953 | Movie  7.3 (18,707)  9
+- Add a note
+- Added
+- 21 Sep 2019
+- 1386
+- The Capture
+- 2019 | TV Series  7.8 (13,719)  7
+- Add a note
+- Added
+- 21 Sep 2019
+- 1387
+- Gemini Man
+- 2019 | Movie  5.7 (113,204)  8
+- Add a note
+- Added
+- 25 Oct 2019
+- 1388
+- Eat Drink Man Woman
+- 1994 | Movie  7.8 (21,127)  8
+- Add a note
+- Added
+- 25 Oct 2019
+- 1389
+- Hacksaw Ridge
+- 2016 | Movie  8.1 (514,966)  8
+- Add a note
+- Added
+- 25 Oct 2019
+- 1390
+- Amadeus
+- 1984 | Movie  8.4 (398,166)  9
+- Add a note
+- Added
+- 19 Nov 2019
+- 1391
+- Richard Jewell
+- 2019 | Movie  7.5 (86,421)  Rate
+- Add a note
+- Added
+- 29 Jan 2020
+- 1392
+- 1917
+- 2019 | Movie  8.2 (570,641)  8
+- Add a note
+- Added
+- 04 Feb 2020
+- 1393
+- Tirza
+- 2010 | Movie  6.4 (1,657)  Rate
+- Add a note
+- Added
+- 25 Mar 2020
+- 1394
+- Burning
+- 2018 | Movie  7.5 (64,017)  9
+- Add a note
+- Added
+- 26 Mar 2020
+- 1395
+- Limelight
+- 1952 | Movie  8.0 (20,400)  9
+- Add a note
+- Added
+- 06 Apr 2020
+- 1396
+- The Imposter
+- 2012 | Movie  7.5 (47,946)  8
+- Add a note
+- Added
+- 02 May 2020
+- 1397
+- Undercover Billionaire
+- 2019 | TV Series  7.5 (669)  8
+- Add a note
+- Added
+- 03 May 2020
+- 1398
+- Japan Sinks: 2020
+- 2020 | TV Mini Series  6.4 (3,036)  8
+- Add a note
+- Added
+- 11 Jul 2020
+- 1399
+- Japan Sinks
+- 2020 | TV Episode  6.9 (135)  Rate
+- Add a note
+- Added
+- 17 Jul 2020
+- 1400
+- Rope
+- 1948 | Movie  7.9 (142,889)  9
+- Add a note
+- Added
+- 18 Jul 2020
+- 1401
+- The Lady Vanishes
+- 1938 | Movie  7.8 (52,607)  8
+- Add a note
+- Added
+- 25 Jul 2020
+- 1402
+- Foreign Correspondent
+- 1940 | Movie  7.5 (21,024)  8
+- Add a note
+- Added
+- 26 Jul 2020
+- 1403
+- Sea Fever
+- 2019 | Movie  5.7 (11,529)  7
+- Add a note
+- Added
+- 01 Aug 2020
+- 1404
+- Babyteeth
+- 2019 | Movie  7.2 (16,126)  8
+- Add a note
+- Added
+- 03 Aug 2020
+- 1405
+- The Ballad of Narayama
+- 1958 | Movie  7.8 (3,431)  8
+- Add a note
+- Added
+- 04 Aug 2020
+- 1406
+- Tora-san, Welcome Back!
+- 2019 | Movie  6.8 (269)  8
+- Add a note
+- Added
+- 06 Aug 2020
+- 1407
+- The Twilight Samurai
+- 2002 | Movie  8.1 (23,983)  8
+- Add a note
+- Added
+- 08 Aug 2020
+- 1408
+- Tora-san's Sunrise and Sunset
+- 1976 | Movie  7.2 (99)  8
+- Add a note
+- Added
+- 08 Aug 2020
+- 1409
+- Tora-san's Tropical Fever
+- 1980 | Movie  6.8 (89)  7
+- Add a note
+- Added
+- 09 Aug 2020
+- 1410
+- Tora-san, His Tender Love
+- 1970 | Movie  6.8 (166)  7
+- Add a note
+- Added
+- 16 Aug 2020
+- 1411
+- Tora-san's Grand Scheme
+- 1970 | Movie  6.9 (132)  7
+- Add a note
+- Added
+- 16 Aug 2020
+- 1412
+- Tora-San's Cherished Mother
+- 1969 | Movie  7.1 (213)  8
+- Add a note
+- Added
+- 16 Aug 2020
+- 1413
+- Tora-san's Runaway
+- 1970 | Movie  6.8 (141)  8
+- Add a note
+- Added
+- 16 Aug 2020
+- 1414
+- Tora-san's Promise
+- 1981 | Movie  6.5 (70)  9
+- Add a note
+- Added
+- 18 Aug 2020
+- 1415
+- Tora-san's Shattered Romance
+- 1971 | Movie  7.0 (133)  7
+- Add a note
+- Added
+- 18 Aug 2020
+- 1416
+- Soy Cuba
+- 1964 | Movie  8.2 (9,543)  10
+- Add a note
+- Added
+- 22 Aug 2020
+- 1417
+- Carnival in Moscow
+- 1956 | Movie  7.5 (2,707)  8
+- Add a note
+- Added
+- 31 Aug 2020
+- 1418
+- The Ascent
+- 1977 | Movie  8.2 (8,698)  8
+- Add a note
+- Added
+- 31 Aug 2020
+- 1419
+- Russian Ark
+- 2002 | Movie  7.3 (20,557)  9
+- Add a note
+- Added
+- 31 Aug 2020
+- 1420
+- Mulan
+- 2020 | Movie  5.7 (146,732)  7
+- Add a note
+- Added
+- 05 Sep 2020
+- 1421
+- Jaws
+- 1975 | Movie  8.1 (597,237)  Rate
+- Add a note
+- Added
+- 16 Nov 2020
+- 1422
+- A Brighter Summer Day
+- 1991 | Movie  8.3 (10,368)  10
+- Add a note
+- Added
+- 06 Jan 2021
+- 1423
+- The Terrorizers
+- 1986 | Movie  7.7 (4,445)  8
+- Add a note
+- Added
+- 06 Jan 2021
+- 1424
+- The Yin-Yang Master: Dream of Eternity
+- 2020 | Movie  6.4 (4,824)  4
+- Add a note
+- Added
+- 06 Jan 2021
+- 1425
+- Deliver Us from Evil
+- 2020 | Movie  6.8 (4,674)  7
+- Add a note
+- Added
+- 10 Jan 2021
+- 1426
+- I Care a Lot
+- 2020 | Movie  6.3 (131,357)  2
+- Add a note
+- Added
+- 26 Feb 2021
+- 1427
+- Ronny Chieng: Asian Comedian Destroys America
+- 2019 | TV Special  7.4 (3,273)  8
+- Add a note
+- Added
+- 28 Feb 2021
+- 1428
+- The Crown
+- 2016 | TV Series  8.7 (196,532)  8
+- Add a note
+- Added
+- 05 Mar 2021
+- 1429
+- American Murder: The Family Next Door
+- 2020 | Movie  7.2 (27,994)  Rate
+- Add a note
+- Added
+- 12 Mar 2021
+- 1430
+- War and Peace
+- 1965 | Movie  8.3 (7,370)  10
+- Add a note
+- Added
+- 24 May 2021
+- 1431
+- A Man Escaped
+- 1956 | Movie  8.3 (22,213)  9
+- Add a note
+- Added
+- 26 May 2021
+- 1432
+- The Mission
+- 1986 | Movie  7.4 (61,455)  7
+- Add a note
+- Added
+- 22 Jun 2021
+- 1433
+- Birds of America
+- 2021 | Movie  7.2 (31)  7
+- Add a note
+- Added
+- 22 Jun 2021
+- 1434
+- Repast
+- 1951 | Movie  7.6 (1,669)  8
+- Add a note
+- Added
+- 22 Jun 2021
+- 1435
+- Mother
+- 1952 | Movie  7.6 (753)  8
+- Add a note
+- Added
+- 22 Jun 2021
+- 1436
+- Wife! Be Like a Rose!
+- 1935 | Movie  7.5 (471)  7
+- Add a note
+- Added
+- 22 Jun 2021
+- 1437
+- Nobody
+- 2021 | Movie  7.4 (240,346)  7
+- Add a note
+- Added
+- 05 Jul 2021
+- 1438
+- The Tomorrow War
+- 2021 | Movie  6.5 (201,736)  3
+- Add a note
+- Added
+- 05 Jul 2021
+- 1439
+- Army of the Dead
+- 2021 | Movie  5.7 (170,745)  4
+- Add a note
+- Added
+- 05 Jul 2021
+- 1440
+- Tomorrow Never Dies
+- 1997 | Movie  6.5 (194,433)  7
+- Add a note
+- Added
+- 06 Jul 2021
+- 1441
+- World War Z
+- 2013 | Movie  7.0 (658,632)  7
+- Add a note
+- Added
+- 07 Jul 2021
+- 1442
+- Moon
+- 2009 | Movie  7.8 (357,505)  6
+- Add a note
+- Added
+- 09 Jul 2021
+- 1443
+- The Lady Eve
+- 1941 | Movie  7.7 (21,516)  Rate
+- Add a note
+- Added
+- 08 Sep 2021
+- 1444
+- The Ladykillers
+- 1955 | Movie  7.6 (29,393)  Rate
+- Add a note
+- Added
+- 01 Oct 2021
+- 1445
+- Squid Game
+- 2021 | TV Series  8.0 (432,056)  Rate
+- Add a note
+- Added
+- 01 Oct 2021
+- 1446
+- And Life Goes On
+- 1992 | Movie  7.9 (6,219)  Rate
+- Add a note
+- Added
+- 01 Oct 2021
+- 1447
+- Through the Olive Trees
+- 1994 | Movie  7.7 (8,574)  Rate
+- Add a note
+- Added
+- 01 Oct 2021
+- 1448
+- Where Is the Friend's House?
+- 1987 | Movie  8.1 (15,019)  Rate
+- Add a note
+- Added
+- 01 Oct 2021
+- 1449
+- Dune
+- 2021 | Movie  8.0 (605,204)  9
+- Add a note
+- Added
+- 02 Nov 2021
+- 1450
+- Serve the People
+- 2022 | Movie  6.2 (210)  7
+- Add a note
+- Added
+- 18 Jun 2022
+- 1451
+- Jurassic World Dominion
+- 2022 | Movie  5.7 (125,688)  6
+- Add a note
+- Added
+- 08 Jul 2022
+- 1452
+- The Yellow Handkerchief
+- 1977 | Movie  7.3 (1,146)  7
+- Add a note
+- Added
+- 08 Jul 2022
+- 1453
+- Pirates of the Caribbean: The Curse of the Black Pearl
+- 2003 | Movie  8.1 (1,113,596)  Rate
+- Add a note
+- Added
+- 03 Sep 2022
+- 1454
+- Ratatouille
+- 2007 | Movie  8.1 (722,894)  Rate
+- Add a note
+- Added
+- 03 Sep 2022

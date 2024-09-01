@@ -1,0 +1,61 @@
+- [[Gratitude]]
+    - [[MIL]]
+    - [[FIL]]
+    - [[舅舅]]
+    - [[父母]]
+    - #[[jfx]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+        - 赞美主的创造，护理，拯救
+        - 感谢神的赐福
+        - 感谢主明天赐下主日聚会
+    - 认罪悔改
+        - 求主去除我内心的妄念
+        - 求主让我不要沉溺于梦境之中
+    - 祈求代求
+        - 求主让#[[SLBC]]的弟兄姊妹们顺利返回
+        - 求主让我找回失去的[[Perls]]
+            - 求主让我还清所有的debts
+        - 求主使我善用时光
+    - Depth
+        - **09:35** - {{[[POMO]]: 5}}
+            - 
+- [[Day Start]] 09:09
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **09:09** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [The Mysterious Math of Billiards Tables | Quanta Magazine](https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/)
+- #[[康健]]
+    - [[黑暗森林]]散步8000步
+        - 遇到被剪开锁的hello单车
+            - 拍摄视频留下证据
+                - 不要跟#[[Jonas]]开这个玩笑，他会哭
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+    - 构思课件
+- [[四季青青]]
+    - #[[jfx]]的书暂时不还，因为还需要用
+- [[Heptabase]]
+- [[Sora Camp]]
+    - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- [[写书]]
+    - 想到一个题材，关于[[Birding]]的小说
+- #Finance
+    - found the [[Perls]]
+- ---
+- [[Daily Thoughts]]
+    - 走进大自然，多么美好
+    - 低碳水饮食是多么清爽
+    - 主给的温暖是多么慰藉
+- [[Daily Accomplishments]]
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging

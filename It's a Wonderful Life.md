@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Frank Capra]]
+        - Writer:: [[Frances Goodrich]] [[Albert Hackett]] [[Frank Capra]]
+        - Cast:: [[James Stewart]] [[Donna Reed]] [[Lionel Barrymore]]
+        - Year:: [[1946]]
+        - Genre:: #Drama #Family #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0038650
+    - **Plot Summary:** An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FpoDRQ-AaWx.pdf?alt=media&token=f712e68a-4707-4d36-8e7b-fbecddd851c4}}

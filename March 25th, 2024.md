@@ -1,0 +1,44 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 08:40
+- Daily Tasks
+    - {{[[TODO]]}} 制作拆书帮ppt
+    - {{[[DONE]]}} 写告别网贷的见证
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **08:40** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+    - 为奈飞三体辩护
+        - 三体官方介绍：跨越各大洲、歷經數十年，五位傑出的好友有了震驚世界的發現。科學定律徹底瓦解，生存威脅浮上檯面。
+        - 
+- [[gc10]]
+    - 策划新一期的日更营，要为下个月的账单做准备
+- [[编剧故事营]]
+    - 补上六节课的课件
+- [[四季青青]]
+- [[Heptabase]]
+    - 研究如何用Heptabase拉片子
+- [[爱与中文]]
+- [[写作GPTs]]
+- [[两句半]]
+    - 放送一集，已完成
+- #[[Seven]]
+- #Jonas 
+    - 自己放学
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+        - 08:42 
+            - [Convert 1 BTC to GOLD - Bitcoin to Gold Gram Converter | CoinCodex](https://coincodex.com/convert/bitcoin/gold-gram/)
+                - 923.43 GOLD
+- ---

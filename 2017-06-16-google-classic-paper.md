@@ -1,0 +1,16 @@
+- 昨天有个消息，让我兴奋了半天。谷歌开放了经典论文的下载。
+- [Classic papers - Google Scholar](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
+- 谷歌认为，尽管现在大家喜欢说什么“最新研究表明……”，但事实上，论文也是老的好，因为经过了时间的检验和同行的引用。
+- 这次谷歌公布的各个领域引用最多的论文，目前还只有2006年的，以后会越来越多。
+- 我像得了珍宝一样，一路下载了，30多篇。
+- 有些论文一看题目就很棒。例如：
+- [Sieving: Friends' influence on adolescents' first... - Google Scholar](https://scholar.google.com/scholar_lookup?title=Friends%27+influence+on+adolescents%27+first+sexual+intercourse&author=Renee+E+Sieving&author=Marla+E+Eisenberg&author=Sandra+Pettingell&author=Carol+Skay&year=2006&doi=10.1363/3801306&publisher=Blackwell+Publishing+Ltd&journal=Perspectives+on+sexual+and+reproductive+health&volume=38&issue=1&pages=13-19&hl=en)
+- 这篇论文研究发现，青少年第一次性生活很多都是因为手了朋友们的影响。
+- 家里有孩子，尤其是青春期女孩子的家长，一定要注意孩子的交友。
+- 这篇《为什么专家会犯错》，是刑侦领域的论文，但是对其他学科也有指导意义。 [Dror: Why experts make errors - Google Scholar](https://scholar.google.com/scholar_lookup?title=Why+experts+make+errors&author=Itiel+E+Dror&author=David+Charlton&year=2006&publisher=International+Association+for+Identification&journal=Journal+of+Forensic+Identification&volume=56&issue=4&pages=600&hl=en)
+- 戏剧类的论文在这里 [Drama & Theater Arts - Classic papers - Google Scholar](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006&vq=hum_dramatheaterarts)
+- 电影类的看这里 [Film - Classic papers - Google Scholar](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006&vq=hum_film)
+- 我觉得最酷的论文是这一篇《音乐和弦的几何学》，哪怕看不懂。 [Tymoczko: The geometry of musical chords - Google Scholar](https://scholar.google.com/scholar_lookup?title=The+geometry+of+musical+chords&author=Dmitri+Tymoczko&year=2006&doi=10.1126/science.1126287&pmid=16825563&publisher=American+Association+for+the+Advancement+of+Science&journal=Science&volume=313&issue=5783&pages=72-74&hl=en)
+- 对于我目前减肥有指导意义的是，关于通过不吃碳水化合物减肥对健康的影响。
+- [Nordmann: Effects of low-carbohydrate vs low-fat... - Google Scholar](https://scholar.google.com/scholar_lookup?title=Effects+of+low-carbohydrate+vs+low-fat+diets+on+weight+loss+and+cardiovascular+risk+factors:+a+meta-analysis+of+randomized+controlled+trials&author=Alain+J+Nordmann&author=Abigail+Nordmann&author=Matthias+Briel&author=Ulrich+Keller&year=2006&doi=10.1001/archinte.166.3.285&publisher=American+Medical+Association&journal=Archives+of+internal+medicine&volume=166&issue=3&pages=285-293&hl=en)
+- 是不是很棒啊，那还等什么，快点下载，学起来。

@@ -1,0 +1,70 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[March 23rd, 2021]]
+- Hello again Roamans,
+First, a sincere thank you to everyone who lets LFR occupy some space in your inbox. I always enjoy putting it together, but the best part is getting your responses and recommendations. I can't believe I'm already up to the fifteenth letter. Here’s to many more!
+- # Around the Roaman Empire
+    - ## [[Roam Summit]] on Journaling
+        - This Saturday ([[March 27th, 2021]]) at 3pm GMT (11am ET) [[Jason Griffing]] is hosting another live Roam Summit panel. This time it's all about using Roam for [[journaling]]. I am especially excited as I'm one of the panellists along with the godmother of Roaman journaling [[Tracy Winchell]] and [[Mark McElroy]].
+        - We'll be exploring how to use Roam for personal growth and self-discovery, and showing you how we do it in our own Roam graphs. It's going to be a lot of fun.
+        - Join in on YouTube here: https://www.youtube.com/watch?v=U0y-0CprHao
+            - {{[[video]]: https://www.youtube.com/watch?v=U0y-0CprHao}}
+        - For more information about the upcoming session or any of the past summits you can go to [roamsummit.com](http://roamsummit.com/)
+    - ## Phone home to Roam
+        - Getting information into Roam quickly isn't its strong point. The mobile quick capture is basic at best. PhoneToRoam is a promising starting point to being able to just text stuff straight into your Roam graph. You can find out more at [phonetoroam.com](phonetoroam.com).
+            - https://twitter.com/phonetoroam/status/1371886454687813634?s=12 #[[LFR/Letter XV]]
+    - ## How to teach Roam to your loved ones
+        - Despite the title, [[Marc Koenig]] definitely __doesn't__ "mansplain" how to use Roam to his wife in this fun video where he shows her the basics of Roam. You may even learn a thing or two yourself!
+            - {{[[video]]: https://www.youtube.com/watch?v=sBhd_zmWXp4}}
+            - https://twitter.com/MarcKoenig_/status/1372994139059580932?s=20 #[[LFR/Letter XV]]
+    - ## Roam Fitness
+        - Tom Bielecki is in the process of creating an amazing fitness resource in Roam as a community resource but he needs some help. He's looking for a few people, ideally with both Roam and fitness experience to help build it out. If you're interested you can DM him on Twitter. You can find out more in [this thread](https://twitter.com/tombielecki/status/1371955763204157444).
+            - https://twitter.com/tombielecki/status/1371955763204157444?s=12 #[[LFR/Letter XV]]
+    - ## Don't forget to Floss
+        - [[David Vargas]] reveals his Floss "master plan" for helping to fund open source work, which is a really cool model, especially as it pertains to adding functionality to Roam.
+            - Check out his [short Loom video](https://www.loom.com/share/da4eacd80bf44cd9aa03caf64c1ca931) where he showcases how it works on [RoamJS.com](https://roamjs.com)
+                - {{[[video]]: https://www.loom.com/share/da4eacd80bf44cd9aa03caf64c1ca931}}
+                - https://twitter.com/dvargas92495/status/1371850970146209799?s=12 #[[LFR/Letter XV]]
+        - And just yesterday he announced two new services, with more to come, which will enable you to schedule content for publishing later as well as publishing pages as a static website. Find out more at [roamjs.com/services](https://roamjs.com/services)
+            - https://twitter.com/dvargas92495/status/1374107559146225672?s=20 #[[LFR/Letter XV]]
+    - ## #[[Roam Games]]
+        - The latest Roam Game as announced by [[Conor White-Sullivan]] is an idea he sketches out in [this Twitter thread](https://twitter.com/conaw/status/1371019347355783173) to build end-to-end encryption in Roam as a roamjs plugin. If you can build or iterate on it then Roam will award $10,000 to whoever pushes the idea the furthest.
+            - https://twitter.com/conaw/status/1371019347355783173?s=12 #[[LFR/Letter XV]]
+        - In the same thread, he also mentions that we can expect the first version of the long-awaited RoamDepot -- the official plugin marketplace for Roam plugins, themes, etc -- within a week or so. As this letter goes out, there's no word yet!
+        - ## [[Roam Book Club]] 4
+            - Roam Book Club 3 is over, but if you’re already having withdrawal symptoms or you had a bad case of FOMO then don’t worry, Roam Book Club 4 will be starting again after Easter on the weekend of April 10/11th. [[Beau Haan]] and [[Matt Brockwell]] are both back to lead the groups with new meeting times so that it'll be possible to attend both! You can [get on the waitlist](https://roamresearch.typeform.com/to/adiOzQqR) now.
+- # Roaman Spotlight
+    - I was introduced to my next spotlighted Roaman by [[Dickie Bush]] and after sharing his 100 Roam Tips in [[LFR/Letter XIII]] it was clear from the feedback I got that Marc is a rising Roaman star and worth keeping an eye on.
+    - [[What do you use Roam for?]]
+        - I think of Roam in terms of 3 buckets: Input, Processing, and Action.
+        - Many who are excited about Roam emphasize ACTIVE information Processing - using Morning Pages to process your emotional landscape, Zettelkasten to cultivate intellectual curiosity, Progressive Summarization to articulate those ideas clearly. This makes sense to me, because the connecting dots between ideas is Roam's clearest value proposition.
+        - However, I've found that Roam's so incredibly good at PASSIVE Processing that I end up spending most of my time collecting Inputs - interesting ideas from the world - and generating Outputs - writing articles, video scripts, and getting things done.
+        - My Roam graph is set up in such a way that the connecting phase - the Processing - happens almost without effort through the tags and database itself. This puts me at about 50% task management & writing, 40% collecting inputs (Twitter→Readwise→Roam, tracking the day, capturing writing ideas), and ~10% dedicated to active processing, which mostly happens in direct support of making something new. But everyone's ideal mix will vary!
+    - [[What has Roam taught you?]]
+        - Roam has taught me the incredible value of compounding thought. Instead of re-generating thoughts every time you're called to do so, you can "cache" and remix your existing thoughts, observations, and others' to be able to be more creative, faster, more consistently.
+        - The ability to compress and search through your best thinking is something I wish I'd started on 10 years ago. But the next best time to start was today!
+    - [[What attracted you to Roam?]]
+        - The ease of getting started. You can just start typing bullets and connecting thoughts through page links. And if it's not interesting or relevant, a page fades out of your "short-term" memory - instead of congesting your folders, or filling your mental "desktop" with icons, like so many of our workspaces. The best thoughts get linked repeatedly, then grow and develop organically.
+        - There's a place for many other tools for thinking - and I've tried Evernote, Notion, Simplenote Google Docs/Sheets and other organizational frameworks in the past - but Roam's the one that most closely mirrors the way I think, while allowing me to build intricate thought palaces that are more expansive than what I can naturally self-generate.
+    - [[What’s your favourite feature of Roam?]]
+        - Linked and Unlinked References probably take the cake. It's a delight to re-discover and surprise yourself with thoughts you've either had or collected on a topic, but didn't remember until you return to converse with your old self.
+        - Bullet references and embeds were probably the earliest "magic moment" for me - similar to being able to reference another cell in a spreadsheet, but for thoughts. So wonderful.
+    - [[What do you hope to see in the future?]]
+        - I'm hoping for more formalization and support of the 3rd party ecosystem that's developed around Roam - a clear way to highlight and reward these creators, while integrating their best inventions into Roam Vanilla once their value propositions are proven out. Right now it's a whisper network on Twitter. The 3rd party ecosystem strongly reminds me of the gaming ecosystem - 90% of the best innovations in the last decade or so (MOBAs, Battle Royales, Autobrawlers) came from community modifications of the game modes, not developers themselves. The game devs then formalize the best mods and turn them into mega-franchises.
+        - Additionally, I'm hoping that there's a long-term support of better aesthetic flourishes in Vanilla Roam. Being able to modify page widths without CSS is a huge sign we're moving in the right direction. Roam's ability (or inability) to have an intuitive and visually-pleasing UI, as well as the ability to structure and transform data easily will be the difference between it being an incredible hobbyist/cult/academic tool for thinking and a mass medium of intellectual exploration for all kinds of adventurers.
+        - I'm optimistic!
+    - [[Tell us one interesting thing about you]]
+        - I was an executive producer for the video game Fornite's for their first 2 years of official esports competitions. The startup I worked at as an early employee (#6) ended up taking over the video production side of the North American esports market almost entirely. We sold the company in late 2019, but it was a wild ride - at one point, we ran a 27-million unique participant (!!) tournament over the course of 2 weeks.
+    - To learn more, you can find Marc [on Twitter](https://twitter.com/MarcKoenig_) or via his growing [YouTube channel](https://www.youtube.com/c/MarcKoenig/) where he's already approaching 2,000 subscribers. Finally, Marc also told me that he's planning to release a "30 days of Roam" free video series. If you want to get early access, you can sign up on his website [marckoenig.com](http://marckoenig.com/).
+- # Thinking Out Loud
+    - I've been pondering the past few months (as have some others) a slightly controversial topic: our use of the #roamcult hashtag.
+    - As [[Kahlil Corazo]] [succinctly put](https://twitter.com/Roamfu/status/1356887587848261633):
+        - > No cult calls itself a cult. So #roamcult is ironically very consciously not a cult.
+    - But, while it is tongue-in-cheek to those who know, it's hard to overcome the weight of history and the negative connotations of the word which people find off-putting. Indeed, even being "in the know" starts to create an in-group and an out-group.
+    - It can be tiresome to us in the community having to explain repeatedly it's not a cult and it's just ironic. How many more are simply turned off, do not try the tool or engage? Given Roam's goal of collaborative reasoning, it makes sense to me to try to be more inclusive and welcoming, not less.
+    - Polarisation can be great for marketing but is it also to its own detriment in the long term?
+    - As afficionados of Roam, we want to signal-boost each other and the tool itself so it makes sense to have a shared hashtag to raise awareness, but what are the alternatives?
+    - Here are a few suggestions I've seen mooted so far: `#roaman`, `#roamans`, `#roamani`, `#roamculture` and `#astrolabe`.
+    - I am personally partial to #roamculture, at the cost of three extra letters (which is an issue on Twitter), I think it is more expansive and more accurately conveys the community intent while still paying homage to the original #roamcult.
+    - While I came for the tool, I stay because of the community. The power is in people coming together in shared graphs to further our collective knowledge __and__ make new connections of both knowledge and friendship. Let's not find reasons to cause us to exclude people, even accidentally, instead let's strive for more diversity and inclusion.
+    - Together perhaps we can find and popularise an alternative hashtag that elevates us and shows the world a better way to come together and build a better world. What's your take?

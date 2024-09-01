@@ -1,0 +1,44 @@
+- {{[[roam/js]]}}
+    - ```javascript
+var installScript = name => {
+  var existing = document.getElementById(name);
+  if (existing) {
+    return;
+  }  
+  var extension = document.createElement("script");      
+  extension.type = "text/javascript";
+  extension.src = `https://roamjs.com/${name}.js`;
+  extension.async = true;
+  extension.id = name;
+  document.getElementsByTagName("head")[0].appendChild(extension);
+};
+installScript("alert");
+installScript("article");
+installScript("attr-tables");
+installScript("charts");
+installScript("emojis");
+installScript("filter-embeds");
+installScript("giphy");
+installScript("github");
+installScript("google-calendar");
+installScript("hex-color-preview");
+installScript("image-tagging");
+installScript("maps");
+installScript("mindmap");
+installScript("mobile-todos");
+installScript("mouseless");
+installScript("oura-ring");
+installScript("page-synonyms");
+installScript("presentation");
+installScript("pull-references");
+installScript("query-builder");
+installScript("query-tools");
+installScript("sort-references");
+installScript("tag-cycle");
+installScript("tally");
+installScript("todo-trigger");
+installScript("todont");
+installScript("twitter");
+installScript("wiki-data");
+installScript("wysiwyg-mode");
+```

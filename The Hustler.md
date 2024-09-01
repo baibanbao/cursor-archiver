@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTAwNGNlYWEtNDJlOC00NTE5LWJjNmQtMjExZDU2NDUyZTFlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Robert Rossen]]
+        - Writer:: [[Sidney Carroll]] [[Robert Rossen]] [[Walter Tevis]]
+        - Cast:: [[Paul Newman]] [[Jackie Gleason]] [[Piper Laurie]]
+        - Year:: [[1961]]
+        - Genre:: #Drama #Sport
+    - **IMDb:** https://www.imdb.com/title/tt0054997
+    - **Plot Summary:** An up-and-coming pool player plays a long-time champion in a single high-stakes match.

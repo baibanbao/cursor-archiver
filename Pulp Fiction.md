@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Quentin Tarantino]]
+        - Writer:: [[Quentin Tarantino]] [[Roger Avary]]
+        - Cast:: [[John Travolta]] [[Uma Thurman]] [[Samuel L. Jackson]]
+        - Year:: [[1994]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0110912
+    - **Plot Summary:** The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F-ZdNlU1z5A.pdf?alt=media&token=3aeff025-6240-4270-8f94-f0417948f0ff}}

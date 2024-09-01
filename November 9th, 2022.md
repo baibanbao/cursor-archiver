@@ -1,0 +1,42 @@
+- [[todos123]]
+    - {{[[TODO]]}} 13:25 52 藍佩嘉最後重申美國心理學家高普尼克（Alison Gopnik）所說：「當一個好父母，並非把小孩變成聰明、快樂或成功的大人，而是養出一個健康、適應力強、有彈性的孩子，去面對難以預料卻必須面對的未來世界。」
+- #[[Prayers&Answers]]
+    - Date: [[November 9th, 2022]] 12:15
+        - 赞美感谢
+            - 感恩主的护理，让#[[Jonas]]可以重返校园
+            - 感谢主的恩典，让[[郭联秦]]姊妹可以顺利归来
+            - 感谢主启示了真理
+        - 认罪悔改
+            - 为自己不信靠主
+            - 为自己动怒
+            - 为自己的小信
+            - 为自己没有追求真理
+            - 为情绪的暴躁
+        - 祈求
+            - 为[[派派]]祷告，求主保佑她
+            - 继续为[[岳父]]祷告
+            - 为#[[Seven]]祷告
+            - 为自己祷告
+                - 为了自己的工作
+                - 为自己改掉虎头蛇尾
+                - 为了尽忠而祷告
+            - 为[[采铜]]老师祷告，尽管他得罪了我，但我依然祝福他
+        - Tongues
+            - Set a Pomodoro
+            - {{[[POMO]]: 5}}
+- [[Gratitude]]
+- [[Day Start]] 12:14
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [江青：与美国作家维特克谈《武训传》](https://web.archive.org/web/20090531170228/http://www.wyzxsx.com/Article/Class14/200710/25826.html)
+    - [蓝佩嘉 | 做父母、做阶级：亲职叙事、教养实作与阶级不平等 | 自由微信 | FreeWeChat](https://freewechat.com/a/MzUzODI3NjAxMA==/2247508109/1)
+    - [(7) Yitang Zhang Landau-Siegel Zeros Conjecture | 西格尔零点猜想 | 张益唐 | Partial results of Riemann Hypothesis - YouTube](https://www.youtube.com/watch?v=LIPDXWlHQ6Y) #高数
+        - [柯西-施瓦茨不等式 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%9F%AF%E8%A5%BF-%E6%96%BD%E7%93%A6%E8%8C%A8%E4%B8%8D%E7%AD%89%E5%BC%8F)
+- ---

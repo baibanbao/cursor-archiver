@@ -1,0 +1,16 @@
+---
+title: 如何建立自动快捷拷贝
+tags: 
+  - MacOs
+  - Geek
+  - Forget-Me-Not
+---
+
+1. 首先打开自动操作 automator
+2. 选择- 工作流程
+  [![2021-09-02-1-33-57.png](https://i.postimg.cc/QXcBj4fQ/2021-09-02-1-33-57.png)](https://postimg.cc/5HTM98tW)
+
+3. 下一个操作是
+4. 最后是运行
+5. 存储成程序。
+

@@ -1,0 +1,3 @@
+﻿for file in *.txt; do mv "$file" "${file%.txt}.md"; done
+
+[How to Change File Extensions of Files via Command Line in Mac OS](https://osxdaily.com/2017/05/12/change-all-file-extensions-command-line/)

@@ -1,0 +1,23 @@
+- 一切都是自实现的预言
+- [[Gratitude]]
+- [[Day Start]] 04:46
+- Daily Tasks
+    - {{[[TODO]]}} 送#[[Jonas]]上学
+    - {{[[TODO]]}} 录制两句半，4点到办公室
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Heptabase Public Wiki | Heptabase Public Wiki](https://wiki.heptabase.com/)
+    - [Posts](https://www.nazha.co/)
+    - [LLM Visualization](https://bbycroft.net/llm)
+    - [中国煤矿工人的心酸故事：在悲剧中求生存](https://www.voachinese.com/a/tragedy-of-china-coalmines-20231209/7391285.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it)
+    - [maoxiaoke/setup-a-mac-for-frontend-dev: How I setup a Mac, with lots of productivity tools, step-by-step guide](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
+    - [Use Stage Manager on Mac - Apple Support (PH)](https://support.apple.com/en-ph/102355)
+    -  [Purchase Shottr – Screenshot Annotation App For Mac](https://shottr.cc/purchase.html)
+    - [2023年，我为什么重新开始写博客 - 𝕃𝕖𝕠𝕏 ▪︎ 🐈](http://hilll.net/archives/1)
+    - 
+- ---

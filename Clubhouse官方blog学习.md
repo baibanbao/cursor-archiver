@@ -1,0 +1,31 @@
+- clubhouse官方blog
+- **第一篇**
+    - 网址 https://www.joinclubhouse.com/check-1-2-3
+- clubhouse是个什么地方
+    - It’s a place to meet with friends and with new people around the world—to tell stories, ask questions, debate, learn, and have impromptu conversations on thousands of different topics.
+    - 纯声音社交的好处
+        - 不用眼神交流，不用在乎穿什么，不用在乎在哪里，交通，母乳也可以用
+        - 声音自带魔力，能够化解人与人之间的干戈，带来共情
+        - 是一个让人感觉变得更好的地方
+            - People seem to be coming back because it’s a place where they can talk for hours at a time and leave each day feeling better rather than worse, because they’ve deepened friendships, built new ones, and learned something new.
+- 为什么不急于扩大
+    - 缓慢增长
+    - 全职员工只有两个，还有四个孩子跳来跳去
+    - 创始人 Paul and Rohan
+- **第二篇**
+- 网址：https://www.joinclubhouse.com/on-community-moderation
+    - 共情、讨论、讲理，反极端化
+        - Our hope for Clubhouse is that it can be a new type of network based on empathy, discussion and sensemaking, 
+    - club规则自己制定
+    - 伟大的moderator造就伟大的房间
+    - 建立自己的房间，深化友谊、认识新朋友、开展有意义的对话
+- **第三篇**
+- 网址 https://www.joinclubhouse.com/welcoming-more-voices
+    - 真诚说明软件来由，帮助rohan的女儿
+    - 创始于2020年3月
+    - 愿景：大家离开这个app时，感觉比进来时更好
+    - 深化友情，结识新朋友、学习新知识
+    - 基因罕见病的患者前来分享知识
+        - Each week, parents of children with genetic diseases gather in Clubhouse to discuss medical developments with doctors, researchers and other parents—talking, debating and learning.
+    - 安卓版正在开发中
+    - 鼓励创作者计划：打赏、订阅功能正在开发中

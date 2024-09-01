@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Frank Darabont]]
+        - Writer:: [[Stephen King]] [[Frank Darabont]]
+        - Cast:: [[Tim Robbins]] [[Morgan Freeman]] [[Bob Gunton]]
+        - Year:: [[1994]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0111161
+    - **Plot Summary:** Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fy8V4oaSW8b.pdf?alt=media&token=7955d883-359b-480c-a492-9d7343ebb8a4}}

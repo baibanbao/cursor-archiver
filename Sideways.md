@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU0Mjg3MzkxOV5BMl5BanBnXkFtZTYwNDU1OTY3._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alexander Payne]]
+        - Writer:: [[Rex Pickett]] [[Alexander Payne]] [[Jim Taylor]]
+        - Cast:: [[Paul Giamatti]] [[Thomas Haden Church]] [[Virginia Madsen]]
+        - Year:: [[2004]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0375063
+    - **Plot Summary:** Two men reaching middle age with not much to show but disappointment embark on a week-long road trip through California's wine country, just as one is about to take a trip down the aisle.

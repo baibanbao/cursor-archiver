@@ -1,0 +1,19 @@
+十分汗颜，尽管在网上已经浸淫了这么多年，但是在对于文档、创作的管理方面，还比不上一个小姑娘。
+
+这个小姑娘叫爱闪闪，她的博客文章不多，但是常给人启发。
+
+[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 | ishanshan's blog](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards)
+
+当然，目前为止对我影响最大的是她的哪篇关于workflowy的文章：[卡片助力输入输出，工具我选 WorkFlowy | ishanshan's blog](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)
+
+她有一个办法，我觉得还不错，就借鉴一下。
+
+那就是以周为单位管理自己的写作，或者时髦一点叫输出。
+
+先要查到本周是一年中第几周：[Week Numbers for 2019](https://www.epochconverter.com/weeks/2019)
+
+然后建立一个markdown文档，把一周要写的都放进来。
+
+然后一项项消灭，写出来。
+
+我这就试试吧。

@@ -1,0 +1,18 @@
+﻿mkdir /etc/isso.d/enabled/ && cd /etc/isso.d/enabled/
+sudo nano isso.conf
+
+[general]
+dbpath = /var/lib/isso/comments.db
+host =
+        http://haozhongwen.com/
+        https://haozhongwen.com/
+
+[server]
+listen = http://localhost:8090/
+
+[moderation]
+enabled = false
+
+
+[moderation]
+enabled = false

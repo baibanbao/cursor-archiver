@@ -1,0 +1,286 @@
+王佩:I need build up my knowledge base.
+王佩:from 0 to 1
+Zooꪔ.ོQuiꫀt Ӫ:but in fact git is one kinds of FS...
+and for self, not need know all git commands
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I need build up my knowledge base. 」
+- - - - - - - - - - - - - - -
+「 王佩: from 0 to 1 」
+- - - - - - - - - - - - - - -
+Hummmm....
+the mini Personal Knowledage Base :
+0: easy imput interface
+1: multi screen interface
+2: tree/flods/tag/... multi managememt support
+3: suto backup
+4: quick searching suport
+5: open API
+6: easy export other format
+7: ...
+
+that is not easy bulid by self
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I know nothing. 」
+- - - - - - - - - - - - - - -
+i recommand: 如何有效整理信息 (豆瓣) 
+    https://book.douban.com/subject/27131763/
+for u base paper+pen is best system.
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I have my personal NAS, but don't have the system of knowledge management tool 」
+- - - - - - - - - - - - - - -
+not need, JD/taobao there is soooooo many full products in sale
+buy and run is over
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I have my personal NAS, but don't have the system of knowledge management tool 」
+- - - - - - - - - - - - - - -
+but for normal people
+buy cloud srervice is better than self administrat on home NAS,
+because u need one good personal storage space,
+not one huge system administration playground.
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: workflow.com is not the right tool though aishanshan loves it so much. 」
+- - - - - - - - - - - - - - -
+Sayeahooo ;-)
+workflow/Dynalist/... is just list tools
+just help people list need list short work items;
+of course not PKB (Personal Knowledge Base)
+Zooꪔ.ོQuiꫀt Ӫ:#PKB
+~ is not the magic,
+in fact every one hold one PKB:
+u personal table/bookcase or book room/...
+so build one goo PKB, need define:
+Personal
+Konwledge
+Base
+the three soooo deferent things
+- P ~ private, flow u graw, always changing
+- K ~ just the upgrading forever learn action mould, not the book/paper/blog/... all kinds of K's export format
+- B ~ like cache, just as temporarily memary out u body, help we learnning in long time for one topic.
+
+IMHO:
+PKB is good things, but the good is not what mae up it,
+just right now u can usage it in u comfortably way.
+help u focus learnning , not how to manag the "Knowledge" into the "right where";
+Yes, the knowledge right storage place, alwasy and forever is us brain.
+王佩:醍醐灌顶
+王佩:对我来说，最重要的是one place for all
+王佩:我需要统一自己的大脑
+Zooꪔ.ོQuiꫀt Ӫ:是也乎,(￣▽￣)
+所以, 一个唯一的, 统一的随身笔记本就已经解决了所有问题
+王佩:In making money, or in worshiping God, or in doing anything, the stronger the power of concentration, the better will that thing be done…In the present state of our body we are so much distracted, and the mind is frittering away its energies upon a hundred sorts of things.
+Zooꪔ.ོQuiꫀt Ӫ:「 Zooꪔ.ོQuiꫀt Ӫ: 「 王佩: I know nothing. 」
+- - - - - - - - - - - - - - -
+i recommand: 如何有效整理信息 (豆瓣) 
+    https://book.douban.com/subject/27131763/
+for u base paper+pen is best system. 」
+- - - - - - - - - - - - - - -
+这位日本人, 坚持了20多年, 一元笔记管理法,
+发现, 至今依然强过所有其它电子方法
+Zooꪔ.ོQuiꫀt Ӫ:如果一定要增强, 俺感觉嘦追加:
+0: 微型热敏感打印机
+1: 配合手机拍照, 随时打印出来
+就可以贴到笔记中, 形成统一记录了....
+
+没有 google 搜索, 人类已经基于书页搜索了几千年,
+没有任何问题
+Zooꪔ.ོQuiꫀt Ӫ:反而是 搜索引擎 发布后, 
+大家的自学能力在持续下降
+王佩:被你说中了。
+王佩:我上次搞的那个 date + description 目录系统，以失败和混乱而告终
+王佩:最终还是2018-11-10-new-video-new-newest 的形式
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 我上次搞的那个 date + description 目录系统，以失败和混乱而告终 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+必须的, 因为任何电子管理形式, 都将随着资料的增加导致管理成本指数增加...
+而俺恢复一元笔记后, 发现文具结合书写, 
+的确比输入法, 多了一组记忆 锚点,
+焦虑也少了...
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 写的少了，人就白痴了。 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+handwrite better type
+至少在中文是这样....
+王佩:中文绝对是靠书写来加深加强表达的
+Zooꪔ.ོQuiꫀt Ӫ:老祖宗无意中完成的最佳设计
+Zooꪔ.ོQuiꫀt Ӫ:「 Zooꪔ.ོQuiꫀt Ӫ: 「 Zooꪔ.ོQuiꫀt Ӫ: 「 王佩: I know nothing. 」
+- - - - - - - - - - - - - - -
+i recommand: 如何有效整理信息 (豆瓣) 
+    https://book.douban.com/subject/27131763/
+for u base paper+pen is best system. 」
+- - - - - - - - - - - - - - -
+这位日本人, 坚持了20多年, 一元笔记管理法,
+发现, 至今依然强过所有其它电子方法 」
+- - - - - - - - - - - - - - -
+所以, 作者也分享了很多纸上索引的方法...
+并不复杂, 简单到难以想象...
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 你为甚么要贴电影票 」
+- - - - - - - - - - - - - - -
+如何有效整理信息 (豆瓣) 
+    https://book.douban.com/subject/27131763/
+[日] 奥野宣之 的笔记法...
+将日常一切有冲动想记录的都记录下来,
+无论行为/感想/笔记/宣传页/电影票/....
+都可以统一收集下来, 
+这样可以 为任何一种想法, 构造出更多的回忆 锚点,
+以及连带的额外思考...
+
+这书有电子版本, 快速刷一下, 你就知道为什么这么作,
+以及具体的工具配合了
+王佩:如非必需，勿增实体
+王佩:这本书只要看目录就够了
+王佩:这也是所有非虚构自助书的特点
+王佩:一页A4就能讲透
+王佩:之所以要出书，是因为作者要糊口。
+Zooꪔ.ོQuiꫀt Ӫ:日本人图书的通病....可能为了稿费, 总是夹杂太多小确幸的故事.....
+Zooꪔ.ོQuiꫀt Ӫ:不过, 慢慢也发现, 这其实才是技术图书正确的姿势....
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 是啊，原则1p， 199p，都是例子和情怀。 」
+- - - - - - - - - - - - - - -
+「 王佩: love me love my examples 」
+- - - - - - - - - - - - - - -
+问题在, 如果没有 199p 的故事,
+读者根本没有假想训练的过程,
+是无法认同或是接受作者经验的....
+这也是为什么中国人的口号设计的异常 NB 的原因....
+只能在 1p 中制造绝对的感动
+王佩:为了199p，例子，值得掏钱。
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 代你读所有noffiction 」
+- - - - - - - - - - - - - - -
+「 王佩: 年订阅费500 rmb 」
+- - - - - - - - - - - - - - -
+「 王佩: 所以，这么干也对。 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+其实, 领导人们每天看的都是节略哪...
+这也是为什么官僚体系这么有力量的原因
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 为了199p，例子，值得掏钱。 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+因为这是分辨真假的一个重要参数...
+纯粹忽悠的, 就完全在心灵层面进行推导, 
+中间默默替换了什么概念, 是无从分辨的...
+王佩:这就是为什么老干部退休职工都喜欢看《报刊文摘》，有一种内参的代入感。
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 最好的pkb，就是忘掉pkb 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+和上贤嗯哼的教化一样,
+形成知识点收集/处理/记录/使用/再创作/...
+的睡觉习惯就好...
+至于在什么载体上, 那就各师各法了...
+Zooꪔ.ོQuiꫀt Ӫ:只是, 要想从头设计出一个完美的 PKB 那是不可能的:
+- 不一定有稳定的私人行为空间
+- 不一定有明确的知识点倾向
+- 不一定有具体的使用场景
+- 不一定有真实的动机
+- ...
+
+在一切不一定时, 只有自然训练/生长起来的才是嗯哼的
+王佩:忽然想到，笔记是上帝送给东方人的礼物
+王佩:只有汉字和汉字的亲戚才适合书写
+王佩:西文离开打字机没法过
+Zooꪔ.ོQuiꫀt Ӫ:是也乎,(￣▽￣)
+旅行中一冲动收集起来的嗯哼
+以往都准备分门别类精心收集起来的吧....
+但是, 自然没有了然后
+因为, 超过5种以上容器后就不得不....
+Zooꪔ.ོQuiꫀt Ӫ:所以, 统一到单一界面了,
+反而有越来越有趣的处理方式
+Zooꪔ.ོQuiꫀt Ӫ:又不象手帐那样, 必须越来越花, 随时可以拍照发布....
+只是一元笔记...
+就真心可以专心随手来了.....
+王佩:这个能拯救我所有过往的笔记和卡片
+王佩:大玩具箱的比喻也是神谕
+王佩:我忽然想到了osx 最新的桌面系统
+王佩:就是鼓励大家扔到桌面上
+王佩:什么文件命名系统，都是增加熵的
+Zooꪔ.ོQuiꫀt Ӫ:发现 微信 的服务群的确比 Slack 强...
+130+km/h 的高鉄上
+zoom.us/微信 都稳定
+Slack 根本不嗯哼
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 什么文件命名系统，都是增加熵的 」
+- - - - - - - - - - - - - - -
+是也乎,(￣▽￣)
+只是从混乱熵变成有序熵....
+Zooꪔ.ོQuiꫀt Ӫ:但是, 毕竟也是工具....
+一但习惯, 价值越来越大...
+Zooꪔ.ོQuiꫀt Ӫ:一元笔记中, 其实也有类似的约定:
+0: 无论什么情景中的嗯哼, 都一定要有固定位置/格式的时间戳
+1: 合理的留空白, 以便增补
+Zooꪔ.ོQuiꫀt Ӫ:擅长作快递记录/索引/搜索的多屏应用
+就作应该作的....
+主要的输出/入, 还是纸+笔最嗯哼了
+Zooꪔ.ོQuiꫀt Ӫ:关键, 这就有足够正义的理由
+不断尝试新的笔和本子....
+慢慢, 也就发现并体验到这方面的匠心....
+
+实在非常非常舒服, 有的组合
+Zooꪔ.ོQuiꫀt Ӫ:如何有效整理信息 (豆瓣) 
+    https://book.douban.com/subject/27131763/
+
+附录中推荐的文具, 有的真的是畅销几十年, 
+但是, 中国从来不出名....
+Zooꪔ.ོQuiꫀt Ӫ:这样微信中有感觉的随时都可以打印并拼贴起来
+Zooꪔ.ོQuiꫀt Ӫ:之前以为电子化后, 可以随时方便苒使用....
+现实反复教育俺....
+其实第一时间能用上的, 都是记忆
+Zooꪔ.ོQuiꫀt Ӫ:其实, 先贴到 备忘录中
+然后打印, 就可以附加上更多嗯哼了...
+Apple 备忘录是一个一直被轻视的伟大软件
+王佩:体会到笔记的好处。昨晚规划今天出门，把换乘地铁的线路手写，今天不用看备忘录，也坐对了
+Zooꪔ.ོQuiꫀt Ӫ:是也乎,(￣▽￣)
+而且不怕没电....
+少了很多心智压力
+Zooꪔ.ོQuiꫀt Ӫ:所以, 俺习惯到哪个城市买个最新版本的地图
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 心智的力量无限 」
+- - - - - - - - - - - - - - -
+无限, 但是, 输出功率有限
+不能浪费到无聊的方向
+王佩:我所有的个知精华内容都在screenshot 里
+Zooꪔ.ོQuiꫀt Ӫ:也有这种感觉
+王佩:因为截屏用的最多
+王佩:相反储存的图片用的反而不多
+王佩:说明大玩具箱的重要性
+王佩:甚至在截屏里发现了商机
+Zooꪔ.ོQuiꫀt Ӫ:现实拍摄也是截屏了
+Zooꪔ.ོQuiꫀt Ӫ:对真实世界的截屏…
+王佩:多少爱恨情仇，尽在截屏之中
+Zooꪔ.ོQuiꫀt Ӫ:配合喵喵机才能立即多种操作拼贴…
+存在电子产品中…反而再看的几率变小了
+Zooꪔ.ོQuiꫀt Ӫ:可惜…邮局 痿痹 …电邮消亡…
+想写信交流…都无力重建了…
+王佩:截屏，桌面，都是mac os 精华
+Zooꪔ.ོQuiꫀt Ӫ:第一触动点… win10 SB 到至今学都没学会…
+Zooꪔ.ོQuiꫀt Ӫ:每天桌面截屏至少上百张…
+Zooꪔ.ོQuiꫀt Ӫ:都推到各种群中了~
+王佩:这么说苹果的备忘录是同样思路开发的
+王佩:都是孩子的大玩具箱
+王佩:随便堆
+王佩:但总能找到
+Zooꪔ.ོQuiꫀt Ӫ:只是依赖内置 search 关闭了就难找了…
+Zooꪔ.ོQuiꫀt Ӫ:无法同意更多……
+(●—●)
+Zooꪔ.ོQuiꫀt Ӫ:是也乎 ╮(╯▽╰)╭
+
+备忘录是官方着力点之一…从未放弃…
+王佩:我觉得太忽略它了
+王佩:要知道笔记软件都是按年收租
+王佩:480起
+Zooꪔ.ོQuiꫀt Ӫ:而且不一定支持跨屏…
+而备忘录自动同步…
+王佩:你们收租的，原来苹果原生都有
+Zooꪔ.ོQuiꫀt Ӫ:画画也没问题…
+Zooꪔ.ོQuiꫀt Ӫ:但其它的当然没官方作的好啊…接口优先级就不同…
+Zooꪔ.ོQuiꫀt Ӫ:简单说 Apple 备忘录≈
+传统备忘录
++dropbox
++绘图板
++私人wiki
++quip
++todo list
++.....超过二十种专用软件核心功能
+王佩:互联网之子 艾伦·施瓦茨，遗落的智慧--
+
+1.5x或2x倍速看视频
+如果你在看课程讲座的视频，最好是调到1.5x或2x倍速快进。这很容易做到，只要你下载好视频，然后使用播放器（如VLC）的“调速”功能。我用这法子两天内看完了一学期的课程视频。如果你在读一本书，我建议你不要花时间去高亮文本。这样只会让你的知识理解停留在低层次，而从长远来看，也使学习效率低下。更好的方法是，阅读时只偶尔做做笔记，或在读过每个主要章节后写一段落的总结。
+王佩:用script把evernote都迁移到了note上
+王佩:又找到一个ulysses迁移note的好方法
+王佩:在ulysses中建一个external folder
+
+然后把所有笔记都copy过去
+
+再看folder里，都变成了纯文本文件。
+王佩:这是ulysses的不传之秘。

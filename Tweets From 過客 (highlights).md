@@ -1,0 +1,7 @@
+- Author:: [[@Utterlysinner on Twitter]]
+- Full Title:: Tweets From 過客
+- URL:: https://twitter.com/Utterlysinner
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 姑姑家的妹妹给我发一中国人讲道视频，快进听了一点，毫无意外儒释道等中国杂糅的，和福音毫无关系，当然也正常，她是三自教会第二代“基督徒”，算命星座风水易经齐聚的中国基督徒，我已经放弃说什么了，尊重她的选择，礼貌的回绝，任凭她去歌颂中国文化，她比较契合王志勇的思想，中国文化点缀一点基督 ([View Tweet](https://twitter.com/Utterlysinner/status/1730765993230967148))

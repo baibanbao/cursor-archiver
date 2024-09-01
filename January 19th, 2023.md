@@ -1,0 +1,29 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Date: [[January 19th, 2023]] 11:53
+            - 赞美感谢
+                - [[岳父]]转阴
+                - 心区不适近乎消失
+            - 认罪悔改
+                - 为自己不遵守十诫
+                - 为自己的心思意念不放在正处
+            - 祈求
+                - 求主挽救[[邵风华]]的性命
+                - 为[[孙瑶]]的舅舅祷告
+                - 为好中文推出新课程祷告
+                - 为编剧故事营推出新一期祷告
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 11:52
+- Daily Tasks
+    - {{[[TODO]]}} 参加[[郭庆祝]]晚宴
+    - {{[[TODO]]}} 开始读大部头
+    - {{[[TODO]]}} 学习写文章
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John G. Avildsen]]
+        - Writer:: [[Sylvester Stallone]]
+        - Cast:: [[Sylvester Stallone]] [[Talia Shire]] [[Burt Young]]
+        - Year:: [[1976]]
+        - Genre:: #Drama #Sport
+    - **IMDb:** https://www.imdb.com/title/tt0075148
+    - **Plot Summary:** A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.

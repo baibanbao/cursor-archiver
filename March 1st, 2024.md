@@ -1,0 +1,26 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 03:44
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **03:44** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[Sora Camp]]
+- [[写书]]
+- #Finance
+- ---

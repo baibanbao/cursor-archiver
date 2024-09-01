@@ -1,0 +1,327 @@
+- [[Daily Reminder]]
+    - My daily reminder - Am I spiritually and physically heathy? 
+        - {{[[DONE]]}}Do I pray?
+        - {{[[DONE]]}}Do I confess my sins to God?
+        - {{[[TODO]]}}Do I read the Bible?
+        - {{[[DONE]]}}Do I love and care about my inner-circle?
+        - {{[[DONE]]}}Do I care about my middle-circle?
+        - {{[[DONE]]}}Do I care about people in the outer-circle?
+        - {{[[DONE]]}}Do I have self-control?
+        - {{[[DONE]]}}Do I have my job done?
+        - {{[[TODO]]}}Do I earn money or at least save money today?
+        - {{[[TODO]]}}What is my weight today?
+        - {{[[DONE]]}} [[Project Plan]]
+        - {{[[TODO]]}} [[白板报日更]]
+        - {{[[DONE]]}}[[四季青青]]
+        - {{[[TODO]]}}[[编剧故事营]]
+        - {{[[TODO]]}}[[好中文课件]]
+        - {{[[TODO]]}}[[健康]]
+        - {{[[TODO]]}}[[减肥]]
+        - {{[[TODO]]}}[[膝盖复健]]
+        - {{[[TODO]]}}[[Love Seven]]
+        - {{[[DONE]]}}[[Teach Jonas]]
+            - [Lisa Lim](https://twitter.com/allbygrace_)
+                - [@allbygrace_](https://twitter.com/allbygrace_)
+                - Teach your children to pray so when their young hearts are broken and hurting, they can go to God instead of turning to this world. #[[Prayers&Answers]]
+- 四季青青完全可以改成[[西溪湿地]]计划，是否可行，需要用[[非暴力沟通]]与[[谢琦]]老师沟通，并且取得[[肖俊]]的认可。
+    - 因为我在[[西溪湿地]]呆过，拥有大量的资料
+        - 我为什么到现在才想到这个替代方案？应该想办法跟{{alias:[[谢琦]] 谢先生}}联系，告诉他我的新想法，最好让他看到一些成果，而不是我自己的幻觉和妄想。[[Talk is cheap. Show me the code.]]
+    - 可以通过西溪湿地原住居民与新居民的互动，来构造一个super exciting的时代
+- 电脑维修
+    - 预约了[[环贸Apple Store]]的[[天才吧]]维修，时间是 [[July 11th, 2022]] 下午 12:30 
+        - 问题是：[[Macbook Pro M1]]屏幕黑条抖动，怀疑是硬件出了问题。
+            - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fkr5whv-gbh.mp4?alt=media&token=48e054f7-75a6-4ef4-bd57-c90c3c0f589b}}
+            - 应该是显示屏折到一个角度的时候，就出现黑屏问题。这绝对是硬件的问题。
+        - 去之前，需要把电脑的资料备份到[[Time Machine]]
+        - 可以寻找[[电话支持]]
+        - 黑条现象消失，取消了预约 [[July 11th, 2022]]
+    - 拜托[[高宏铭]]把[[梅堰新村]]我的老款MBP帮我快递过来，否则太难过了。但是这样太麻烦人家也不好。
+- [[非暴力沟通]]的应用
+    - 如何抗议办公室里放音响吸烟的那位
+        - 不要当着儿子的面，与人发生冲突
+        - 约[[老路]]一起去说
+        - 明确地表达不满
+        - 通过物业和沈经理表达自己的不满，让[[沈经理]]跟他去说
+            - 不与之直接发生冲突
+        - 第二步，再正面冲突
+        - 第三步，通过办公室，或者报警
+        - 一步一步达到平安的目的，而不是上来就表达不满，发生冲突
+    - 观察::我观察到你每到加班的时间都在放音乐吸烟
+    - 感受::影响到我和[[老路]]的健康，影响到我们的工作
+    - 需要::我们需要一个安静、清洁的环境，哪怕下了班以后
+    - 请求::请[[沈经理]]与当事人谈谈，请他遵守协议的规定，以及尊重其他人的感受。
+- [[Morning Page]]
+    - 今天我没有摄入[[酒精]]
+- #网络安全
+    - 安全的事，再怎么做也不罗嗦，安全的话，再多说也不嫌多。
+    - [[1password]]
+        - 使用两步验证
+            - Microsoft Authenticator
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F2mGqA4g0ET.pdf?alt=media&token=a1558533-df27-4758-a809-d624650c6aa4}}
+- #[[Top News]]
+    - [[瑞金医院]]出现恐怖袭击，4人受伤，面对[[无差别攻击]]怎么办？去医院需要携带什么防身武器？这是无法避免的，只有求主保护。
+    - [[日月光]]被封7天
+    - [[July 8th, 2022]]上海新增[[新冠]]确诊11，无症状感染者48。
+        - 上海新冠阳性:: 59
+    - 广东省全省新增本土确诊病例6例（广州5例、茂名1例），新增本土无症状感染者2例（广州、深圳各1例）
+- 读文章
+    - Articles
+        - [[618陈全国讲话]]
+        - [Teaching Myself Calculus at Sixty-Five | The New Yorker](https://www.newyorker.com/culture/culture-desk/teaching-myself-calculus-at-sixty-five)
+            - Author:: [Alec Wilkinson](https://www.newyorker.com/contributors/alec-wilkinson)
+            - URL::https://www.newyorker.com/culture/culture-desk/teaching-myself-calculus-at-sixty-five
+            - Recommended By:: 
+            - Tags:: #Articles #数学 #微积分 #纽约客
+- 草草絮语
+    - 我在人生最低谷的时候，被一款软件给拯救了。 #[[Edit Later]] #[[Roam Research]] #[[Tech Writing]]
+        - 适合把[[游思]]整理成有效率的输出 #[[Output]]
+        - 实际上变成了一种良性的正向循环
+        - 为了生存我离开那些朋友，但带着他们送给我的财富
+        - 别想什么原创了，先想个办法，怎样把别人的变成自己的
+        - 人若自强，全世界都会帮你
+- 今日事
+    - {{[[DONE]]}} 与#[[Jonas]]去[[创邑办公室]]
+        - {{[[DONE]]}} 一起做核酸
+            - {{[[DONE]]}} 在家做好抗原，并传到小程序上，为[[顺丰骑士]]注册做准备
+        - 
+        - {{[[DONE]]}} 督促他完成作业
+        - {{[[DONE]]}} 午餐叫外卖
+        - {{[[DONE]]}} 最好让他碰电脑的时间不超过30分钟
+    - {{[[DONE]]}} 2PM前完成[[顺丰骑士]]的注册，签到
+    - {{[[DONE]]}} 用#[[Totoro]]教的[[非暴力沟通]]，准备与[[谢琦]]就#[[Four Seasons]] 项目摊牌
+        - [[关于四季青青与谢老师沟通书]]
+- [[GC Course V8]]
+    - Nat Eliason 的Roam课是我在2022年最有价值的一笔投资，它让我真正明白了教程的含意，决心从abc，101来重新设计好中文课程。
+- 视频
+    - Videos
+        - Author:: [[周观鱼]] https://space.bilibili.com/287467607
+        - URL::[司马光《资治通鉴残稿》展示中国古代编年体通史的修订细节_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MN4y1g7Hn?p=1&share_medium=ipad&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1657299682&unique_k=GiVrq11&vd_source=d77cfc51f5909e253056ddf774cd791e)
+        - Recommended By:: [[金葡萄]]
+        - Tags:: #Videos #资治通鉴 #写作 #司马光
+- 纪念[[安倍晋三]]
+    - [莫迪的纪念文章](https://www.narendramodi.in/my-friend-abe-san-563044)
+        - I will always be indebted for his warmth and wisdom, grace and generosity, friendship and guidance, and I will miss him dearly.
+        - We in India mourn his passing as one of our own, just as he embraced us with an open heart. He died doing what he loved the most – inspiring his people. ^^His life may have been cut short tragically, but his legacy will endure forever.^^
+        - I extend heart-felt condolences on behalf of the people of India and on my own behalf to the people of Japan, especially to Mrs. Akie Abe and his family. Om Shanti.
+    - [The killing of Abe Shinzo | The Economist](https://www.economist.com/asia/2022/07/08/the-killing-of-abe-shinzo?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content)
+    - 台湾之友
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F9wjWWRV2HT.jpeg?alt=media&token=b0fde689-f0b3-4c74-8a60-6d69014eb49b)
+- 诗歌
+    - 吴松道中二首其二／宋・晁补之
+晓路雨萧萧，江乡叶正飘。
+天寒雁声急，岁晚客程遥。
+鸟避征帆却，鱼惊荡桨跳。
+孤舟宿何许，霜月系枫桥。
+- 生活
+    - 车保险
+        - 虽然车已经不开，且放在[[梅堰小区]]，但保险还是要入的。
+        - [[July 8th, 2022]]人保[[全通4S店]]报价
+            - 2502.54元
+    - 要去[[配眼镜]]，目前看到别人推荐[[小汤圆眼镜店]]，但是需要到[[五官科医院]]门诊先去验光，有了数据之后，再发给小汤圆，下周可以安排上。
+        - [[July 12th, 2022]] 预约[[五官科医院]]近视门诊，学名叫屈光门诊，只要验光数据即可，配眼镜自己去找[[淘宝]]解决，再也不当冤大头。
+            - [[July 12th, 2022]] 10:30a.m. 前往[[五官科医院]]汾阳路，预约号 509， 需要72小时之内核酸报告。
+    - #[[Finance]] Rainy day is coming again. #[[gc8]] 必须赶紧搞起来，否则已经没有地方可以[[Borrowing]]，那结果会更加糟糕，应该预测到这一点，马上解决。
+    - [[顺丰骑士]]应该尽快完成学习和注册，取得[[通行证]]，以便应对即将到来的[[上海封城2.0]]，这一切很快就会到来，因为[[BA.5]]的传播率是18，从物理上讲是不可能预防的。
+- Metadata
+    - [[陈茜]]
+        - Phone Number::
+        - Email::
+        - Company:: 
+        - Role:: 
+        - Location::
+        - How We Met::
+        - Birthday::
+        - Tags:: #People #Christian #好中文学员 #编剧营学员
+    - [[陈浩初]]
+        - Phone Number:: 陈浩初 13585573880
+        - MiniBio:: 编剧爱好者，[[SLBC]]慕道友
+        - Email::
+        - Company:: 
+        - Role:: 
+        - Location::
+        - How We Met:: [[打浦路KFC]]第一次见面
+        - Birthday::
+        - Tags:: #People #慕道友
+- #[[Edit Later]]
+    - 体制内生活
+        - [south america](https://twitter.com/southam72439772)
+        - [@southam72439772](https://twitter.com/southam72439772)
+        - [[易烊千玺]]叛变，不是是考编这件事对于年轻人的刺激，不是因为他占了一个编制，而是易烊千玺选择进体质内，让年轻人很清楚的知道未来将会很寒冷
+他们意识到自己悲惨的命运，愤怒和悲鸣
+- [[July 9th, 2022]] at 15:43
+    - 现在要急切地测试，[[roam mobile]] app好不好用，如果不好用的话，就瞎了这个移动端的好应用了。
+- [[July 9th, 2022]] at 15:44
+    - 我现在用这个软体写作，如果不能及时地传导到我心爱的r r ，对于我将是一个很重的打击。
+- [[July 9th, 2022]] at 15:47
+    - 学习[[Nat Eliason]]的教程
+        - 一天roam，4小时教会
+        - 传统的信息结构是从上到下的，rr改变了这一点
+        - block是最基本的模块，page仅仅是block的组织方式之一
+- Import
+    - [[hongloumeng-pure-text-002]]
+        - From: hongloumeng-pure-text-002.md
+    - [[hongloumeng-pure-text-009]]
+        - From: hongloumeng-pure-text-009.md
+    - [[hongloumeng-pure-text-010]]
+        - From: hongloumeng-pure-text-010.md
+    - [[hongloumeng-pure-text-006]]
+        - From: hongloumeng-pure-text-006.md
+    - [[hongloumeng-pure-text-008]]
+        - From: hongloumeng-pure-text-008.md
+    - [[hongloumeng-pure-text-003]]
+        - From: hongloumeng-pure-text-003.md
+    - [[hongloumeng-pure-text-004]]
+        - From: hongloumeng-pure-text-004.md
+    - [[hongloumeng-pure-text-007]]
+        - From: hongloumeng-pure-text-007.md
+    - [[hongloumeng-pure-text-005]]
+        - From: hongloumeng-pure-text-005.md
+    - [[hongloumeng-pure-text-001]]
+        - From: hongloumeng-pure-text-001.md
+- Import
+    - [[hongloumeng-pure-text-012]]
+        - From: hongloumeng-pure-text-012.md
+    - [[hongloumeng-pure-text-018]]
+        - From: hongloumeng-pure-text-018.md
+    - [[hongloumeng-pure-text-013]]
+        - From: hongloumeng-pure-text-013.md
+    - [[hongloumeng-pure-text-015]]
+        - From: hongloumeng-pure-text-015.md
+    - [[hongloumeng-pure-text-016]]
+        - From: hongloumeng-pure-text-016.md
+    - [[hongloumeng-pure-text-014]]
+        - From: hongloumeng-pure-text-014.md
+    - [[hongloumeng-pure-text-017]]
+        - From: hongloumeng-pure-text-017.md
+    - [[hongloumeng-pure-text-019]]
+        - From: hongloumeng-pure-text-019.md
+    - [[hongloumeng-pure-text-011]]
+        - From: hongloumeng-pure-text-011.md
+    - [[hongloumeng-pure-text-020]]
+        - From: hongloumeng-pure-text-020.md
+- Import
+    - [[hongloumeng-pure-text-022]]
+        - From: hongloumeng-pure-text-022.md
+    - [[hongloumeng-pure-text-029]]
+        - From: hongloumeng-pure-text-029.md
+    - [[hongloumeng-pure-text-027]]
+        - From: hongloumeng-pure-text-027.md
+    - [[hongloumeng-pure-text-021]]
+        - From: hongloumeng-pure-text-021.md
+    - [[hongloumeng-pure-text-026]]
+        - From: hongloumeng-pure-text-026.md
+    - [[hongloumeng-pure-text-030]]
+        - From: hongloumeng-pure-text-030.md
+    - [[hongloumeng-pure-text-025]]
+        - From: hongloumeng-pure-text-025.md
+    - [[hongloumeng-pure-text-028]]
+        - From: hongloumeng-pure-text-028.md
+    - [[hongloumeng-pure-text-024]]
+        - From: hongloumeng-pure-text-024.md
+    - [[hongloumeng-pure-text-023]]
+        - From: hongloumeng-pure-text-023.md
+- Import
+    - [[hongloumeng-pure-text-038]]
+        - From: hongloumeng-pure-text-038.md
+    - [[hongloumeng-pure-text-034]]
+        - From: hongloumeng-pure-text-034.md
+    - [[hongloumeng-pure-text-032]]
+        - From: hongloumeng-pure-text-032.md
+    - [[hongloumeng-pure-text-035]]
+        - From: hongloumeng-pure-text-035.md
+    - [[hongloumeng-pure-text-037]]
+        - From: hongloumeng-pure-text-037.md
+    - [[hongloumeng-pure-text-036]]
+        - From: hongloumeng-pure-text-036.md
+    - [[hongloumeng-pure-text-039]]
+        - From: hongloumeng-pure-text-039.md
+    - [[hongloumeng-pure-text-040]]
+        - From: hongloumeng-pure-text-040.md
+    - [[hongloumeng-pure-text-033]]
+        - From: hongloumeng-pure-text-033.md
+    - [[hongloumeng-pure-text-031]]
+        - From: hongloumeng-pure-text-031.md
+- Import
+    - [[hongloumeng-pure-text-049]]
+        - From: hongloumeng-pure-text-049.md
+    - [[hongloumeng-pure-text-047]]
+        - From: hongloumeng-pure-text-047.md
+    - [[hongloumeng-pure-text-048]]
+        - From: hongloumeng-pure-text-048.md
+    - [[hongloumeng-pure-text-050]]
+        - From: hongloumeng-pure-text-050.md
+    - [[hongloumeng-pure-text-045]]
+        - From: hongloumeng-pure-text-045.md
+    - [[hongloumeng-pure-text-042]]
+        - From: hongloumeng-pure-text-042.md
+    - [[hongloumeng-pure-text-044]]
+        - From: hongloumeng-pure-text-044.md
+    - [[hongloumeng-pure-text-043]]
+        - From: hongloumeng-pure-text-043.md
+    - [[hongloumeng-pure-text-041]]
+        - From: hongloumeng-pure-text-041.md
+    - [[hongloumeng-pure-text-046]]
+        - From: hongloumeng-pure-text-046.md
+- Import
+    - [[hongloumeng-pure-text-058]]
+        - From: hongloumeng-pure-text-058.md
+    - [[hongloumeng-pure-text-057]]
+        - From: hongloumeng-pure-text-057.md
+    - [[hongloumeng-pure-text-055]]
+        - From: hongloumeng-pure-text-055.md
+    - [[hongloumeng-pure-text-059]]
+        - From: hongloumeng-pure-text-059.md
+    - [[hongloumeng-pure-text-054]]
+        - From: hongloumeng-pure-text-054.md
+    - [[hongloumeng-pure-text-051]]
+        - From: hongloumeng-pure-text-051.md
+    - [[hongloumeng-pure-text-056]]
+        - From: hongloumeng-pure-text-056.md
+    - [[hongloumeng-pure-text-060]]
+        - From: hongloumeng-pure-text-060.md
+    - [[hongloumeng-pure-text-053]]
+        - From: hongloumeng-pure-text-053.md
+    - [[hongloumeng-pure-text-052]]
+        - From: hongloumeng-pure-text-052.md
+- Import
+    - [[hongloumeng-pure-text-078]]
+        - From: hongloumeng-pure-text-078.md
+    - [[hongloumeng-pure-text-072]]
+        - From: hongloumeng-pure-text-072.md
+    - [[hongloumeng-pure-text-075]]
+        - From: hongloumeng-pure-text-075.md
+    - [[hongloumeng-pure-text-079]]
+        - From: hongloumeng-pure-text-079.md
+    - [[hongloumeng-pure-text-077]]
+        - From: hongloumeng-pure-text-077.md
+    - [[hongloumeng-pure-text-071]]
+        - From: hongloumeng-pure-text-071.md
+    - [[hongloumeng-pure-text-076]]
+        - From: hongloumeng-pure-text-076.md
+    - [[hongloumeng-pure-text-073]]
+        - From: hongloumeng-pure-text-073.md
+    - [[hongloumeng-pure-text-080]]
+        - From: hongloumeng-pure-text-080.md
+    - [[hongloumeng-pure-text-074]]
+        - From: hongloumeng-pure-text-074.md
+- Import
+    - [[hongloumeng-pure-text-078]]
+        - From: hongloumeng-pure-text-078.md
+    - [[hongloumeng-pure-text-072]]
+        - From: hongloumeng-pure-text-072.md
+    - [[hongloumeng-pure-text-075]]
+        - From: hongloumeng-pure-text-075.md
+    - [[hongloumeng-pure-text-079]]
+        - From: hongloumeng-pure-text-079.md
+    - [[hongloumeng-pure-text-077]]
+        - From: hongloumeng-pure-text-077.md
+    - [[hongloumeng-pure-text-071]]
+        - From: hongloumeng-pure-text-071.md
+    - [[hongloumeng-pure-text-076]]
+        - From: hongloumeng-pure-text-076.md
+    - [[hongloumeng-pure-text-073]]
+        - From: hongloumeng-pure-text-073.md
+    - [[hongloumeng-pure-text-080]]
+        - From: hongloumeng-pure-text-080.md
+    - [[hongloumeng-pure-text-074]]
+        - From: hongloumeng-pure-text-074.md

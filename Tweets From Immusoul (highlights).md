@@ -1,0 +1,7 @@
+- Author:: [[@ayuan1000 on Twitter]]
+- Full Title:: Tweets From Immusoul
+- URL:: https://twitter.com/ayuan1000
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - #晨读 为了凑热闹，我也写了一篇关于核聚变的，应该是中文世界里关于美国这次新闻事件的最好的文章了吧。https://t.co/whmvVc6q6P ([View Tweet](https://twitter.com/ayuan1000/status/1603018711543255040))

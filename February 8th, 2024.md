@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 21:29
+- Daily Tasks
+    - {{[[TODO]]}} 剪辑整理#[[编剧故事营]]
+    - {{[[TODO]]}} 到小姑家
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **21:29** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [40 Best ChatGPT Prompts For Academic Writing - MyPromptMaster](https://mypromptmaster.com/chatgpt/prompts-for-academic-writing/)
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[卡片笔记]]
+- [[Edit Later]]
+- [[写书]]
+- ---

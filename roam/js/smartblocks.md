@@ -1,0 +1,7 @@
+- Illegal commands
+    - Do not show again
+- trigger
+    - jj
+- publish
+    - display name
+        - wangpei

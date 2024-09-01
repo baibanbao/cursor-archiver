@@ -1,0 +1,21 @@
+﻿mkdir /etc/systemd/system/ && cd /etc/systemd/system/
+sudo nano myisso.service
+
+[Unit]
+Description=isso.service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=isso
+ExecStartPre=
+ExecStart=isso -c /etc/isso.d/enabled/isso.cfg run
+ExecStartPost
+ExecStop=
+ExecReload=
+
+[Install]
+WantedBy=multi-user.target

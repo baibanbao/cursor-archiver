@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sergio Leone]]
+        - Writer:: [[Harry Grey]] [[Leonardo Benvenuti]] [[Piero De Bernardi]]
+        - Cast:: [[Robert De Niro]] [[James Woods]] [[Elizabeth McGovern]]
+        - Year:: [[1984]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0087843
+    - **Plot Summary:** A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FZ-YtT9Yiwr.pdf?alt=media&token=1ad5975b-6e27-4ca2-a855-063755e6bc54}}

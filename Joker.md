@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Todd Phillips]]
+        - Writer:: [[Todd Phillips]] [[Scott Silver]] [[Bob Kane]]
+        - Cast:: [[Joaquin Phoenix]] [[Robert De Niro]] [[Zazie Beetz]]
+        - Year:: [[2019]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt7286456
+    - **Plot Summary:** A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fa2-ECIJUrn.pdf?alt=media&token=cfa983f5-7ddb-4790-8555-202d6fe71359}}

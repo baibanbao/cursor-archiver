@@ -1,0 +1,7 @@
+- Author:: [[elaptics.co.uk]]
+- Full Title:: Lesson 6 - Queries
+- URL:: https://www.elaptics.co.uk/roam-course/lesson-6/
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 11th, 2022]]
+    - Roam's ability to create queries is where its power really begins to shine. ([View Highlight](https://instapaper.com/read/1520669741/20026156))

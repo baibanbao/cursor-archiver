@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjA3NGExZDktNDlhZC00NjYyLTgwNmUtZWUzMDYwMTZjZWUyXkEyXkFqcGdeQXVyMTU1MDM3NDk0._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[James Cameron]]
+        - Writer:: [[James Cameron]]
+        - Cast:: [[Sam Worthington]] [[Zoe Saldana]] [[Sigourney Weaver]]
+        - Year:: [[2009]]
+        - Genre:: #Action #Adventure #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0499549
+    - **Plot Summary:** A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FA7CrSgMv8h.pdf?alt=media&token=d544e435-3682-4441-a747-3bc19b12f9e9}}

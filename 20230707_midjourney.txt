@@ -1,0 +1,1 @@
+﻿请把下面的文章，用英文生成一段在Midjourney里进行绘画的prompt，不超过140单词，要求使用Norman Rockwell 的绘画风格，人是亚洲脸，借助 photorealistic 谢谢。

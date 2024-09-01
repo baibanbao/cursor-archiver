@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[George Roy Hill]]
+        - Writer:: [[David S Ward]]
+        - Cast:: [[Paul Newman]] [[Robert Redford]] [[Robert Shaw]]
+        - Year:: [[1973]]
+        - Genre:: #Comedy #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0070735
+    - **Plot Summary:** Two grifters team up to pull off the ultimate con.

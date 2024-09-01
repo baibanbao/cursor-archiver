@@ -1,0 +1,9 @@
+- 最近围绕香港发生了一系列的事情。又是阅兵，又是宣布《中英联合声明》只是历史文件，没有法律效力。
+- 出于看热闹的心理，我也想知道，英国政府和媒体的反应。
+- 去《卫报》，看到了社论：
+- [The Guardian view on Hong Kong: Britain has a duty to defend its freedoms | Editorial | Opinion | The Guardian](https://www.theguardian.com/commentisfree/2017/jun/30/the-guardian-view-on-hong-kong-britain-has-a-duty-to-defend-its-freedoms)
+- 里面提到，英国政府提出《联合声明》还是有法律效力。
+- 但是英政府底气不足，因为太倚重人民币来帮助它退欧。末代港督彭定康骂英国政府是“懦夫”。
+- 在我看来，英国加入亚投行的那一刻开始，就已经失去底气了。
+- 香港人，也不能指望大英。
+- 《邓选》估计也指望不上了。

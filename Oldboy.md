@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Park Chan-wook]]
+        - Writer:: [[Garon Tsuchiya]] [[Nobuaki Minegishi]] [[Park Chan-wook]]
+        - Cast:: [[Choi Min-sik]] [[Yoo Ji-tae]] [[Kang Hye-jeong]]
+        - Year:: [[2003]]
+        - Genre:: #Action #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0364569
+    - **Plot Summary:** After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.

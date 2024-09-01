@@ -1,0 +1,40 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[November 15th, 2023]] 17:00
+        - 赞美感谢
+            - 赞美主的创造
+            - 赞美主的智慧
+            - 赞美主的怜悯
+            - 赞美主的恩典
+            - 感谢主把我从火中抢救出来
+            - 感谢主赐给所有的一切
+            - 感谢主使我不必疲于奔命
+        - 认罪悔改
+            - 为自己没有认真准备今天的[[编剧故事营]]教学而认罪
+            - 为自己没有表现出更多的顾念和关爱而认罪
+            - 为今天一早起来没有祷告而认罪
+        - 祈求
+            - 求主让今晚的课程顺利
+            - 求主赐下智慧，让我可以教导大家
+            - 求主给#[[Jonas]]勇气面对校园霸凌，求主让这件事得到解决
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 16:41
+- Daily Tasks
+    - {{[[TODO]]}} 参加[[xbc写不出写不出]]tg群
+        - 创建石墨笔记
+            - [XBC写不出写不出记录表](https://shimo.im/sheets/2wAld5yxggub9JAP/NilTb)
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [从72法则来看！实现资产翻倍要多少年？](https://www.sohu.com/a/208817462_411150#google_vignette)
+    - [(2) 俞博有聊 - YouTube](https://www.youtube.com/@musicbugcuhk)
+    - [baibanbao/blog: This is my very simple blog which is set up directly on GitHub without relying on GitHub Pages, Hugo, Jekyll, or other static site generators. It may have limitations in terms of advanced features, dynamic content, and design flexibility. However, it provides a simple way to publish and share your content using GitHub's infrastructure.](https://github.com/baibanbao/blog)
+    - [威脅、羞辱至自盡：BBC調查非法追債集團和背後的中國與印度得益者 － BBC News 中文 - YouTube](https://www.youtube.com/watch?v=62-Qe8BXxbE&t=240s)
+    - [ChatGPT - 20K Vocab builder](https://chat.openai.com/g/g-jrW2FRbTX-20k-vocab-builder/c/a938f8db-09f1-48f6-befb-177d2aa2b754)
+    - [一本书抵达读者之前，一位书籍装帧艺术家珍视的工作过程\_解放网，上观新闻](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=676893)
+- ---

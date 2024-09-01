@@ -1,0 +1,7 @@
+- Author:: [[George Orwell]]
+- Full Title:: Essays by George Orwell
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/414uU6QntAL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - saucer, for instance?) and much might be written about the subsidiary uses of tealeaves, such as telling fortunes, ([Location 6519](https://readwise.io/to_kindle?action=open&asin=B001MCBEQO&location=6519))
+    - A couple of years ago a friend of mine, ([Location 6522](https://readwise.io/to_kindle?action=open&asin=B001MCBEQO&location=6522))

@@ -1,0 +1,2 @@
+- ### New highlights added [[December 5th, 2023]] at 4:44 PM
+    - @baibanbaonet 她目前正走红，符合时代潮流，技术上也无懈可击。艺术风格有个人特色，装着大胆前卫，不怎么符合俺的品味。 ([View Tweet](https://twitter.com/ThomasZ93077836/status/1731953749244232076))

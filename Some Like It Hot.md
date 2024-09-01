@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Billy Wilder]]
+        - Writer:: [[Billy Wilder]] [[IAL Diamond]] [[Robert Thoeren]]
+        - Cast:: [[Marilyn Monroe]] [[Tony Curtis]] [[Jack Lemmon]]
+        - Year:: [[1959]]
+        - Genre:: #Comedy #Music #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0053291
+    - **Plot Summary:** After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.

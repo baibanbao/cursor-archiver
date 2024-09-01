@@ -1,0 +1,32 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 18th, 2023]] 16:30
+        - 赞美感谢
+            - 赞美神的创造，护理，拯救
+            - 感谢神的赐予
+            - 感谢神让我的母亲原谅了我
+        - 认罪悔改
+            - 为自己没有控制住自己熬夜
+            - 为自己不擅长处理自己的生活，懒惰，unshower
+        - 祈求代求
+            - 为#[[Seven]]的灵魂得救
+            - 为#[[Jonas]]身体健康
+            - 为[[胡天津]]一家dao 祷告
+- [[Day Start]] 04:20
+- Daily Tasks
+    - {{[[DONE]]}} 接儿子
+    - {{[[DONE]]}} 远程录制两句半
+    - {{[[DONE]]}} 剪辑董宇辉
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- 
+- [[Daily Reading]]
+    - [渊田美津雄 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%B8%8A%E7%94%B0%E7%BE%8E%E6%B4%A5%E9%9B%84)
+    - [淵田美津雄信主的故事 @ straybird601的部落格 :: 痞客邦 ::](https://straybird601.pixnet.net/blog/post/5672161)
+    - [(2) [1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g) 
+    - 
+- ---

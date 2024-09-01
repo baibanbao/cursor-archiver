@@ -1,0 +1,9 @@
+- Author:: [[Andy Henson]]
+- Full Title:: Are You Dead or Alive?
+- URL:: https://www.elaptics.co.uk/journal/dead-alive
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise #意义 
+- ### Highlights first synced by #Readwise [[July 11th, 2022]]
+    - According to Greene, Dead time is when you’re passive and waiting vs Alive time when you’re learning and acting, and utilising every second you have. ([View Highlight](https://instapaper.com/read/1520671638/20026117))
+    - Are you going to sit back and wait, or are you going to take action? Have you been putting off learning a new skill or taking up a new hobby? ([View Highlight](https://instapaper.com/read/1520671638/20026104))
+    - Remember what Viktor Frankl, having endured Auschwitz, said ”between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” ([View Highlight](https://instapaper.com/read/1520671638/20026106))

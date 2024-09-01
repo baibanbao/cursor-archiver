@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Frank Capra]]
+        - Writer:: [[Robert Riskin]] [[Samuel Hopkins Adams]]
+        - Cast:: [[Clark Gable]] [[Claudette Colbert]] [[Walter Connolly]]
+        - Year:: [[1934]]
+        - Genre:: #Comedy #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0025316
+    - **Plot Summary:** A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.

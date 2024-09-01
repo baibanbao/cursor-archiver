@@ -1,0 +1,183 @@
+﻿GPT-4 Developer Livestream
+
+Summary
+
+OpenAI released GPT-4
+
+GPT-3 is highly steerable and can adhere to any instruction given to it
+
+AI struggles to summarize articles starting with the letter Q, but can summarize articles with all words starting with the letter G
+
+Pinecone makes web app development more accessible and user-friendly
+
+GPT-4 can be used to build a Discord bot and an AI programming assistant
+
+GPT-4 is not just a language model, but also a vision model
+
+GPT-4's Long Context feature allows for flexible use of long documents
+
+It's important to stay in control and understand what's going on when using a language model to generate text
+
+Neural network predicts text
+
+GPT-4 can be used for tasks ranging from art to website development
+
+The speaker used a model to solve a tax problem and explained the process
+
+GPT-4 excels at Mental Math
+
+GPT-4 offers flexibility and versatility in one system
+
+Users can contribute to improving OpenAI.
+
+Main point
+
+Open AI released GPT-4 🚀
+
+Full script
+
+Foreign did the gpd4 developer demo live stream? Honestly, it's kind of hard for me to believe that this day is here. Open AI has been building this technology really since we started the company, but for the past two years we've been really focused on delivering gpt4. That started with rebuilding our entire training stack, actually training the model and then seeing what it was capable of, trying to figure out its capabilities, its risks, working with Partners in order to test it in real world scenarios, really tuning Its Behavior, optimizing the model, getting it available so that you can use it.
+
+Main point
+
+The goal is to showcase how to make gpt4 shine and get the most out of it 💫.
+
+Full script
+
+And so today our goal is to show you a little bit of how to make gbto4 shine, how to really get the most out of it. You know where it's kind of, you know weaknesses are where we're still working on it, and just how to really use it as a good tool, a good partner. So if you're interested in participating in the Stream that, if you go to our Discord, so that's discordgg- openai. There's comments in there and we'll take a couple of audience suggestions. So the first thing I want to show you is the first task that gpd4 could do, that we never really got 3.5 to do, and the way to think about this is all throughout training that you know you're constantly doing all this work. It's 2 AM, the pager goes off, you fix the model and you're always wondering: is it gonna work? Is all this effort actually going to pan out? And so we all had a pet task that we really liked and that we would all individually be trying to see: is the model capable of it? Now? And I'm going to show you the first one- that we had a success for four, but never really got there for 3.5.
+
+Main point
+
+GPT-3 is a highly steerable model that can adhere to any instruction given to it. 🤖💻
+
+Full script
+
+So I'm just going to copy the top of our blog post from today, going to paste it into our Playground now. This is our new chat completions playground that came out two weeks ago. I'm going to show you first with GPT 3.5. 4 has the same API to it, the same playground. The way that it works is: you have a system message where you explain to the model what it's supposed to do, and we've made these models very steerable so you can provide it with really any instruction you want, whatever you dream up, and the model will adhere to it pretty well and in the future it will get increasingly, increasingly powerful at steering the model very reliably.
+
+Main point
+
+🤖 AI struggles to summarize articles starting with the letter Q, but can summarize articles with all words starting with the letter G.
+
+Full script
+
+You can then paste whatever you want as a user, the model will return messages as an assistant, and the way to think of it is that we're moving away from sort of just raw text in raw text out, where you can't tell where different parts of the conversation come from, but towards this much more structured format that gives the model the opportunity to know. Well, this is the user asking me to do something that the developer didn't attend. I should listen to the developer here, all right. So now time to actually show you the task that I'm referring to, so everyone's familiar with: summarize this, let's say, article into a sentence. Okay, getting a little more specific, but where every word begins with G. So this is 3.5. Let's see what it does. Yeah, it kind of didn't even try, just gave up on the task. This is pretty typical for 3.5 trying to do this particular kind of task. If it's, you know, sort of a very kind of stilted article or something like that, maybe it can succeed, but for the most part 3.5 just gives up. But let's try the exact same prompt, the exact same system message in gbt4, so kind of borderline, whether you want to count AI or not. But so let's say AI doesn't count, that's cheating. So fair enough. The model happily accepts my feedback. So now, to make sure it's not just good for G's, I'd like to turn this over to the audience. I'll take a suggestion on what letter to try next. In the meanwhile, while I'm waiting for our moderators to pick the lucky, lucky letter, I will give a try with a, but in this case I'll say: gpd4 is fine, why not? Also pretty good summary. So I'll hop over to our Discord. All right? Wow, if people are are being a little ambitious here. I'm really trying to put the model through the paces. We're going to try Q, which, if you think about this for a moment, I want the audience to really think about. How would you do a summary of this article that all starts with Q? It's not easy. It's pretty good. That's pretty good, all right. So I've shown you summarizing an existing article. I want to show you how you can flexibly combine ideas between different articles.
+
+Main point
+
+Pinecone makes web app development more accessible and user-friendly 🌲💻.
+
+Full script
+
+So I'm going to take this article that was on Hacker News yesterday, copy paste it into the same conversation so it has all the context of what we're just doing. I'm going to say: find one common theme between this article and the gpd4 blog. So this is an article about Pinecone, which is a python web app development framework and it's making the technology more accessible, user friendly. If you don't think that was insightful enough, you can always give some feedback and say that was not insightful enough, please, no, I'll just even just leave it there. Leave it up to the model to decide. So, Bridging the Gap between powerful technology and practical applications seems not bad, and, of course, you can ask for any other kind of task you want, using its flexible language, understanding and synthesis. You can ask for something like: now turn the GT4 blog post into a rhyming poem picked up on open AI evalues, open source for all, helping to guide, answering the call- which, by the way, if you'd like to contribute to this model, please give us evals. We have an open source evaluation framework that will help us guide and all of our users understand what the model is capable of and to take it to the next level.
+
+Main point
+
+Build a Discord bot with gpt4 🤖👨‍💻.
+
+Full script
+
+So there we go. This is consuming existing content using gpt4 with, with a little bit of creativity on top. But next I want to show you how to build with gpt4, what it's like to create with it as a partner, and so the thing we're going to do is we're going to actually build a Discord bot.
+
+Main point
+
+Build an AI programming assistant using gpd4 API to read images and texts 🤖👨‍💻.
+
+Full script
+
+I'll build it live and show you the process, show you debugging, show you what the model can do, where its limitations are and how to work with with them in order to sort of achieve New Heights. So the first thing I'll do is tell the model that this time it's supposed to be an AI programming assistant. Its job is to write things out in pseudocode first and then actually write the code, and this approach is very helpful so that the model break down the problem into smaller pieces and then that way you're not kind of asking it to just come up with a super hard solution to a problem all in one go. It also makes it very interpretable, because you can see exactly what the model was thinking and you can even provide Corrections if you'd like. So here is the prompt that we're going to ask it. This is the kind of thing that 3.5 would totally choke on if you've tried anything like it. But so we're going to ask for a Discord bot that uses the gpd4 API to read images and texts. Now there's one problem here, which is this model's training cutoff is in 2021, which means it has not seen our new chat completions format.
+
+Main point
+
+GPT-4 is not just a language model, but also a vision model, capable of creating bots and leveraging new information in new ways. 🤖👀
+
+Full script
+
+So I literally just went to the blog post from two weeks ago, copy pasted from the blog post, including the response format. It has not seen the new image extension to that, and so I just kind of wrote that up, and you know just very minimal detail about how to include images. So, and now the model can actually leverage the doc, that documentation that it did not have memorized, that it does not know. Okay, and in general, these models are very good at using information that it's been trained on in new ways and synthesizing new content, and you can see that right here, that it actually wrote an entirely new bot. Now let's actually see if this bot is going to work in practice. So you should always look through the code to get a sense of what it does. Don't run untrusted code from humans or from AIS. And one thing to note is that the Discord API has changed a lot over time, and particularly that there's one feature that has changed a lot since this model was trained. Give it a try. In fact, yes, we are missing the intense keyword. This is something that came out in 2020, so the model does know it exists, but it doesn't know which version of the Discord API we're using. So are we out of luck? Well, not quite. We can just simply paste to the model exactly the error message, not even going to say: hey, this is from running your code, could you please fix it? We'll just let it run. And the model says: oh yeah, whoops, the intense argument: here's the correct, here's the correct code. Now let's give this a try once again, kind of making sure that we understand what the code is doing. Now, a second issue that can come up is it doesn't know what environment I'm running in and if you notice, it says: hey, here's this inscrutable error message which, if you've not used jupyter notebook a lot with async IO before, you probably have no idea what this means. But fortunately, once again, you can just sort of say to the model: hey, I am using Jupiter and would like to make this work, can you fix it? And the specific problem is that there's already an event Loop running, so you need to use this Nest async i o Library. You need to call Net Nest I sync IO dot apply. The model knows all of this correctly, instantiates all of these, these pieces into the bot. It even helps, hopefully- tells you: oh, you're running in Jupiter. Well, you can do this bang pip install in order to install the package if you don't already have it. That was very helpful, so now we'll run and it looks like something happened. So the first thing I'll do is go over to our Discord and I will paste in a screenshot of our Discord itself. So remember, gpt4 is not just a language model, it's also a vision model.
+
+Main point
+
+Submit your image and task to Discord for assistance. 📷💻
+
+Full script
+
+In fact, it can flexibly accept inputs that intersperse images and text arbitrarily, kind of like a document. Now the image feature is in preview, so this is going to be a little sneak peek. It's not yet publicly available. It's something we're working with one partner called be my eyes in order to really start to develop it and get it ready for prime time. But you can ask anything you like. For example, I can't, you know, I'll say gp4: hello world. Can you describe this image and painstaking detail? All right, which, first of all, think of how you would do this yourself. There's a lot of different things you could latch onto, a lot of different pieces of the system you could describe, and we can go over to the actual code and we can see that, yep, we in fact received the message, have formatted an appropriate request for our API and now we wait because you know one of the things we have to do is we have to make the system faster. That's one of the things that we're working on optimizing. In the meanwhile, I just want to say to the audience that's watching: we'll take an audience request next. So if you have an image and a task you'd like to accomplish, please submit that to the Discord.
+
+Main point
+
+GPD4's new feature, Long Context, allows for flexible use of long documents, but should only be scaled up for applications that benefit from it. 📈
+
+Full script
+
+Our moderators will pick one that will run so we can see that the Discord. Oh, it looks like we have a response, perfect. So it's a screenshot of a Discord application interface. Pretty good, did not even describe it. It knows that it's Discord. It's probably Discord written there somewhere where it just kind of knows this from from prior experience. Server icon label gpd4 describes the interface in great detail, talks about all the people telling me that I'm supposed to do Q, very, very kind audience, and describes a much of the, the notification messages and the users that are in the channel, and so there you go. That's some. That's some pretty good understanding. Now this next one, if you notice. First of all, we got a post, but the model did not actually see the message. So is this a failure of the model or of the system around the model? Well, we can take a look. And if you notice here, content is an empty string. We received a blank message contents. The reason for this is a dirty trick that we played on the AI. So if you go to the Discord documentation and you scroll through it all the way down to, I can see it hard for me to even find, honestly, to the message content intent. You'll see this was added as of September 2022 as a required field. So in order to receive a message that does not explicitly tag you, you now have to include this new intent in your code. Remember, I said: intensive change a lot over time. This is much newer than the model as possible is possibly able to know, so maybe we're out of luck. We have to debug this by hand, but once again, we can try to use gpd4's language understanding capabilities to solve this. Now, keep in mind this is a document of like I think this is like ten thousand fifteen thousand words, something like that. It's not formatted very well. This is literally a command, a copy paste like this is what it's supposed to parse through to find in the middle of that document that, oh yeah, message contents. That's required now, but let's see if it can do it. So we will ask for I. I am receiving blank message contents. Can you, why could this be happening? How do I fix it? So one thing that's new about gpd4 is context length- 32 000 tokens is kind of the upper limit that we support right now, and the model is able to flexibly use long documents. It's something we're still optimizing, so we recommend trying it out, but not necessarily sort of really really scaling it up just yet, unless you have an application that really benefits from it. So if you're really interested in Long context, please let us know. We want to see what kinds of applications it unlocks.
+
+Main point
+
+Using a language model to generate text can be helpful, but it's important to stay in control and understand what's going on. 🤖👨‍💻
+
+Full script
+
+But if you see it says: oh yeah, message content intent was not enabled and so you can either ask the model to write some code for you or you could- I actually just you know- do it the old-fashioned way. Either way is fine. I think this is a augmenting tool, makes you much more productive, but it's still important that you are in the driver's seat and are the manager and knows what's what's going on. So now we're connected once again and, Boris, would you like to rerun the message once again? We can see that we have received it, even though the bot was not explicitly tagged. Seems like a pretty good, pretty good description interesting. This is an interesting image actually looks like it's a dolly generated one, and let's actually try this one as well. So what's funny about this image? Oh, it's already been submitted, so once again, we can verify this, making the right API calls. Squirrels do typically eat nuts. We don't expect them to use a camera or act like a human, so I think that's that's a pretty good explanation of why that image is funny. So I'm going to show you one more example of what you can do with this model. So I have here a nice hand-drawn mock-up of a joke website definitely worthy of being put up on my refrigerator. So I'm just going to take out my phone, literally take a photo of this mock-up and then I'm going to send it to our Discord. All right, going to send it to our Discord, and this is, of course, the rockiest part- making sure that we actually send it to the right Channel, which, in fact, I think maybe I did not sent it to the wrong Channel. It's funny. It's always the the sort of non-ai parts of these demos that are the hardest part to do.
+
+Main point
+
+Neural network predicts text. 🤖
+
+Full script
+
+And here we go. Technology is now solved, and now we wait. So the thing that's amazing in my mind is that what's going on here is we're talking to a neural network, and this neural network was trained to predict what comes next. Right, it played this like this game of sort of being shown a partial document and then predicted what comes next across an unimaginably large amount of content, and from there it learns all of these skills that you can apply and all these very flexible ways, and so we can actually take now this output.
+
+Main point
+
+From art to website 🎨➡️💻.
+
+Full script
+
+So, literally, we just said to output the HTML from that picture, and here we go, actual working JavaScript, filled in the jokes. For comparison, this was the original of our mock-up. And so there you go, going from hand-drawn beautiful art, if I do say so myself, to working website. And this is all just potential, right, we, you can see lots of different applications.
+
+Main point
+
+Partner with system to automate tasks. 🤖
+
+Full script
+
+We ourselves are still figuring out new ways to use this. So we're going to work with our partner, we're going to scale up from there, but please be patient, because it's going to take us some time to really make this available for everyone. So I have one last thing to show you. I've shown you reading existing content. I've shown you how to build with the system as a partner. The last thing I'm going to show is how to work with the system to accomplish a task that none of us like to do, but we all have to.
+
+Main point
+
+The speaker spent time reading the tax code but found it difficult, so they used a model to solve a tax problem and explained the process. 💰💻📝
+
+Full script
+
+So you may have guessed, the thing we're going to do is taxes. Now note that GPT is not a certified tax professional, nor am I, so you should always check with your your Tax Advisor. But it can be helpful to understand some dense content, to just be able to empower yourself to, to be able to sort of solve problems and get a get a handle on what's Happening when you could not otherwise. So, once again, I'll do a system message. In this case, I'm going to tell it that it's tax GPT, which is not a specific thing, that we've trained into this model. You can be very creative if you want, with the system message, to really get the model in the mood of what is your job, what are you supposed to do? So I pasted in the tax code- this is about 16 Pages worth of of tax code- and there's this question about Allison Bob. They got married at one point and that here are their, their incomes, and they take a standard deduction. They're filing jointly. So first question: what is their standard deduction for 2018? So, while the model is chugging, I'm going to solve this problem by hand to show you what's involved. So the standard deduction is the basic standard deduction plus the additional. The basic one is 200 percent for a joint return of subparagraph C, which is here: okay, so additional doesn't apply. The limitation doesn't apply, okay. Now these apply. Oh wait, special rules for taxable year 2018, which is the one we care about. Through 2025, you have to substitute twelve thousand for three thousand, so two hundred percent of twelve thousand twenty four thousand is the final answer. If you notice, the model got to the same conclusion and you can actually read through its explanation and, to tell you the truth, the first time I tried to approach this problem myself, I could not figure it out. I spent half an hour reading through the tax code trying to figure out this like back reference, and why there's some program like just what's even going on?
+
+Main point
+
+Model excels at Mental Math 🧮.
+
+Full script
+
+It was only by asking the model to spell out its reasoning, and then I followed along that I was like, oh, I get it. Now I understand how this works, and so that, I think, is where the power of the system lies. It's not perfect, but neither are you, and together is this amplifying tool that lets you just reach New Heights, and you can go further. You can say, okay, now calculate their total liability. And here we go. It's doing the calculation. Honestly, I every time it does it. It's just, it's amazing. This model is so good at Mental Math- it's way, way better than I am at Mental Math.
+
+Main point
+
+Flexibility and versatility 🤝 in one system.
+
+Full script
+
+It's not hooked up to a calculator like that's another way that you could really try to enhance these systems. But it has these raw capabilities that are so flexible. It doesn't care if it's code, it doesn't care if it's language, it doesn't care if it's tax- all of these capabilities in one system that can be applied towards the problem that you care about, towards your application, towards whatever you build.
+
+Main point
+
+Model can generate text. 🤖📝
+
+Full script
+
+And so, to end it, the final thing that I will show is I a little other dose of creativity, which is now summarize this problem into a rhyming poem. And there we go: a beautiful, beautiful poem about doing your taxes. So thank you everyone for tuning in. I hope you learned something about what the model can do, how to work with it and, honestly, we're just really excited to see what you're going to build.
+
+Main point
+
+Contribute to improving OpenAI 🤖
+
+Full script
+
+I I've talked about openai, evals. Please contribute. We think that this model- improving it, bring it to the next level- is something that everyone can contribute to and that we think it can really benefit a lot of people, and we want your help to do that. So thank you very much. We're so excited to see what you're going to build foreign.

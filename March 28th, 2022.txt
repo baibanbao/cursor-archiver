@@ -1,0 +1,62 @@
+- [[todos123]]
+    - {{[[TODO]]}} 08:22 31 Vice 报道说美国悄悄流行一种 Glock Switch 小配件，它能把普通的 Glock 手枪改装成全自动武器
+
+美国市场面向普通消费者销售的主要是半自动武器，扣一下扳机、只能发射一发子弹
+
+小配件只需要 20 美元，就能把 Glock 改装为全自动操作，扣一下扳机把所有子弹全部、自动射出去
+        - [[webclips]]
+            - {{[[TODO]]}} [‘Glock Switches’ Are Turning Pistols Into Deadly Machine Guns](https://www.vice.com/en/article/pkp8p8/glock-switches-auto-sears)
+            - [VTX_M-00228-0_GP_A_P_PM_WEB.pdf](https://vortexoptics.widen.net/view/pdf/d4kggduqpv/VTX_M-00228-0_GP_A_P_PM_WEB.pdf?t.download=true&u=ymrkrm&x.share=t)
+                - #Birding 工具
+- [[March 28th, 2022]] at 06:33
+    - 我的第一条测试
+    - 看看这个好不好用
+    - 感觉比以前快了一些吗
+    - 要用它来做一些事情
+    - [[隔离日记]]
+        - 让 #Jo 也学会写
+        - {{[[TODO]]}} 购物清单
+        - 买菜
+        - 看顾好娃
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fr9CVHRlvt3.jpeg?alt=media&token=a798f259-b13d-421d-87f6-715df84e9a34)
+- [[March 28th, 2022]] at 06:37
+    - 如果你不在list上，给你也没用
+    - 这个testflight是按照名单发放的
+        - 告诉他分享没用
+        - 还是让他自己去想办法
+        - 我一时竟也没了主意
+- [[March 28th, 2022]] at 06:47
+    - [[我有一个神奇的爸爸]]
+        - 我希望你有一天能写下这样一篇文
+        - 我的爸爸是个基督徒，虽然他一路挣扎，但从我记事起，他从未改变过自己的信仰。
+        - 他是浸信会成员，按时做礼拜，按时奉献，对人热情、谦和
+        - 他有很多的缺点，但我依然爱他
+        - 他身体不好，在我8岁的时候，他得了心脏病住院，不过经过手术，他又能跟我和妈妈生活在一起了
+        - 他生活习惯不好，喜欢熬夜，这也让他的身体处于高危状态，起初，我和妈妈还说他，但看他我行我素，也就不愿意说了
+        - 他是个作家，但没留下像样的作品
+        - 他说他最重要的作品是我
+- [[March 28th, 2022]] at 06:58
+    - [[Roam Research]] Mobile 试用初印象
+        - 速度比Web快
+        - 界面简洁，基本要素都有
+            - 支持[[快速插入双链]]
+            - 支持 / 调出快速命令
+            - 支持图片上传
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Ftx6XHdkm_H.jpeg?alt=media&token=a2329fe1-6e9f-4429-8c21-4ecf9621f4d9)
+            - 同步速度
+                - 以我的VPN，同步到Mac端大约15秒左右，速度算快了
+        - 说说缺点
+            - 我是一个很容易满足的人，到现在还没发现
+- 这个太神奇了，一个小小装置是怎么做到的？
+    - [‘Glock Switches’ Are Turning Pistols Into Deadly Machine Guns](https://www.vice.com/en/article/pkp8p8/glock-switches-auto-sears)
+- 
+- [[March 28th, 2022]] at 07:30
+    - {{[[POMO]]: 25}} 
+        - 番茄钟是我最常用的工具
+            - 居然移动端都有了
+            - 真是太方便了
+        - 以后可以把移动端当成主力工具了
+        - 插入当前时间 07:48
+        - 插入指定日期，浦西封城日 [[April 1st, 2022]] - [[March 5th, 2022]]
+        - 确实很方便
+        - 这个移动端我给打8.5分

@@ -1,0 +1,11 @@
+- --
+- Title: Another New blog
+- date: 2016-09-16 23:35
+- title: 'Another New blog'
+- --
+- I have opened a new blog wangpei.net
+- I have had more than 3 blogs why shoud I set up this one? Because I have spent a lot of money on the domain name, I don't want to waste it by pointing it to an existing blog.
+- The new blog will focus on writing and the goal of my life. So it will be very positive, sometimes enthusiastic.
+- Come all ye faithful.
+- Oh, come.
+- [开篇的话](http://wangpei.net/post/some-words-as-preface)

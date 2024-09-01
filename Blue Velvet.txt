@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzExOTczNTgtN2Q1Yy00MmI1LWE0NjgtNmIwMzdmZGNlODU1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Lynch]]
+        - Writer:: [[David Lynch]]
+        - Cast:: [[Isabella Rossellini]] [[Kyle MacLachlan]] [[Dennis Hopper]]
+        - Year:: [[1986]]
+        - Genre:: #Crime #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0090756
+    - **Plot Summary:** The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.

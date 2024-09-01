@@ -1,0 +1,470 @@
+- #[[Prayers&Answers]]
+    - Pray for my heart. Last night, I felt a sharp pain in the area of my left chest. I analyzed it and found it might due to 4 factors: wine, coffee, fullness of stomach and chilliness in the sit room. So I panicked and prayed. Afterwards, I laid down on the bed and pacified my self. In the morning I recovered a lot. #[[康健]]
+    - 亲爱的天父：我向你祈求，请你帮助我，不要让我的心脏病复发。我知道我最近生活很不健康，缺乏节制。我饮食无度，睡眠无规律，同时因为膝伤的原因，不能锻炼，节日又忘记了自己的状况，甚至喝了过量的酒，心思也趋向于活络。主啊，感谢你没有让病情进一步发展，求你亲手医治，使我能够逃脱这一次病情的发作。感谢主用这样的方式提醒我，让我过健康得胜的生活。继续节制、节食，做一个美好的见证。以上祷告奉耶稣基督的名，阿门。
+- [[todos123]]
+    - {{[[TODO]]}} 1:45 PM SegmentFault 思否
+@segment_fault
+·
+19m
+去年，OpenAI 发布了重磅产品——Codex，一个能自己编程的 AI。然后Github 发布了Copilot，刚刚 DeepMind 发布了竞赛级代码生成系统 AlphaCode，并声称新的代码生成系统可与人类程序员竞争，这个编程版“阿法狗”还悄悄参赛 Codeforces，击败一半程序员。
+    - {{[[TODO]]}} 12:54 PM
+    - 作者：佳佳
+        -  昨天去看望了外公，94岁的高龄，这两年岁月的痕迹在他身上似乎格外的明显。
+
+自我有记忆以来，1米88以上的外公就是我认识的人里面身材最好、身板最硬朗、五官立体却最不失柔和的大帅哥。天热，翻领白衬衫；天暖，藏青色中山装；天冷，毛领长款呢大衣，再加一双皮质手套。永远都是干净整洁、衣裤不褶不皱。小时候有段时间会思考一个问题：我外公为什么不去当演员呢？
+
+似乎从未见他发过脾气，也从未对谁急红过眼。即时有次信奉耶稣的外婆拉着高烧的我，帮我做了半个多小时的祷告，整个过程，外公依旧在一旁柔和的不停劝说外婆：小孩子（其实那时候我已经大学毕业）人不舒服，你就让她安静睡个觉晚点去医院，别吵她了........
+
+昨天见到外公，眼神，明显无神，背，稍稍弯了些，反应，也迟缓了许多。那一刻，我才深刻体会到：哪有什么“不老男神”，岁月赋予你的痕迹，无非也就是显露的早晚而已.........
+
+以往每次见外公，聊不过几句，就会被问男朋友的事。外婆总会说，她每天祷告，让上帝把最好的男生留给我；每每总会在外婆和我说上帝时就有意无意过来转移话题的外公，这时，就安静的在一旁笑眯眯看着我，不仅不去刻意终结这个话题，还会帮着外婆搭上一两句。然而，昨天，他并没有提到这个，或许，他的记忆里已经装不下太多东西。依着习惯，给外公一个红包，他依旧推托不肯收，我说了一句：这个是我给你的红包，不大，等下次把男朋友带过来，一定让他给你包一个大大的红包！外公，笑了，一个毫不含蓄的大笑容..........
+        - {{[[TODO]]}} 4:20 PM Bear face
+@beardomination
+·
+18h
+一提拐卖都是“卖到大山里”，特么云贵川山区反而都是被拐出的主要受害区域。而拐去的地方明明主要是河南山东江苏安徽这些黄泛区，这些地方大山个毛线啊……
+            - 这看上去有点反直觉，但一点都不违反经济规律。肯定是富买穷卖。 #[[好中文]]
+            - {{[[TODO]]}} 4:25 PM 
+月光博客
+@williamlong
+·
+57s
+【中国电影平均票价超过美国】据全美影院业主协会(National Association of Theater Owners)统计，春节期间美国电影平均票价是9.11美元，约合人民币57.9元。而中国内地电影平均票价则已经达到60.9元。
+- [[福音联盟翻译]] #[[Translate]]  #[[JFX]]
+    - 第二篇：关于restless
+        - [Review: ‘Why We Are Restless’ by Benjamin Storey & Jenna Silber Storey](https://www.thegospelcoalition.org/reviews/why-restless/)
+        - 翻译原稿 {{[[POMO]]: 25}} {{word-count}}
+            - CHRISTIAN LIVING
+            - Why Are We All So Restless?
+            - Review: ‘Why We Are Restless’ by Benjamin Storey & Jenna Silber Storey
+            - JANUARY 13, 2022  |  ANDREW WILSON
+            - 我们为何都如此躁动不安？
+            - 书评：本杰明·斯托里和珍娜·西尔伯·斯托里的《我们为什么躁动》
+            - {{[[POMO]]: 25}} {{word-count}}
+            - Few writers can capture the spirit of a society in a single paragraph. Even fewer can do it in ways that remain painfully insightful 200 years later. That is what makes Alexis de Tocqueville’s comment on the United States in the 1830s so striking:
+            - 能在一个段落中抓住一个社会时代精神的作家是罕见的，能够做到这一点并且在200年后仍然提供良药苦口的洞见的作家，更如凤毛麟角。这就是为什么阿列克西·德·托克维尔关于19世纪30年代美国的评论如此引人注目。
+            - It is a strange thing to see with what sort of feverish ardour Americans pursue well-being and how they show themselves constantly tormented by a vague fear of not having chosen the shortest route that can lead to it. The inhabitant of the United States attaches himself to the goods of this world as if he were assured of not dying, and he rushes so precipitately to grasp those that pass within his reach that one would say he fears at each instant he will cease to live before he has enjoyed them. He grasps them all but without clutching them, and he soon allows them to escape from his hands so as to run after new enjoyments. . . . Death finally comes, and it stops him before he has grown weary of this useless pursuit of a complete felicity that always flees from him. (511–14)
+            - 看看美国人追求幸福的狂热程度，看看他们如何不断地被一种模糊的恐惧折磨着，害怕自己没有选择捷径来实现幸福，是一件很奇怪的事情。美国人把自己和这个世界的美好联系在一起，就好像他相信自己不会死一样，而且他急于抓住那些唾手可得的东西，以至于人们会说，他每时每刻都担心自己在享受这些东西之前就不活了。他抓住了所有的东西，但没有抓住它们，他很快让它们从他的手中逃脱，以便追求新的享受……死亡终于来了，在他厌倦了这种对完美幸福的徒劳追求之前，死亡终于阻止了他。(511-14)
+            - {{[[POMO]]: 25}} {{word-count}}
+            - The restlessness of Americans fascinated Tocqueville. This vast continent of abundance, in which virtually everyone seemed to be middle class, was nevertheless characterized by a feverish, impatient, anxious, tormented, and grasping spirit. It was as if consumption did not actually bring contentment, as many confidently assumed that it would, and riches did not bring rest. Two centuries on, Tocqueville’s diagnosis still applies—and not just in America, but throughout the Western world.
+            - 美国人的躁动不安分让托克维尔着迷。在这片广袤富饶的大陆上，几乎每个人都是中产阶级，然而却有一种狂热、急躁、焦虑、煎熬和抓狂的精神特质。就好像消费并没有带来满足感，就像许多人自信地认为的那样，而财富并没有带来安宁。两个世纪过去了，托克维尔的诊断仍然适用——不仅对美国，而且对整个西方世界而言，都是如此。
+            - That observation is at the heart of Benjamin Storey and Jenna Silber Storey’s wonderful new book, Why We Are Restless: On the Modern Quest for Contentment. It’s a remarkable piece of apologetics, not least because the authors never quite put their apologetic (or even Christian) cards on the table. Beautifully written and carefully argued, it’s as searching as it is subtle.
+            - 这种观察是本杰明·斯托里和珍娜·西尔伯·斯托里精彩的新书《我们为什么躁动：论现代人对满足的追求》的核心。这是一部出色的护教论著，尤其是因为作者并没大张旗鼓地护教(包括基督教)。文笔优美，论证细致，既微妙又具有探索性。
+            - 
+            - PURCHASE 
+            - Why We Are Restless: On the Modern Quest for Contentment
+            - BENJAMIN STOREY AND JENNA SILBER STOREY
+            - We live in an age of unprecedented prosperity, yet everywhere we see signs that our pursuit of happiness has proven fruitless. Dissatisfied, we seek change for the sake of change―even if it means undermining the foundations of our common life. In Why We Are Restless, Benjamin and Jenna Storey offer a profound and beautiful reflection on the roots of this malaise and examine how we might begin to cure ourselves.
+            - 买买买
+            - 我们生活在一个前所未有的繁荣时代，然而我们在各处看到的迹象表明，我们对幸福的追求已证明是徒劳的。我们不满足，为了改变而寻求改变——即使这意味着破坏我们共同生活的基础。在《我们为什么焦躁不安》一书中，本杰明和詹娜 · 斯托里对这种不安的根源进行了深刻而美丽的反思，并探讨了我们如何开始治愈自己。
+            - 
+            - - 购买/n- 《我们为什么躁动: 论现代人对满足的追求》/n- BENJAMIN STOREY 和 JENNA SILBER STOREY/n- 我们生活在一个前所未有的繁荣时代，然而我们在各处看到的迹象表明，我们对幸福的追求已证明是徒劳的。我们不满足，为了改变而寻求改变——即使这意味着破坏我们共同生活的基础。在《我们为什么焦躁不安》一书中，本杰明和詹娜 · 斯托里对这种不安的根源进行了深刻而美丽的反思，并探讨了我们如何开始治愈自己。/n
+            - 购买 
+            - 我们为什么不安宁？关于现代人对满足感的追求
+            - 本杰明-斯托里和珍娜-西尔伯-斯托里
+            - 我们生活在一个空前繁荣的时代，但我们到处都能看到我们对幸福的追求被证明是没有结果的迹象。由于不满意，我们为了改变而寻求改变，即使这意味着破坏我们共同生活的基础。在《我们为何不安》中，本杰明和珍娜-斯托里对这种萎靡不振的根源进行了深刻而美好的反思，并研究了我们如何开始治愈自己。
+            - 我们生活在一个空前繁荣的时代，但到处都看到我们对幸福的追求已被证明是徒劳的迹象。 不满，我们为了改变而寻求改变——即使这意味着破坏我们共同生活的基础。 在《我们为何不安》一书中，本杰明和珍娜·斯托里对这种不适的根源进行了深刻而美丽的反思，并研究了我们如何开始治愈自己。
+            - Drawing on the insights of Montaigne, Pascal, Rousseau, and Tocqueville, Why We Are Restless explores the modern vision of happiness that leads us on, and the disquiet that follows it like a lengthening shadow. In the sixteenth century, Montaigne articulated an original vision of human life that inspired people to see themselves as individuals dedicated to seeking contentment in the here and now, but Pascal argued that we cannot find happiness through pleasant self-seeking, only anguished God-seeking. Rousseau later tried and failed to rescue Montaigne’s worldliness from Pascal’s attack. Steeped in these debates, Tocqueville visited the United States in 1831 and, observing a people “restless in the midst of their well-being,” discovered what happens when an entire nation seeks worldly contentment―and finds mostly discontent.
+            - 借鉴蒙田、帕斯卡尔、卢梭和托克维尔的见解，《我们为什么焦躁不安》探索了引导我们前进的现代幸福观，以及随之而来的如同长长的阴影般的不安。在16世纪，蒙田阐述了一个关于人类生活的原始观点，这个观点鼓舞人们把自己看作是在此时此地寻求满足的个体，但帕斯卡认为，我们不能通过愉快的自我追求，只能通过痛苦的上帝追求来寻找幸福。卢梭后来试图从帕斯卡的攻击中拯救蒙田的世俗，但失败了。沉浸在这些争论中的托克维尔于1831年访问了美国，观察到一个民族“在他们的幸福中焦躁不安”，发现当整个民族寻求世俗的满足时会发生什么——而且大部分是不满足的。
+            - 
+            - 借鉴蒙田、帕斯卡尔、卢梭和托克维尔的见解，《我们为何不安》探讨了引领我们前进的现代幸福观，以及像拉长的阴影一样紧随其后的不安。在十六世纪，蒙田阐述了人类生活的原始愿景，激励人们将自己视为致力于在此时此地寻求满足的个体，但帕斯卡尔认为，我们无法通过愉快的自我寻求找到幸福，只能通过痛苦的上帝寻求。卢梭后来试图从帕斯卡尔的攻击中拯救蒙田的世俗主义，但却失败了。托克维尔沉浸在这些辩论中，于1831年访问了美国，并观察到一个 "在他们的福祉中不安 "的民族，发现当整个国家寻求世俗的满足时，会发生什么--发现大部分是不满。
+            - 借鉴蒙田、帕斯卡、卢梭和托克维尔的见解，《为什么我们不安分》探讨了引领我们前进的现代幸福愿景，以及随之而来的不安，就像一个拉长的阴影。 在 16 世纪，蒙田阐明了人类生活的原始愿景，启发人们将自己视为致力于在此时此地寻求满足的个体，但帕斯卡认为，我们无法通过愉快的自我寻求获得幸福，只能通过痛苦的寻求上帝 . 卢梭后来试图从帕斯卡的攻击中拯救蒙田的世俗，但未能成功。 沉浸在这些辩论中，托克维尔于 1831 年访问了美国，并观察了一个“在他们的幸福中焦躁不安”的人民，他发现了当整个国家寻求世俗的满足时会发生什么——并且发现主要是不满。
+            - Arguing that the philosophy we have inherited, despite pretending to let us live as we please, produces remarkably homogenous and unhappy lives, Why We Are Restless makes the case that finding true contentment requires rethinking our most basic assumptions about happiness.
+            - 认为我们继承的哲学，尽管假装让我们过我们喜欢的生活，产生了明显的同质化和不幸福的生活，为什么我们是不安分的情况下，找到真正的满足需要重新思考我们对幸福最基本的假设。
+            - 
+            - 他认为，我们所继承的哲学尽管假装让我们随心所欲地生活，但却产生了明显的同质化和不快乐的生活，《我们为何不安》指出，要找到真正的满足感，需要重新思考我们关于幸福的最基本假设。
+            - 争论我们继承的哲学，尽管假装让我们随心所欲地生活，却产生了非常同质和不快乐的生活，《为什么我们不安分》提出要找到真正的满足需要重新思考我们关于幸福的最基本假设。
+            - PRINCETON UNIVERSITY PRESS. 264 PP.
+            - Contented Restlessness
+            - 普林斯顿大学出版社。264页。
+            - 知足常乐》（Contented Restlessness
+            - Using the work of four French writers—Montaigne (16th century), Pascal (17th), Rousseau (18th), and Tocqueville (19th)—the Storeys (both professors at Furman University) examine the ways in which human beings try to find rest and happiness and why so many of them end in failure.
+            - 通过法国作家蒙田(16世纪)、帕斯卡(17世纪)、卢梭(18世纪)和托克维尔(19世纪)的作品，斯托里斯夫妇(都是傅尔曼大学的教授)研究了人类寻求休息和幸福的方式，以及为什么这么多人以失败告终。
+            - 
+            - 利用四位法国作家的作品--蒙田（16世纪）、帕斯卡尔（17世纪）、卢梭（18世纪）和托克维尔（19世纪）--斯托雷夫妇（两人都是弗曼大学的教授）研究了人类试图寻找休息和幸福的方式，以及为什么其中许多人以失败告终。
+            - 使用四位法国作家的作品——蒙田（16 世纪）、帕斯卡（17 世纪）、卢梭（18 世纪）和托克维尔（19 世纪）——Storeys（两位都是弗曼大学的教授）研究了人类试图找到休息的方式 和幸福，以及为什么这么多人以失败告终。
+            - Restlessness, the Storeys argue, pervades American life. You can see it everywhere: “in our love for the screen, with its diversions and distractions; in our demand for endless variety in what we eat, drink and wear; in our appetite for mind-altering substances, from pot to Prozac to Pinot Grigio; in our fascination with crises in almost every area of human life” (x–xi). Curiously, they note, restlessness seems to increase with privilege rather than the reverse. The modern middle class, as Tocqueville put it, is “restless in the midst of their well-being.”
+            - 斯特里斯夫妇认为，躁动不安充斥着美国人的生活。你可以在任何地方看到它: “在我们对屏幕的热爱中，在屏幕的转移和干扰中; 在我们对饮食和穿着的无穷多样性的需求中; 在我们对改变心智的物质的胃口中，从大麻到百忧解(Prozac)再到灰比诺(:) ; 在我们对人类生活几乎每个领域的危机的迷恋中”(x-xi)。奇怪的是，他们指出，躁动似乎随着特权而增加，而不是相反。正如托克维尔所说，现代中产阶级“在他们的幸福中焦躁不安”
+            - 
+            - Storeys认为，美国人的生活中充斥着躁动。你可以到处看到它。"在我们对屏幕的热爱，以及它的转移和分心；在我们对吃、喝、穿的无尽变化的要求；在我们对改变精神的物质的胃口，从大麻到百忧解到灰皮诺；在我们对人类生活几乎每个领域的危机的迷恋中"（x-xi）。奇怪的是，他们指出，烦躁不安似乎随着特权的增加而增加，而不是相反。正如托克维尔所说，现代中产阶级 "在他们的福祉中不安分"。
+            - 斯托里夫妇认为，躁动不安充斥着美国人的生活。 你到处都可以看到它：“在我们对屏幕的热爱中，它的消遣和分心； 满足我们对吃、喝和穿的无穷无尽的多样性的需求； 我们对改变思维的物质的胃口，从罐子到百忧解再到灰比诺； 在我们对人类生活几乎每个领域的危机的迷恋中”（x-xi）。 奇怪的是，他们注意到，不安似乎随着特权而不是相反而增加。 正如托克维尔所说，现代中产阶级“在他们的幸福中焦躁不安”。
+            - But why? Where does this sense of peaceless unease come from? And what can be done about it?
+            - Where does this sense of peaceless unease come from? And what can be done about it?
+            - - 但是为什么呢? 这种不安和平的感觉从何而来? 我们能做些什么呢？/n这种不安和平的感觉从何而来? 我们又能做些什么呢？/n
+            - 
+            - 但为什么呢？这种没有和平的不安感从何而来？对此又能做些什么呢？
+            - 这种无和平的不安感从何而来？又能做些什么呢？
+            - Four Important Thinkers
+            - For Michel de Montaigne (1533–92), our problem is simply that we’re too concerned with what lies beyond ourselves. Rather than searching for meaning outside of our natural lives—in religion, virtue, honor, knowledge, or whatever—we need to learn instead to practice immanent contentment. The key to happiness lies in simply being at home in oneself and the world: it’s the pursuit of “mere life, life for its own sake, life without the orienting norms of philosophy, politics or faith” (22). Today we might describe it using language like “being present” or “mindfulness.” Happiness is here, not in a world beyond, and we can find it by practicing the right way of life, “oriented by the quest for immanent contentment, for psychic equilibrium in our inner lives and unmediated approbation in our social lives” (48).
+            - - 四位重要的思想家/n- 对于米歇尔·德·蒙泰涅(1533-92)来说，我们的问题仅仅是我们过于关注自身之外的东西。与其在自然生活之外——在宗教、美德、荣誉、知识或其他方面——寻找意义，我们需要学习，而不是实践内在的满足感。幸福的关键在于简单地把握自己和世界: 追求“仅仅是生活，为了生活而生活，没有哲学、政治或信仰的定向规范的生活”(22)。今天，我们可以用“活在当下”或“正念”这样的语言来描述它幸福就在这里，而不是在另一个世界，我们可以通过实践正确的生活方式来找到它，“追求内在的满足感，在我们的内心生活中寻求心理平衡，在我们的社会生活中寻求直接的认可”(48)。/n
+            - 
+            - 四位重要的思想家
+            - 对于米歇尔-蒙田（1533-92）来说，我们的问题仅仅在于我们过于关注自身之外的东西。与其在我们的自然生活之外寻找意义--宗教、美德、荣誉、知识或其他什么--我们不如学习实践内在的满足感。幸福的关键在于简单地在自己和世界中自在地生活：它是对 "单纯的生活，为其本身而生活，没有哲学、政治或信仰的定向规范的生活 "的追求（22）。今天，我们可能用 "在场 "或 "正念 "这样的语言来描述它。幸福就在这里，而不是在另一个世界，我们可以通过实践正确的生活方式来找到它，"以追求内在的满足感为导向，在我们的内在生活中追求心理平衡，在我们的社会生活中追求无中介的认可" (48)。
+            - 对于米歇尔·德·蒙田 (1533-92) 来说，我们的问题很简单，就是我们过于关注超越自己的事物。 与其在我们的自然生活之外寻找意义——在宗教、美德、荣誉、知识或其他方面——我们需要学习而不是实践内在的满足。 幸福的关键在于简单地安于自己和世界：这是对“纯粹的生活，为自己的生活，没有哲学、政治或信仰的导向规范的生活”的追求（22）。 今天，我们可能会用“在场”或“正念”之类的语言来描述它。 幸福就在这里，而不是在一个世界之外，我们可以通过实践正确的生活方式来找到它，“以寻求内在满足、内心生活中的心理平衡和社会生活中无中介的认可为导向”（48） .
+            - To which Blaise Pascal (1623–62), in a nutshell, says: bunk. For Pascal, Montaigne has dramatically understated the problem. He’s accepted trivial and fleeting pleasures as a substitute for real joy, which gets us nowhere, and his proposal is essentially naive. Human beings don’t want platitudes and deflection and a smattering of diversions to keep us distracted; we want truth, and justice, and love, and eternity, and ultimately God.
+            - - 对此，布莱斯 · 帕斯卡(1623-62)简而言之就是: 胡扯。对帕斯卡而言，蒙田戏剧性地低估了这个问题。他接受琐碎和短暂的快乐作为真正快乐的替代品，这让我们无处可去，他的建议本质上是天真的。人类不需要陈词滥调、偏离主题和一些消遣来分散我们的注意力; 我们需要真理、正义、爱、永恒，以及最终的上帝。
+            - 对此，布莱斯-帕斯卡尔（1623-62）一言以蔽之：垃圾。对帕斯卡尔来说，蒙田极大地低估了问题的严重性。他接受了琐碎和短暂的快乐作为真正的快乐的替代品，这让我们无从下手，而且他的建议本质上是天真的。人类并不想要陈词滥调和转弯抹角，以及让我们分心的零星转移；我们想要真理、正义、爱、永恒，以及最终的上帝。
+            - 简而言之，布莱斯·帕斯卡 (Blaise Pascal, 1623-62) 说：铺位。 对于帕斯卡来说，蒙田大大低估了这个问题。 他接受了琐碎而短暂的快乐来代替真正的快乐，这让我们一事无成，他的提议本质上是幼稚的。 人类不希望陈词滥调、曲解和一些消遣让我们分心； 我们想要真理，正义，爱，永恒，最终是上帝。
+            - But we are ignorant, finite, and destined for death. And that means that without the grace of God we’ll be miserable: “Our consciousness of our own mortality and our awareness of our own ignorance make us unhappy. . . . No psychic equilibrium is possible for a being whose desires so radically outstrip his possibilities. Misery follows ineluctably from an honest estimate of the gap between what we want and what we are” (66). We have a deeper problem than Montaigne admits, and we need a deeper solution. Thus Pascal, though he seems more pessimistic than Montaigne, actually seeks a far richer sort of joy and refuses to settle for anything less. This joy, he concludes, can only be found in Christ.
+            - 但是我们是无知的，有限的，注定要死亡。这意味着，如果没有上帝的恩典，我们会很痛苦: “我们对自己必死的意识，以及对自己无知的意识，让我们不快乐... ..。一个人的欲望如此彻底地超出了他的可能性，他不可能有精神上的平衡。痛苦不可避免地来自于对我们想要的和我们是什么之间差距的诚实估计”(66)。我们有一个比蒙田承认的更深层次的问题，我们需要一个更深层次的解决方案。因此，尽管帕斯卡看起来比蒙田更加悲观，但实际上他寻求的是一种更加丰富的快乐，并且拒绝接受任何少于这种快乐的东西。他总结道，这种喜乐只能在基督里找到。
+            - 
+            - 但我们是无知的，有限的，而且注定要死亡。而这意味着，如果没有上帝的恩典，我们将是悲惨的。"我们对自己死亡的意识和对自己无知的意识使我们不快乐。. . . 对于一个欲望完全超出其可能性的人来说，不可能实现心理平衡。痛苦不可避免地来自于对我们想要什么和我们是什么之间差距的诚实估计"（66）。我们有一个比蒙田承认的更深的问题，我们需要一个更深的解决方案。因此，帕斯卡尔，尽管他看起来比蒙田更悲观，但实际上他寻求的是一种更丰富的快乐，并拒绝满足于任何其他的东西。他的结论是，这种快乐只有在基督里才能找到。
+            - 但我们是无知的、有限的、注定要死的。 这意味着如果没有上帝的恩典，我们会很痛苦：“我们对自己必死的意识和对自己无知的意识使我们不快乐。 . . . 对于一个欲望如此彻底地超过他的可能性的人来说，任何心理平衡是不可能的。 痛苦不可避免地来自对我们想要的和我们现在的差距的诚实估计”（66）。 我们有一个比蒙田承认的更深层次的问题，我们需要更深层次的解决方案。 因此，尽管帕斯卡看起来比蒙田更悲观，但实际上他寻求的是一种更丰富的快乐，并且拒绝满足于任何更少的东西。 他总结说，这种喜乐只能在基督里找到。
+            - Jean-Jacques Rousseau (1712–78) recognizes that Pascal is onto something—the socialites and philosophes of 18th century Paris are indeed secretly miserable—but he wants to solve the problem a different way. “For Pascal,” the Storeys explain, “we are unhappy because we are alienated from God. For Rousseau, we are unhappy because we are alienated from ourselves. For Pascal, nature is fallen but can be redeemed by God. For Rousseau, man is fallen but can be redeemed by nature” (102). Thus begins a quest to find wholeness by going “all in” on something: solitude, society, citizenship, individualism, education, family. Rousseau pursues each one and finds the contentment he craves to be a mirage every time. His friendships collapse, his family life is a disaster, his experiments in citizenship and education fail; even solitude does not bring him rest.
+            - 让-雅克·卢梭(1712-78)认识到帕斯卡说到点子上了ーー18世纪巴黎的社会名流和哲学家们确实暗自痛苦ーー但他想用不同的方式解决问题。“对帕斯卡来说,”斯托里斯解释说，“我们不快乐是因为我们与上帝疏远了。对卢梭来说，我们不快乐是因为我们与自己疏远了。对帕斯卡来说，自然是堕落的，但是上帝可以拯救它。对卢梭来说，人类虽然堕落了，但是可以被自然所救赎”(102)。因此，人们开始通过“全身心投入”某些事物来寻求完整性: 孤独、社会、公民身份、个人主义、教育、家庭。卢梭追求每一个梦想，每一次都发现自己渴望的满足成为海市蜃楼。他的友谊崩溃了，他的家庭生活是一场灾难，他的公民权和教育实验失败了，甚至孤独也不能让他得到休息。
+            - 
+            - 让-雅克-卢梭（Jean-Jacques Rousseau，1712-78）认识到帕斯卡尔的观点--18世纪巴黎的社会名流和哲学家们确实在暗地里感到痛苦，但他想用不同的方式来解决问题。"对于帕斯卡尔来说，"斯托雷夫妇解释说，"我们不快乐是因为我们与上帝疏远了。对卢梭来说，我们不快乐是因为我们与自己疏远了。对帕斯卡尔来说，自然是堕落的，但可以被上帝救赎。对卢梭来说，人是堕落的，但可以被自然所救赎"（102）。因此，通过 "全力以赴 "去寻找整体性的追求开始了：孤独、社会、公民权、个人主义、教育、家庭。卢梭追求每一种东西，l
+            - 让-雅克·卢梭（Jean-Jacques Rousseau，1712-78 年）认识到帕斯卡在做某事——18 世纪巴黎的社会名流和哲学家确实暗地里悲惨——但他想以不同的方式解决这个问题。 “对帕斯卡来说，”楼层解释说，“我们不快乐是因为我们与上帝疏远了。 对于卢梭来说，我们不快乐是因为我们与自己疏远了。 对于帕斯卡来说，自然是堕落的，但可以被上帝救赎。 对卢梭来说，人是堕落的，但自然可以救赎”（102）。 因此，开始寻求通过“全力以赴”某件事来寻找完整性：孤独、社会、公民身份、个人主义、教育、家庭。 卢梭追寻每一个，每一次都能找到他渴望成为海市蜃楼的满足感。 他的友谊崩溃了，他的家庭生活一团糟，他在公民身份和教育方面的实验失败了； 即使是孤独也不能让他休息。
+            - [Pascal] seeks a far richer sort of joy and refuses to settle for anything less. This joy, he concludes, can only be found in Christ.
+            - [帕斯卡]寻求一种更加丰富的快乐，并拒绝满足于其他任何东西。他总结道，这种喜乐只能在基督里找到。
+            - 帕斯卡尔寻求一种更丰富的快乐，并拒绝满足于任何其他的东西。他的结论是，这种快乐只有在基督里才能找到。
+            - But there are lessons to learn from his failures. “Rousseau is like a chemist in a laboratory whose daring combinations of elements have blown up in his face: the experiment kills its author but leaves a telling residue in his beakers” (139). It’s a tragic but instructive legacy. “The modern quest for immanent contentment is destined to leave us as restless as ever, no matter how wholeheartedly we give ourselves to it” (139).
+            - 但是，他的失败中也有值得我们学习的地方。“卢梭就像实验室里的一个化学家，其大胆的元素组合在他脸上炸开了花: 这个实验杀死了它的作者，却在他的烧杯里留下了明显的残留物”(139)。这是一个悲剧性但有益的遗产。“现代人对内在满足的追求注定会让我们一如既往地坐立不安，无论我们多么全心全意地投入其中”(139)。
+            - 
+            - 但从他的失败中也可以学到一些教训。"卢梭就像实验室里的化学家，其大胆的元素组合在他面前炸开了锅：实验杀死了它的作者，但在他的烧杯里留下了明显的残留物"（139）。这是一个悲剧性的，但却具有指导意义的遗产。"现代人对内在满足的追求注定要让我们像以前一样坐立不安，无论我们多么全心全意地投入其中"（139）。
+            - 但是从他的失败中可以吸取教训。 “卢梭就像实验室里的化学家，大胆的元素组合在他的脸上爆炸了：实验杀死了它的作者，但在他的烧杯中留下了明显的残留物”（139）。 这是一个悲惨但有教育意义的遗产。 “现代对内在满足的追求注定会让我们一如既往地焦躁不安，无论我们多么全心全意地投入其中”（139）。
+            - Which takes us back to Tocqueville (1805–59) and his analysis of American restlessness. Tocqueville, like Pascal, suspects that a turbulent unease lies beneath all the Montaignesque talk of prosperity—to say nothing of equality, liberty, and the pursuit of happiness—and the greater the prosperity, the greater the restlessness. His writings are an attempt to teach Americans “the Pascalian lesson that the goods that are their treasure, the justice that is their pride, and the happiness that is their aim can never be enough for a human soul” (144).
+            - 这让我们回到了 Tocqueville (1805-59)和他对美国人躁动不安的分析。托克维尔和帕斯卡尔一样，怀疑在所有蒙泰式的繁荣论之下潜藏着一种动荡的不安ーー更不用说平等、自由和追求幸福ーー而且越繁荣，越躁动。他的作品试图向美国人传授“帕斯卡式的教训，即他们的财富、他们的骄傲、他们的目标——幸福永远不能满足一个人的灵魂”(144)。
+            - 这让我们回到了托克维尔（1805-59）和他对美国人躁动的分析。托克维尔和帕斯卡尔一样，怀疑在所有蒙太奇式的繁荣言论--更不用说平等、自由和对幸福的追求--下面隐藏着一种动荡不安的情绪，繁荣越大，不安越大。他的著作试图教导美国人 "帕斯卡尔式的教训，即作为他们财富的货物、作为他们骄傲的正义和作为他们目标的幸福对人类的灵魂来说永远是不够的"（144）。
+            - 这将我们带回到托克维尔（Tocqueville，1805-59）和他对美国不安的分析。 托克维尔和帕斯卡一样，怀疑在蒙田式关于繁荣的所有谈话背后隐藏着一种动荡的不安——更不用说平等、自由和追求幸福了——繁荣越大，不安就越大。 他的著作试图向美国人传授“帕斯卡式的教训，即作为他们的财富的货物、作为他们骄傲的正义以及作为他们目标的幸福对于人类的灵魂来说永远是不够的”（144）。
+            - It’s a tough sell. Americans, like the modern West in general, are inclined to see the world in immanent, material terms, which makes it harder to believe in the soul and harder to ask deep questions about meaning, spirituality, and transcendence. But that’s exactly the problem. “Without self-knowledge to guide it, the quest for the good life becomes a slapdash sequence of locations, vocations and vacations” (163).
+            - 这是一个艰难的推销。美国人，就像现代西方人一样，倾向于用内在的、物质的术语来看待世界，这使得人们更难相信灵魂，也更难提出关于意义、精神性和超越性的深刻问题。但这正是问题所在。“没有自知之明的引导，对美好生活的追求变成了一系列匆忙的地点、职业和假期”(163)。
+            - 这是一个艰难的销售。美国人，就像一般的现代西方人一样，倾向于从内在的、物质的角度来看待世界，这使得人们更难相信灵魂，更难提出关于意义、精神性和超越性的深层问题。但这恰恰是问题所在。"如果没有自知之明的指导，对美好生活的追求就会变成一连串的地点、职业和假期的草率行为"（163）。
+            - 这是一个艰难的销售。 美国人，就像一般的现代西方一样，倾向于以内在的、物质的方式看待世界，这使得人们更难相信灵魂，也更难提出关于意义、灵性和超越性的深刻问题。 但这正是问题所在。 “如果没有自知之明来引导它，对美好生活的追求就变成了一系列草率的地点、职业和假期”（163）。
+            - Inevitable Restlessness
+            - Why We Are Restless is a book of exposition, not exhortation. There are no next steps, no knockdown arguments, and no points of application. It does a magnificent job of summarizing four hugely important thinkers with impressive clarity, wit, and brevity and raises some profound questions about the modern quest for happiness in the process. But it’s not a practical guide for how to respond. As such, it’s only fair to say that it wouldn’t be everybody’s cup of tea.
+            - {{[[POMO]]: 25}} {{word-count}}
+            - - 不可避免的躁动/n- 《我们为何躁动》是一本阐述的书，而不是劝诫的书。没有接下来的步骤，没有击倒参数，也没有应用点。它以令人印象深刻的清晰、机智和简洁概括了四位重要思想家，并提出了一些关于现代人在这个过程中对幸福的追求的深刻问题。但这并不是一个如何回应的实用指南。因此，公平地说，并不是每个人都喜欢这样。/n
+            - 
+            - 不可避免的躁动
+            - 我们为什么不安宁》是一本阐述性的书，而不是劝诫性的。书中没有下一步行动，没有令人信服的论据，也没有应用的要点。它以令人印象深刻的清晰、机智和简洁，出色地总结了四位极为重要的思想家，并在此过程中提出了一些关于现代人追求幸福的深刻问题。但它并不是一个关于如何应对的实用指南。因此，只能说它不是每个人都喜欢的那杯茶。
+            - 《为什么我们不安分》是一本阐述而非劝勉的书。 没有后续步骤，没有击倒论据，也没有应用点。 它以令人印象深刻的清晰、机智和简洁总结了四位非常重要的思想家，并在此过程中提出了一些关于现代对幸福的追求的深刻问题。 但这不是如何应对的实用指南。 因此，公平地说，它不会是每个人的一杯茶。
+            - In my view, however, the Storeys have put their finger on something of tremendous significance for evangelism and apologetics in the post-Christian West. In a flat world, where transcendence has been lost and everything is immanent, restlessness is inevitable. As they explain,
+            - 然而，在我看来，在后基督教的西方，storys 夫妇已经把他们的手指放在福音传道和护教的重大意义上。在一个平坦的世界里，超越已经失去，一切都是内在的，不安是不可避免的。正如他们解释的那样,
+            - 然而，在我看来，斯托雷夫妇已经把他们的手指放在了对后基督教西方的福音传播和道歉有巨大意义的东西上。在一个平坦的世界里，超越性已经丧失，一切都迫在眉睫，躁动是不可避免的。正如他们解释的那样。
+            - 然而，在我看来，Storeys 指出了一些对后基督教西部的传福音和护教学具有重大意义的东西。 在一个平坦的世界里，已经失去了超越，一切都是内在的，躁动是不可避免的。 正如他们解释的那样，
+            - Pascal reveals the misery that haunts the quest for immanent contentment like a shadow. That misery—carefully hidden but constantly revealed in the love of diversion so characteristic of modern men and women—is the enduring sign of the mismatch between the kind of happiness we pursue and the kind of beings we are. (178, emphasis added)
+            - 帕斯卡揭示了困扰寻求内在满足的苦难就像影子一样。这种痛苦---- 小心翼翼地隐藏在现代男性和女性特有的消遣爱好中，却不断地暴露出来---- 是我们所追求的幸福与我们所成为的人之间不匹配的持久标志。(178，加强语气)
+            - 帕斯卡尔揭示了像影子一样萦绕着对内在满足的追求的痛苦。这种苦难--小心翼翼地隐藏起来，但在现代男女所特有的对消遣的热爱中不断显露出来--是我们所追求的幸福与我们是什么样的人之间不匹配的持久标志。(178, emphasis added)——
+            - - 帕斯卡揭示了像阴影一样困扰着寻求内在满足的痛苦。 这种痛苦——在现代男人和女人特有的消遣之爱中被小心地隐藏但不断地显露出来——是我们追求的幸福与我们所是的存在之间不匹配的持久标志。 （178，强调添加）
+            - But that, of course, presents a powerful opportunity for anyone who is Augustinian enough to see it: “For you made us for yourself, O Lord, and our hearts are restless until they find their rest in you.”
+            - 但是，当然，这对于任何一个有足够的奥古斯丁精神来看待它的人来说，都是一个极好的机会: “主啊，你为你自己创造了我们，我们的心永不安宁，直到在你身上得到安息。”
+            - 但是，这当然为任何有足够奥古斯丁精神的人提供了一个强大的机会。"主啊，你为自己造了我们，我们的心不安，直到在你那里找到安息"。
+            - 但这当然为任何奥古斯丁的人提供了一个强大的机会，足以看到它：“因为你为你自己创造了我们，主啊，我们的心不安，直到他们在你身上找到安息。”
+            - Andrew Wilson is the teaching pastor at King’s Church, London. He’s the author of God of All Things: Rediscovering the Sacred in an Everyday World (Zondervan, 2021). Follow him on Twitter (@AJWTheology).
+            - **Andrew Wilson**（安德鲁·威尔逊）是伦敦国王教会（King’s Church）的教导牧师。著有 God of All Things 一书。
+            - 安德鲁-威尔逊是伦敦国王教堂的教学牧师。他是《万物之神》的作者。在日常世界中重新发现神圣》（Zondervan, 2021）。在Twitter上关注他（@AJWTheology）。
+        - 
+        - 
+        - 
+    - 第三篇：[Stop Eating Spiritual Candy](https://www.thegospelcoalition.org/article/stop-eating-spiritual-candy/)
+        - {{[[POMO]]: 25}} {{word-count}}
+            - deepl翻译 {{[[POMO]]: 25}}
+                - Stop Eating Spiritual Candy
+                - 不要再吃属灵糖果
+                - FEBRUARY 25, 2019  |  AMY GANNETT
+                - I’ve always had a sweet tooth. I love desserts of all kinds—especially ice cream. Sweet things are comfortable and sometimes comforting. And since I’m always craving them? Well, they always seem to hit the spot.
+                - 我一向嗜甜，喜欢各种甜点，尤其是冰淇淋。甜食让我感到舒服，有时也把我安抚。既然我总是渴望吃甜，它们似乎总能让我满足。
+                - But in the last few years I’ve had to strengthen my immune system, which has meant drastically cutting back on sugar. And it’s funny what’s happened.
+                - 但是在过去的几年里，我不得不增强我的免疫力，这意味着糖分的摄入大幅减少。有趣的事情发生了。
+                - First, I realized sugar is in absolutely everything. I had no idea how many things I ate—things I thought were good and nourishing for me—that were loaded with sugar and slowly eating away at my overall health. Learning this fact made me all the more thankful for the second thing I noticed: The less sugar I ate, the less I craved it.
+                - 首先，我意识到糖绝对存在于一切食物中。我不知道，我吃过的那些东西，包括我觉得对身体有好处的营养食品，都含有糖分，并慢慢侵蚀我整体的健康。了解到这一事实后，我对第二个发现愈发感激：吃的糖越少，对糖的渴求就越少。
+                - But my sweet tooth doesn’t stop with my physical cravings. It spills over into my spiritual life as well. In times of spiritual struggle, I’ve turned to sweet, seemingly true sayings to soothe my spiritual cravings.
+                - 虽然身体对甜食的渴望减少了，但我嗜甜的爱好并没有停止。它也蔓延到我的属灵生活中。在属灵挣扎的时候，我曾求助于甜美的、貌似真实的格言来抚慰我属灵上的渴求。
+                - I’ve leaned on Pinterest-worthy quotes about how I’m an overcomer who can do anything. In times of spiritual drought, I’ve listened to social-media influencers tell me I already have everything I need within myself. And in times of chaos, I’ve cherished well-intended words from friends reminding me that I’m already stronger than I could ever believe.
+                - 我曾依赖Pinterest上的名言，说我是个征服者，能成就万事。在灵性干涸的时候，我听从社交媒体上大V的教导，相信我已经拥有了自己所需要的一切。在混乱的时候，我珍惜朋友们善意的话语，提醒我，我已经比我所相信的要强大。
+                - 我曾靠着Pinterest的名言，说我是一个可以做任何事情的克服者。在灵性干旱的时候，我听从社交媒体的影响者告诉我，我自己已经拥有我所需要的一切。在混乱的时候，我珍惜朋友们善意的话语，提醒我，我已经比我所相信的更为强大。
+                - {{[[POMO]]: 25}} {{word-count}}
+                - In these times of feeling stretched too thin, I’ve reached for sweets: delectable little reminders of how capable I am, how invincible I am, how much I can accomplish. They’re comfortable and comforting. And since I’m always craving them? Well, they always seem to hit the spot.
+                - 在我感到无能为力的时候，我就伸手要吃甜食：美味的小提醒，提醒我有多大的能力，我是多么的不可战胜，我能完成多少。它们让我感到舒适和安心。既然我总是渴望得到它们？嗯，它们似乎总能击中要害。
+                - But these tasty mantras aren’t telling me the whole truth.
+                - 但是这些美味的咒语并没有告诉我全部的真相。
+                - Sugary Substitutes for Truth
+                - I’m not alone. Christians frequently exchange the nourishing truths of God’s Word for “sweeter” substitutes. Particularly when life wears us thin, we can lean on half-truths about our own resilience rather than on reminders of God’s sovereignty and sufficiency.
+                - 真理的含糖替代品
+                - 我并不是孤例。基督徒经常用 "更甜 "的替代品来更换上帝话语中滋养人的真理。特别是当生活让我们疲惫不堪的时候，我们可能会依赖那些关于我们自我修复能力的半真半假的说法，而不是对于我们的上帝主权和充足性的提醒。
+                - When I first set out to cut back on sugar, I didn’t think I’d be able to do it. I craved sugar constantly. A nurse friend explained what was happening in my body. She told me that sugar lies, telling our bodies we have more energy than we actually do, making us feel as though we’ve eaten something more substantial than we actually have. And, slowly, sugar can turn us into addicts, always looking for that soothing treat to get us through to the next craving.
+                - 当我第一次着手减少糖分时，我觉得自己做不到。我经常渴望吃糖。一位护士朋友解释了我体内正在发生的事情。她告诉我，糖会撒谎，告诉我们的身体我们比实际拥有更多的能量，让我们觉得好像我们吃了比实际营养更丰富的东西。而且，慢慢地，糖会让我们上瘾，总是在寻找那种舒缓的食物来让我们度过下一次的渴望。
+                - 
+                - The same can be said of the spiritual substitutes I’ve been feeding myself. Like sugar, these sweet-sounding inspirational quotes lie to me.
+                - 
+                - 我一直在喂自己的精神替代品也是如此。 就像糖一样，这些听起来甜美的励志名言，也在对我撒谎。
+                - {{[[POMO]]: 25}} {{word-count}}
+                - They tell me I’m strong, but do nothing to remind me of God’s true strength (Isa. 41:10). They tell me I’m capable, but neglect to tell me God is the source of all things (James 1:17). They tell me I’m enough, but fail to remind me that he is the eternal “I AM” (Ex. 3:14). They tell me I can do more than I really can. They lure me into thinking they offer lasting nourishment, only to leave me exhausted, defeated, and looking for my next fix.
+                - 他们说我很坚强，却没有提醒我上帝的我真正力量（赛41:10）。他们说我有能力，却没有告诉我，上帝是美善的源头（雅各书1:17）。他们说我拥有的已经足够，但没有提醒我，上帝才是 "自有永有的"（出3:14）。他们告诉我，我能做的比我所做的更多。他们引诱我，让我以为他们能提供持久的滋养，但最终却让我筋疲力尽，败下阵来，并寻求下一次的满足。
+                - Learn to Crave Truth
+                - Cutting sugar out of my diet has taught (and retaught) my body how to crave true nourishment. Through small, daily choices, I’m training my body to be satisfied with leafy greens from my friend’s garden and to crave the acidity of a vine-ripened tomato. And thankfully, the more I feed on true nourishment, the more I crave the good stuff.
+                - 学会渴慕真理
+                - 将糖从食单中剔除，使我的身体重新学会了如何渴慕真正的营养品。通过每天的小小选择，我训练身体满足于朋友花园里的绿叶蔬菜，并渴想果园里成熟西红柿的酸。值得庆幸的是，我越是以真正的营养为食，就越是渴慕好东西。
+                - The more I feed on true nourishment, the more I crave the good stuff.
+                - 我越是以真正的营养为食，就越是渴望好东西。
+                - Weaning ourselves off nutrient-light spirituality is tough work, but as we make the daily choice to delight in the unchanging character of God, we teach ourselves to crave that which will truly satisfy. When we feel weak and choose to feast on the Word, we’re formed into people who reach for his work in our weakness and who rely on his Spirit in our want.
+                - 让自己摆脱营养不足的属灵光景是一项艰巨的工作，但是当我们每天选择以上帝不变的品格为乐时，我们就会教导自己渴望真正带来满足的东西。 当我们感到软弱并选择饱享圣言时，我们就被塑造成这样的人，在我们的软弱中寻求他的工作，在我们的需要中依靠他的圣灵。
+                - So let’s resolve to feed ourselves from a more sustaining source. Let’s stop feeding ourselves spiritual garbage that doesn’t sustain. Let’s stop telling ourselves we’re strong enough and brave enough and good enough to do what we, in our human limitations, can’t do. Let’s embrace the reality of who we are and who our God is. We are consistently weak; it’s God who must show up and show off.
+                - 因此，让我们下定决心，从更持久的源泉来滋养自己。让我们停止喂养自己那些无法维持生命的精神垃圾。让我们停止告诉自己，我们足够强大、足够勇敢、足够优秀，可以做人类的局限性下所不能做到的事情。 让我们接受这两个现实：我们是谁？我们的上帝是谁？ 我们一直很软弱； 上帝必须出现，上帝必须闪耀。
+                - And as we do, we’ll find what I found with sugar: sweet nonsense is in absolutely everything. But as we learn to identify it and cut it out, we’ll crave it less. As we remind ourselves of the truths of God’s character, we’ll start to crave the rich truths of God’s Word. And as we feed on that daily bread, we’ll teach ourselves to crave what eternally satisfies—the Bread of Life himself.
+                - {{[[POMO]]: 25}} {{word-count}}
+                - 当我们这样做了，就会发现，就像糖绝对存在于一切食物中，甜蜜的废话绝对存在于一切事物之中。但是，当我们学会识别它并将其剔除时，我们会减少对它的渴望。 当我们提醒自己上帝品格的真理时，我们就会开始渴望上帝话语中丰富的真理。 当我们用每日的灵粮喂养自己的时候，就会渴慕能是我们得到永远满足的生命的真粮。
+                - Amy Gannett is a writer and Bible teacher passionate about equipping women to study and teach the Bible. She is also the founder of Tiny Theologians, a line of discipleship tools for children. Amy and her husband, Austin, are church planters in Eastern North Carolina. You can read more from her on her blog and follow her on Twitter.
+                - **Amy Gannett**（艾米·甘尼特）是一位作家，也是位热心装备女性学习、教导圣经的老师。她是“小小神学家”网站`（www.tiny-theologians.com）`的发起人，该机构提供一系列门训孩子的工具。艾米和丈夫奥斯汀一起在北卡的东部植堂。
+    - 第四篇：[Is the Trinity in Genesis 1?](https://www.thegospelcoalition.org/article/trinity-genesis-1/)
+        - {{[[POMO]]: 25}} {{word-count}}
+            - deepl翻译
+                - Is the Trinity in Genesis 1?
+                - JANUARY 1, 2020  |  SCOTT SWAIN
+                - 《创世记》第一章中有三位一体吗？
+                - Editors’ note: 
+                - This is part of TGC’s 2020 Read the Bible initiative, encouraging Christians and churches to read together through God’s Word in a year. Subscribe to our daily newsletter and podcast (Apple | RSS | Stitcher), and join our Facebook group.
+                - 编者按
+                - 这是TGC的2020年读经计划的一部分，鼓励基督徒和教会在一年内共同读完上帝的话语。订阅我们的每日通讯和播客(Apple | RSS | Stitcher)，并加入我们的Facebook群。
+                - Is the Trinity in Genesis 1? The answer is a straightforward “yes.” Because God is Father, Son, and Spirit yesterday, today, and forever, the holy Trinity is present on every page of holy Scripture, including Genesis 1.
+                - {{[[POMO]]: 25}} {{word-count}}
+                - 三位一体的教义存在于《创世记》第1章吗？答案是直截了当的 "是"。因为神在昨日、今日一直到永远是一样的，都是圣父、圣子和圣灵。神圣的三位一体存在于圣经的每一页，包括《创世记》第1章。
+                - Though affirming the presence of the Trinity on every page of Scripture is easy, discerning the mode of the Trinity’s presence in various passages of Scripture is more complicated. If older readers of Genesis 1 were more likely to fall prey to overinterpretation (seeing more of the Trinity than a particular passage attests), contemporary readers are more likely to fall prey to underinterpretation (seeing less of the Trinity than a particular passage attests).
+                - 虽然肯定三位一体存在于圣经的每一页很容易，但辨别三位一体在不同经文中的存在方式则比较复杂。如果说《创世记》的老读者更有可能陷入过度解读（看到的三位一体比某段经文所证明的更多），那么当代读者则更有可能陷入解读不足（看到的三位一体比某段经文所证明的更少）。
+                - Hidden Presence in the Old Testament
+                - We begin with the larger question of how the Trinity is present in the Old Testament. According to Lutheran theologian Johann Gerhard, the Trinity is present in Genesis 1 “in a manner of revelation appropriate to that time.”
+                - 旧约中的隐藏存在
+                - 我们从三位一体如何在旧约中存在这个大问题开始。根据路德宗神学家约翰-格哈德（Johann Gerhard）的观点，三位一体在《创世纪》第1章中 "以适合那个时代的启示方式 "出现。
+                - The self-revelation of the Trinity in Scripture unfolds according to a twofold economy. There is that which comes before Jesus’s appearance in the flesh (the self-revelation of the Trinity in the Old Testament) and that which comes after Jesus’s appearance in the flesh (the self-revelation of the Trinity in the New Testament). The contrast between these two forms of revelation is not absolute. It’s not that the Trinity is absent in the Old Testament and present in the New Testament. The contrast is relative. Both testaments are modes of the Trinity’s presence, but they are different modes of the Trinity’s presence. The Trinity is “hidden” in the Old Testament and “manifest” in the New.
+                - 圣经中三位一体的自我启示，在两约中分别呈现。在耶稣道成肉身之前(旧约中三位一体的自我启示)和耶稣道成肉身之后(新约中三位一体的自我启示)。这两种形式的启示之间的对比并不是绝对的。并不是说三位一体在旧约中没有，而在新约中才出现。这种对比是相对的。新旧两约都是三位一体的存在模式，但它们是三位一体不同的存在模式。三位一体在旧约中是“隐藏的”，在新约中是“显明的”。
+                - The presence of the Trinity in the Old Testament, like a treasure hidden in a field (Matt. 13:44; Col. 2:2–3), is a “hidden presence,” one we can only fully appreciate in light of the Trinity’s “manifest presence” in the New.
+                - 三位一体在旧约中的存在，就像藏在田野里的财宝（马太福音13:44；西2:2-3），是一种 "隐藏的存在"，我们只有根据三位一体在新约中的 "显明的存在 "才能充分理解。
+
+                - Hidden Presence in Genesis 1
+                - With this clarification in place, we’re better prepared to address our question: how is the Trinity present in Genesis 1 “in a manner of revelation appropriate to that time”? Genesis 1 exhibits at least three traces of the Trinity’s hidden presence. These traces provide essential building blocks for the full edifice of Trinitarian revelation manifest in the New Testament.
+                - 创世记第一章中的隐藏存在
+                - 有了这个澄清，就可以更好地解决我们的问题: 三位一体如何在创世纪第1章“以一种适合那个时代的启示方式”出现？创世纪第1章至少展示了三位一体隐藏存在的三条痕迹。这些痕迹为新约中三位一体的启示提供了重要的基石。
+                - 1. Genesis 1 exhibits several instances of subject-verb disagreement.
+                - In Genesis 1:1, the plural noun “Elohim” (“God” in the ESV) is joined with the singular verb “created”: “In the beginning, [Elohim] created the heavens and the earth.” The pattern is repeated in Genesis 1:27: “So [Elohim] created man in his own image, in the image of [Elohim] he created him; male and female he created them.”
+                - 
+                - 1. 1.创世记1中出现了几处主谓不一致的情况。
+                - 在创世记1:1中，复数名词 "Elohim"（ESV为 "上帝"）与单数动词 "创造 "连在一起。"起初，[Elohim]创造了天和地"。这种模式在《创世纪》1:27中重复出现："于是[Elohim]照着自己的形像造人，照着[Elohim]的形像造人；他创造他们，又创造他们。"
+                - These examples of subject-verb disagreement seem to be intentional on the part of the author. What is he emphasizing? That God alone created all things by means of his singular agency. Creation wasn’t the work of a committee of heavenly beings partnering together. God alone created heaven and earth, without any guides (Isa. 40:13–14) or helpers (Isa. 44:24; Jer. 10:12; 27:5).
+                - 这些主谓不一致的例子似乎是作者有意为之的。他在强调什么？只有上帝通过他唯一的机构创造了万物。创造并不是天上的人合伙的工作。上帝独自创造了天堂和地球，没有任何指导者（赛40:13-14）或帮助者（赛44:24；耶10:12；27:5）。
+                - Creation wasn’t the work of a committee of heavenly beings.
+                - 创造并不是一个天上的委员会的工作。
+                - In emphasizing this point, Genesis 1 provides the first and fundamental building block of trinitarian theology: monotheism. One God created all things, rules all things, and directs all things to himself. Apart from monotheism, belief in the Trinity would be a form of polytheism. Only in the context of monotheism is faith in the Trinity faith in one God in three persons.
+                - 在强调这一点时，《创世纪》第1章提供了三位一体神学的第一个和基本构件：一神论。一位上帝创造万物，统治万物，并将万物引向自己。离开了一神论，对三位一体的信仰将是一种多神论的形式。只有在一神论的背景下，对三位一体的信仰才是对三位一体的一位神的信仰。
+                - 2. Genesis 1 includes God’s Word and Spirit within God’s singular agency.
+                - The preceding examples teach us that God alone created heaven and earth. They also help us appreciate the place of God’s Word and Spirit within God’s work of creating.
+                - 2. 2.创世记第1章将上帝的话语和圣灵纳入上帝的单一机构。
+                - 前面的例子告诉我们，只有上帝创造了天和地。它们也帮助我们理解上帝的话语和精神在上帝的创造工作中的地位。
+                - According to Genesis 1, God’s Word and Spirit are the means whereby God produces, forms, and fills all things. God speaks creatures into existence (Gen. 1:3, 6, 9, 11, 14, 20, 24, 26). God names the various creatures he brings into existence (Gen. 1:5, 8, 10). And God blesses the creatures he brings into existence (Gen. 1:22, 28). Along with God’s speech, God’s Spirit is also active in the work of creation, hovering like a mother bird (Gen. 1:2; cf. Deut. 32:11) over the unformed, unfilled world God produced, ready to endow it with life, energy, intelligence, and fullness by means of his life-giving presence (Ex. 31:3; 35:31; Num. 24:2).
+                - 根据《创世纪》第1章，上帝的话语和圣灵是上帝产生、形成和充满万物的手段。上帝用话语创造了生物（创1：3，6，9，11，14，20，24，26）。上帝为他带来的各种生物命名（创1：5，8，10）。上帝祝福他所带来的生物（创1:22，28）。伴随着上帝的话语，上帝的灵也活跃在创造的工作中，像母鸟一样盘旋在上帝创造的未成形、未填充的世界上（创1:2；参看申32:11），准备通过他赐予生命的存在赋予它生命、能量、智慧和充实（出31:3；35:31；民24:2）。
+                - In identifying God’s Word and Spirit as the means whereby God produces, forms, and fills all things, Genesis 1 includes God’s Word and Spirit within God’s singular agency. To say that God creates by his Word and Spirit is another way of saying that God creates by himself and not by the agency of another (Ps. 33:6–9; John 1:3; Rom. 11:36; 1 Cor. 8:6; Col. 1:16; Heb. 1:2).
+                - 创世记第1章将神的话语和圣灵确定为神产生、形成和充满万物的手段，将神的话语和圣灵纳入神的单一机构。说上帝通过他的话语和精神创造，是说上帝通过自己创造，而不是通过其他机构创造（诗33：6-9；约翰福音1：3；罗马书11：36；林前8：6；西1：16；来1：2）。
+                - Whatever distinctions Scripture later reveals between Elohim, his Word, and his Spirit, they should not be taken as distinctions between the one God and something that is not God. They should be taken as distinctions within the one God himself.
+                - 无论圣经后来揭示了伊洛因、他的话语和他的精神之间的区别，它们都不应被视为唯一的神和非神的东西之间的区别。它们应该被看作是唯一的上帝本身的区别。
+                - Genesis 1 doesn’t yet indicate the full significance that the names “Word” and “Spirit” will have for trinitarian theology. The full significance of these names only comes with the appearance of the Word made flesh and the outpouring of the Spirit at Pentecost. Nevertheless, by including God’s Word and Spirit within God’s singular agency, Genesis 1 puts another fundamental building block of trinitarian theology in place. Whatever distinctions Scripture later reveals between Elohim, his Word, and his Spirit, they should not be taken as distinctions between the one God and something that is not God. They should be taken as distinctions within the one God himself.
+                - 创世记第一章还没有表明 "道 "和 "灵 "这两个名字对三位一体神学的全部意义。这些名字的全部意义只有在道成肉身和圣灵在五旬节浇灌的时候才会出现。然而，通过将神的道和灵纳入神的单一机构，创世记1号将三神论的另一个基本构件放在那里。无论圣经后来揭示了伊洛因、他的话语和他的精神之间的区别，它们都不应被视为唯一的神和非神的东西之间的区别。它们应该被看作是唯一的上帝本身的区别。
+                - 3. What about those plurals?
+                - As noted above, Genesis 1 repeatedly identifies God by the plural noun “Elohim.” Some biblical commentators have taken this plural noun as an indication of God’s tripersonal fullness. Still others have taken God’s plural self-address in Genesis 1:26 (“Let us make man in our image, after our likeness”) as an indication that the work of creation is the work of one God in three persons. Are these plural forms also signs of the Trinity’s hidden presence? Let’s focus on Genesis 1:26.
+                - 3. 3.那些复数是什么？
+                - 如上所述，《创世记》第1章多次用复数名词 "Elohim "来指代上帝。一些圣经评论家认为这个复数名词表明了上帝的三重人格的完整性。还有人认为创世记1:26中上帝的复数自称（"我们要照着我们的形象，按着我们的样式造人"）表明创造的工作是三位一体的上帝的工作。这些复数形式是否也是三位一体隐藏存在的迹象？让我们关注一下创世记1：26。
+                - God’s plural self-address in Genesis 1:26 is sometimes explained as an example of the so-called “royal we,” an idiomatic expression whereby a king addresses himself in plural form. Others see it as an example of God addressing the heavenly assembly of angels (Job 1:6; 2:1). Both explanations are unlikely. The first lacks evidence of being an idiomatic expression in the Ancient Near East. The second contradicts the overarching message of Genesis 1 and Scripture as a whole. When it comes to God’s work of creating, God does not enlist the help of angels, which at best serve as an accompanying chorus (Job 38:7). God alone acts by means of his singular, sovereign agency: “I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself” (Isa. 44:24).
+                - 创世记1:26中上帝的复数自称有时被解释为所谓的 "王室的我们 "的例子，这是一个成语表达方式，国王用复数形式称呼自己。还有人认为这是神对天上的天使集会讲话的例子（约伯记1：6；2：1）。这两种解释都是不可能的。第一种解释缺乏证据表明它是古代近东的一种成语表达方式。第二种说法与《创世纪》第1章和整个圣经的总体信息相矛盾。当涉及到神的创造工作时，神没有寻求天使的帮助，天使充其量只是一个伴奏合唱（约伯记38：7）。只有上帝通过他唯一的主权机构行事。"我是创造万物的耶和华，唯有我把天拉长，把地铺开"（赛44:24）。
+
+                - What, then, should we make of the riddle of God’s plural self-address in Genesis 1:26? As Robert Jenson somewhere observes, God’s Word and Spirit are the only candidates Genesis 1 actually presents as potential objects of God’s plural self-address in Genesis 1:26. This observation notwithstanding, a conclusive judgment remains difficult to reach.
+                - 那么，我们应该如何理解创世纪1:26中上帝的复数自称之谜？正如罗伯特-詹森（Robert Jenson）在某处观察到的那样，上帝的话语和圣灵是创世记1章26节中作为上帝复数自称的潜在对象而实际呈现的唯一人选。尽管有这样的观察，但结论性的判断仍然难以达成。
+                - The difficulty of arriving at conclusive judgments when interpreting Old Testament revelation of the Trinity should not surprise us—and need not bother us—if we are sensitive to the twofold economy of scriptural revelation of the Trinity. The riddles of Old Testament revelation of the Trinity are only resolved by New Testament revelation of the Trinity.
+                - 在解释旧约中三位一体的启示时，如果我们对圣经中三位一体启示的双重经济敏感，就不应该惊讶，也不需要困扰我们。旧约对三位一体的启示之谜只有通过新约对三位一体的启示才能解决。
+                - Genesis 1 Sets the Stage
+                - Traces of the Trinity’s presence in the Old Testament provide precious building blocks for the full edifice of trinitarian revelation that follows in the New. Genesis 1 introduces us to the main character of the scriptural drama: the one God who rules all things by his Word and Spirit. Genesis 1 sets the stage on which the scriptural drama unfolds: the world produced, formed, and filled by the triune God. And Genesis 1 introduces us to the main object of the triune God’s sovereign self-commitment: the creature made in God’s image.
+                - 创世记1》奠定了基础
+                - 三位一体在旧约中的存在痕迹为新约中三位一体启示的完整架构提供了宝贵的基石。创世记1向我们介绍了圣经戏剧的主角：通过他的话语和圣灵统治万物的独一上帝。创世记》为圣经戏剧的展开搭建了舞台：由三位一体的神所创造、形成和充满的世界。创世记1号向我们介绍了三位一体的上帝的主权自我承诺的主要对象：按照上帝的形象制造的生物。
+                - In doing so, Genesis 1 serves the main purpose of holy Scripture, which is to promote union and communion between the holy Trinity and the people created, redeemed, and perfected for himself.
+                - 这样一来，创世纪1号就达到了神圣圣经的主要目的，即促进神圣的三位一体神与为他自己创造、救赎和完善的人之间的联合和共融。
+                - Scott R. Swain is president and James Woodrow Hassell professor of systematic theology at Reformed Theological Seminary in Orlando, Florida. He has written or edited several books, including The God of the Gospel: Robert Jenson’s Trinitarian Theology, Retrieving Eternal Generation, and The Trinity: An Introduction (forthcoming).
+                - **Scott R. Swain**（斯科特·斯温）是改革宗神学院佛罗里达校区的院长和系统神学教授，主要著作是《福音中的神：罗伯特·简森的三一论》（__God of the Gospel: Robert Jenson’s Trinitarian Theology__，中文名暂译）。
+                - 斯科特-R-斯温是佛罗里达州奥兰多改革神学院的院长和詹姆斯-伍德罗-哈塞尔系统神学教授。他写过或编辑过几本书，包括《福音之神》。罗伯特-詹森的三位一体神学》、《找回永恒的世代》和《三位一体》。三位一体：简介》（即将出版）。
+    - 第五篇：[How Reformed Theology Is Changing Latinos in Chicago](https://www.thegospelcoalition.org/article/reformed-latinos-chicago/)
+        - {{[[POMO]]: 25}} {{word-count}}
+            - deepl翻译
+                - How Reformed Theology Is Changing Latinos in Chicago
+                - JANUARY 6, 2022  |  ELIOT VELAZQUEZ
+                - 改革宗神学如何改变芝加哥的拉美人
+                - Two years ago, my church nearly shut down.
+                - 两年前，我的教会几乎关闭。
+                - We were an 8-year-old plant—CityLights Church—located in the Chicago community with the highest Latino population. Our lead pastor, who had left the Word of Faith church after being exposed to Reformed theology, had resigned after his emotional and spiritual life began to spiral.
+                - 我们是一个有8年历史的工厂--城市之光教会，位于芝加哥拉丁裔人口最多的社区。我们的主任牧师在接触到改革宗神学后离开了信仰之路教会，在他的情感和精神生活开始陷入困境后辞职了。
+                - Eliot and Michelle Velazquez and their family / Courtesy of Eliot Velazquez
+                - 艾略特和米歇尔-维拉兹克斯和他们的家人/艾略特-维拉兹克斯提供
+                - Our congregation was left in disarray. Hurt, anger, and disillusionment were exacerbated by the bills piling up. Hurt and tired members left en masse—and I couldn’t blame them. As a bivocational elder who co-led the church, I was also exhausted and eyeing the door.
+                - 我们的会众陷入混乱。伤害、愤怒和幻灭被堆积如山的账单加剧了。受伤和疲惫的成员集体离开，我不能怪他们。作为一个共同领导教会的双职长老，我也筋疲力尽，眼看就要关门了。
+                - To continue made no logical sense. We had two elders (including me), a pile of debt, and lots of decisions: should we sell the building, cut our losses, and go our separate ways? Should we merge with another church? Was it worth pressing on?
+                - 继续下去是没有逻辑意义的。我们有两位长老（包括我），一堆债务，还有很多决定：我们是否应该卖掉建筑，减少损失，然后分道扬镳？我们是否应该与另一个教会合并？是否值得继续下去？
+                - Ultimately, we committed to bear the physical, emotional, and spiritual burden of revitalizing a dying church. Here’s why: there was no other church with a commitment to gospel centrality, urban missions, and Reformed theology in our predominantly Latino and impoverished community.
+                - 最终，我们承诺承担振兴一个垂死的教会的身体、情感和精神负担。原因是：在我们这个以拉丁裔为主的贫困社区，没有其他教会承诺以福音为中心，进行城市宣教和改革宗神学。
+                - Reformed theology changed my life, and it changed my fellow church members. This is why we could not let our church die.
+                - 改革宗神学改变了我的生活，也改变了我的教会成员。这就是为什么我们不能让我们的教会死亡。
+                - Eliot: Personal Reformation
+                - I grew up in a multicultural Baptist church in one of the city’s deadliest neighborhoods in the early 2000s. (It’s still deadly—in 2020, it was the hardest-hit with COVID in all of Illinois.) In my high school youth group, I first heard the five points of Calvinism. Conversations with my youth pastor sparked a study of Reformed theology that I would soon embrace, all while I was becoming more invigorated by urban ministry.
+                - 艾略特。个人的改革
+                - 我是在一个多元文化的浸信会教会中长大的，在21世纪初，这个城市最致命的社区之一。(它仍然是致命的--2020年，它是整个伊利诺伊州受COVID影响最严重的地方）。在我的高中青年小组里，我第一次听到加尔文主义的五点。与我的青年牧师的对话引发了对改革宗神学的研究，我很快就接受了这一研究，同时我对城市事工也变得更加振奋。
+                - Reformed theology changed my life, and it changed my fellow church members.
+                - 改革宗神学改变了我的生活，也改变了我的教会成员。
+                - I saw gun violence, single-parent households, fathers in jail, homelessness. I wanted to see lives changed and biblical knowledge grow. When God called me to CityLights as the church was being planted, I saw the need for heart-transforming doctrines of grace being taught explicitly and boldly.
+                - 我看到枪支暴力、单亲家庭、父亲入狱、无家可归。我希望看到生命的改变和圣经知识的增长。当上帝呼召我到CityLights时，教会正在建立，我看到需要明确和大胆地教导改变人心的恩典教义。
+                - Many of those in CityLights had left the Word of Faith church. To help them, I went deeper into the Reformed faith. The Explicit Gospel by Matt Chandler showed me the corporate and cosmic implications of the gospel. John Piper’s The Pleasures of God helped me and others see the majesty and supremacy of God’s pleasure in all he does. The Gospel as Center, a collection of essays by members of The Gospel Coalition Council, showed me the centrality of the gospel for all of ministry and all of life. I adapted Wayne Grudem’s Systematic Theology to create our church’s first doctrine class. John Piper’s lecture series Gravity and Gladness shaped our understanding of corporate worship, and his poem The Calvinist gave me aspiration of the type of man I wanted to be.
+                - 城市之光中的许多人已经离开了信仰之言教会。为了帮助他们，我更深入地了解改革宗的信仰。马特-钱德勒的《明确的福音》让我看到了福音的团体和宇宙意义。约翰-派博的《神的喜悦》帮助我和其他人看到了神在他所做的一切中的威严和至上的喜悦。福音为中心》是福音联盟理事会成员的论文集，向我展示了福音在所有事工和生活中的中心地位。我改编了韦恩-格鲁德姆的《系统神学》，创建了我们教会的第一个教义课。约翰-派博的系列讲座《重力与喜乐》塑造了我们对集体敬拜的理解，他的诗歌《加尔文主义者》让我对自己想成为的那类人有了期望。
+                - Reformed theology had changed me. But just as powerfully, I had seen Reformed theology shape our church members.
+                - 革宗神学改变了我。但同样有力的是，我看到改革宗神学塑造了我们的教会成员。
+                - Alex and Maria: Suffering Under God’s Sovereign Hand
+                - 亚历克斯和玛丽亚：在上帝的主权之手下受苦
+                - One church member who has been changed by Reformed theology is Alex Diaz. He was led to the Lord by a faithful brother who invited him to a predominantly Latino Word of Faith church in Chicago. Alex was mentored there and eventually became a pastor. But through his careful study of Scripture, he realized the false teaching of the church. He knew he had missional zeal but lacked theological proficiency.
+                - 一位被改革宗神学改变的教会成员是亚历克斯-迪亚兹。他被一位忠实的弟兄引领到主面前，这位弟兄邀请他到芝加哥一个以拉丁裔为主的信仰之路教会。亚历克斯在那里得到了指导，最终成为一名牧师。但通过对圣经的仔细研究，他意识到教会的错误教导。他知道自己有传教的热情，但缺乏神学上的精通。
+                - CityLights women’s Bible study / Courtesy of Eliot Velazquez
+                - CityLights妇女查经班/艾略特-维拉兹克斯提供
+                - Alex is married to Maria, who was saved from an abusive relationship that produced two children by the time she was 17. The two started to wrestle with the conflict between the truth of the Scriptures and what was being taught or lived by the pastor.
+                - 亚历克斯与玛丽亚结婚，玛丽亚从一段虐待关系中获救，在她17岁时产生了两个孩子。两人开始纠结于圣经的真理和牧师的教导或生活之间的冲突。
+                - A CityLights pastor referred Alex to podcasts and books on Reformed theology. They transformed his thinking, eventually leading him to join our congregation. For Alex, a Chicago firefighter facing early retirement due to stage-four cancer diagnosis, it was God’s sovereignty that gave him hope. Alex and Maria now both consider Alex’s cancer a gift from a loving and gracious God who, although allowing cancer to take so much from their lives, gave them a far better blessing: seeing and savoring Christ all the more.
+                - CityLights的一位牧师向亚历克斯介绍了关于改革派神学的播客和书籍。这些书改变了他的思维，最终导致他加入我们的会众。亚历克斯是一名芝加哥消防员，因被诊断出癌症第四期而面临提前退休，是上帝的主权给了他希望。亚历克斯和玛丽亚现在都认为亚历克斯的癌症是一位充满爱心和恩典的上帝的礼物，虽然上帝允许癌症从他们的生活中带走这么多东西，但却给了他们一个更好的祝福：看到并更多地品尝到基督。
+                - Through cancer diagnoses, COVID-related trauma, anxiety and depression, and even the loss of children, resting in the sovereignty of God has encouraged our members to “kiss the wave” that threw us against the Rock of Ages. Trials and trauma can find their proper place in our minds under our grasp of God’s sovereignty in all things.
+                - 经历了癌症诊断、与COVID有关的创伤、焦虑和抑郁，甚至失去孩子，安息在神的主权中，鼓励我们的成员 "亲吻波浪"，将我们抛向亘古之岩。在我们对神在万事万物中的主权的把握下，试炼和创伤可以在我们心中找到合适的位置。
+                - David: Electing Love
+                - A common theme that comes up in counseling meetings is the baggage of abandonment or abuse. Our members can tell story after story of growing up without fathers or mothers, or of being sexually abused as a child by a relative. These traumas often result in deep-seated resentment toward parental figures and a difficulty in grasping God as Father.
+                - 大卫：选择爱
+                - 在咨询会议上经常出现的一个主题是被遗弃或虐待的包袱。我们的成员可以讲述一个又一个在成长过程中没有父亲或母亲的故事，或者在童年时被亲戚性虐待的故事。这些创伤往往导致人们对父母亲的怨恨根深蒂固，难以理解上帝是父亲。
+                - Praying with the grandmother of a little girl who had been shot and killed, two blocks from CityLights / Courtesy of Eliot Velazquez
+                - 在离 "城市之光 "两个街区的地方，与一个被枪杀的小女孩的祖母一起祈祷/艾略特-维拉兹克斯提供
+                - Take David Diaz, for instance. David was born in Honduras and raised in the church. When he was 8, his father showed up drunk and belligerent at the women’s prayer meeting in his mother’s home. After the women prayed for him, David’s father walked him to the door, hugged him, said he loved him, and told him goodbye. David would not see his father for another decade.
+                - 以大卫-迪亚兹为例。大卫出生在洪都拉斯，在教会中长大。在他8岁的时候，他的父亲在他母亲家里的妇女祷告会上出现了，他喝醉了，而且很好斗。在妇女们为他祈祷后，大卫的父亲把他送到门口，拥抱他，说他爱他，并向他告别。大卫又有十年没有见到他的父亲了。
+                - For years, David struggled with his father’s abandonment and wondered if he had something to do with it. Was he not happy with me? He carried these unsettled and unanswered questions with him as he grew in his Christian walk.
+                - 多年来，大卫一直与他父亲的遗弃作斗争，并想知道他是否与此有关。他和我在一起是不是不开心？当他在基督徒的道路上成长时，他带着这些不安和未解答的问题。
+                - David was exposed to Reformed theology by a godly man who took the time to explain the doctrines of grace. To David, election seemed unfair. “This is not the God I serve,” he’d say.
+                - 大卫接触到了改革宗的神学，是由一个虔诚的人花时间解释恩典的教义。对大卫来说，选举似乎不公平。他说："这不是我所侍奉的上帝"。
+                - Yet through studying and discussing these truths, David saw not only a just God who would do whatever he pleases, but a loving heavenly Father who reached down and chose him—a totally depraved, sin-cursed man. David’s earthly father rejected him, despite David’s efforts to “choose” his father. Now he embraced the truth of a heavenly Father who not only accepted him, but elected him despite anything he had done, good or bad.
+                - 然而，通过研究和讨论这些真理，大卫不仅看到了一位会随心所欲的公正的上帝，而且看到了一位慈爱的天父，他伸手选择了他--一个完全堕落的、被罪恶诅咒的人。尽管大卫努力 "选择 "他的父亲，但他在地上的父亲还是拒绝了他。现在他接受了天父的真理，天父不仅接受了他，而且选择了他，尽管他做了任何事情，无论好坏。
+                - The truth of election helped David with his hurt and grief toward his earthly father, enabling him not only to forgive but to build a relationship with him. David, who’d been involved in leading worship since he was 7 in Honduras, ended up coming to CityLights while looking for a Reformed church with passionate worship. Eventually, he became one of our elders.
+                - 拣选的真理帮助大卫解决了他对地上父亲的伤害和悲痛，使他不仅能够原谅，而且能够与他建立起关系。大卫从7岁开始就在洪都拉斯参与带领敬拜，最后在寻找一个有激情敬拜的改革派教会时来到了CityLights。最后，他成为我们的长老之一。
+                - In that first year after our church suffered the sadness of losing our lead pastor, David preached on Romans 9, declaring to a still-struggling church the glory of God in choosing ill-deserving sinners for himself. Although we may feel abandoned, we are never forsaken by our gracious Father.
+                - 在我们教会遭受失去首席牧师的悲痛后的第一年，大卫讲授了《罗马书》第9章，向仍在挣扎的教会宣告了上帝为自己选择不配的罪人的荣耀。虽然我们可能感到被抛弃，但我们从未被我们仁慈的父亲抛弃。
+                - Eliezer: Persevering Saints
+                - Being in a Reformed church with a large constituency of former Pentecostals presents unique opportunities (such as passion in corporate worship) along with unique challenges (such as legalism). One of our responsibilities is helping our members understand that their stance before God is not dependent on their work, but on Christ’s alone.
+                - 埃利泽。坚持不懈的圣徒
+                - 在一个拥有大量前五旬节信徒的改革派教会中，有独特的机会（如团体敬拜中的激情），也有独特的挑战（如律法主义）。我们的责任之一是帮助我们的成员明白，他们在神面前的地位并不取决于他们的工作，而只取决于基督的工作。
+                - CityLights Church / Courtesy of Eliot Velazquez
+                - 城市之光教会/埃利奥特-维拉兹奎兹提供
+                - {{[[POMO]]: 25}}
+                - Eliezer Mercado grew up in a legalistic Pentecostal church in which men were unable to grow beards, women had to wear skirts, and your salvation depended on strict adherence to denominational tradition and Christian practices. If you didn’t attend church faithfully or read your Bible regularly, your salvation was in doubt. Eliezer ended up marrying the senior pastor’s daughter and became his heir apparent.
+                - 埃利泽-麦卡多在一个律法主义的五旬节教会中长大，在那里，男人不能留胡子，女人必须穿裙子，你的救赎取决于对教派传统和基督教习俗的严格遵守。如果你不忠实地去教堂，不经常读圣经，你的救赎就会受到怀疑。埃利泽最后娶了高级牧师的女儿，成为他的继承人。
+                - One day, Eliezer heard a Baptist preacher on the radio. He began tuning in regularly, and his interest was sparked. Soon he began to question his church’s dogma—why did members never hear about struggling with sin? Why did they have to keep asking for manifestations of the Holy Spirit? Why were manmade traditions requirements for salvation? Why was the gospel rarely preached?
+                - 有一天，埃利泽在广播中听到一位浸信会的传教士。他开始定期收听，他的兴趣被激发出来。很快，他开始质疑教会的教条--为什么成员们从未听说过与罪作斗争？为什么他们必须不断要求圣灵的显灵？为什么人为的传统是救赎的要求？为什么福音很少被宣扬？
+                - Eliezer enrolled at Trinity International University, where he was exposed to the doctrines of grace. Little by little, he began to approach his father-in-law to show him the Bible’s teaching on salvation by grace alone. “We don’t teach that here” was the response.
+                - 埃利泽进入了三一国际大学，在那里他接触到了恩典的教义。渐渐地，他开始接近他的岳父，向他展示圣经中关于仅靠恩典得救的教导。他的回答是 "我们这里不教这个"。
+                - But Eliezer couldn’t stay quiet. He began to teach his extended family, who were in his church. Their thinking was revolutionized. As they wrestled with the doctrines of grace together, trying to reconcile what they had been taught, they began to understand the freedom found in Christ.
+                - 但埃利泽不能保持沉默。他开始教导他的大家庭，他们都在他的教会里。他们的思想被彻底改变了。当他们一起与恩典的教义搏斗，试图调和他们所受的教育时，他们开始理解在基督里找到的自由。
+                - Men’s Bible study / Courtesy of Eliot Velazquez
+                - 男子查经班/艾略特-维拉兹克斯提供
+                - There was freedom in not having to earn your salvation. There was freedom from the fear of God constantly turning his face from them in their sin struggles, to say confidently with the catechism, “I am not my own, but belong—body and soul, in life and in death—to my faithful Savior, Jesus Christ. He has fully paid for all my sins with his precious blood, and has set me free from the tyranny of the devil.” There was freedom to trust in the imputed righteousness of Christ alone to secure salvation, not in denominational decrees or traditions nor in the constant repetition of the “sinner’s prayer.”
+                - 不用赚取救赎是一种自由。在他们的罪恶挣扎中，他们不用再害怕上帝不断地转过脸来，可以自信地和慕道者说："我不是我自己的，而是属于我忠实的救主耶稣基督的，无论是身体还是灵魂，无论是生还是死。他已经用他的宝血完全偿还了我所有的罪孽，并使我从魔鬼的暴政中获得自由"。有自由相信只有基督的归义才能确保得救，而不是相信教派的法令或传统，也不是相信不断重复的 "罪人的祈祷"。
+                - As their theology grew, Eliezer and his extended family made the difficult and painful decision to leave their church. After searching for churches listed on The Gospel Coalition website, they found CityLights.
+                - 随着神学的发展，埃利泽和他的大家庭做出了艰难而痛苦的决定，离开他们的教会。在搜索了福音联盟网站上所列的教会后，他们找到了CityLights。
+                - As a pastor, nothing brings me more shepherding joy than to see believers like Eliezer and his family, who had been bound to the “performance treadmill,” lifting their voices to sing:
+                - 作为一名牧师，没有什么比看到像埃利泽和他的家人这样被束缚在 "业绩跑步机 "上的信徒举起嗓子唱歌更能带给我牧者的喜悦了。
+                - No guilt in life, no fear in death
+                - This is the power of Christ in me
+                - From life’s first cry to final breath
+                - Jesus commands my destiny
+                - No power of hell, no scheme of man
+                - Can ever pluck me from his hand
+                - Till he returns or calls me home
+                - Here in the power of Christ I’ll stand
+                - Orlando: TULIP-Driven Mission
+                - 生无愧于心，死无畏于行
+                - 这就是基督在我身上的力量
+                - 从生命的第一声啼哭到最后一口气
+                - 耶稣指挥我的命运
+                - 没有地狱的力量，没有人的计划
+                - 能把我从他手中夺走
+                - 直到他回来或召唤我回家
+                - 在基督的力量中，我将站在这里。
+                - 奥兰多。TULIP驱动的使命
+                - J. A. Medders writes that Reformed theology “is meant for more than theological headiness; it is meant for mission.” It was zeal for the glory of God, love for good robust theology, and a heart for God’s people that brought Orlando Munoz, one of our elders, to our church.
+                - J. A. Medders写道，改革宗的神学 "不仅仅是为了神学上的头头是道；它是为了宣教"。正是对神的荣耀的热忱、对良好的稳健神学的热爱以及对神的子民的心，将我们的长老之一奥兰多-穆诺斯带到了我们的教会。
+                - After a night of drinking, Orlando first ended up at a Word of Faith church to check out some ladies. Through his study of the Scriptures, he butted heads with the pastor over theology. He ended up leaving for Texas and joining a church plant.
+                - 在喝了一夜酒之后，奥兰多首先在一个信仰之言教会结束了对一些女士的考察。通过对圣经的研究，他与牧师在神学上发生了冲突。最后他离开了德州，加入了一个教会。
+                - His Australian-born pastor turned him on to the writings of Martyn Lloyd-Jones, which led him to J. I. Packer, Andrew Murray, and John MacArthur. As his theology grew, his heart for his friends back in his Word of Faith church compelled him to return. He started a Bible study that turned into a church, which would end up merging with CityLights in 2019.
+                - 他在澳大利亚出生的牧师让他接触到马丁-劳埃德-琼斯的著作，这使他认识了J.I.帕克、安德鲁-默里和约翰-麦克阿瑟。随着他的神学成长，他对信仰之路教会的朋友们的心迫使他回来。他开始了一个查经班，后来变成了一个教会，最终于2019年与CityLights合并。
+                - Pressing on for the City
+                - In our predominately Latino congregation, we have seen the effect of Reformed theology on adults who’d been abused as children, marriages that were on the brink of divorce, and families who didn’t know where the next paycheck would come from. And it was Reformed theology that spurred us as church leaders to press on, get to work, prioritize the teaching of solid biblical doctrine, and be a part of God’s work in our community.
+                - 为城市的发展而努力
+                - 在我们这个以拉丁裔为主的会众中，我们看到了改革开放神学对那些小时候被虐待的成年人、濒临离婚的婚姻、以及不知道下一份薪水从何而来的家庭的影响。正是归正神学促使我们这些教会领袖继续努力，开始工作，优先考虑教授坚实的圣经教义，并成为上帝在我们社区工作的一部分。
+                - Praying for the neighborhood / Courtesy of Eliot Velazquez
+                - 为邻里祈祷/艾略特-维拉兹克斯提供
+                - We understand that God is sovereign in all things, including the trials we went through during our leadership transition, COVID, and the individual trials in the lives of our members. We understand that ultimately it is in God that we live and move and have our existence (Acts 17:28), and that he is sovereign over every human heart, head, and hands (Prov. 16:9; Isa. 46:9–10).
+                - 我们明白，神在所有事情上都有主权，包括我们在领导层过渡期间所经历的考验，COVID，以及我们成员生活中的个人考验。我们明白，最终是在神里面，我们活着，移动，有我们的存在（使徒行传17:28），他对每个人的心、头、手都有主权（箴16:9；赛46:9-10）。
+                - Our belief in total depravity helped us wrestle not only with the sins we had committed, but the sins committed against us. And we recognized that ultimately, prosperity-gospel preachers promise health and wealth without ever dealing with the problem of sin that permeates every iota of our being. The only solution to the fallenness of our neighborhood is the gospel of Jesus Christ. It’s a solution our community desperately needs.
+                - 我们对完全堕落的信仰不仅帮助我们与我们所犯的罪孽搏斗，而且帮助我们与针对我们的罪孽搏斗。我们认识到，最终，繁荣福音的传教士承诺健康和财富，却没有处理渗透在我们每一个人身上的罪的问题。解决我们社区堕落问题的唯一办法是耶稣基督的福音。这是一个我们社区迫切需要的解决方案。
+                - The only solution to the fallenness of our neighborhood is the gospel of Jesus Christ.
+                - 解决我们社区堕落的唯一办法是耶稣基督的福音。
+                - Unconditional election reminded us that God is not hindered by someone’s faulty theological upbringing or poor socioeconomic status. In Chicago, one of the most segregated cities in America, God holds no prejudice.
+                - 无条件的选举提醒我们，上帝不会因为某人错误的神学教养或贫穷的社会经济地位而受到阻碍。在芝加哥这个美国种族隔离最严重的城市之一，上帝没有偏见。
+                - We trusted that because of definite atonement, Christ fully and actually saved sinners in our church and turned them into saints. No matter what church tradition or denominational dogma taught our church members, because of our faith in the finished work of Christ, we can know that God chose us and gave us the gift of saving faith.
+                - 我们相信，由于明确的赎罪，基督完全地、实际地拯救了我们教会中的罪人，并使他们成为圣人。无论教会的传统或教派的教条如何教导我们的教会成员，因为我们对基督完成的工作的信心，我们可以知道，上帝选择了我们，并给了我们拯救信仰的礼物。
+                - As we pressed on through our church’s hurt, financial disarray, and a global pandemic, we could rest knowing that God’s irresistible grace means our work in our church and community would never be in vain (1 Cor. 15:58). We recognized that God’s prophets had been constantly rejected by the people, yet were faithful to what God called them to do. And so we would commit to the work of ministry and teaching the Reformed faith, even if it meant the rejection of family and friends as a result of our doctrinal beliefs. Because of God’s irresistible grace, we can plant and water knowing that God is the decisive cause of growth (1 Cor. 3:5–7).
+                - 当我们在教会的伤害、财务混乱和全球大流行病中奋力前行时，我们可以知道神不可抗拒的恩典意味着我们在教会和社区的工作绝不会是徒劳的（林前15：58）。我们认识到，上帝的先知们一直被人们拒绝，但却忠于上帝召唤他们做的事情。因此，我们将致力于事奉和教导归正信仰的工作，即使这意味着家人和朋友会因为我们的教义信仰而被拒绝。由于上帝不可抗拒的恩典，我们可以种植和浇灌，知道上帝是成长的决定性原因（林前3:5-7）。
+                - Finally, and perhaps most importantly, we could rejoice knowing that God would ultimately persevere through the saints at CityLights, despite the spiritual and theological baggage we brought. We’d been knocked down, but we’d get back up. We could be struck down, but we would never be destroyed (2 Cor. 4:8–10). God would see to it that we would persevere to the end, holy and blameless before him (1 Thess. 5:23–24).
+                - 最后，也许是最重要的，我们可以欣喜地知道，尽管我们带来了精神和神学的包袱，但神最终会通过CityLights的圣徒们坚持下去。我们被打倒了，但我们会重新站起来。我们可能被击倒，但我们永远不会被摧毁（林后4:8-10）。神会看着我们坚持到底，在他面前圣洁无瑕（帖前5：23-24）。
+                - Eliot Velazquez is a pastor at CityLights Church and a special education teacher at Taft High School on the northwest side of Chicago. He earned an MA in education from Northeastern Illinois University and an MEd in education from American College of Education. He and his wife, Michelle, have three children, with another on the way.
+                - Eliot Velazquez是CityLights教会的牧师，也是芝加哥西北区塔夫特高中的特殊教育教师。他获得了伊利诺伊州东北大学的教育硕士学位和美国教育学院的教育硕士学位。他和他的妻子米歇尔有三个孩子，另一个即将出生。
+- 今天的城下之盟
+    - 下载安装了阿里云盘，世界上最无底线的云盘，按理说，阿里这么大的公司，应该体面一些，然而，并没有。小公司都不会去用的手段，阿里却脸不红心不跳地去采用。
+    - [[todos123]]The Atlantic
+《大西洋》是美国的一本杂志及多平台出版物，创刊于1857年的马萨诸塞波士顿，当时名为《大西洋月刊》，是一本文学和文化评论杂志，发表关于废除当代政治事务中的奴隶制、教育及其他重大问题的著名作家评论。
+
+《大西洋月刊》坚持无党派、无偏见原则，对于任何事物采取一种超然、充满智力性、幽默的、有艺术感的态度。它拒绝将自己置于任何派系中，但它将永远会与拥戴自由、国家进步、荣誉这种信念的人在一起。
+        - 
+        - {{[[TODO]]}} 11:32 AM 
+- [[webclips]]
+    - {{[[TODO]]}} 
+    - [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) #[[Edit Later]] #[[好中文]]
+        - 所有你买的东西，其实都是买两次。第一次是你支付这个东西的价钱，一本书30元，一个相机2000元，一张游泳卡500元，等等……但是，仅仅支付了第一笔价钱，你还不能算拥有它。你还要支付第二笔价钱，读完一本书需要10小时，出去拍照需要整个周六下午，去游泳馆前后加起来至少3小时的时间。把这些时间加上去，你购买物品的价格远远不止是表面上的价格了。
+            - 一本书 = 30元 + 10 小时
+            - 一台相机 = 2000元 + 4 小时 * 12 （假设你每个元抽出一个周末去扫街）
+            - 一张游泳卡 = 500 元 + 3小时 * 10 （假设是一张20次卡，你游10次才回本）
+        - 那时间要不要转化为时工资呢？没必要。因为我们大部分人类并非每时每刻都在赚钱的，时间并不一定等于金钱，但我们知道，它往往比金钱更宝贵。
+        - {{[[TODO]]}} 我们往往错把物品的第一次付钱当成它的真实价格，或轻松，或咬牙，买下了物品；而忘记了我们使它发挥效用时支付的第二笔价钱，才是真正昂贵的支出。
+    - [0xiah 《适时淘汰》](https://rigeng100.com/post/dayone/ooawr51crttpj3h0jj_y7t62w_7a/2022-02-02)
+        - 崔老师说，验证了太太的消费观：还是要买买得起的最好的东西。
+        - 我发现一个东西坏了，大家想到的通常不是去维修。可能太麻烦，或者不划算吧。
+    - [不断做强做优做大我国数字经济 - 求是网](http://www.qstheory.cn/dukan/qs/2022-01/15/c_1128261632.htm)
+        - 也许厉害的人从这样的文章里可以解读出政策信息吧，但我没有这样的本事。
+    - [【夏娜古典音乐补全计划】巴赫全集【高音质】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NW411u7SK) #[[Translate]]
+        - 这是多么感人的利他主义精神
+        - [Stop Eating Spiritual Candy](https://www.thegospelcoalition.org/article/stop-eating-spiritual-candy/)
+    - [the-economist-ebooks/04_atlantic at master · hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks/tree/master/04_atlantic)
+    - [hehonghui/the-economist-ebooks: 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.](https://github.com/hehonghui/the-economist-ebooks) #[[Input]] 
+    - [第4講：風雨前的寧靜 馬斯卡尼：歌劇《鄉村騎士》-間奏曲 - YouTube](https://www.youtube.com/watch?v=zCO59bQ8-LY&t=335s) #[[Input]]
+        - 这个系列的更新让我喜悦，上次住院之前就是听了刘老师讲茶花女。刘老师是我精神的安慰。
+        - 刘老师已经老了，精神也大不如从前，可见做讲座是需要很大力气的，如果力气不好，形象不佳，还是不要露脸的好。老老实实写文章就好了。
+- #thoughts
+    - 双拼输入法
+        - 要习惯于双拼，因为非常便利，并且这是一件加分的事
+        - 双拼是一件大事，今年必须掌握。就当我刚刚学会打字好了。
+    - 有了想法可以快速记录下来
+    - 一切皆有办法
+    - 要通人情世故
+    - 不能不近人情，也不能忘记父母的恩情。
+- [[Work]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaJP5sE8ImG.png?alt=media&token=b233abc9-0f2c-4006-8915-6188ca063307)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FQk7gbo99Ia.png?alt=media&token=8cadc889-7677-4b06-a8e5-1f1dcf7c3e27)
+    - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FjlXZ_6sdHd.png?alt=media&token=24cd64b9-1699-4f3e-a071-e4b22e646ac9)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FeE9Abtwkh2.png?alt=media&token=0745bd42-6136-4a10-9ec1-cfae7e35a8db)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FK-96nvUJIw.png?alt=media&token=758d8038-730c-495b-9d46-69d30ce15090)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fdlts9I6pju.png?alt=media&token=0100bfd9-9955-438e-85da-f178360d0401)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fhq-Wv6HLy9.png?alt=media&token=6cd46e22-1027-47a5-aafc-624baae77a4f) #[[Input]]
+        - {{[[TODO]]}} 一图说明一切，所有的宝贝都在里面了。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fpzpxu2Dl9l.png?alt=media&token=14fcbe98-654a-43ea-a2f9-f3c336191a88)
+        - 白板报昨天的阅读数还是创了纪录。只要坚持不懈地写，就会有回报。
+- [[Home]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F2jptqeLiWs.png?alt=media&token=dab76cd1-912a-431d-b41e-c6dde4e9c7bb)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FshQEb15z1X.png?alt=media&token=1a3c4cb0-98fe-4cc5-99ff-a8ac738a5f8c)
+- [[Inbox]]
+    - [[Pei]] at 15:19: 既然已经选择了RR，就一张宏图绘到底，用到飞起。这么多年来，Alfred带来那么多便利，相信，RR也会带给我。
+    - [[Pei]] at 15:21: 物品的第二价格，才是它真正的价格。现在，电子媒体的获得几乎是免费的（如何免费那是另一个心照不宣的话题），所以计算好第二价格（往往以时间为计量单位）才是最关键的。#[[Input]]
+    - [[Pei]] at 15:31: RR不仅替代了[[笔记]]软件，而且连书签软件也替代了。现在绝对是宇宙第一好用的双链[[笔记]]。
+    - [[Pei]] at 15:32: 我现在也找做的就是利用这套笔记完成日常任务，并且为写书创造条件。
+    - [[Pei]] at 15:35: JFX把福音联盟的翻译托付给我，绝对是为了我属灵和物质的双重益处。我不能再辜负，而是保持时间的投入，提高翻译速度。包括平常也翻译一点别的内容。唯有这样磨练自己。才能不服所托。 #[[JFX]]
+    - 凡是入口的治病的东西，能用进口的就不要用国产的。今天在美团买了万爽力，以替代医保集采的国产仿制药。 #[[康健]]

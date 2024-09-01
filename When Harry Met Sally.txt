@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Rob Reiner]]
+        - Writer:: [[Nora Ephron]]
+        - Cast:: [[Billy Crystal]] [[Meg Ryan]] [[Carrie Fisher]]
+        - Year:: [[1989]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0098635
+    - **Plot Summary:** Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FwT_HBgqKGO.pdf?alt=media&token=1fdca5cd-08fc-46f5-9d6e-3096a092dd66}}

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Darren Aronofsky]]
+        - Writer:: [[Hubert Sel Jr]] [[Darren Aronofsky]]
+        - Cast:: [[Ellen Burstyn]] [[Jared Leto]] [[Jennifer Connelly]]
+        - Year:: [[2000]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0180093
+    - **Plot Summary:** The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FsyJ_OMeAnT.pdf?alt=media&token=672571e0-5acd-41c6-b0da-514bedf0597b}}

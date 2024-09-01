@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYmUxY2MyOTQtYjRlMi00ZWEwLTkzODctZDMxNDcyNTFhYjNjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Spike Jonze]]
+        - Writer:: [[Charlie Kaufman]]
+        - Cast:: [[John Cusack]] [[Cameron Diaz]] [[Catherine Keener]]
+        - Year:: [[1999]]
+        - Genre:: #Comedy #Drama #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0120601
+    - **Plot Summary:** A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.

@@ -1,0 +1,28 @@
+#折腾技术
+
+[general]
+
+dbpath = /home/redredpei/isso/comments.db
+
+host = https://haozhongwen.com/
+
+log-file = /home/redredpei/isso/isso.log
+
+notify = smtp
+
+[server]
+
+listen = http://localhost:8080/
+
+[smtp]
+
+username = redredpei@gmail.com
+password = otvgvantpnoisnrt
+host = smtp.gmail.com
+port = 587
+security = starttls
+
+to = redredpei@gmail.com
+
+from = "isso comments" <redredpei@gmail.com>
+timeout = 10

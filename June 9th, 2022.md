@@ -1,0 +1,14 @@
+- twitter清理
+    - 保存了下面这些号
+        - goldengrape,mranti,doubleaf,williamlong,shugeorg,yun_chuang,MetaMerlin,Misstingfan,octw,justin7974,kcome,yining,virushuo,AetherWu,txyyss,laojiang2010,redsoxfan,liudimouse,yunxiyunxi2007,paukung,zaobaosg,lihai520,nipaan1999,L5u,kameido21,Tudou522525,puzhiqiang,zhu0588,songma,ruanyf,FreiheitYu,wuyagege,tualatrix,hinechaos,LyptonWong,glitterlion74,NotionHQ,SpeechFreedomCN,CaminoTexas,RoamResearch,MoobiFish,tuotuofluss,os24xv,bluebird0605,caolei1,myfxtrader,BPkQLc9OUxSKer7,wstv_lizzi,yihong0618,Captxueinshai,dafuCanada,Wallace27336653,recatm,nishuang,tianlan,azure_fqzy,blogtd,pingzhang632,tinyfool,priest_2033,gaoming,Maoviews,coolXiao,erjinxia,Jam79922967,Biantaiboooo,aiww,themessage,dengtaguo,quaintlotus142
+    - following从800多，降到213
+    - 认知负担大大降低，这样可以便于我让这个号渐渐活跃起来
+- 编剧故事营
+    - 昨晚讲课大失败
+        - 状态不对，无精打采
+        - 没有准备，乱七八糟
+        - 还是太自信，太粗心
+        - 需要重新录制和讲座
+- 恢复使用TOT
+    - [Keyboard Shortcuts in Tot / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/keyboard-shortcuts-in-tot)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FZw8UbHQ-77.49.12.png?alt=media&token=0b9c7b2e-03f7-4af6-8c1f-7003dc0774b2)

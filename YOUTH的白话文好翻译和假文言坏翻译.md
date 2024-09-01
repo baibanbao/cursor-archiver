@@ -1,0 +1,45 @@
+- Title: YOUTH的白话文好翻译和假文言坏翻译
+- Date: 2017-01-05 12:04
+- --
+- date: 2017-01-05 02:33
+- status: draft
+- title: 2017-01-05-3-YOUTH的两种翻译
+- --
+- 假文言文让我呕吐！
+- ##英文原文
+- Youth
+- Youth is not a time of life; it is a state of mind. It is not a matter of rosy cheeks, red lips and supple knees. It is a matter of the will, a quality of the imagination, vigor of the emotions; it is the freshness of the deep spring of life.
+- Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exits in a man of 60, more than a boy of 20.nobody grows merely by the number of years; we grow old by deserting our ideas. Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust1 bows the heart and turns the spirit back to dust.
+- Whether 60 or 16, there is in every human being’s heart the lure of wonders, the unfailing childlike appetite of what’s next and the joy of the game of living. In the center of your heart and my heart there is a wireless station; so long as it receives messages of beauty, hope, cheer, courage and power from men and from infinite, so long as you are young.
+- When the aerials are down, and your spirit is covered with the snows of cynicism and the ice of pessimism, then you’ve grown old, even at 20, but as long as your aerials are up, to catch waves of optimism, there’s hope you may die young at 80.
+- Youth is not a time of life; it is a state of mind. It is a matter of the will, a quality of the imagination, vigor of the emotions; it is the freshness of the deep spring of life. These are what I have and what we have at this period of life. So, I'm still young, yes, definitely ! Come on my fellow friends, show your energy and passion to this god damn world ! Let the universe hear our voice, see our cheek, hug our enthusiasm and witness our maturity. We're going to create a brand new future !
+- ##正常白话文翻译
+- 美文鉴赏《年轻》中英文对照
+- 2016-9-27 14:20:30      点击：11
+- 年轻
+- 塞缪尔·厄尔曼
+    - 年轻，并非人生旅程的一段时光，也并非粉颊红唇和体魄的矫健。
+- 它是心灵中的一种状态，是头脑中的一个意念，是理性思维中的创造潜力，是情感活动中的一股勃勃的朝气，是人生春色深处的一缕东风。
+    - 年轻，意味着甘愿放弃温馨浪漫的爱情去闯荡生活，意味着超越羞涩、怯懦和欲望的胆识与气质。而60岁的男人可能比20岁的小伙子更多地拥有这种胆识与气质。没有人仅仅因为时光的流逝而变得衰老，只是随着理想的毁灭，人类才出现了老人。
+    - 岁月可以在皮肤上留下皱纹，却无法为灵魂刻上一丝痕迹。忧虑、恐惧、缺乏自信才使人佝偻于时间尘埃之中。
+    - 无论是60岁还是16岁，每个人都会被未来所吸引，都会对人生竞争中的欢乐怀着孩子般无穷无尽的渴望。
+    - 在你我心灵的深处，同样有一个无线电台，只要它不停地从人群中，从无限的时间中接受美好、希望、欢欣、勇气和力量的信息，你我就永远年轻。一旦这无线电台坍塌，你的心便会被玩世不恭和悲观失望的寒冷酷雪所覆盖，你便衰老了—即使你只有20岁。但如果这无线电台始终矗立在你心中，捕捉着每个乐观向上的电波，你便有希望超过年轻的80岁。
+        - 所以只要勇于有梦，敢于追梦，勤于圆梦，我们就永远年轻！
+        - 千万不要动不动就说自己老了，错误引导自己！年轻就是力量，有梦就有未来！
+- ##坏翻译之一：假文言文
+- 原按：摘要：这篇译文是我见过的译文中最美的，可谓与原文互为辉映，令人赞叹不已。如此佳作，不敢私藏，献与诸位共赏。
+- 青春 
+- 青春不是年华，而是心境；青春不是桃面、丹唇、柔膝，而是深沉的意志，恢宏的想 
+- 象，炙热的恋情；青春是生命的深泉在涌流。 
+- 青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。如此锐气，二十后生而有之，六旬男子则更多见。年岁有加，并非垂老，理想丢弃，方堕暮年。 
+- 岁月悠悠，衰微只及肌肤；热忱抛却，颓废必致灵魂。忧烦，惶恐，丧失自信，定使心灵扭曲，意气如灰。 
+- 无论年届花甲，拟或二八芳龄，心中皆有生命之欢乐，奇迹之诱惑，孩童般天真久盛不衰。人人心中皆有一台天线，只要你从天上人间接受美好、希望、欢乐、勇气和力量的信号，你就青春永驻，风华常存。 
+- 一旦天线下降，锐气便被冰雪覆盖，玩世不恭、自暴自弃油然而生，即使年方二十，实已垂垂老矣；然则只要树起天线，捕捉乐观信号，你就有望在八十高龄告别尘寰时仍觉年轻。
+- ##坏翻译之二：假文言文
+- 青春
+- 塞缪尔·厄尔曼
+- 青春不是年华，而是心境；青春不是桃花粉面、不是丹（绛）唇欲滴、不是赤子柔膝，而是深沉的意志，恢弘想象/恣意畅想的品格，炙热的情感；青春是生命的清泉在涌流。
+- 青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。如此锐气，二十后生有之，然六旬男子则更多见。年岁有加，并非垂老，理想丢弃，方堕暮年是也。
+- 岁月悠悠，衰老只及肌肤；热忱抛却，颓废必致灵魂。忧烦，惶恐，丧失自信，定使心灵衰老，意气如灰。
+- 无论年届花甲，拟或二八芳龄，心中皆有生命之欢乐，奇迹之诱惑，孩童般天真久盛不衰。人人心中皆有一根天线，只要你从天上人间接受美好、希望、欢乐、勇气和力量的信号，你就青春永驻，风华常存。
+- 一旦天线垂落，锐气便被冰雪覆盖，玩世不恭、自暴自弃油然而生，即使年方二十，实已垂垂老矣；然而只要树起天线，捕捉乐观之电波，你就有望在八十高龄告别尘世时仍觉年轻。

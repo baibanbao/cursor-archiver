@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[George Roy Hill]]
+        - Writer:: [[William Goldman]]
+        - Cast:: [[Paul Newman]] [[Robert Redford]] [[Katharine Ross]]
+        - Year:: [[1969]]
+        - Genre:: #Biography #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0064115
+    - **Plot Summary:** Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FnckEvvIWbz.pdf?alt=media&token=8253842a-ade8-46df-a740-9c205e55f5ae}}

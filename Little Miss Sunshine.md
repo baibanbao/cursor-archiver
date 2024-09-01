@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Jonathan Dayton, Valerie Faris]]
+        - Writer:: [[Michael Arndt]]
+        - Cast:: [[Steve Carell]] [[Toni Collette]] [[Greg Kinnear]]
+        - Year:: [[2006]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0449059
+    - **Plot Summary:** A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F2Fe1g17EvG.pdf?alt=media&token=7a212fbb-b0ea-4d04-a51a-c3e86cc30f76}}

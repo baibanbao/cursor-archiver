@@ -1,0 +1,260 @@
+- [[Gratitude]]
+    - 感恩#[[Seven]]对我的宽容
+    - 感恩#[[Jonas]]今早自己上学
+    - 感恩[[刘淼]]能跟我互相敞开心扉，一起合作
+    - 感恩[[赵周]]、[[叶振]]相约
+        - [[May 12th, 2024]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+        - 赞美主的创造，护理，拯救
+        - 感谢主让我背部疼痛消失，让我肺部没有问题
+    - 认罪悔改
+        - 为自己不祷告
+        - 为自己不读经
+    - 祈求代求
+        - 为[[翟光]]弟兄祷告，今天是他被开除出党的日子
+    - 不叫我们遇见试探
+        - 不要让我陷入幻想
+    - 救我们脱离凶恶
+        - 求主让我脱离肥胖，懒惰，不结果子
+    - Tongue
+- [[Day Start]] 14:52
+- Daily Tasks
+    - {{[[TODO]]}} 修改山西研学文案
+    - {{[[TODO]]}} 与#[[Jonas]]一起构思六一短剧
+    - {{[[TODO]]}} 出去走路8k步
+    - {{[[TODO]]}} 低碳水饮食
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **14:52** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - https://www.aljazeera.com/economy/2024/4/30/on-chinas-instagram-women-find-a-space-to-share-the-routine-and-taboo
+        - 半岛电视台报道[[小红书]]
+            - # On ‘China’s Instagram’, women find a space to discuss the routine and taboo
+                - 在“中国的 Instagram”上，女性找到了一个讨论日常和禁忌话题的空间
+                - __Xiaohongshu has become the go-to platform for young women to discuss everything from fashion to domestic violence.小红书已经成为年轻女性讨论从时尚到家庭暴力等各种话题的首选平台。__
+                - ![Xiaohongshu](https://www.aljazeera.com/wp-content/uploads/2024/04/shutterstock_2278892155-1714116100.jpg?resize=770%2C513&quality=80)
+                - Xiaohongshu has more than 200 million users in China and among the Chinese diaspora [Shutterstock]
+                - 小红书在中国和华人侨民中拥有超过 2 亿用户【Shutterstock】
+                - By **[Erin Hale](https://www.aljazeera.com/author/erin_hale_190617042903538)** 作者：Erin Hale
+                - Published On 30 Apr 202430 Apr 2024 2024 年 4 月 30 日
+                - [Save articles to read later and create your own reading list.保存文章以便以后阅读，并创建您自己的阅读列表。]()
+                - [🔗](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Faje.io%2Fke3ris)[🔗](https://twitter.com/intent/tweet?text=On%20%E2%80%98China%E2%80%99s%20Instagram%E2%80%99%2C%20women%20find%20a%20space%20to%20discuss%20the%20routine%20and%20taboo&source=sharethiscom&related=sharethis&via=AJEnglish&url=https%3A%2F%2Faje.io%2Fke3ris)[🔗](https://aje.io/ke3ris)
+                - **Taipei, Taiwan –** Alice Guo sparked a flurry of interest on Xiaohongshu, the Chinese social media and e-commerce platform, when she decided one day in 2021 to share advice on preparing for a job interview.
+                - 台北，台湾 - 郭爱丽丝在 2021 年的某一天决定分享关于准备面试的建议，引发了中国社交媒体和电商平台小红书上的一阵兴趣。
+                - Chinese-born Guo was living in Toronto at the time, grounded by the COVID-19 pandemic after years of bouncing between jobs in Vancouver, Hong Kong, New York, Los Angeles and Shanghai.
+                - 郭出生在中国，当时居住在多伦多，在温哥华、香港、纽约、洛杉矶和上海多年来不断跳槽工作后，被新冠疫情困在了多伦多。
+            - ## KEEP READING 继续阅读
+                - list of 4 itemslist 1 of 4
+            - ### [Microsoft, Google post double-digit profit rises, boosting case for AI微软、谷歌发布两位数利润增长，增强了人工智能的案例。](https://www.aljazeera.com/economy/2024/4/26/microsoft-google-post-double-digit-profits-rises-boosting-case-for-ai?traffic_source=KeepReading)
+                - list 2 of 4
+            - ### [‘Profoundly unjust’: Reactions to court overturning Weinstein’s conviction“深感不公正”：法院推翻韦恩斯坦的定罪引发反应](https://www.aljazeera.com/news/2024/4/26/profoundly-unjust-reactions-to-court-overturning-weinsteins-conviction?traffic_source=KeepReading)
+                - list 3 of 4
+            - ### [Farm suicides, anger mount in Indian villages that Modi promised hope印度村庄中的农民自杀和愤怒不断上升，莫迪曾承诺带来希望](https://www.aljazeera.com/features/2024/4/26/modi-promised-these-indian-villages-hope-they-got-more-farm-suicides?traffic_source=KeepReading)
+                - list 4 of 4
+            - ### [Why is Elon Musk feuding with Australia and Brazil over free speech?为什么埃隆·马斯克与澳大利亚和巴西就言论自由问题发生争执？](https://www.aljazeera.com/economy/2024/4/26/why-is-elon-musk-feuding-with-australia-and-brazil-over-free-speech?traffic_source=KeepReading)
+                - end of list
+                - “I started to do a few posts and one day, I just posted about the interview process that got me into a venture capital firm,” Guo, who is in her early 30s, told Al Jazeera.
+                - “我开始做了一些帖子，有一天，我只是发了一篇关于我如何进入一家风险投资公司的面试过程的帖子，”30 多岁的郭告诉半岛电视台。
+                - “I woke up the next day, just all of a sudden, it went from maybe like 20 followers to 500 followers overnight.”
+                - “第二天我醒来，突然间，关注我的人数从大概 20 个一下子增加到了 500 个。”
+                - Before long, Guo’s page, called “Ali is Working Hard” in Chinese, built up an audience of about 45,000 followers, drawn by a mix of professional advice and updates on her daily life in Canada.
+                - 不久之后，郭的页面，中文名为“Ali 在努力工作”，吸引了约 45,000 名关注者，他们被吸引来自于专业建议和她在加拿大日常生活的更新。
+                - Guo’s page is among the countless accounts on Xiaohongshu that have tapped into a user base primarily made up of young, highly-educated women, both in major Chinese cities and in emigrant communities overseas.
+                - Guo 的主页是小红书上无数账户之一，主要吸引了年轻、受过良好教育的女性用户群体，他们大多来自中国主要城市和海外移民社区。
+                - Though lacking the global name recognition of Facebook, Instagram or X, Xiaohongshu has become the go-to platform for Millennial and Gen-Z Chinese women since its launch in 2013 – as just a set of humble PDF documents offering travel advice.
+                - 尽管小红书在全球名气上不及 Facebook、Instagram 或 X，但自 2013 年推出以来，已成为千禧一代和 Z 一代中国女性的首选平台——最初只是一套谦逊的 PDF 文件，提供旅行建议。
+                - The platform, which has been described as China’s answer to Instagram, had 200 million monthly active users in 2022, according to self-reported data, about 70 percent of whom were women.
+                - 这个被称为中国版 Instagram 的平台在 2022 年拥有 2 亿月活跃用户，根据自报数据，约 70%为女性。
+                - ![Chinese women ](https://www.aljazeera.com/wp-content/uploads/2024/04/2020-06-16T000000Z_534729464_RC2BAH9MEQYR_RTRMADP_3_HEALTH-CORONAVIRUS-CHINA-1-1714435715.jpg?w=770&resize=770%2C513&quality=80)About 70 percent of Xiaohongshu’s users are women [Aly Song/Reuters]
+                - 大约 70％的小红书用户是女性[Aly Song/路透社]
+                - While Xiaohongshu translates as “Little Red Book” in English – the same name as Mao Zedong’s famous text – the platform shares little else in common with the Chinese leader’s collection of speeches and writings.
+                - 虽然小红书在英文中翻译为“Little Red Book” - 与毛泽东的著名著作同名 - 但该平台与中国领导人的演讲和著作集几乎没有共同之处。
+                - Rather than promoting revolutionary values, the platform, which combines blog posts and short videos, exemplifies China’s post-Communist consumerist culture, which is aspirational, ambitious and globally minded.
+                - 该平台并非宣传革命价值观，而是结合了博客文章和短视频，体现了中国后共产主义消费文化，这种文化充满抱负，雄心勃勃，并具有全球化思维。
+            - ### Sign up for Al Jazeera
+                - 注册 Al Jazeera
+            - ### Weekly Newsletter 每周简报
+                - The latest news from around the world. Timely. Accurate. Fair.
+                - 来自世界各地的最新消息。及时。准确。公正。
+                - Subscribe
+                - ![](https://www.aljazeera.com/static/media/right-mark-icon.3a446adc.svg)****
+                - ![](https://www.aljazeera.com/static/media/right-mark-icon.3a446adc.svg)
+                - By signing up, you agree to our [Privacy Policy](https://privacy.aljazeera.net/)
+                - 注册即表示您同意我们的隐私政策
+                - protected by reCAPTCHA 受 reCAPTCHA 保护
+                - And for women in a society where political dissent is tightly controlled and socially conservative attitudes hold sway, Xiaohongshu has become something of a sanctuary for like-minded peers to freely discuss topics of common concern.
+                - 在一个政治异议受到严格控制、社会保守态度占主导地位的社会中，小红书已经成为志同道合的同行自由讨论共同关心话题的避风港。
+                - Users share content on an expansive range of issues, from relatively uncontentious topics like work life and fashion, to semi-taboo – albeit not overtly political – topics like divorce, domestic violence, and perceptions that women who have not gotten married and had children by their early 30s are failures or undesirable.
+                - 用户分享各种问题的内容，从相对无争议的工作生活和时尚等话题，到半禁忌的话题，比如离婚、家庭暴力，以及认为 30 多岁还未结婚生子的女性是失败或不受欢迎的观念，尽管这些话题并非明显政治性。
+                - “Those are all stereotypes, but it’s there. It’s real and it creates anxiety,” Daniela, a Xiaohongshu user who asked to be only referred to by her first name, told Al Jazeera.
+                - “这些都是刻板印象，但它确实存在。它是真实的，会制造焦虑，”要求只用她的名字称呼的小红书用户丹妮拉告诉半岛电视台。
+                - “And, of course, a lot of really talented women with amazing backgrounds are facing really big career challenges,” added Daniela, who posts content related to women’s career advancement and empowerment to her more than 125,000 followers.
+                - “当然，许多背景优秀的女性面临着巨大的职业挑战，”Daniela 补充道。她向超过 125,000 名关注者发布与女性职业发展和赋权相关的内容。
+                - Despite Beijing’s heavy censorship of the Internet, discussions on contentious issues are often allowed on Xiaohongshu, especially if they focus on personal experiences rather than greater systemic issues in Chinese society.
+                - 尽管北京对互联网进行了严格审查，但在小红书上，对有争议问题的讨论通常是允许的，尤其是如果它们侧重于个人经历而不是中国社会中更大的系统性问题。
+                - Still, there are red lines.
+                - 不过，也存在一些禁忌。
+                - One Xiaohongshu user, who asked to not be named, told Al Jazeera that posts she made about her experience of freezing her eggs were deleted, even though the Chinese government is pushing women to have more children.
+                - 一位要求匿名的小红书用户告诉半岛电视台，她发布的关于冷冻卵子经历的帖子被删除，尽管中国政府正在推动妇女生育。
+                - ![baby](https://www.aljazeera.com/wp-content/uploads/2024/04/GettyImages-52641318-1714436268.jpg?resize=770%2C526&quality=80)Discussions about fertility treatments have been censored on Xiaohongshu even as the Chinese government is trying to encourage women to have more babies [China Photos/Getty Images]
+                - 在小红书上关于生育治疗的讨论已经被审查，尽管中国政府正试图鼓励妇女生育更多的孩子【中国图片/盖蒂图片社】
+                - The platform has also cracked down on some displays of conspicuous consumption, warning users to be more “empathetic” and not flaunt their wealth as it is “still out of reach for a large proportion of people”.
+                - 该平台还打击了一些炫耀性消费的行为，警告用户要更加“有同理心”，不要炫耀自己的财富，因为“对很多人来说仍然是遥不可及的”。
+                - Users have similarly been discouraged from over-editing their photos and videos.
+                - 用户同样被劝阻不要过度编辑他们的照片和视频。
+                - Part of Xiaohongshu’s appeal is that it embodies a polished, or “jinzhi,” feminine aesthetic that requires “not only money, but also cultural and educational capital” to attain, setting it apart from more male-dominated platforms like WeChat and Weibo, according to Jia Guo, a professor in gender and cultural studies at the University of Sydney.
+                - 小红书吸引人之处之一在于它体现了一种精致或“尽致”的女性美学，这需要“不仅仅是金钱，还需要文化和教育资本”才能获得，这使其与更多男性主导的平台如微信和微博有所区别，据悉，悉尼大学性别和文化研究教授郭佳表示。
+                - “Jinzhi has always been a big part of Xiaohongshu,” Guo told Al Jazeera. “What is behind this jinzhi lifestyle is classed consumer culture in post-socialist China and classed distinction of taste. Not only money, but also cultural and educational capital is needed to be jinzhi. Such a middle-class urban lifestyle is popular on Xiaohongshu and it is highly gendered too – often presented by young women.”
+                - 郭告诉半岛电视台：“尽致一直是小红书的重要组成部分。这种尽致生活方式背后是后社会主义中国的阶级消费文化和品味的阶级区分。不仅仅是金钱，还需要文化和教育资本才能成为尽致。这种中产阶级城市生活方式在小红书上很受欢迎，而且高度性别化，通常由年轻女性呈现。”
+                - Since it was founded more than a decade ago, Xiaohongshu has also become adroit at understanding its users, thanks to its “game changer” algorithm, said Sheng Zou, an assistant professor at Hong Kong Baptist University who researches the digital economy.
+                - 自从十多年前成立以来，小红书也因其“改变游戏规则”的算法而变得擅长理解其用户，香港浸会大学研究数字经济的助理教授邹晟说。
+                - Zou said that Xiaohongshu users often cite the algorithm as being part of its allure.
+                - 邹表示，小红书用户经常将算法作为其吸引力的一部分。
+                - “Most would agree that the algorithm is precise and effective in detecting and/or predicting their content preferences or aspects of their identity, more so than some other popular apps that they are using,” Zou told Al Jazeera.
+                - “大多数人都会同意，这个算法在检测和/或预测他们的内容偏好或身份的某些方面方面上是精确和有效的，比一些其他流行应用更胜一筹，”邹告诉半岛电视台。
+                - “You can go really deep into different communities,” James Hsu, a Taiwanese-Canadian based in China who uses Xiaohongshu to promote coaching and consulting services, told Al Jazeera, explaining how a “lot of influencers actually set up group chats that you can just join by going to their profile page”.
+                - “你可以深入不同的社区，”在中国的台湾裔加拿大人徐杰姆斯告诉半岛电视台，他利用小红书推广辅导和咨询服务，“很多意见领袖实际上建立了群聊，你只需访问他们的个人资料页面就可以加入。”
+                - “It feels more like an actual resource than just like pure entertainment, because you could definitely go in there to learn things like hard skills, or soft skills, like how to start a business, like how to interview for a job, and there are many, many cross-sections with that,” Hsu said.
+                - “这更像是一个实际的资源，而不仅仅是纯粹的娱乐，因为你绝对可以在那里学到像硬技能或软技能这样的东西，比如如何创办一家企业，如何面试工作，而且有许多交叉点。”徐说。
+            - ## Profit problems 利润问题
+                - Despite its loyal and growing following, Xiaohongshu has struggled until recently to make money.
+                - 尽管小红书拥有忠实且不断增长的用户群，但直到最近才开始盈利。
+                - In its early days, Xiaohonghsu had a strong e-commerce component, where Chinese consumers could source reliable foreign products – a boon in a country rife with fake goods and knockoffs.
+                - 在早期，小红书有一个强大的电子商务组成部分，中国消费者可以从中找到可靠的外国产品 - 这在一个充斥着假货和山寨产品的国家是一个福音。
+                - The platform gradually shifted over the years towards lifestyle and educational content, and more recently, with the rise of short-form video, livestream shopping and influencer brand deals.
+                - 这个平台随着时间的推移逐渐转向生活方式和教育内容，最近随着短视频、直播购物和网红品牌合作的兴起。
+                - Olivia Plotnick, the founder of the Shanghai-based marketing agency Wai Social, said that Xiaohongshu appears to have found its niche with such deals.
+                - 上海市营销机构 Wai Social 的创始人 Olivia Plotnick 表示，小红书似乎已经找到了适合自己的市场定位。
+                - “They’ve had a lot of problems trying to monetize for the past several years, and I think they’ve potentially found a good way to do it with livestreaming recently,” Plotnick told Al Jazeera.
+                - “Plotnick 告诉半岛电视台：“过去几年来，他们在试图实现盈利方面遇到了很多问题，我认为最近他们可能已经找到了一个不错的方法，那就是通过直播。”
+                - These deals do not come cheap, as Chinese influencers can charge between three and five more times than their Western counterparts, Plotnick said.
+                - Plotnick 说，这些交易并不便宜，因为中国的意见领袖可以收取比他们的西方同行高出三到五倍的费用。
+                - An influencer with 10,000 followers can command $300 to $500 per post, while an influencer with upwards of 300,000 followers can command $5,000, she said.
+                - 她说，拥有 1 万名粉丝的网红可以每篇帖子要价 300 至 500 美元，而拥有超过 30 万名粉丝的网红可以要价 5000 美元。
+                - Plotnick said such partnerships are attractive for brands as Xiaohongshu has always been strong at raising brand awareness, even if its e-commerce component lags behind retail giants like Taobao and Tmall.
+                - Plotnick 表示，这样的合作对品牌非常有吸引力，因为小红书一直擅长提升品牌知名度，即使其电子商务组件落后于淘宝和天猫等零售巨头。
+                - Meanwhile, the platform stands apart from competitors thanks to a livestreaming style that provides a “quiet luxury” feel, she said.
+                - 与竞争对手不同，该平台采用一种直播风格，为用户提供了一种“安静奢华”的感觉。
+                - The approach appears to be paying off.
+                - 这种方法似乎正在取得成功。
+                - ![Alibab](https://www.aljazeera.com/wp-content/uploads/2024/04/2020-11-23T101242Z_2145121493_RC2Y8K9HEO6O_RTRMADP_3_CHINA-CYBER-1714436511.jpg?w=770&resize=770%2C513&quality=80)Alibaba is among the major investors in Xiaohongshu [Aly Song/Reuters]
+                - 阿里巴巴是小红书的主要投资者之一【艾利·宋/路透社】
+                - Xiaohongshu, whose top investors include Alibaba, Tencent and United States-based GGV Capital, made its first profit last year, taking in $500m on revenues of $3.7bn, the Financial Times reported in March, citing people briefed on the matter.
+                - 小红书的顶级投资者包括阿里巴巴、腾讯和总部位于美国的经纬中国，根据《金融时报》3 月份报道，去年小红书首次实现盈利，收入为 37 亿美元，利润为 5 亿美元。
+                - Xiaohongshu did not reply to a request for comment.
+                - 小红书没有回复评论请求。
+                - As it seeks to shore up its financial position, Xiaohongshu has also been trying to diversify its user base.
+                - 在寻求巩固其财务状况的同时，小红书还在努力多样化其用户群。
+                - Despite boasting some 200 million users, its customer base is still small in comparison with platforms such as Weibo, Douyin and WeChat, which claim between 600 million and 1.2 billion-plus users.
+                - 尽管拥有约 2 亿用户，但与微博、抖音和微信等平台相比，其客户群仍然较小，后者声称拥有 6 亿至 12 亿以上的用户。
+                - Xiaohongshu’s drive to grow its user base includes outreach efforts to men and those living outside of China’s “tier one” and “tier two” cities, such as Beijing and Shanghai.
+                - 小红书致力于扩大其用户群，包括针对男性和居住在中国“一线”和“二线”城市以外的人群的推广工作，例如北京和上海之外的城市。
+                - Xiaohongshu is also gaining traction outside mainland China, including in Hong Kong, Taiwan and Western cities with large Chinese diaspora populations, such as Toronto, where Alice Guo of “Ali is Working Hard” is based.
+                - 小红书在中国大陆以外也开始受到关注，包括在香港、台湾和西方城市，这些城市有着庞大的华人侨民人口，比如多伦多，那里是“Ali is Working Hard” 的 Alice Guo 的基地。
+                - Guo said one-third of her audience comes from North America and she is an avid consumer of diaspora-created content herself.
+                - Guo 表示，她的三分之一受众来自北美，她本人也是侨民创作内容的忠实消费者。
+                - “It’s like my Yelp, it’s like my Google. So if I want to find where to eat, what to eat, I look for it on Xiaohongshu. Especially in Toronto, there are tonnes of Chinese, so almost every single restaurant has a good review, and I can find some content on it,” Guo said.
+                - “这就像我的 Yelp，就像我的 Google。所以如果我想找吃什么，去哪里吃，我会在小红书上找。特别是在多伦多，有很多华人，所以几乎每家餐厅都有好评，我可以在上面找到一些内容，” 郭说。
+                - “If I want to read a book and know how good it is, I go to Xiaohongshu for it. And then if I want to know about makeup, I go to Xiaohongshu.”
+                - “如果我想读一本书并了解它有多好，我会去小红书找。然后如果我想了解化妆，我也会去小红书。”
+- #[[Seven]]
+- #Jonas 
+- #[[康健]]
+- [[Edit Later]]
+    - [[心想千遍不如手搓一遍]]
+- [[Inbox]]
+- [[SLBC]]
+- [[OnePager]]
+- [[我的1984]]
+- [[写书]]
+- [[ChatGPT故事营]]
+- [[好中文]]
+- [[编剧故事营]]
+- [[四季青青]]
+- #Finance
+- [[BTC]]
+    - 洗钱知识科普
+        - **洗钱是怎么一回事？****         为什么虚拟货币会涉及洗钱？（收藏一下，遇到了对比一下）**
+        今天冒死给大家揭秘一下在这个行业中，那些跑分的犯罪分子到底是怎么洗钱的。（这里的U商只指向利用跑分犯罪的U商，别对号入座了）
+
+**以下为一位真实人员出狱的描述流程，人员。**
+
+**人员表：**
+
+**卡商**-收集（买卖）银行卡的中介。
+
+**卡主**-也叫卡娃，食物链最底端的人群，出售出租自己银行账户的。
+
+**盘口-**也叫料方、通道方，负责和电信诈骗操盘手对接，负责资金流转的。
+
+**车队长-**上对接盘口，下对接卡商和币商（U商）。
+
+**秘书-**只服务车队长，放风以防被按头，保护车队长。
+
+**U商（币商）-**在交易所或场外出售USDT给车队长。
+
+**操作手-**车队长下面的核心人员，负责验证卡主手里的银行卡状态，核对转账限额。
+
+**安保人员-**负责监控所有卡主，防止跑单。
+
+**司机-**负责开车和后勤工作，所有人员的吃喝拉撒。
+
+9种角色，车队长为核心，负责所有运转和调度。
+
+这些东西，整个互联网都没人告诉你，你一辈子都接触不了里面的环节，今天冒死给大家公布出来，这样大家就能防止骗局。
+
+每一种电信诈骗资金的“卸货”流程都不一样，今天主要给大家曝光“杀猪盘”中的恋爱精聊的资金是怎么流入一个散户小白卡里的。
+
+**准备工作：**
+
+          卡商在帮卡娃统一购买机票后，远程操控卡主（卡娃）到车队长指定的地区，司机和操作手接上卡娃后，立刻核验卡娃的银行卡状态和额度，要核对清楚以前是否跑过分，是否被冻结过，转账额度日限额必须超过20万，没有通过核验的直接现场丢弃，通过核验的立刻注册交易所账户，正常交易一两笔U放在账户，或者开单。
+
+为什么必须买机票，就是通过这种方法排除此人以前有涉案、网逃等风险，避免被其他案件牵连，每一步看似无关紧要的规则都是被大量的按头得出来的经验。
+
+随后拉倒住宿地点准备第二天直接开工，全程不住酒店，只找民宿，开工期间不能使用卡主的一切身份信息，并且卡主的手机卡会在几公里之外被安保拿去接受短信验证码。
+
+**开工：**
+
+找到一个有后门的一楼茶楼就准备开工了。
+
+        车队长在茶楼等待盘口和电信诈骗人员对接，像这种杀猪盘节奏都是被诈骗者控制好了的，知道受害者什么时候就会打款，所以基本都提前一天联系车队长预约额度。
+
+         盘口叫车队长提供卡号，车队长把卡娃昨天验证好的账户发送给盘口，盘口直接提供给受害者，受害者将资金打入卡娃的银行卡，一般这个时间在几分钟内。
+
+        操作手收到资金后，立刻在交易所随机找币商高价购买USDT，购买好之后就把币按照比例提给盘口，留下15%的利润。
+
+        和币商熟悉后，很多币商主动要求参与这个环节，因为吃不饱饭的币商太多了，正常交易100万，他们只有3000元利润，而参与这个环节，起码10万元利润，你觉得有几个币商会禁得住这个诱惑。
+
+        卡主的日限额额度满后，车队长买好机票立刻叫司机送卡主到机场，发放2000-5000元给卡主，支付卡商3000-5000元，一张卡的成本在1万3左右。又换一批卡主到达下一个地方。
+
+**结束：**
+
+       结束后车队长就会带着所有人员去夜场消费，基本上都会把当天的利润花完，基本不怎么省钱，因为他们都知道某一天会被按头。
+
+        今朝有酒今朝醉，这就是所有人员醉生梦死的生活，却又看不到明天。
+
+        而币商收到这个资金后，立刻就会在交易所挂单高于市场价格1分收取USDT，而这个时候你作为一个散户去卖出你的数字资产，相当于电信诈骗的资金直接从受害者——币商——到了你的账户。
+     
+        而币商是没有资金留存的，他们冻卡后都不会去处理，很多叔叔看着没有余额的账户，也不会去操作冻结，而你的账户最后流入了资金，被一键冻结，最终所有的行为都由你买单。
+
+         这就是为什么你在交易所卖U会被冻结的所有原因，涉及到了很多违法犯罪的事情，并不是你单纯的出售了你的数字资产，这个社会是一个多维度的东西，你看到的层面仅仅是你那一点点。
+
+         跳出那口井，站在上帝视角才能全面的观察到所有核心东西，网络赌博提现也会是这个流程，所以为什么会被冻卡。他们告诉你，这叫认知。
+    - 853.38 GOLD
+- [[Twitter]]
+    - 今天下载的客户端，以后可以不必打开网页版，现在是想写就写，毫不犹豫的状态。
+- [[抖音]]
+    - 每次两句半都会同步到抖音，也许只有几十个粉丝，又有什么关系呢。
+    - 作家的成功判定标准跟世俗是不一样的。奥威尔的一生，从世俗的标准判断，一点也不成功，但是作为作家，他又是不可替代的。他的艰难的岁月，恰巧成为他创作的养分。 #[[George Orwell]]
+- [[视频号]]
+- [[Youtube]]
+- [[白板报]]
+- [[两句半]]
+    - [[note123]]
+        - 昨晚在大宁剧院看了加拿大戏剧家Robert LePage的《887》在上海的末场演出，这部关于回忆与父亲的戏，看得我几次老泪纵横。887是LePage 70年代在魁北克省所住公寓的门牌号，这出戏别出心裁，集微缩景观、录像和直播为一体，让人眼界大开：戏剧原来还可以这样玩，回忆原来真地可以借助舞台复活。{{[[TODO]]}} 15:49 36  #[[编剧故事营]]
+- ---

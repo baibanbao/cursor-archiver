@@ -1,0 +1,79 @@
+- #[[Prayers&Answers]]
+    - Date: [[November 10th, 2022]] 15:36
+        - 赞美感谢
+            - 感谢神倾听祷告，度过今天的难关
+        - 认罪悔改
+            - 为自己的疏懒
+        - 祈求
+            - 求主帮助解决 [[科技节]] 方案修改的问题
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 1}}
+- #[[Prayers&Answers]]
+    - Date: [[November 10th, 2022]] 01:02
+        - 赞美感谢
+            - 感谢赞美神的祝福
+            - 让唐300项目得以开展
+        - 认罪悔改
+            - 为自己的众多的罪祷告
+        - 祈求
+            - 求主让[[岳父]]尽快康复
+            - 求主让我们的家庭更加和睦，成为圣约家庭
+            - 财务上的供应
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 5}}
+- 
+    - Date: [[November 10th, 2022]] 08:30
+        - 赞美感谢
+            - 感谢主让我醒来
+            - 感谢主让[[岳父]]健康好转
+            - 感谢主让我们家庭和睦
+        - 认罪悔改
+            - 为自己不渴慕主的话语
+            - 为自己的懒惰
+            - 为自己的任性
+            - 为自己以自我为中心
+            - 为自己没有尽本分
+            - 为自己的不是忠心的管家
+        - 祈求
+            - 求主让我悔改
+            - 求主保护[[郭联秦]]免受疾控骚扰
+            - 求主赐给我们每日的饮食，家庭的所需
+            - 求主让我debt-free
+            - 求主指示我当行的道路
+            - 求主祝福我的写作，给我力量，多写
+            - 求主使我尽忠服事弟兄姊妹
+            - 求主让[[岳父]]早日康复出院
+            - 求主使我们全家继续和睦
+            - 求主使我治死自己身上的罪，比如不爱倾听的罪，自我为中心的罪，愁苦缺乏信心的罪
+            - 求主让#[[Seven]]认识耶稣，悔改得救
+            - 求主让#[[Jonas]]从小认识主，到老也不偏离
+            - 求主保护他们的脚踪
+            - 求主祝福[[叶子]]的joyland
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 2}}
+- [[Day Start]] 01:02
+- Daily Tasks
+    - {{[[TODO]]}} 下午1点辅导[[科技节]]
+    - {{[[TODO]]}} 接送jo上学
+    - {{[[TODO]]}} PCR
+    - {{[[TODO]]}} 夜背唐300
+    - {{[[TODO]]}} #[[Finance]]
+        - {{[[TODO]]}} 威利
+        - {{[[TODO]]}} 戒备
+        - {{[[TODO]]}} 朝沆
+    - {{[[TODO]]}} 好中文第八期草稿
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [【Insta360ONE X】影石Insta360 ONE X2口袋全景防抖运动相机 5.7K高清Vlog滑雪摩托车潜水摄像机 裸机防水【行情 报价 价格 评测】-京东](https://item.jd.com/100008950003.html#crumb-wrap)
+    - [(10) 北京烤鴨半隻賣$90，那整隻賣多少？ - YouTube](https://www.youtube.com/watch?v=ucIXMKjoaNY) #高数
+    - [072 随机生存的智慧 - 快乐三十分 | Podcast on Spotify](https://open.spotify.com/episode/5abeCHZ9kXXuQauh0xAmJs?si=1d31e06090c049b2&nd=1)
+    - 
+- ---

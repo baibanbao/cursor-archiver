@@ -1,0 +1,92 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Date: [[February 15th, 2023]] 13:08
+            - 赞美感谢
+                - 感谢赞美主恩
+                - 感谢主派弟兄来门训我
+            - 认罪悔改
+                - 为自己爱心冷淡
+                - 为自己缺乏耐心
+                - 为自己不守诺言而认罪
+            - 祈求
+                - 每天不受打扰地写作4个小时
+                - 祈求能够给妻子见证福音 #Seven
+                - 祈求可以爱弟兄 #季晔峰
+                - 为[[刘作谦]]弟兄祈求
+                    - 1. 每天管理好精力
+                    - 2. 更加有聪明智慧处理好细节
+                    - 3. 女友回家怀着爱心说诚实话，不以作耶稣基督的仆人为耻
+                    - 4. 找到安全的场地
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 08:39
+- Daily Tasks
+    - {{[[DONE]]}} 杭州银行房贷
+    - {{[[DONE]]}} 第一次门训
+    - {{[[DONE]]}} 去办公室
+    - {{[[DONE]]}} 接送娃
+    - {{[[DONE]]}} 好中文gc8
+        - {{[[TODO]]}} 今日发布
+            - {{[[TODO]]}} 公众号
+                - 不登价格，开始入群咨询报名
+                - 在[[金税四期]]到来的时刻，这种审慎是必须的
+    - {{[[DONE]]}} 充分休息
+    - {{[[DONE]]}} 多喝水
+- ---
+- [[Daily Journal]] 
+    - #[[四季青青]]写作 #minipomo
+        - [[February 16th, 2023]] Thursday 33 mp
+        - [[February 17th, 2023]]  Friday 18 mp
+        - [[February 18th, 2023]] Saturday 15 mp
+        - [[February 20th, 2023]]  Monday 33 mp
+        - [[February 21st, 2023]]  Tuesday 33 mp
+        - [[February 22nd, 2023]] Wednesday 33 mp
+        - [[February 23rd, 2023]] Thursday 33 mp
+        - [[February 24th, 2023]]  Friday 33 mp
+        - [[February 25th, 2023]]  Saturday 33 mp
+        - [[February 27th, 2023]]  Monday 33 mp
+        - [[February 28th, 2023]] Tuesday 33 mp
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 21}} {{word-count}}
+                - 
+                - 好中文Launch page
+                    - [ ] Quick explanation
+                        - 好中文春季写作营
+                            - 好中文写作营是一个写作训练社区，由北京人艺签约编剧王佩创办。回到源头，琢磨技艺，精准表达，好处在平易，在雅洁。训练作家之耳，培养风格感觉，树立修辞意识，打破知识的诅咒。输入与输出并行，心智与文采俱进。在人工智能时代彰显人的智能与情感。
+                    - [ ] Demo (Screenshot, video, sample, demo app usable without registrations, etc)
+                        - screenshot
+                        - video
+                        - sample
+                        - demo
+                        - 
+                    - [ ] Major advantages and benefits
+                        - 写作之难，在于把思维这张大网，抽丝成线，变成一条按照词语先后顺序排列的、符合语法的一串字符串。字要一个一个地写，词要一个一个地组，话要一句一句地说，段要一节一节地排。字词句章，先来后到，轻重缓急，抑扬顿挫，牵一发而动全身，乱一字则动全局。
+                        - *原生大脑构思，第二大脑写作**
+                            - 有没有想过，你不喜欢写作，也许并不是你的问题，是我们的思维方式发生了根本的变化。
+                    - [ ] Pricing
+                        - [ ] 今年的优惠价格 680
+                        - [ ] 老学员价格 580
+                        - [ ] 插班生价格 580
+                        - [ ] 保持价格的稳定性
+                    - [ ] Testimonials
+                        - *过往评价**
+                            - 陈晓卿：《舌尖上的中国》、《风味人间》总导演、《至味在人间》作者
+                                - 我的朋友、作家王佩说，故事就是你一步一步接近真相的努力，生活在社会的每一个人，任何时刻都在找彼此的真相。
+                            - 张广天：语文大师、先锋戏剧导演、音乐家
+                                - 王佩很胖，
+                                - 但他的微笑像海洋。
+                            - 郑嘉励：考古学家、作家、编剧故事营第二期
+                                - 上大学时，读《水浒传》，蓦然发现，白话文的生动和活泼，尤其是白描的部分，远在文言文之上。后来，又读到《续古文观止》，发现清代文言文的末流，实在乏味、迂腐之极，非但装不下稍稍复杂、思辨的思想，甚至都无法描述活泼泼、火热热的生活。这就让我坚信，好中文的样子，一定是口语的，是简洁的、凝练的、活泼的口语。当然，好的学术中文，语法或句法，应该是欧化的，但是，锤炼文字依然必须是传统中文的方式。
+                            - 卫西谛：知名影评人、金马奖评委
+                                - 作为人生谦卑的学徒，学习写作风格是终身的修炼。好中文写作课教会我们，如何找回失落的古典风格，如何打破知识的诅咒，以及如何把网状的思维变成语言的金线。好中文要慢慢读，快速不是目的，比浮云还慢也无所谓，最重要的是去感受美好写作风格所带来的一切。
+                    - [ ] Call-To-Action
+                        - 行动号召
+                    - [ ] Customer support
+                        - [ ] Building loyalties by providing quick and thoughtful user support is so effective to get paid users.
+- [[Daily Reading]]
+    - The Rehearsal
+        - [https://www.bilibili.com/video/BV1EB4y1V7KA/?p=4&vd\_source=d77cfc51f5909e253056ddf774cd791e](https://www.bilibili.com/video/BV1EB4y1V7KA/?p=4&vd_source=d77cfc51f5909e253056ddf774cd791e)
+    - [Fork akaalias/dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin/fork)
+        - 完美解决了迷你番茄钟的问题 #[[minipomo]]
+- ---

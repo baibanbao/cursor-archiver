@@ -1,0 +1,55 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date::[[May 25th, 2021]]
+- # Around the Roaman Empire
+    - ## Multiplayer madness
+        - Despite it being considered a secret feature, it didn't take long for the new roam/comments feature to be discovered, and [[Beau Haan]] went so far as to make an intro video for it. ((Beau should become Roam's resident new feature video-explainer guy.))
+            - https://twitter.com/beauhaan/status/1394812754524000257?s=12 #[[LFR/Letter XIX]]
+        - Dharam has made another small, but mighty useful, update to Roam Portal which is going to be very handy for multiplayer graphs. You can now find blocks written by a specific user. Combine that with the emoji reactions filter and now you have a very simple way to see which of your own blocks resonated most with others. It could even be used as a rudimentary notifications system.
+            - https://twitter.com/DharamKapila/status/1396532951198928897?s=20 #[[LFR/Letter XIX]]
+    - ## Interstitial Journaling
+        - In the last few weeks, there's been a lot of chatter in the Twittersphere about [[Interstitial Journaling]]. I even wrote a tweetstorm about my experiences and some tips for getting the most from the practice
+            - https://twitter.com/elaptics/status/1393943757515546626
+            - Last Saturday, [[RJ Nestor]] and [[Tracy Winchell]] did a live Youtube stream discussing [[Interstitial Journaling]] and their practices. If you're interested in the topic and how to get started, it's well worth watching the replay. And even if you're not, it's worth watching right to the end to see RJ, in his first ever livestream, figure out in real-time how to end it. 😂
+                - {{[[video]]: https://www.youtube.com/watch?v=SLn1m2XEs7Y}}
+                - https://twitter.com/tracyplaces/status/1396119441751019523?s=12 #[[LFR/Letter XIX]]
+    - ## In Context
+        - Another neat plugin from [[David Vargas]] collaborating with [[Matt McGann]] when you need to see additional context in place. This is particularly useful when you have, for example, tasks in a kanban board block referenced elsewhere. By adding the parent tag it will show the status of the the task inline without needing to navigate elsewhere. [Watch this Loom video to see it in action](https://www.loom.com/share/174b5a9d4d704dd3b3930ca0a446f9dc).
+            - {{[[video]]: https://www.loom.com/share/174b5a9d4d704dd3b3930ca0a446f9dc}}
+                - https://twitter.com/matmcgann/status/1394100989083340800?s=12 #[[LFR/Letter XIX]]
+    - ## Visualising your graph
+        - First up, if you use David's [RoamJS Mindmap extension](https://roamjs.com/docs/extensions/mindmap), you can now export them in the standard OPML format which will allow you to use in other mindmapping software like MindNode.
+            - https://twitter.com/dvargas92495/status/1394366032912003075?s=12 #[[LFR/Letter XIX]]
+        - Andre Foeken has created a cool little extension using the new iframe-component feature that was recently added.
+            - Paste the following line into your graph, or create a Roam template to use it easily:
+                - `{{iframe-component: https://roam2world.dreetje.repl.co}}`
+            - It'll add two icons to the block, and then anything you nest beneath it you'll be able to click the buttons to get either rich-styled text or a PDF of the blocks underneath. It's makes it particularly easy to draft a document in Roam and then share it very easily elsewhere.
+            - [The code is open-source and available on Replit](https://replit.com/@dreetje/Roam2World). Which also means if you know what you're doing, you can easily fork it and create your own version.
+    - ## Phoning it in
+        - PhoneToRoam has integrated with Zapier’s API so now it's easier for non-coders to get their data from other sources into Roam. Right now, you'll need to log into [PhoneToRoam](https://www.phonetoroam.com/) and follow the link to the beta Zapier integration to play around.
+            - https://twitter.com/phonetoroam/status/1392884970570584068?s=12 #[[LFR/Letter XIX]]
+        - And just in case you still don’t have enough ways to get things into Roam, [[David Vargas]] has released yet another extension on RoamJS which allows you to [import your Otter.ai voice notes straight into Roam](https://roamjs.com/extensions/otter).
+            - https://twitter.com/beauhaan/status/1392300477224730628?s=12 #[[LFR/Letter XIX]]
+- # Thinking Out Loud {{word-count}}
+    - If you've been on Twitter and paying attention to the note-taking or tools-for-thought space for any length of time, you'll have done well to avoid the perennial debates around switching tools. There are a lot of facets to these conversations that at the risk of igniting controversy I will start to explore over the next few letters as I continue my own explorations to augment my brain and improve my thinking.
+    - Lately, I've been thinking how our note-taking tools might be subtly shaping our thinking, and how these may be factoring into our tools of choice or giving us reasons to consider switching.
+    - I read [this brief piece](https://subconscious.substack.com/p/subtext-markup-for-note-taking) by [[Gordon Brander]] on his ideas for Subtext, a simple text-based but block-oriented tool optimised for note-taking. I realised that Gordon had articulated something that I hadn't quite been able to put my finger on, which I think is worth thinking about and perhaps pertinent in the Roam vs tools like Obsidian arguments.
+        - For ease, in this essay, I'll use Obsidian as the example tool, because it appears to be getting a lot of traction but what I'm about to discuss applies just as much to many other similar tools.
+    - Specifically, and for clarity, I'm talking about tools that are designed specifically to address "knowledge management", PKM, note-taking or is otherwise some kind of tool-for-thought as opposed to something considered more as a straight text editor. There is certainly some amount of cross-over here, especially where we're talking about working with plain-text files. But here is my thought: Almost exclusively, this class of tool uses Markdown as the preferred method for writing these documents.
+        - I could happily go off on a long tangent here about Markdown, but for now I want to centre on one thing.
+            - Fundamentally, Markdown was created for publishing. It was created by John Gruber as a way to make it easy to write in prose and then convert it to HTML for publishing to the web.
+                - > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+            - And this is the point that Gordon makes which stood out to me:
+                - > HTML comes in __web pages__. The analogy for an HTML document is quite literally __a page__. The image that springs to mind is of an 8.5x11” sheet, carefully typeset, with multiple fonts, headings, complex formatting, perhaps laid out across many columns. HTML is a __publication format__, designed to produce complete, indivisible artifacts, called __pages__.
+            - Markdown is geared for the traditional page-centred, paragraph-driven prose writing at the end of the publishing chain, after the note-taking and the hard thinking has been done when you write with clarity to explain and share your ideas with the world.
+            - > Today the book is already… an outdated mediation between two different filing systems. For everything that matters is to be found in the card box of the researcher who wrote it, and the scholar studying it assimilates it into his own card index. **Walter Benjamin** #quotex
+            - Thus my question: **Is Markdown the right format for thinking and taking notes?** That is the assumption of tools like Obsidian.
+            - Here is where Roam has turned these things on its head, and what Gordon is exploring with his Subtext idea.
+                - If you're reading this, you've experienced Roam and its frictionless writing style. The bullet points for the blocks encourages you to just write, and get all those mixed-up messy thoughts out of your head. The outliner and nesting features makes it easy to rearrange and organise those thoughts into clearer, distinct atomic ideas and thoughts. You can simply care less about spelling, punctuation and grammar and just lay out your thinking and incomplete, incoherent, rambling thoughts. The bullets move you away from thinking in prose.
+                    - This shift to blocks as first-class citizens and the fundamental unit of thought, which is uniquely addressable, also enables you to more readily remix, and reuse these granular blocks in the same way you can build a staggering variety of structures from just a few primitive LEGO bricks.
+                        - Sometimes these atomic thoughts require only a single sentence or paragraph, but often it may need multiple paragraphs to fully encapsulate it. In Roam, this is easy to do, a single block can contain multiple paragraphs with soft line breaks. With Markdown, you cannot demarcate whether an atomic thought is one single paragraph or is multiple paragraphs unless you treat individual files as the block, or you separate them by headings or other markup, each of which is taking you away from your thinking, now you are kowtowing to the tool.
+            - I think I would be willing to assert that only the very best thinkers can think in prose clearly, the few who perhaps [[Andy Matuschak]] suggests [don't take notes when they're reading](https://notes.andymatuschak.org/z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw).
+                - I am most definitely not one of those people. Except I didn’t realise it, I would simply struggle and stare at blank pages because, well, we’re not really taught any other way.
+                    - We are trained in school to write in prose so it’s natural to think that notes should be taken the same way. And we have years of habit and practice of that. Much less so about breaking things down into their constituent parts. We’re barely taught outlining. At most it’s mindmaps and “brainstorming”.
+                        - We only ever see the final output of others, their flowing prose with a narrative to guide and explain the ideas they’re sharing. The very best make it look effortless. But we don’t see their notes, their distilled and wrestled with thoughts.
+                            - I bet they didn’t write their notes in prose.

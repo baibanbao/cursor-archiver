@@ -1,0 +1,25 @@
+tags: #DailyNotes #2023-02-08
+
+2023年2月1日 水曜日 10:42
+
+## 今日事
+
+* [ ] 去舅舅家 
+  * 因为表弟阳性，计划取消。
+* 按照Inkdrop的样子，规划gc8
+  * [How I Built a Markdown Editor Earning $1300/mo Profit — Inkdrop | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-ddf6ad702c42)
+* 好中文首页（其实也是公众号展示页）
+  * Quick explanation
+  * Demo (Screenshot, video, sample, demo app usable without registrations, etc)
+  * Major advantages and benefits
+  * Pricing
+  * Testimonials
+  * Call-To-Action
+* 好中文技术支持
+  * Building loyalties by providing quick and thoughtful user support is so effective to get paid users.
+
+从Inkdrop中，我可以学到更多。
+
+- 首先需要问问，它解决了什么痛点？并且这个痛点你自己也有。
+- 
+

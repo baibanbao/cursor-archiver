@@ -1,0 +1,8 @@
+- --
+- title: 一个短片大赛
+- date: 2017-06-02 13:32
+- tag: 编剧
+- --
+- 要不要冲击一下。
+- 虽然知道，届时报名费又有可能打了水漂。
+- [ScreenCraft Short Film Production Fund](https://screencraft.org/fund/#fsform)

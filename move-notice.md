@@ -1,0 +1,5 @@
+- Title: 搬家了
+- Date: 2020-04-11 13:22
+- 搬家了，搬家了！
+- 今后这个博客将搬到 [Write.So](http://write.so/)
+- 以后只写一个博客，就是 [Write.So](http://write.so/)

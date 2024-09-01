@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Charles Chaplin]]
+        - Writer:: [[Charles Chaplin]]
+        - Cast:: [[Charles Chaplin]] [[Paulette Goddard]] [[Jack Oakie]]
+        - Year:: [[1940]]
+        - Genre:: #Comedy #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0032553
+    - **Plot Summary:** Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.

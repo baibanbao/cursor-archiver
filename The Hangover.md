@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Todd Phillips]]
+        - Writer:: [[Jon Lucas]] [[Scott Moore]]
+        - Cast:: [[Zach Galifianakis]] [[Bradley Cooper]] [[Justin Bartha]]
+        - Year:: [[2009]]
+        - Genre:: #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt1119646
+    - **Plot Summary:** Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLE_CRJgdzW.pdf?alt=media&token=9697628e-fc7d-4ad6-aa39-da3ea0a3656f}}

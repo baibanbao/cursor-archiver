@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Akira Kurosawa]]
+        - Writer:: [[Akira Kurosawa]] [[Shinobu Hashimoto]] [[Hideo Oguni]]
+        - Cast:: [[Takashi Shimura]] [[Nobuo Kaneko]] [[Shin'ichi Himori]]
+        - Year:: [[1952]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0044741
+    - **Plot Summary:** A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.

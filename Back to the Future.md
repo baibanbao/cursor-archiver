@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Robert Zemeckis]]
+        - Writer:: [[Robert Zemeckis]] [[Bob Gale]]
+        - Cast:: [[Michael J. Fox]] [[Christopher Lloyd]] [[Lea Thompson]]
+        - Year:: [[1985]]
+        - Genre:: #Adventure #Comedy #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0088763
+    - **Plot Summary:** Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.

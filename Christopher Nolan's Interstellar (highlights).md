@@ -1,0 +1,5 @@
+- Author:: [[Christopher Nolan]]
+- Full Title:: Christopher Nolan's Interstellar
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - You do just enough so that you see the possibilities and not the constraints. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B00Q2UMWE4&location=88))

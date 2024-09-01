@@ -1,0 +1,4 @@
+- [Automatic Roam backups | RoamStack](https://www.roamstack.com/automatic-backups/)
+- 教程2:[A step-by-step guide to backing up your Roam Research database | by Quinten Lockefeer | Medium](https://kuvee.medium.com/a-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee)
+- [[王树义]]老师的github
+    - [wshuyi (Shuyi Wang)](https://github.com/wshuyi)

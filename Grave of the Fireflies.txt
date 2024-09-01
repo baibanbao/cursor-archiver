@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Isao Takahata]]
+        - Writer:: [[Akiyuki Nosaka]] [[Isao Takahata]]
+        - Cast:: [[Tsutomu Tatsumi]] [[Ayano Shiraishi]] [[Akemi Yamaguchi]]
+        - Year:: [[1988]]
+        - Genre:: #Animation #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0095327
+    - **Plot Summary:** A young boy and his little sister struggle to survive in Japan during World War II.

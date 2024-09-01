@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Billy Wilder]]
+        - Writer:: [[Billy Wilder]] [[Raymond Chandler]] [[James M Cain]]
+        - Cast:: [[Fred MacMurray]] [[Barbara Stanwyck]] [[Edward G. Robinson]]
+        - Year:: [[1944]]
+        - Genre:: #Crime #Drama #Film-Noir
+    - **IMDb:** https://www.imdb.com/title/tt0036775
+    - **Plot Summary:** A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.

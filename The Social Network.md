@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Fincher]]
+        - Writer:: [[Aaron Sorkin]] [[Ben Mezrich]]
+        - Cast:: [[Jesse Eisenberg]] [[Andrew Garfield]] [[Justin Timberlake]]
+        - Year:: [[2010]]
+        - Genre:: #Biography #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1285016
+    - **Plot Summary:** As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.

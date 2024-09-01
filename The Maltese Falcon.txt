@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODQzYjY2NzAtMTVkOS00YTI1LTg2YzQtMWExOTY5ZmQ4ODU1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Huston]]
+        - Writer:: [[John Huston]] [[Dashiell Hammett]]
+        - Cast:: [[Humphrey Bogart]] [[Mary Astor]] [[Gladys George]]
+        - Year:: [[1941]]
+        - Genre:: #Crime #Film-Noir #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0033870
+    - **Plot Summary:** San Francisco private detective Sam Spade takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette, with the stakes rising after his partner is murdered.

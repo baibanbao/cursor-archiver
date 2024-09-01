@@ -1,0 +1,26 @@
+- --
+- layout: note
+- title: 说美国护照上印着“此面向敌”笑点在哪里？
+- categories: notes
+- --
+- ![此面向敌](http://www.baibanbao.net/wp-content/uploads/2015/04/cimian1.jpg)
+- 今天看到的一个微博上笑话。
+- 有人问，美国护照上到底写了什么？一个网友回答：“此面向敌”。
+- 众人哄笑，以为精妙。
+- 我一头雾水。
+- 然后查了军迷网站。
+- 原来，此面向敌，来自一种美式地雷[M18 Claymore mine - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/M18_Claymore_mine)
+- 我们知道，地雷一般都是埋在地里，等着敌人踩上去的。但Claymore，这种以苏格兰的剑命名的地雷，则是人操纵的。中文翻译成阔剑。
+- 它由700多钢珠组成，可以在地雷攻击面前方以60度扇形，形成一个宽2米，长50米的霰弹幕，这相当于700个士兵同时发射形成的火力网。因此，Claymore是一种非常高效的防御武器。
+- 它需要瞄准，然后士兵在后方用电线遥控。经过改进后的这种地雷，可以将攻击面扩大到100米宽度。
+- 由于这种地雷想当厉害，如果新兵蛋子部署反了，将攻击面朝向自己一方，那就自取灭亡了。
+- 所以，在地雷上都有警告标志，英文一般是：
+- This side towards enemy
+- Front towards enemy
+- ![Front Towards Enemy](http://www.baibanbao.net/wp-content/uploads/2015/04/cimian2.jpg)
+- 中国军方仿造了这种雷，取名66式定向雷，也模仿英文加了一个标志：
+- ##此面向敌
+- *网友回答美国护照上写着“此面向敌”，是针对网上传得美国护照印着霸气文字的一种嘲讽。有一个都市传说，美国护照上印着：“无论你身在何方，美国政府和军队，都是你坚强的后盾”，实际上是以讹传讹。网友的讽刺点在于，你们不是说美国护照强大吗？你看强大到相当于一个写着“此面向敌”的定向地雷了。**
+- 你看懂了吗？
+- 参考资料：[Claymore Mine | How to Deploy a Claymore Mine](http://www.claymoremine.com/)
+- [牛！此面向敌！——66式反步兵地雷（国产山寨阔剑）_战地2吧_百度贴吧](http://tieba.baidu.com/p/558535394)

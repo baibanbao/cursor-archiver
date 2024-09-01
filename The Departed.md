@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Martin Scorsese]]
+        - Writer:: [[William Monahan]] [[Alan Mak]] [[Felix Chong]]
+        - Cast:: [[Leonardo DiCaprio]] [[Matt Damon]] [[Jack Nicholson]]
+        - Year:: [[2006]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0407887
+    - **Plot Summary:** An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FHsM_Q_4t4s.pdf?alt=media&token=90888cb4-c087-456f-84af-521342c915db}}

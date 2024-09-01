@@ -1,0 +1,8 @@
+- [[April 22nd, 2023]]
+    - 去杭州
+- 中国往何处去
+    - [量子跃迁](https://twitter.com/liangziyueqian1)
+    - [@liangziyueqian1](https://twitter.com/liangziyueqian1)
+    - ·
+    - [6m](https://twitter.com/liangziyueqian1/status/1643991728704327684)
+    - 今晚央视新闻联播继续高密度、高强度、高频率聒噪习近平"新时期思想"，要求全体党员深入学习，深刻领会，甚至提出要"[[原原本本地学，逐字逐句地悟]]"！将文革时期学《毛著》的那一套，照办到现在。习帮主搞个人崇拜已到了毫无羞耻的地步。但是，他越是强调"确立"、"维护"的2442诫律，越说明他已危机四伏！

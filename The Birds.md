@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Daphne Du Maurier]] [[Evan Hunter]]
+        - Cast:: [[Rod Taylor]] [[Tippi Hedren]] [[Jessica Tandy]]
+        - Year:: [[1963]]
+        - Genre:: #Drama #Horror #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0056869
+    - **Plot Summary:** A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FNYA100qnWE.pdf?alt=media&token=971c0952-d8fe-4148-942d-a6702adce6c6}}

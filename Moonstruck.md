@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjIwMDY0NzYyMF5BMl5BanBnXkFtZTcwOTE5NDk0NA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Norman Jewison]]
+        - Writer:: [[John Patrick Shanley]]
+        - Cast:: [[Cher]] [[Nicolas Cage]] [[Olympia Dukakis]]
+        - Year:: [[1987]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0093565
+    - **Plot Summary:** Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.

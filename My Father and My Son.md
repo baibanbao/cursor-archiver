@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Cagan Irmak]]
+        - Writer:: [[Cagan Irmak]]
+        - Cast:: [[Çetin Tekindor]] [[Fikret Kuskan]] [[Hümeyra]]
+        - Year:: [[2005]]
+        - Genre:: #Drama #Family
+    - **IMDb:** https://www.imdb.com/title/tt0476735
+    - **Plot Summary:** The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.

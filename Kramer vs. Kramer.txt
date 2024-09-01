@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjkzOTQ1NjgtNWI1Zi00ODcwLThlZGMtMWQyYjFlMjUxNzg1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Robert Benton]]
+        - Writer:: [[Avery Corman]] [[Robert Benton]]
+        - Cast:: [[Dustin Hoffman]] [[Meryl Streep]] [[Jane Alexander]]
+        - Year:: [[1979]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0079417
+    - **Plot Summary:** After his wife leaves him, a work-obsessed Manhattan advertising executive is forced to learn long-neglected parenting skills, but a heated custody battle over the couple's young son deepens the wounds left by the separation.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FuHhoL6obA1.pdf?alt=media&token=b13f5dd0-2aea-45a1-ba70-0424415dfea4}}

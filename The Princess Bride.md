@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Rob Reiner]]
+        - Writer:: [[William Goldman]]
+        - Cast:: [[Cary Elwes]] [[Mandy Patinkin]] [[Robin Wright]]
+        - Year:: [[1987]]
+        - Genre:: #Adventure #Family #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0093779
+    - **Plot Summary:** While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FpOpGbmshGV.pdf?alt=media&token=14157c81-5a0e-4e28-80b1-e620bf8b853c}}

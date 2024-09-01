@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Tom Hooper]]
+        - Writer:: [[David Seidler]]
+        - Cast:: [[Colin Firth]] [[Geoffrey Rush]] [[Helena Bonham Carter]]
+        - Year:: [[2010]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt1504320
+    - **Plot Summary:** The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FbANFbnpq6C.pdf?alt=media&token=1cb947dd-f48a-40ee-b20f-54844391c576}}

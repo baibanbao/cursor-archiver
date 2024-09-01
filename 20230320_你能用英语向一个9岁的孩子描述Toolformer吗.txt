@@ -1,0 +1,51 @@
+﻿Can you use English to describe Toolformer to a 9 year old child?
+
+Sure! Toolformer is like a teacher for computers. It helps computers learn how to use tools, just like how you learn how to use a hammer or a pencil in school.
+
+Think of it this way, imagine you want to build a birdhouse. You need to know what tools to use, how to use them and when to use them. Toolformer teaches computers the same thing, it helps them understand what tools they need to use and how to use them to complete a task.
+
+Just like you get better at using tools the more you practice, computers also get better at using tools the more they practice with Toolformer. And one day, computers might be able to build birdhouses all by themselves!
+
+你能用英语向一个9岁的孩子描述Toolformer吗？
+
+当然可以！ Toolformer就像电脑的老师。它帮助电脑学习如何使用工具，就像你在学校里学习如何使用锤子或铅笔一样。
+
+这样想，假设你想建造一个鸟屋。你需要知道要使用什么工具、如何使用以及何时使用它们。 Toolformer教会电脑同样的事情，它帮助他们理解他们需要使用哪些工具以及如何使用这些工具来完成任务。
+
+就像你练习得越多，越擅长使用工具一样，通过与Toolformer进行更多实践，计算机也会变得越来越擅长于运用各种工具。有一天，计算机甚至可能自己独立地建造鸟屋呢！
+
+The paper "Toolformer: Language Models Can Teach Themselves to Use Tools" presents anew approach to equipping language models with the ability to use external tools through APl calls. The approach is designed to meet the following requirements:
+
+1. Self-supervised learning without large amounts of human annotations.
+
+2. Language models should be able to decide when and how to use which tool.
+
+The approach is based on the idea of using large language models with in-context learning to generate a dataset augmented with APi calls. The authors use a selfsupervised loss to determine which API calls are useful for predicting future tokens. The approach consists of the following steps:
+
+1. Sampling API calls: The model is encouraged to annotate a text example with API calls.
+
+2. Executing APl calls: The model executes the APl calls to obtain the corresponding results.
+
+3. Filtering APi calls: The model checks whether the obtained responses are helpful for predicting future tokens.
+
+4. Model fine-tuning: The model is fine-tuned on the augmented dataset.
+
+Experiments are conducted on a variety of downstream tasks, showing that the Toolformer model outperforms larger models and several other baselines on various tasks.
+
+论文《Toolformer: 语言模型可以自学使用工具》提出了一种新的方法，通过 API 调用使语言模型具备使用外部工具的能力。该方法旨在满足以下要求：
+
+1. 自我监督学习，无需大量人类注释。
+
+2. 语言模型应该能够决定何时以及如何使用哪个工具。
+
+该方法基于利用上下文学习的大规模语言模型生成增强了 APi 调用的数据集的想法。作者使用自我监督损失来确定哪些 API 调用对于预测未来标记是有用的。该方法包括以下步骤：
+
+1. 抽样 API 调用：鼓励模型为文本示例注释 API 调用。
+
+2. 执行 APl 调用：模型执行 APl 调用以获取相应结果。
+
+3. 过滤 APi 调用：检查获得的响应是否有助于预测未来标记。
+
+4. 模型微调：在增强数据集上微调模型。
+
+实验针对各种下游任务进行，表明 Toolformer 模型在各种任务中优于更大的模型和其他几个基线。

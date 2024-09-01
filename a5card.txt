@@ -1,0 +1,34 @@
+# a5card
+
+打通了纸质与电子之间的界限
+
+工作流程
+
+- 纸质先行
+    - 手写
+    - 打字机
+    - 其他
+- 扫描
+    - google相片与扫描程序
+- 本地
+    - 文稿/a5card 目录
+- 改名
+    - 本地扫描的图片改为跟卡片一致的名字
+    - 带着唯一时间戳与英文关键词
+    - 例如：
+
+[![202108061540-foam.jpg](https://i.postimg.cc/qpprNj8z/202108061540-foam.jpg)](https://postimg.cc/0zmVKSqW)
+  
+- 上传
+    - 传到[a5card — Postimages](https://postimg.cc/gallery/DKFbLn2)
+    - 则每一张卡片都会在里面呈现
+- 调用
+    - 如需要调用一张卡片，有两种办法
+      - 看实体卡
+      - 用编号去寻找本地硬盘
+      - 或者图床上的相应卡片
+      - 然后markdown直接调用
+
+- 备份
+  - dropbox备份
+  - 

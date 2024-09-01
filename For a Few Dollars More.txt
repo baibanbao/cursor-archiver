@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sergio Leone]]
+        - Writer:: [[Sergio Leone]] [[Fulvio Morsella]] [[Luciano Vincenzoni]]
+        - Cast:: [[Clint Eastwood]] [[Lee Van Cleef]] [[Gian Maria Volontè]]
+        - Year:: [[1965]]
+        - Genre:: #Western
+    - **IMDb:** https://www.imdb.com/title/tt0059578
+    - **Plot Summary:** Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.

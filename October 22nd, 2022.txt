@@ -1,0 +1,51 @@
+- #[[Prayers&Answers]]
+    - Date: [[October 22nd, 2022]] 16:09
+        - Praise
+            - 赞美主的掌权
+            - 赞美主的创造
+            - 赞美主的护理
+            - 赞美主的救赎
+        - Thanks
+            - 感谢神的拣选与救恩
+        - Confession
+            - 忏悔自己明显的罪
+            - 忏悔隐而未现的罪
+        - Ask
+            - For others
+                - 为教会
+                    - 无形教会
+                    - #[[SLBC]]
+                - 为执政掌权者
+                - 为这个国家的百姓
+                - 为邻居
+            - For my family
+                - 为#[[Seven]]
+                - 为#[[Jonas]]
+                - 为岳父母
+                - 为自己的父母
+                - 为[[楠楠]]
+                - 为自己
+        - Tongues
+            - Set a Pomodoro 
+                - {{[[POMO]]: 5}}
+- [[Gratitude]]
+- [[Day Start]] 16:09
+- Daily Tasks
+    - {{[[DONE]]}} 凌晨1 AM 解封
+    - {{[[TODO]]}} 走路8000步
+    - {{[[TODO]]}} 不要去看[[twitter]]，以免打扰内心的平静
+    - {{[[TODO]]}} 学习[[通用希腊文]]25分钟
+    - {{[[DONE]]}} 带儿子出去玩
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+                - 第一个番茄钟
+                    - 
+- [[Daily Reading]]
+- ---
+- [[Inbox]]
+    - [[Pei]] at 16:38: 我相信你是经过了深思熟虑才给我发这条消息，我也相信你一定可以兑现承诺，但是考虑到我家里的实际情况，我难以向掌管预算和财政的我老婆提出这项动议。十分抱歉[抱拳]
+        - 在接到[[小雨和小黑少]]的借钱微信后，做了以上回复

@@ -1,0 +1,9 @@
+- Author:: [[杨绛]]
+- Full Title:: 我荐｜杨绛: 记傅雷
+- URL:: http://mp.weixin.qq.com/s?__biz=MjM5ODc1Mzg2NQ==&mid=217680451&idx=2&sn=f1ac266bc59c4039fad713b22c4e7312&chksm=2fc8c96518bf407324b74756bdb5b7a9303d6d94bdd39fd5b098683c6f60de14ea9bbe1ee1a1#rd
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 17th, 2022]]
+    - 有一次他称赞我的翻译。我不过偶尔翻译了一篇极短的散文，译得也并不好，所以我只当傅雷是照例敷衍，也照例谦逊一句，傅雷怫然忍耐了一分钟，然后沉着脸发作道：“杨绛，你知道吗？我的称赞是不容易的。” ([View Highlight](https://instapaper.com/read/1522191233/20088255))
+    - 傅雷已作古人，人死不能复生，可是被遗忘的、被埋没的，还会重新被人记忆起来，发掘出来。 ([View Highlight](https://instapaper.com/read/1522191233/20088282))
+        - **Note**: 杨绛这个人ego太强了，读她的文章实在别扭

@@ -1,0 +1,9 @@
+- Author:: [[Bruce Kenneth Coleman]]
+- Full Title:: M’Cheyne One Year KJV Bible
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 6 But the children of the murderers he slew not: according unto that which is written in the book of the law of Moses, wherein the Lord commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall be put to death for his own sin. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B07JZBB3L2&location=57))
+    - 14 For many are called, but few are chosen. ([Location 15107](https://readwise.io/to_kindle?action=open&asin=B07JZBB3L2&location=15107))
+    - 8 Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people. ([Location 15623](https://readwise.io/to_kindle?action=open&asin=B07JZBB3L2&location=15623))
+    - 30 And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom. ([Location 15661](https://readwise.io/to_kindle?action=open&asin=B07JZBB3L2&location=15661))
+    - 32 And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me? ([Location 15664](https://readwise.io/to_kindle?action=open&asin=B07JZBB3L2&location=15664))

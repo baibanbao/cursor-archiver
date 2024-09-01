@@ -1,0 +1,8 @@
+﻿用魔法打败魔法
+
+没想到这么快AI内容检测器就出现了
+
+#ZeroGPT：可以检测ChatGPT 文本、Google BARD
+
+会突显由AI 生成的句子 ，并显示AI 生成文本的百分比
+https://zerogpt.com

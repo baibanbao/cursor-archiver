@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Victor Fleming, George Cukor, Sam Wood]]
+        - Writer:: [[Margaret Mitchell]] [[Sidney Howard]] [[Oliver HP Garrett]]
+        - Cast:: [[Clark Gable]] [[Vivien Leigh]] [[Thomas Mitchell]]
+        - Year:: [[1939]]
+        - Genre:: #Drama #Romance #War
+    - **IMDb:** https://www.imdb.com/title/tt0031381
+    - **Plot Summary:** The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.

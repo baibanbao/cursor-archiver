@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Adam McKay]]
+        - Writer:: [[Charles Randolph]] [[Adam McKay]] [[Michael Lewis]]
+        - Cast:: [[Christian Bale]] [[Steve Carell]] [[Ryan Gosling]]
+        - Year:: [[2015]]
+        - Genre:: #Biography #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1596363
+    - **Plot Summary:** In 2006-2007 a group of investors bet against the US mortgage market. In their research, they discover how flawed and corrupt the market is.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F6ZQghPuYd6.pdf?alt=media&token=477d9906-5135-4959-b49d-ed5ebbc1c5a2}}

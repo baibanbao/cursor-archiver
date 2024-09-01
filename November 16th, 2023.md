@@ -1,0 +1,13 @@
+- [[Gratitude]]
+- [[Day Start]] 03:13
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [极昼工作室｜96位货车司机生存报告：中年多病，贷款缠身，凌晨赶路](https://chinadigitaltimes.net/chinese/702154.html)
+- ---

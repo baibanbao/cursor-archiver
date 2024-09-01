@@ -1,0 +1,9 @@
+# markdown教程
+tags = #markdown #tutorial #sc4 #100-days-of-code
+
+[一份简明的 Markdown 笔记与教程 — 码志](https://mazhuang.org/2018/09/06/markdown-intro/)
+
+可在这个教程基础上，改成一份编剧故事营专用简明版。
+
+[[201904301128]] Markdown小教程
+

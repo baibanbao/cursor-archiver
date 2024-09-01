@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Christopher Nolan]]
+        - Writer:: [[Christopher Nolan]] [[Jonathan Nolan]]
+        - Cast:: [[Guy Pearce]] [[Carrie-Anne Moss]] [[Joe Pantoliano]]
+        - Year:: [[2000]]
+        - Genre:: #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0209144
+    - **Plot Summary:** A man with short-term memory loss attempts to track down his wife's murderer.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F7A9LxhzB3-.pdf?alt=media&token=c9459a49-d728-49b0-a278-e9e8470edf30}}

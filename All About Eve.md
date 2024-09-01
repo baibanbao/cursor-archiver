@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Joseph L. Mankiewicz]]
+        - Writer:: [[Joseph L Mankiewicz]] [[Mary Orr]]
+        - Cast:: [[Bette Davis]] [[Anne Baxter]] [[George Sanders]]
+        - Year:: [[1950]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0042192
+    - **Plot Summary:** A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FR907-6KWML.pdf?alt=media&token=d114472c-feb7-4cac-824d-e8322203f67c}}

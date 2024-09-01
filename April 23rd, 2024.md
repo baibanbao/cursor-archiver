@@ -1,0 +1,53 @@
+- 今天是读[[莎士比亚]]的好日子
+    - 阅读顺序
+        - 按照莎士比亚历史剧故事集的顺序
+            - 大将寇流兰
+            - 凯撒大帝
+            - 安东尼与埃及艳后
+            - 约翰王
+            - 理查二世
+            - 理查三世
+            - 亨利四世上
+            - 亨利四世下
+            - 亨利五世
+            - 亨利六世
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Tongue
+- [[Day Start]] 05:32
+- Daily Tasks
+    - {{[[TODO]]}} 带#[[Jonas]]去瑞金医院
+    - {{[[TODO]]}} 晚上与[[金安平]]老师一起吃饭
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **05:32** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- #[[Seven]]
+- #Jonas 
+- [[刘淼]]
+- [[两句半]]
+- [[Inbox]]
+- [[手写笔记]]
+- [[Projects]]
+- [[写书]]
+- [[ChatGPT故事营]]
+- [[中文AI了]]
+- [[Edit Later]]
+- [[好中文]]
+- [[编剧故事营]]
+- [[四季青青]]
+- #Finance
+- [[BTC]]
+- [[Twitter]]
+- [[抖音]]
+- [[Youtube]]
+- [[白板报]]
+- ---

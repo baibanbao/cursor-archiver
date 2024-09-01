@@ -1,0 +1,115 @@
+---
+title: How to use tags
+tags: 
+  - 4 Seasons
+  - Analects of Confucius
+  - Andrei Tarkovsky
+  - Ang Lee
+  - Bible
+  - Bilibili
+  - Billy Wilder
+  - Biography
+  - Blog
+  - Book
+  - Car
+  - Card
+  - Cat
+  - Comedy
+  - Dance
+  - Dingjia Village
+  - Documentary
+  - Download
+  - Editor
+  - Fact
+  - Faith
+  - Feeling
+  - Fellini
+  - Fiction
+  - File
+  - Film
+  - Finance
+  - Fitness
+  - Francis Ford Coppola
+  - Free
+  - Friend
+  - Git
+  - Haozhongwen
+  - Herzog
+  - History
+  - Hitchcock
+  - How-to
+  - Huang Jisu
+  - John Calvin
+  - John Ford
+  - Jonas
+  - Journal
+  - Ken Loach
+  - List
+  - Love
+  - Martin Luther
+  - Masterclass
+  - Me
+  - Media
+  - Mousen
+  - Netflix
+  - Nonfiction
+  - Note
+  - Now
+  - Outline
+  - Ozu
+  - Pablo Neruda
+  - Performance
+  - Playwriting
+  - Poem
+  - Program
+  - Prose
+  - Publish this Book
+  - Q & A
+  - Question
+  - Quote
+  - Resistance
+  - Roger Ebert
+  - Russian Film
+  - Screenplay
+  - Screenwriting
+  - Security
+  - Seven
+  - Sexy
+  - SF
+  - Shakespeare
+  - Shih Chi
+  - Shinobu Hashimoto
+  - Story
+  - Storycamp
+  - Storytelling
+  - Style
+  - Style
+  - Synopsis
+  - Tags
+  - The Dream of the Red Chamber
+  - Theater
+  - Todo
+  - Tool
+  - Tragedy
+  - Translation
+  - Travel
+  - TV
+  - Video
+  - Vim
+  - Vlog
+  - Wang Ziyue
+  - Workflow
+  - Youtube
+  - Zhang Guangtian
+  - Zou Xueping
+---
+
+使用 `Tags` 可以实现全站的导航与分类，不要使用文件夹。
+
+但需要按照以下标准使用：
+
+- 尽量用英文
+- 第一个单词的首字母大写 ： `How-to` 而不是 `how-to`
+- 单词之间用`-`连接 `Post-production`
+- 如果是名词就用单数 `Friend` 而不是`Friends`
+- 能用动词不用名词： `Criticize` 不是 `Criticism`

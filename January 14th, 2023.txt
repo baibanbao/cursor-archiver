@@ -1,0 +1,30 @@
+- [[Gratitude]]
+    - 感谢主的带领，没有开车，而是坐高铁回到故乡。
+    - 感谢与父母的reunion
+    - [[王汉朋]]送饺子
+    - 感谢岳父母的宽容，让#[[Seven]]回山东过年
+    - 感谢暖气公司的送暖
+    - 感谢夜里虽有噩梦，但是醒来并没有生病。
+    - 感谢药物的作用
+    - 感谢网络提供的便利
+    - 感谢这么多美好的书
+    - 感谢神让自己可以利用这段时间安静写书
+- [[Day Start]] 10:46
+- Daily Tasks
+    - {{[[TODO]]}} 好中文第八期大纲
+    - {{[[TODO]]}} 下单
+        - {{[[TODO]]}} type-c转usb
+        - {{[[TODO]]}} 磁吸转接头
+        - {{[[TODO]]}} T7硬盘 2T
+    - {{[[TODO]]}} 快递收#[[Jonas]]寒假生活
+    - {{[[TODO]]}} 给叔婶电话问候
+    - {{[[TODO]]}} 下载[[有声诗篇]]录音文件，放进一个文件夹
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 
+- ---

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Andrew Stanton, Lee Unkrich]]
+        - Writer:: [[Andrew Stanton]] [[Bob Peterson]] [[David Reynolds]]
+        - Cast:: [[Albert Brooks]] [[Ellen DeGeneres]] [[Alexander Gould]]
+        - Year:: [[2003]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt0266543
+    - **Plot Summary:** After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.

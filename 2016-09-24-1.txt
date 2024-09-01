@@ -1,0 +1,16 @@
+---
+date: 2016-09-24 08:42
+status: public
+tag: bank
+title: 个人备忘
+url: 2016-09-24-memo
+status: draft
+---
+
+2016-09-25 前
+
+关键词：余杭，银行
+
+DONE 
+
+NEXT MONTH ALSO DONE

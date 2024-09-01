@@ -1,0 +1,44 @@
+- **On Writing Well**
+    - 采铜摘要
+        - 最近这20条我一直在反复阅读，不仅仅用于写作，同样也用于广告传播工作中，翻译者知乎@采铜，取得授权后分享给大家。
+        - 1. Writing isn't easy and isn't fun. It is hard and lonely.
+        - 写作并不容易，也不有趣。它艰难而孤寂。
+        - 2. Rewriting is the essence of writing.
+        - 修改是写作的本质。
+        - 3. Writing is a craft, not an art, and that the man who runs away from his craft because he lacks inspiration is fooling himself.
+        - 写作是一门手艺，而不是艺术，一个将手艺生疏归咎于没有灵感光顾的人不过是在愚弄自己。
+        - 4. Professional writers are solitary drudges who seldom see other writers.
+        - 专业的写作者是隐居的苦士，他们很少见其他作者。
+        - 5. Ultimately the product that any writer has to sell is not the subject being written about, but who he or she is.
+        - 最终，写作者所要销售的产品并非他所写的主题，而是他自己。
+        - 6. The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what— these are the thousand and one adulterants that weaken the strength of a sentence.
+        - 好的写作的秘诀是把每一个句子都剥得很干净。有一千零一种减弱句子力度的累赘物：每一个无用的词，每一个可被简化的词，每一个已由动词表达其义的副词，每一个要让读者猜测施动者的被动结构……
+        - 7. Clear thinking becomes clear writing; one can't exist without the other.
+        - 清晰的思考成就清晰的写作：两者互依互存。
+        - 8. Thinking clearly is a conscious act that writers must force on themselves, as if they were working on any other project that requires logic: making a shopping list or doing an algebra problem. Good writing doesn't come naturally, though most people seem to think it does.
+        - 写作者必须把清晰的思考当作一项自觉的行动，就像做所有讲求逻辑的事比如列购物单或做代数题一样。与绝大多数人设想的不同，好的文字绝非浑然天成。
+        - 9. Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it's because it is hard.
+        - 写作是一项艰难的工作。别指望妙手偶得的佳句。很少有句子能第一次写对，甚至到第三次都不能。写到绝望的时候请记住这一点。如果你发现写作很难，那是因为它真的很难。
+        - 10. Few people realize how badly they write.  Nobody has shown them how much excess or murkiness has crept into their style and how it obstructs what they are trying to say. If you give me an eight-page article and I tell you to cut it to four pages, you'll howl and say it can't be done. Then you'll go home and do it, and it will be much better. After that comes the hard part: cutting it to three.
+        - 很少有人意识到自己写得有多糟。没人告诉他们，他们的风格中挤入了多少多余或晦涩的成分，以及这些成分又是如何阻碍着他们的表达。如果你给我一篇八页长的文章，我会让你把它删节到四页，你可能会大叫说这是不可能的。然后你回家照做，发现文章确实变得好多了。接下来才是难办的部分：继续减成三页。
+        - 11. The reader will notice if you are putting on airs. Readers want the person who is talking to them to sound genuine. Therefore a fundamental rule is: be yourself.
+        - 读者能看出来你是否在装腔作势。读者希望跟他们对话的人是真诚的。因此一条基本的写作规则是：做你自己。
+        - 12. You are writing for yourself. Don't try to visualize the great mass audience. There is no such audience—every reader is a different person. Don't try to guess what sort of thing editors want to publish or what you think the country is in a mood to read. Editors and readers don't know what they want to read until they read it. Besides, they're always looking for something new.
+        - 你只是为自己写作。不要去设想所谓的大众读者。没有大众读者，因为每一个读者都是不同的。不要去猜测编辑喜欢出版什么，也不要考虑时下国人的阅读氛围。直到亲眼读到，编辑和读者并不知道他们想要读什么。当然，他们总是在寻找新东西。
+        - 13. The race in writing is not to the swift but to the original.
+        - 写作竞赛比拼的不是速度，而是原创性。
+        - 14. Make a habit of reading what is being written today and what has been written by earlier masters. Writing is learned by imitation. If anyone asked me how I learned to write, I'd say I learned by reading the men and women who were doing the kind of writing I wanted to do and trying to figure out how they did it.
+        - 保持阅读今人作品和早先大师作品的习惯。通过模仿来学习写作。如果有人问我是如何学习写作的，我会说我的方法是阅读那些和我写作类型相近的作者，并搞清楚他们是如何写出这些作品的。
+        - 15. Also bear in mind, when you're choosing words and stringing them together, how they sound. This may seem absurd: readers read with their eyes. But in fact they hear what they are reading far more than you realize. Therefore such matters as rhythm and alliteration are vital to every sentence.
+        - 当你挑选词汇并把它们编排在一起时，请留意它们的发音。这可能有点荒唐：读者不是用眼睛阅读的吗？可事实上，他们听他们所读的东西，你没有意识到而已。因此对于每一个句子来说，韵脚和韵头都至关重要。
+        - 16. Every successful piece of nonfiction should leave the reader with one provocative thought that he or she didn't have before. Not two thoughts, or five—just one.
+        - 每一件成功的非虚构作品都应留给读者一个全新的富有激发性的观点。不是两个观点，或者五个，就一个就够了。
+        - 17. The most important sentence in any article is the first one. If it doesn't induce the reader to proceed to the second sentence, your article is dead. And if the second sentence doesn't induce him to continue to the third sentence, it's equally dead.
+        - 每篇文章中最重要的句子都是第一句。如果第一句无法吸引读者延读到第二句，那么你的文章就出局了。然后如果第二句无法吸引读者延读到第三句，那么你还是出局了。
+        - 18. Your lead must capture the reader immediately and force him to keep reading. It must cajole him with freshness, or novelty, or paradox, or humor, or surprise, or with an unusual idea, or an interesting fact, or a question. Anything will do, as long as it nudges his curiosity and tugs at his sleeve.
+        - 你必须在开头就立即抓住读者并且迫使他们继续读下去。开头的诱惑力来自下面这些元素：新鲜感、新奇感、矛盾性、幽默、惊奇、不寻常的念头、有趣的事实或者疑惑等等。任何可以撬动读者好奇心以及拽住他们袖子的东西都行。
+        - 19. You should always collect more material than you will use. Every article is strong in proportion to the surplus of details from which you can choose the few that will serve you best—if you don't go on gathering facts forever.
+        - 你必须搜集比你实际使用更多的素材。每篇文章的坚实程度取决于细节的富余度——从尽可能多的备选材料中精选出极少数最有用的部分。
+        - 20. Paragraphing is a subtle but important element in writing nonfiction articles and books, a road map constantly telling your reader how you have organized your ideas. Study good nonfiction writers to see how they do it. You'll find that almost all of them think in paragraph units, not in sentence units. Each paragraph has its own integrity of content and structure.
+        - 段落是非虚构写作中一个微妙而重要的成分，它就像路线图，不断地告诉读者你是如何组织你的想法的。去研究一下好的非虚构写作者是怎么做的。你会发现他们中的几乎所有人都以段落为思考单元，而不是以句子。每个段落都在内容和结构上完整一致。
+        - 原著：On Writing Well： The Classic Guide to Writing Nonfiction

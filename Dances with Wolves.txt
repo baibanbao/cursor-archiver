@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Kevin Costner]]
+        - Writer:: [[Michael Blake]]
+        - Cast:: [[Kevin Costner]] [[Mary McDonnell]] [[Graham Greene]]
+        - Year:: [[1990]]
+        - Genre:: #Adventure #Drama #Western
+    - **IMDb:** https://www.imdb.com/title/tt0099348
+    - **Plot Summary:** Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FIb7ZwgzMy6.pdf?alt=media&token=e997336b-3e61-48cb-8c04-c83ec7180f34}}

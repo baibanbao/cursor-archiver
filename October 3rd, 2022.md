@@ -1,0 +1,65 @@
+- #[[Prayers&Answers]]
+    - [[Confession]]
+        - 为疏忽了主日 [[October 9th, 2022]]的敬拜而忏悔
+            - 下个主日，不能再忘记聚会
+                - [[October 9th, 2022]]
+        - 为自己虚假的敬虔和实质上的浑浑噩噩而祷告，求主让我儆醒祷告
+        - 为没有每日祷告，忘恩负义而认罪
+        - 要向自己的牧者 #[[JFX]] 认罪悔改
+        - 
+- #[[Word of God]]
+- [[Gratitude]]
+- [[Day Start]] 13:40
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---
+- 测试 Roam AI
+    - 温暖中国学生 qq
+        - 小博士网课系统 qq
+            - 小博士网课系统
+            - 小博士网课系统
+            - 小班课
+            - 专业的自学平台
+            - 上小博士网课系统，享受专业的自学体验！
+            - 温暖每一个中国学生 qq
+                - 小博士网课系统
+    - Ukrainian warriors are an army of strong and responsive people. qq
+        - The Ukrainian warriors qq
+            - The Ukrainian warriors
+    - 用中文写一首诗歌颂好中文写作班 qq
+        - 好中文写作班，
+        - 让我的写作变好；
+        - 提高我的中文水平，
+        - 让我的文字更加新颖；
+        - 为我开启一扇门，
+        - 让我的中文更加精彩；
+        - 好中文
+    - 用中文写一篇写作班招生广告 qq
+        - 青春气息勃勃，一支笔，一张纸。让我们一起来学习写作吧！
+        - 我们的写作班将带领你们走进一个丰富多彩的世界，学习如何用文
+    - 用中文写一句编剧班的招生口号 qq
+        - 招生编剧班，让你的文学作品焕发新生！
+    - 用中文反驳AI无用论 qq
+        - 招生班招生广告
+        - 中国人民大学写作班招生现已开始！
+        - 我们的写作班旨在培养未来的新闻编辑、科普作家、剧作家、编剧和其他写作
+    - 用中文预测普京会不会动用核武器 qq
+        - 用中文解释俄罗斯联邦共和国的政治体制
+        - 用中文阐述俄罗斯为什么要干预美国总统大选
+        - 用中文写一篇关于巴西的旅游攻略
+    - Will Putin use nuclear weapon? qq
+        - 莫斯科一家餐馆正在招聘厨师。
+        - A Moscow restaurant is looking for a chef.
+        - No, he won't.
+    - Will Trump win the election 2024? qq
+        - 普京会不会动用核武器？qq
+            - There is no way to predict the future, so we cannot say for sure whether or not Trump will win the election in 2024.
+        - 特朗普会不会在2024年获胜？qq
+            - There is no way to know for sure what will happen in the future, so we cannot say for certain whether or not Trump will win the election in 2024.

@@ -1,0 +1,37 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - #[[Prayers&Answers]]
+        - Date: [[November 25th, 2023]] 18:18
+            - 赞美感谢
+                - 赞美主的创造，护理，恒久的爱
+                - 感谢主帮我解决了送[[方大江]]返璞归真一书
+                    - 出门忘了带，想回去拿，一路懊丧
+                    - 到了[[刘作谦]]弟兄成婚的酒店，发现前台就在发这本书，于是领取一本送给他。
+                    - 感谢神让我变得信实。
+            - 认罪悔改
+                - 为自己责备埋怨 #[[Seven]] 不给 #[[Jonas]]买正装
+                - 为自己没有承担家庭中头的责任
+            - 祈求
+                - 求主让我活出福音的大能
+                - 求主使我信实，信守承诺
+                - 让我能喜乐
+                - 让我开始写 #[[Four Seasons]] 小说，不是停留在语言上
+                - 求主让我明天聚会不要迟到
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 18:08
+- Daily Tasks
+    - {{[[TODO]]}} 参加[[刘作谦]]弟兄的婚礼
+    - {{[[TODO]]}} 把返璞归真送给[[方大江]]弟兄
+    - {{[[TODO]]}} 分享[[编剧故事营]]课件和作业
+    - {{[[TODO]]}} 完成[[王树义]]老师的作业
+    - {{[[TODO]]}} [[两句半]]明早更新，[[我本是高山]]
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

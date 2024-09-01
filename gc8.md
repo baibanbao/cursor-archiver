@@ -1,0 +1,374 @@
+- Projects
+    - Completed Date::
+    - Status::
+    - Due Date:: [[June 30th, 2023]]
+    - Related Goals::
+    - Success Criteria:: 14课完成，完整的课件，完美的收官
+    - Tags:: #Projects
+- #[[Edit Later]]
+    - [[高德纳]]
+        - [[Donald Knuth]]
+            - 名言
+                - "The best way to communicate from one human being to another is through story." 
+            - 三章十六节
+                - [3:16 | Blogorrhea](https://ruberad.wordpress.com/316-2/)
+                - [3:16 Bible Texts Illuminated: Knuth, Donald E.: 9780895792525: Amazon.com: Books](https://www.amazon.com/3-16-Bible-Texts-Illuminated/dp/0895792524)
+                - [3:16 - Google Books](https://www.google.com/books/edition/_/EelcBAAAQBAJ?hl=en&gbpv=1)
+    - 关于ai的知识，我学到这里就可以了。
+        - GPT-3.5
+        - AgentGPT
+        - GPT-4
+        - Enough
+- AI 知道这些就够了
+    - [iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox.](https://github.com/iamadamdev/bypass-paywalls-chrome)
+    - [AgentGPT](https://agentgpt.reworkd.ai/)
+        - [reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
+        - [ceramicwhite/auto-gpt - Docker Image | Docker Hub](https://hub.docker.com/r/ceramicwhite/auto-gpt)
+        - https://www.cognosys.ai/
+    - YouTube
+        - [(7) devaslife - YouTube](https://www.youtube.com/@devaslife)
+    - 我的付费订阅
+    - 博客转到ghost
+    - 搭建了hugo网站，全部是[[GPT-4]]指导下完成的
+    - [15页python教程翻译 | GoldenGrape's Blog](https://goldengrape.github.io/posts/python/15_pages_python_tutorial_translated/)
+    - [reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
+    - [Chat Your Data](https://bibleqa.azurewebsites.net/)
+    - [How You Can Install A ChatGPT-like Personal AI On Your Own Computer And Run It With No Internet.](https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/)
+    - 最佳episode
+    - [[GPT-4]]写小说
+    - GPT-4的前世今生 ppt
+    - 观鸟项目
+    - [Shotcut - Tutorial Videos](https://shotcut.org/tutorials/)
+    - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893)
+    - [🧠 MacGPT](https://app.gumroad.com/d/56be0d7f9305e8224dbf89f5e6974fa5)
+    - [👋 Welcome | Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
+    - 注册[[Azure]]
+    - [Releases · chathub-dev/chathub](https://github.com/chathub-dev/chathub/releases)
+    - [[midjourney]]
+    - [The Age of AI has begun | Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+    - [ChatGPT General FAQ | OpenAI Help Center](https://help.openai.com/en/articles/6783457-chatgpt-general-faq)
+    - OpenAI文档
+    - [[奥特曼]]语录
+    - 神奇的`ffmpeg`
+    - 
+- z-library
+    - 我的私有链接
+        - https://lib-wk5ywfa7ylyl2bya5wlbmb5f.carbon.pm/login?remix_userkey=1c7c5e09cd3539ed0577cee8ec407f59
+        - https://lib-cs6zqdswr3hp7xo74wdgpnpt.carbon.pm/login?remix_userkey=1c7c5e09cd3539ed0577cee8ec407f59
+        - 
+- 好中文课件整理
+- 好中文痛点
+    - [ ] 不能专心写作
+    - [ ] 无法利用碎片时间写作
+    - [ ] 写了也没人看
+    - [ ] 看了也没人互动
+    - [ ] 写的东西不能转化成利益
+    - [ ] 转化成钱也仅够buy me a coffee
+    - [ ] 有了写作任务（传说中的大活），却没有心力完成
+    - [ ] 没有形成写作的微习惯
+    - [ ] 缺少趁手的写作工具
+    - [ ] 工具太多，陷入差生文具多的误区
+    - [ ] 听说AI写作，却不能加以利用
+    - [ ] 信息太多，不知道如何过滤和吸收
+    - [ ] 不知道明天会如何，缺少安稳的锚
+    - [ ] 无法过上自己想要的生活
+    - [ ] 找不到同路人，缺少共同体（community）
+    - [ ] 共同体虽然有，但不能发挥其作用
+    - [ ] 想提高点击率，想写出10万+，但不知道怎么办
+    - [ ] 以下跟写作手段有关
+        - [ ] 不知道什么是知识的诅咒
+        - [ ] 不知道什么是抽象的阶梯
+        - [ ] 不能清晰明白，老妪可解
+        - [ ] 写得过于寡淡，缺少文采
+        - [ ] 不会使用修辞手段
+        - [ ] 写的文章诘屈聱牙，令人难解
+        - [ ] 不会写陈情表，造成冤情无处诉
+            - [ ] 不会写各种实用文体
+                - [ ] 不会写道歉信
+                - [ ] 不会写悼词和讣闻
+                - [ ] 不会写陈情信
+                - [ ] 不会写分手信
+                - [ ] 不会写公开信
+                - [ ] 不会写自辩书
+                - [ ] 不想会写回忆录
+                - [ ] 不会写家谱
+                - [ ] 不会写一份使用说明书
+                - [ ] 不会写文档
+                - [ ] 不会写readme
+                - [ ] 不会写FAQ
+                - [ ] 不会写议论文
+                - [ ] 不会写说理文章
+                - [ ] 心中有理说不出
+                - [ ] 心中有话道不出来
+    - ### 好中文Launch page
+    - [ ] Quick explanation
+    - [ ] Demo (Screenshot, video, sample, demo app usable without registrations, etc)
+    - [ ] Major advantages and benefits
+    - [ ] Pricing
+        - [ ] 今年的优惠价格 680
+        - [ ] 老学员价格 580
+        - [ ] 插班生价格 580
+        - [ ] 保持价格的稳定性
+    - [ ] Testimonials
+    - [ ] Call-To-Action
+    - [ ] Customer support
+        - [ ] Building loyalties by providing quick and thoughtful user support is so effective to get paid users.
+- gc8今天要是能写完招生简章就好了，但是不强求。
+    - #[[gc8]] 招生简章 beta2
+        - 开宗明义，什么是好中文
+            - 一句话描述好中文，不要那么多的废话，简简单单，明明白白，谁看了都知道你要做什么，想报的人自然想报，不想报的看了也没用，这事跟预算和学习意愿有关系，强求不得。
+            - 好中文写作营是王佩于2015年创办的一个写作社区，交流写作话题，研讨经典佳作，训练作家之耳，培养风格感觉，树立「浅白易明、高雅简洁」的风格意识。输入与输出并行，心智与文采俱进。
+        - 好中文第八期的四大特点
+            - *重拾写作的乐趣 **
+                - 写作之难
+                - 写作之难，在于把思维这张大网，抽丝成线，变成一条按照词语先后顺序排列的、符合语法的一串字符串。字要一个一个地写，词要一个一个地组，话要一句一句地说，段要一节一节地排。字词句章，先来后到，轻重缓急，抑扬顿挫，牵一发而动全身，乱一字则动全局。
+                - 写作是与文字谈一场恋爱
+                - 法国人说：写作，就是跟文字谈一场恋爱，否则只是一堆字迹而已。同理，读书，就是跟书本谈一场恋爱，否则只是手指翻动而已。再写就是文青排比句了，所以，戛然而止。
+                - 让你爱上表达
+                - 快乐写作，就是尊重“写作难、写作苦”这个基本事实，难中取易、苦中作乐。
+                - 快乐写作，就是不求快，也不求精，尊重写作规律，当行则行，当止则止。写自己理解的东西，写自己相信的东西，修辞立其诚，保持内里的诚实，不将写作降格为修辞练习，不做油嘴滑舌的文痞、文丐。
+        - **原生大脑构思，第二大脑写作**
+            - 有没有想过，你不喜欢写作，也许并不是你的问题，是我们的思维方式发生了根本的变化。
+            - 反骑自行车原理
+            - 通过笔记系统，个人知识管理系统，让你的写作从此不再难
+            - 让机器人在为你工作
+            - 变主动收入为被动收入
+        - **日更不辍，复利写作**
+            - 日更实践
+                - 快乐写作，就是每天都写，空下来就写，想到就写，在手机上写，在电脑上写，在笔记本、卡片、餐巾纸上去写。日积月累，就成为专属于自己的财富，长在自己身上的本事，风刮不走，雨冲不走。
+            - 复利的奇迹
+            - “复利是世界第八大奇迹”（爱因斯坦），不到必要的时候，别去打断它
+            - 我的朋友Yining做了一个实验，结果让人大吃一惊。
+            - 他一个月前参加了好中文日更一百天计划，因为不想言之无物，他做了一个决定，第一天只写9个字，而后每天比前一天多写5%。
+            - 这看似不起眼的举动，却扰动了爱因斯坦所说的世界第八大奇迹：复利。
+            - 虽然每次增加5%没有每次增加100%这么夸张，但当n=99时，也是一个不可小觑的数字。
+            - 1.05^99 ≈ 125
+            - 也就是说，按照5%的复利增长，第100天将会是第一天的125倍。
+            - 以下是函数 y=1.05^x 的曲线，我们会发现，随着x轴的推移，曲线变得异常陡峭。
+            - 函数 y=1.05^x 的曲线
+            - 然而Yining日更时，每天字数都写超一点，昨天是日更第32天，理论上应该写43字，但他却写了151字。看似超了也没多少，但是复利是个很可怕的东西，这意味着，按照现在的速度，再过40天，也就是4月25日以后，他必须每天日更超1000字，在此后的28天里，一天比一天多5%，直到日更4000字。
+            - 《穷查理宝典》的作者查理·芒格说：
+            - 复利是地球上最重要的模型之一。
+            - 复利是直觉感知不到的。通过Yining的复利日更法，你将深刻体会复利带来的威力：
+            - 用复利来投资，日积月累，终成正果。
+            - 用复利去借贷，天长日久，终将破产。
+            - Yining说：
+                - 凡符合幂律者，当徐图之。
+            - 不但写作的内容，连写作的过程也会增加你的价值
+            - 闷罐计划
+        - **恢复标准汉语的荣光**
+            - 到哪里去寻找我们的标准汉语文本
+            - 现代汉语标准文本
+            - 从五四运动开始掀起的白话文运动，塑成了我们今天的汉语。然而反思一个世纪来汉语的历程，我们发现，完美标准的文本从没有真正出现过。
+            - 鲁迅算得上是一位语言文学大师，林语堂曾公正地评价了鲁迅的语言，赞誉他对公安派的继承。
+            - 然而，鲁迅的语言今天读来，不但有生硬艰涩之感，而且也并非无懈可击。余光中就曾指出，早期白话文作家语言都有西化的问题，鲁迅也不例外。
+            - 以鲁迅的《战士和苍蝇》中的为例，里面不但有“苍蝇们”这种西方语言复数形式的用法，还有“它们的完全”这样不太可解句子。
+            - 周作人是散文名家，但在他的散文《苍蝇》中，也有“我诅咒你的全灭”这样的病句。因为按照常理，诅咒的对象总是可恨的，“你的全灭”却是作者愿意看到的结果，所以应改成“我诅咒你全部毁灭”更可解的多。
+            - 周氏兄弟尚且如此，其他作家就不用说了
+            - 一个伟大的理想，让白话文重获生机
+        - **过往评价**
+            - 陈晓卿：《舌尖上的中国》、《风味人间》总导演、《至味在人间》作者
+                - 我的朋友、作家王佩说，故事就是你一步一步接近真相的努力，生活在社会的每一个人，任何时刻都在找彼此的真相。
+            - 张广天：语文大师、先锋戏剧导演、音乐家
+                - 王佩很胖，
+                - 但他的微笑像海洋。
+            - 郑嘉励：考古学家、作家、编剧故事营第二期
+                - 上大学时，读《水浒传》，蓦然发现，白话文的生动和活泼，尤其是白描的部分，远在文言文之上。后来，又读到《续古文观止》，发现清代文言文的末流，实在乏味、迂腐之极，非但装不下稍稍复杂、思辨的思想，甚至都无法描述活泼泼、火热热的生活。这就让我坚信，好中文的样子，一定是口语的，是简洁的、凝练的、活泼的口语。当然，好的学术中文，语法或句法，应该是欧化的，但是，锤炼文字依然必须是传统中文的方式。
+            - 卫西谛：知名影评人、金马奖评委
+                - 作为人生谦卑的学徒，学习写作风格是终身的修炼。好中文写作课教会我们，如何找回失落的古典风格，如何打破知识的诅咒，以及如何把网状的思维变成语言的金线。好中文要慢慢读，快速不是目的，比浮云还慢也无所谓，最重要的是去感受美好写作风格所带来的一切。
+            - 普通有代表性的冲击力的销售号召力的评价
+        - 教学计划，最好能详细，详细到每周上什么，详细到有一个教材，至少有教学大纲。
+        - 学习内容
+            - 第一课：一百天日更计划
+            - 第二课：长青笔记—在不知不觉中完成写作
+            - 第三课：学好文言文，不上二道贩子的当
+            - 第四课：学好英语、善用AI翻译，才不会被骗
+            - 第五课：速读的艺术：如何用一个周末读完一部巨著
+            - 第六课：苦难来了怎么办：提前写好的生死之书
+            - 第七课：传记的宝藏
+            - 第八课：莎士比亚让我们成为更好的人
+            - 第九课：《经济学人》式写作
+            - 第十课：普利策式特写
+            - 第十一课：亲子或情侣写作：发现自然之美
+            - 第十二课：亲子或情侣写作：发现设计之美
+            - 第十三课：世间最难是说理：批判性思维与议论文实践
+            - 第十四课：日更总结与长青笔记再认识
+        - 六大板块
+            - 溯源头
+            - 和合技
+            - 和合本
+            - 马列编译局
+            - 故事力
+            - 古典文体
+            - 心智文采
+            - 修辞感觉
+            - 语文运动
+            - 字主义
+            - 正版语文
+            - 汉语标准文本
+        - 成效验证
+            - 学员是否一年只用三个感叹号
+            - 学员是否建立自己的长青笔记
+            - 学员是否参加日更一百天计划，并至少完成70%
+            - 学员能否与孩子一起发现自然和设计之美
+            - 单身学员能否写一封漂亮的情书或者分手信
+        - 活动
+            - 好中文日更大奖赛（大奖获奖者免除全部学费）
+            - 在长三角地区举行一次线下活动
+        - 学习时间
+            - 2021年7月23日--10月29日
+            - 一共14周，每个周五晚上20:00-22:00上课，遇到节假日或有事顺延
+        - 学费
+            - 现在报名享受优惠价: 880元 （2021年7月16日以后，恢复正常价: 980 元）
+            - 好中文、编剧故事营任一届老学员报名，享受会友价: 780元
+        - 教学方式
+            - 微信群图文教学为主
+            - 定期日更交流
+        - 报名方式
+            - 扫下面二维码，或搜索微信号：wangpei1215 加老师微信，请注明『好中文报名』
+            - 微信通过后，将会接到『好中文第六期』群邀请。
+            - 入群后，请将学费直接转账给老师。
+            - 缴费后，老师会按照本约定，信实地完成教学任务，费用恕不退还，所以报名前请认真考虑。
+        - 好中文简介
+            - 好中文的样子（haozhongwen.com）是王佩创办的一个语文训练营，2015年创办，至今已经持续了六年，共培养学员1800多人次。
+            - 王佩，北京人艺合作编剧，网络作家，从1997年开始建立个人网站，2004年开始写博客至今，共计在网络上写作500万字以上。作品有舞台剧《鱼眼》（北京人艺出品）、史诗话剧《怜香伴》（浙江话剧中心出品）、《项链》。2014年澳门特别行政区”同一首歌，同一个梦”回归十五周年晚会总策划和总撰稿。专著有《正版语文》（中国电影出版社）。译著有《风格感觉》（作者史蒂芬·平克，与王烁合译）、《自上而下》。
+            - 影视作品有电视节目：《中央电视台2002年3·15晚会情景史诗剧》，《中央电视台2004年五一特别节目“新海港”》，电影作品：《我们相信未来》
+        - ---
+- 参考别人的文案
+    - 戴锦华的电影课
+        - # 史低价格，限时一周！戴锦华大师电影课，仅售99元
+            - [电影搬运工社](javascript:void%280%29;) 2022-07-31 12:15 Posted on 浙江
+            - 收录于合集#戴锦华52倍人生大师电影课18个
+            - 史低价！仅限本周（8月7日截止）。
+            - 99元购买戴锦华电影课程，
+            - 请点击文末【阅读原文】按钮。
+            - ****
+            - **学术圈里，都说她是中国最好的电影学者。**
+            - 在北大，她被学生尊称为**“戴爷”**，她的课座无虚席，学生们愿意为她排两小时队，只求一座。
+            - 曾担任过华语电影**金马奖评委**的戴锦华，是如今**中文世界最具权威的电影评论者**。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCuj2TkKg74kH2hEBH61OUn9sUpiavicOjZRViaLfNYwqNYYE1tvLGwdogzwg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujIPsqAMtWkGtLgG6WrhDQMCkDUb7prdLKAfB1thEXEQqhoiaAibL1D9Kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujcYJA4xwMujqQTO949fOwOoPMO3dISH5vfY8TMUev94mVFvticsXCpJA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujiaMRjIcEkf6nQPdU2jVjNKd4sDicFqWknO2FKdPicbu4acTLWMNPwlxFg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_png/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujv2NiaVaNrZatrPeF1u0mpGVCYwXBibDb86xy8fqBArVG0rpT9GzBhU8g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+            - “我的一生已经交给了这个艺术”——戴锦华
+            - 她在电影评论领域出了十余部专著，豆瓣评分每本都在8分以上。这在学术界是罕见的，因为打分的网友中不仅有电影学术界和电影业内人士，还有许多没有电影专业知识基础的普通人，两拨人都能接受并且赞赏她，正是戴锦华被称“国内电影学术界，只她一人”的原因。
+            - 她的“电影四大名著”——****《电影批评》**《雾中风景》《隐形书写》《昨日之岛》**等更是被译为英、法、德、意、西、日、韩文出版，无数电影业内人士和电影学子视为圭臬，每一本都值得细读。其中,《电影批评》已经被选为**“教育部人才培养模式和开放教育试点教材”，**成为大学本科生、研究生的教科书。
+            - 1
+            - - THE FIRST -
+            - 一般的“影评文章”，大多是这样的：复述一遍电影情节，扒一些主创的辛酸故事，然后评价一下演员的演技。
+            - 而戴锦华讲电影，有**她自己的一套独特形式**，就算是在被教育部指定为教材的《电影批评》中也是如此——她不会执著于各种高大上的“专有名词”，而是真正做到“观赏品析”。
+            - 比如，她讲王家卫的**《花样年华》——**
+            - 她把影片概括为五个字：**“爱情的不在”**。
+            - 一部爱情主题电影，爱情却不在了，Why？
+            - 她说，你要看细节，比如画面里的镜子。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujd6U8YJX6nXibhIHhjXr7M67Bb0w5gWibWOTQKVq9o85iaDZLV8WjNdticg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 她认为，这是王家卫用电影语言传递“爱情的不在”与“一种始终的缺憾”的表达形式：**他经常借用镜子呈现出亦真亦幻的错位的画面**，“表达故事中不仅是婚姻身份和位置的错位，更是一种关于真实与想象，关于道德谴责的力度与情感追逐的力度之间的错位，是一个不断持续的多重层面的错位所形成的一个巨大的永远解不开的谜团和缠绕。”
+            -  “当梁朝伟和张曼玉同在一个空间场景当中的时候，导演通常使用很多的手段，比如浅焦镜头，造成视觉画面的双人中景当中的一实一虚，以致他们不可能在一个双人中景当中构成一种共享生命空间、情感空间和心灵空间的视觉表述。”
+            - 这种把电影中的情节与电影专业知识点巧妙融合的评论形式，不仅需要对电影作品本身烂熟于心，对电影理论的运用也要达到炉火纯青的境界。
+            - 这也是戴锦华作为北京大学电影与文化研究中心特聘教授的功力的体现。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujq4vS3B68mBVa0qicb3SlWeesVkJrMXre2m5HhVYxWpDIn2s0xqgaNng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 王家卫《花样年华》剧照
+            - 2
+            - - THE SECOND -
+            - 戴锦华的影评，会用最专业的理论帮你拆解：一部电影作品好在哪里，它如何被创作出来，创作者倾注了哪些巧思。
+            - **听她的影评，就像是在听一位世外高人拆解绝世武功秘籍。**戴锦华一直在传输的一个观点，即，电影艺术的独特之处，不仅仅在于故事本身，更在于用电影语言讲述故事的形式。所以在她的电影讲解中，经常会从艺术家的角度，分析创作者如何使用画面和剪辑来表达，这一点，正是为何她的影评为“专业人士必读”的原因。
+            - **举个例子，戴锦华在赏析电影作品时，往往会讲到一些被常人忽视的内容——**比如，她反复强调的**“电影片头 / 标题画面”。**
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_png/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCuj84n7smupJOqKPtUYFgcbgX2icA9jlokHv1dMRALjee23EqEm3UONAHQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 她说：“我一直在各个影片当中提示大家说，如果你们爱电影，如果你们想以相对专业的方式去观看和研究电影，如果你们想从电影当中得到更多的乐趣，请你们千万不要忽略片头字幕。很多电影的叙述，电影的意义的确立，电影艺术的挑战，和电影视听结构的确立，是从片头字幕衬底的那个时刻就开始的。”
+            - 她在分析小津安二郎的作品的片头时说到，小津一直使用的作为他个性标识的片头字幕衬底，是一块极具质感的**日本麻布**，“它像是一个平凡的日式的门帘，带着一种朴素，带着一种温馨，带着一种关于手作或者匠人的想象和记忆”。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_png/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujuKv0FB8c4oLSmewhsg9WrSukuBRt2frTIMreran6AQeV4VQs5Ix8Iw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 但是在**《秋刀鱼之味》**的片尾（上图），麻布这个视觉元素却没有出现。相反，导演选择了一个冷调的蓝绿色的衬底，上面有白色的枝桠：__“在这部影片当中，某一种小津的温暖消失了，一种新的冷意、新的寒冷融了进来”。__
+            - 3
+            - - THE THIRD -
+            - **她对于中国电影和导演，也时刻保有着清醒和理性的评价姿态。**普通观众间有着一种心照不宣的共识，大家认为受西方电影评委喜爱的中国电影，往往是因为他们在电影里展现了拧巴的中国。说得再直白点，西方人青睐它们，就是因为它们展现了落后的中国。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_png/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujx6eMok4icEZicl2xYzpO7Qh7sw5ibgTU3PaepdMqibXpczvD63icNznRKyw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 关于这个说法，三联曾对戴锦华做过一次专访，询问其看法，她的回应冷静而不失思考：
+            - “这种故事一直在讲。不光是对贾樟柯，也不光是对中国导演，其他国家的一些导演，凡是在国际电影节频繁得奖的，都会面临这类议论。比如说他们是『某一个电影节的宠儿』，是『某个电影节的嫡系』。所以我觉得这种讨论没有太大意义。贾樟柯受到戛纳电影节持续的认可，这与他跟法国艺术电影趣味不期然的吻合有关。”
+            - “『第六代』导演最早的创作，呈现出来的是独立电影的基本特质，比如对社会边缘群体的关注。而贾樟柯，打开了电影叙事或者说电影关注的新面相，就是小城。这些四线以下小城小镇的生活图画，与此前『第六代』共同关注的社会边缘人又有不同。而且，贾樟柯从《小武》开始，又一直在坚持，不断地把这种生活画卷开掘下去，它和法国艺术电影倡导的作者电影就形成了呼应。”
+            - 也就是说，在她看来，一部电影能受到国际性的认可和欢迎，完全是其自身艺术魅力成功的结果，并不仅仅是题材的原因。中国如此，外国也是一样的。
+            - 她对于电影艺术热情似火，倾注了毕生的心血，但对于单独的作品本身，她依然时刻保持着必要的清醒与理性。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCuj5uZuBtFIaVAWfRDFTtqrJHkxJWINjqzN3lKribQLSbHQG1JQgicWj6PA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+            - 4
+            - - THE FOURTH -
+            - 杨德昌的名作**《一一》**里有句台词说，电影发明以后，人类生命至少延长了三倍。
+            - 我们透过一部部电影，体验几十倍、几百倍于自己的人生经验。一部电影能给你三倍生命，而戴锦华则想给你更多。
+            - **《52倍人生：戴锦华大师电影课》**，将为您提供拓宽人生经验的极限可能。
+            - 一周解读1部电影，一年52周，就有52部电影，52倍的人生。
+            - **105集音频，52部经典影片推荐**
+            - 1《美国往事》
+            - 2《霸王别姬》
+            - 3《飞越疯人院》
+            - 4《花样年华》
+            - 5《黑客帝国》
+            - 6《窃听风暴》
+            - 7《布达佩斯大饭店》
+            - 8《三傻大闹宝莱坞》
+            - 9 《肖申克的救赎》
+            - 10《辛德勒的名单》
+            - 11《公民凯恩》
+            - 12《大幻灭》
+            - 13《乡村牧师日记》
+            - 14《大罗马，不设防的城市》
+            - 15《偷自行车的人》
+            - 16《罗马时》
+            - 17《洛可兄弟》
+            - 18《大地之歌》
+            - 19《精疲力尽》
+            - 20《四百击》
+            - 21《洞》
+            - 22《飞向太空》
+            - 23《何处是我朋友的家》
+            - 24《罗生门》
+            - 25《大路》
+            - 26《第七封印》
+            - 27《惊魂记》
+            - 28《秋刀鱼之味》
+            - 29《蜘蛛女之吻》
+            - 30《教父》
+            - 31《世界旦夕之间》
+            - 32《出租车司机》
+            - 33《闪灵》
+            - 34《雾中风景》
+            - 35《蓝色》
+            - 36《穆赫兰道》
+            - 37《刺客聂隐娘》
+            - 38《雁南飞》
+            - 39《红色沙漠》
+            - 40《哈姆雷特》
+            - 41《冷酷祭典》
+            - 42《往日情怀》
+            - 43《铁皮鼓》
+            - 44《柏林苍穹下》
+            - 45《死亡诗社》
+            - 46《不羁的美女》
+            - 47《牯岭街少年杀人事件》
+            - 48《阳光灿烂的日子》
+            - 49《暴雨将至》
+            - 50《邮差》
+            - 51《海上钢琴师》
+            - 52《坎大哈》
+            - 5
+            - - THE FIFTH -
+            - 以上这份片单，不是按照年代顺序选片的，也不是按照地理层面的国家地区，更不是按照电影的类型甚至获奖名单来选择的——她有她的独家标准。
+            - **第一部分**，她用__《美国往事》《花样年华》《肖申克的救赎》__教你电影语言的基础知识，所以在一开始你会接触到“长镜头”“摇镜头”“旁知视点”等等这些基础的专业术语知识。
+            - **更进一步**，她用__《公民凯恩》《大幻影》《筋疲力尽》__为你讲述电影史的重要时刻；用一部部电影告诉你每一个国家的重要导演和他们的生平故事。
+            - **再进一步**，__《雾中风景》《蓝色》《铁皮鼓》__让你可以触摸到电影美学和电影艺术的原创性表达。
+            - **从电影叙事专业知识，到电影史，再到电影美学**，这样的成体系的电影讲解形式，是戴锦华作为一个老师多年的教育经验，和作为一名电影文学研究者数十年来的积累的凝练传递。
+            - 如果你爱电影，并且想从电影中收获更多的乐趣，那么戴爷的课对你来说就是最好的选择。通过对52部经典世界电影的巡游，戴老师将带领您完成对电影艺术的成体系的解读。
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujOYTVUjUL26GrfibpvzWO6P0GYmI5pEvK5thxESAr8jAibNhVSzuZQ5Lg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujTKibr6xrSr7Xg9egga8b76wXrHDYkHxa6hNUNGyicaokhiaCdLE0o0Mww/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujWU5ISiaWa2BqDIbcmRlZH8o4VUymh3ddTCjutoibkZtIobkPF0xyeZbg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+            - ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tpwsuTAQvWNFl0ibBeQoN5iaOtWK8GTCujvlic80I1XwEp327EicHAicqgibRIWuM4AjWlBP8WEzpWQTo4Iq2tYO6gow/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+            - **三联中读 · 本周精选课程**
+            - 限时五九折
+            - 仅售 **99 **元
+            - ~~　原价168元　~~
+            - 长按图片识别二维码即可订阅课程 👇
+            - 错过了六月份活动的小伙伴，这次抓紧机会哦
+            - ![Image](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+            - **只需一支口红的价格，您将收获：**
+            - **1、**105节正版音频课——即便是北大学生也要排队两小时才能听到的大师电影课；
+            - **2、**全部105篇课程配套的整理版课程内容——包括导演介绍、相关作品、专业名词和金句整理，可以反复听、反复读；
+            - **3、**五十二个周末的大师视角解读及观影陪伴。
+            - ▼ 点击**【阅读原文】**
+            - 　 立即订阅**《52倍人生：戴锦华大师电影课》**
+            - **　 **本周限时优惠，仅售**99元**（原价168）
+- #[[Edit Later]] 力量
+    - 怎么写？
+    - 现在就开始写作，每天打开rr之后，先看edit later，有没有可以写，值得写的东西，有就写，写完即发布，即插即用，用完即走。不要有任何负担。
+    - 莎士比亚让我成为更好的人。本来我被各种项目重压，连活命的指望都快没有了，各样重担，让我想到的两个字是自杀。然而，[[March 23rd, 2021]]在clubhouse里，我给李商、alice等朋友表演了一场莎士比亚，麦克白的tomorrow，结果一切都回来了。我的自信回来了，我写作的情绪回来了，加上看了这个视频[(2) The Power of Edit Later // Writing Inbox in Roam Research - YouTube](https://www.youtube.com/watch?v=sy3AY_S-SB0&t=172s)，我一下子明白了#[[Edit Later]]的力量。这一切都是为了这一刻写作的澎湃。

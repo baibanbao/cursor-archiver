@@ -1,0 +1,63 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[August 10th, 2021]]
+- Hello again fellow Roamans,
+Even being away on holiday for a week and minimising my time on with technology, I still have plenty of things to update you on in the world of Roam and tools-for-thought space!
+- # Around the Roaman Empire
+    - ## Bulk update updates
+        - [[Fabrice Gallet]] has updated his bulk processing extension so that you can batch change blocks more selectively, changing headings and alignment options en-masse as well as a better interface for the find/replace and prepend/append functions.
+            - Note that this requires Roam42 with the workBench functionality enabled. It's not a standalone roam/js extension.
+                - https://twitter.com/fbgallet/status/1423813237947174912?s=12 #[[LFR/Letter XXIV]]
+    - ## Roam Sessions
+        - [[Jason Griffing]] has renamed Roam Summit to Roam Sessions to help make his intentions clearer that the sessions are ongoing rather than just a single yearly event.
+            - https://twitter.com/roamsessions/status/1424018429820895232?s=12 #[[LFR/Letter XXIV]]
+        - The sessions resume this week on [[August 12th, 2021]] at 7pm EST [View in your timezone](https://everytimezone.com/s/c1c71db5), where Jason will be discussing project management in Roam with [[Kahlil Corazo]].
+            - [Watch live on YouTube](https://youtu.be/GjBA3sDYECA) or catch up later, like I will, since a midnight start is a little late for me.
+                - {{[[video]]: https://youtu.be/GjBA3sDYECA}}
+                - https://twitter.com/roamsessions/status/1424018435344764933?s=12 #[[LFR/Letter XXIV]]
+    - ## Project Management rBook
+        - Speaking of [[Kahlil Corazo]], he recently released his book [Professional Project Management with Roam](https://gumroad.com/a/464688243/PbRfw) in rBook format. ((Kahlil has kindly set me up an affiliate link so if buy it via the link above, you'll also be helping to support me in the running costs for this newsletter.))
+            - https://twitter.com/roamfu/status/1421429440563666947?s=12 #[[LFR/Letter XXIV]]
+    - ## New Roam Facebook group
+        - Personally I'm not a fan of Facebook, but if you are then Beau has set up a new [unofficial Facebook group for Roam](https://www.facebook.com/groups/researchroam/) users since he felt like there's a conflict-of-interest with the other groups.
+            - https://twitter.com/beauhaan/status/1424088342065520641?s=12 #[[LFR/Letter XXIV]]
+    - ## iRoam
+        - [[Vlad Sitalo]] of Roam Garden fame has been working on [iRoam](https://github.com/Stvad/iroam) which is a way to have a more Excel-like experience directly in Roam. It is based on the work of [[Adam Křivka]]'s [PyRoam](http://adamkrivka.com/roam-plugins/pyroam), which I mentioned back in [[LFR/Letter XIV]].
+        - Vlad has created a short Loom video which demonstrates it nicely.
+            - {{[[video]]: https://www.loom.com/share/90c67a47e07a4b14b09b42e5d4932943}}
+            - 
+            - https://twitter.com/vladyslavsitalo/status/1424465834051883009?s=12 #[[LFR/Letter XXIV]]
+        - For more background on the project, his previous video is worth watching too, to better understand why this could be a big deal in the future. To my mind, it could really help to make Roam a more compelling tool for thought in certain fields.
+            - {{[[video]]: https://www.loom.com/share/c2607798dbfb412989013dca6217d56b?t=2}}
+    - ## PDF Highlighter v1.0 released
+        - [[ccc]] has released the v1 update to his PDF highlighter that's integrated directly into Roam (interestingly I also highlighted this one back in [[LFR/Letter XIV]] too). He's produced a great video demonstrating the extension, and you can find the [code here on github](https://github.com/c3founder/Roam-Enhancement) along with his other extensions.
+            - {{[[video]]: https://www.youtube.com/watch?v=F2EBiv-hHTs}}
+            - https://twitter.com/cococ_rr/status/1419975839786180628?s=21 #[[LFR/Letter XXIV]]
+    - ## Making better decisions
+        - [Joey Daoud](https://twitter.com/c47) shared a decision journal template he built in Roam. Decision journals are a great use-case for tools like Roam. They are a really great way to systematically pay attention and learn to make decisions more rationally, and then learn from them in the future.
+            - https://twitter.com/c47/status/1420131522993004548?s=12 #LFR and #[[post/How to make a decision]]
+- # Quick Roam Tip
+    - One of the main patterns of use in Roam that has coalesced is the alias block reference, that is where you take a block reference and you want to mention it, usually unobtrusively like a footnote. The common convention is to use the asterisk like so: `[*](<block reference here>)`
+        - It's been possible to do this for a while using the mouse by clicking on the block reference you want to change into the footnote style and choosing `Replace with -> text and alias`. If you want to do it without taking your hands off the keyboard then you had to use the `/alias` command or keyboard shortcut and do some manual typing, or otherwise find an automated solution such as via Roam42 or hand-rolling a shortcut with the likes of TextExpander, Alfred or Keyboard Maestro.
+        - Until now that is, [[Stian Håklev]] revealed yesterday that before leaving Roam he implemented a native keyboard shortcut for it, which also works with multiple-selected blocks.
+            - When you're on the block you want to alias, just hit `Cmd-Shift-8` and then use paste as you would normally do to find your ready-made alias.
+                - Thanks Stian!
+                - https://twitter.com/houshuang/status/1424385759759540229?s=12
+- # [[Thinking Out Loud]]
+    - It's been a little over a year since I published my free Roam course. It could definitely do with a few updates to bring it inline with the [[Roam Research]] of today.
+    - However, I recently had an email asking me if my daily workflow practices have changed since creating the course, so I thought it would be a good chance to briefly reflect.
+        - In Lesson 13 I shared my daily notes page as it was at the time I put the course together, accompanied by this text:
+            - > **Use the daily notes pages prolifically** to capture the fleeting notes and thoughts as they occur. Take a few minutes at the end of each day to review. Add any additional connections, and delete anything unworthy. Again, this is why Roam is such a game-changer. It is easy, and almost fun, to work with your text. Wrangle with it, by moving it around, reorganising it to make sense and to prune the inessential __is__ the art of note-taking.
+            - ![Original Workflow](https://media.superhuman.com/images/_/https%3A%2F%2Fembed.filekitcdn.com%2Fe%2Fu89MeDKEPf91PvbdZnXxHY%2F3r3vqmjaeqWsgj9ZampiHW%3Fw%3D800%26fit%3Dmax)
+    - Let's compare to my current DNP template
+        - ![](https://cdn-std.droplr.net/files/acc_466243/NMPFjC)
+    - While it may look initially quite different, the broad brushstrokes are still similar.
+    - It now uses the native roam/templates feature instead of having to rely on a text expander to populate the daily notes page and I have replaced the direct page references with buttons to click to insert the page reference.
+        - After a year or so of use, having references with no indented content began causing clutter and noise in the linked references. I wrote more about this method in detail in [[LFR/Letter XXII]]. (([You can also read it online here](https://roam.elaptics.co.uk/posts/lfr-letters-from-a-roaman-letter-xxii)))
+    - Some buttons fire Roam42 SmartBlocks such as [[Fabrice Gallet]]'s useful time buttons for [[Interstitial Journaling]], or grabbing random blocks for my daily Stoic reflections.
+    - Meetings and Zettels warrant a bit more explanation. They each set up sections with buttons to trigger more functions and sections. The Meeting Notes follow a templated structure which makes it easy for me to gather actions that I note as TODOs in a localised query. The Zettels follow a strict structural pattern that's built for my specific, idiosyncratic zettelkasten workflow. I keep it as a separate section at the end of each DNP to support the "triangulation" that the structure affords me in my 1-Click™ zettelkasten.
+        - ![](https://cdn-std.droplr.net/files/acc_466243/ooBGtU)
+    - I still have an end-of-day process where I reflect on my day, add additional notes and clear any unused buttons. I have also expanded how I do those reflections daily, weekly, monthly, quarterly and annually through a series of templates, queries and workflows. These feed the Reminders section you see in my template, reminding me of my intentions and giving me more opportunities to learn and internalise the key habits and behaviour changes I want to embody.
+    - While in my course I covered a wide variety of Roam's features there's only a subset of them which I use daily or on a regular basis.
+        - If I were to rewrite the course fully, I would simplify it down to the key concepts and  essentials - what I consider to be the primary [5 fundamentals of Roam](https://twitter.com/elaptics/status/1353335275842367490) as foundational building blocks.
+            - I'd teach how you layer more structure on top as needed to support your use-cases and to facilitate retrieval and resurfacing previous thinking. Then I'd show you how to expand your repertoire for knowing how and when to learn on the other features or look for plugins so that you can build your own unique workflows which work the way your brain works.

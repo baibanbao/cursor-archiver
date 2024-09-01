@@ -1,0 +1,7 @@
+- [openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
+- [[Google AI]]
+    - [Announcing new generative AI experiences in Google Workspace](https://workspace.google.com/blog/product-announcements/generative-ai)
+- [[New Bing]]
+    - [Power and Weirdness: How to Use Bing AI - by Ethan Mollick](https://oneusefulthing.substack.com/p/power-and-weirdness-how-to-use-bing)
+    - `don't search the web`
+- [jesselau76/pdf-epub-GPT-translator: Enjoy reading with your favorite style.](https://github.com/jesselau76/pdf-epub-GPT-translator)

@@ -1,0 +1,13 @@
+- [[Gratitude]]
+- [[Day Start]] 09:41
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Radio Garden – Living Waters - English Station](https://radio.garden/listen/living-waters-english-station/HxfW67bV)
+- ---

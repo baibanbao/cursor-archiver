@@ -1,0 +1,151 @@
+# GPT-4震撼来袭！探秘神秘AI巅峰之作，一较高下：GPT-4 VS ChatGPT | 回到Axton
+
+Summary
+
+1. OpenAI releases GPT-4, their most advanced system yet
+2. GPT-4 can handle texts over 25,000 words and use images as prompts
+3. It has advanced reasoning and creative abilities, can learn writing styles, and recognize images
+4. GPT-4 improves factual responses by 40%
+5. It has limitations in reasoning and attention to system information
+6. Access is limited to 100 messages per 4 hours
+7. GPT-4 is more powerful than TPT4 with a longer context length of 8192
+8. It can predict the future with accurate machine learning capabilities
+9. GPT-4 is slower than GPT3.5 and still weak in Chinese processing
+10. Stay tuned for GPT4 report!
+
+<iframe id="player" class="flex-none hidden sm:block sm:h-[128px] sm:w-[288px]" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="GPT-4震撼来袭！探秘神秘AI巅峰之作，一较高下：GPT-4 VS ChatGPT | 回到Axton" width="288" height="128" src="https://www.youtube.com/embed/yXBhQpV3WtY?playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Freccap.it&amp;widgetid=1" style="--tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:#3b82f680; --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: border-box; border: 0px solid rgb(229, 231, 235); display: block; vertical-align: middle; flex: 0 0 auto; height: 128px; width: 288px;"></iframe>
+
+1 x
+
+
+
+
+
+
+
+
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/00-00.webp)
+
+←→
+
+Main point
+
+OpenAI releases GPT-4, their most advanced system yet! 🎉
+
+Full script
+
+Hey, hello, welcome back to Axton. Great news! OpenAI has just released the much-anticipated GPT-4. I heard rumors that it will be released this Thursday. I didn’t expect OpenAI to be released suddenly today. It ’s so unexpected. Now there is a GPT4 model on the ChatGPT plus version. In addition to the previous default and Lexi’s GPT3.5, there is an additional GPT4 model for everyone to try. Next, I will take you to quickly understand GPT4. Where is GPT3.5 better than GPT3.5, and then I will give you a field test comparison example to let everyone feel the difference between GPT-4 and the previous fork gpt. Let ’s start with OpenAI’s GPT-4. You can see its title on the homepage. GPT-4 is OpenAI’s most advanced system at present. It can generate safer and more useful responses. Below is a promotional video of it,
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/00-56.webp)
+
+←→
+
+Main point
+
+GPT-4 can handle texts over 25,000 words, has better problem-solving abilities, and can use images as prompts. 🚀📚🔍🖼️
+
+Full script
+
+which mentions an image recognition such as this It is a picture of a balloon. When we ask what will happen if the rope is cut, g p t will answer that the balloon will fly away. This is the most significant improvement that GPT-4 is different from the previous version GPT-3.5. It provides In addition to the ability to recognize images, we can use pictures as prompts in addition to text. GPT-4 can solve difficult problems more accurately. This is because it has a wider range of common sense and problem-solving abilities. Then the following is There is an example of where GPT-4 has made great progress. First of all, his long article GPT-4 can handle texts of more than 25,000 words. Then he gave an example on Crisis Encyclopedia. How long is the text? Let’s take a look at it. It’s already very long. The text is twice as long as the current GPT3.5.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/01-50.webp)
+
+←→
+
+Main point
+
+GPT4 has advanced reasoning and creative abilities, can learn writing styles, and recognize images. 🤖📝👀
+
+Full script
+
+Also, the GPT4 we just saw can accept images as input Bing And the classification and analysis of the generation instructions are here. He gave an example. The picture shows some ingredients. The question is what can we do with these ingredients. There are eggs, flour, and I don’t know what it is. It might be milk . GPT-4 It can show what can be made with these ingredients. Pancakes, French toast, omelette, custard pudding, etc. This is another example of his image recognition. The third one is GPT4, which is more creative and collaborative. Can complete some creative and basic writing tasks, even writing song scripts, and can also learn the user’s writing style. The advanced reasoning ability of GPT4 surpasses that of ChatGPT. Here he gave an example
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/02-39.webp)
+
+←→
+
+Main point
+
+GPT-4 gave correct answers but lacked reasoning ability, and made a wrong conclusion. 🤖💭❌
+
+Full script
+
+that three people have different free time every day. Then It is necessary to let GPT find a suitable time for a 30-minute meeting. In the example, ChatGPT gave a wrong answer. He thought that the time can be arranged at 4 pm, which is obviously impossible, and the same example GPT four gave The correct answer can actually be seen by everyone, ah, exactly g p t, his analysis of this text is still no problem, he listed all the free time of the three people accurately, but in the end he gave a wrong conclusion, this may be his The reasoning ability is lacking, and GPT-4 also accurately listed the free time of the three people and then gave a correct answer. Next, GPT-4 got better results in the test.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/03-23.webp)
+
+←→
+
+Main point
+
+GPT-4 improves factual responses by 40% 📈🤖
+
+Full script
+
+Here is an example Two examples, one is that GPT-4 scored in the top 10% of the Unified Bar Examination, compared to the bottom 10% of GPT, and the top 99% of GPT-4 in the Biology Olympiad is still very impressive Compared with GPT3.5, the possibility of GPT4 responding to disallowed content is reduced by 82%, and the possibility of producing a factual response is increased by 40%.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/03-52.webp)
+
+←→
+
+Main point
+
+GPT-4 is a powerful multi-modal model that can accept both text and image input. It has shown human-level performance on various benchmarks and is currently being evaluated for its abilities. However, it still has limitations and is only available through the ChatGPT plus version or by joining the waiting list for the GPT4 API. 🤖👀📈
+
+Full script
+
+At present, the situation of GPT-4 is 40% better. Well, the key is its security. Then, some products have begun to integrate GPT-4, including Duolinguo and My Eye Khan. The academy and even the Icelandic government have protected their language. Of course, GPT-4 still has many limitations, such as social prejudice, hallucinations, confrontational prompts, etc. Well, we have already mentioned that GPT4 is provided on the fork GPT plus, and we can Go fork GPT plus to try it out, and you can also join the GPT4 API waiting list. The first is an introduction. Next, let’s take a look at the detailed content of GPT-4. First of all, it is mentioned here that GPT-4 is a large-scale multi-modal model. It can accept image and text input. Although the ability in real scenes is not as good as that of humans, it has already shown human-level performance on various professional and academic benchmarks. The following is a detailed introduction to GPT-4. This section is what we just said before. He got the top 10 results in the bar exam. Now, the GPT4 text input function API has been released through the ChatGPT plus version. He needs to join the waiting list, but his image input function has not yet been opened and is currently under evaluation. In terms of his ability, in ordinary conversation, he said that the difference between them is very subtle, but when the complexity of the task reaches a sufficient pre-value, the difference will appear. GPT-4 is more reliable than GPT-3.5 Bing and can Handling finer-grained instructions This article considers Why, many ml benchmark tests are written in English, so its ability to deal with other languages may be weaker, and GPT-4 is better than 24 of the 26 languages tested. GPT3.5 and other language models are stronger. Now inside OpenAI, he uses GPT4 not only to support sales, content review and programming. He is still using it to help humans evaluate the output of AI. AI can already be used to evaluate AI. Here is still emphasizing that GPT4 can accept text and image prompts. These images include documents with text and photos, pictures, and screenshots. It is mentioned here that the image input is still in the research preview state. It is not public. Well, this is actually good. Very important developers and soon ChatGPT users can now define their AI style and tasks by describing these directions in system messages. What does this system message mean? In the GPT-3.5 model, if we use If the API submits a request, we will submit two messages. One is a system message called a system message, and the other is a user message. For example, it is the same in the playground of OpenAI. If we choose its model as the TOP model of the CHAT model GPT3.5, then we You will see that the one on the left is the system message, and the one on the right is the user message. The system message is generally used to limit the role of Char GPD
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/06-54.webp)
+
+←→
+
+Main point
+
+GPT-4 has both beneficial and detrimental impacts on society, but it is only 40% more reliable than GPT-3.5 and still has limitations in reasoning and attention to system information. 🤖💥
+
+Full script
+
+and so on. The user message is your specific question, but in the previous chargp three In version 5, OpenAI n a also specifically mentioned that the GP3.5 model does not pay much attention to system messages, so sometimes we stipulate some ChatGPT styles in system messages, but in the end we found ChatGPT he I still ignore you, so user information is the most important in ChatGPT3.5, but in GPT-4, according to OpenAI, it will pay enough attention to system information. After that, he mentioned that it has the same features as the previous model. Limitations: It’s not completely reliable. Don’t trust it completely, especially in some important things. But anyway, GPT-4 is 40% higher than GPT-3.5 in terms of authenticity. It’s the same as the previous model. GPT-4 is also lacking. The data after September 2021 will also make simple reasoning errors, so don’t trust him just because he is a higher version of GPT. You can trust him by 40% at most. Well, this sentence is actually quite good. The importance of GPT4 and subsequent models could have a major impact on society in both beneficial and detrimental ways can only be seen
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/08-05.webp)
+
+←→
+
+Main point
+
+GPT-4 is more powerful than TPT4 with a longer context length of 8192. Access is limited to 100 messages per 4 hours. GPT-4 can predict the future with accurate machine learning capabilities. 🚀
+
+Full script
+
+Later, I will talk about his training process. For example, it is still in the form of Word Solitaire, and then he has a predictable expansion. I don’t know what the specific result will be. It is safe for accurate prediction of future machine learning capabilities. An important component that can predict the future is actually the main component of human learning. A lot of our learning is just to predict the future. OK, he mentioned his software framework later, let’s skip it, and finally mentioned charge g p p plus Subscribers can obtain access rights to GPT-4 with an upper limit. Here, it is mentioned that 100 messages per 4 hours are limited to 100 messages. It cannot be opened. The context length of GPT-4 is 8192. And they also plan to provide 32K context markup, which is equivalent to 50 pages of text, which is awesome. Now we use the fork GPT. The biggest problem is that its context length is too short, only 4096, which is equivalent to 4K. A sneak peek, TPT4 is quite Yu has doubled, if he can reach 32K, it will be even more powerful, but these should be the situation where he uses his API to access after providing the API. Next, let's use the fork GPT to slightly compare
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/09-15.webp)
+
+←→
+
+Main point
+
+GPT-4 is slower than GPT3.5 and still weak in Chinese processing, but can handle multiple elements better. 🤖
+
+Full script
+
+GPT3.5 and GPT4. Just use the reasoning example provided by OpenAI to find a 30-minute meeting analysis. Since o o n i said that GPT-4 should handle multiple elements better than gp 3.5, let’s translate it into Chinese first to see how they handle Chinese. Because the effect was poor before, g p t is still relatively weak in Chinese processing. Let’s first use the GP3.5 model to translate it into Chinese first, and then we open a new drawing to let GP3.5 display the shopping mall. Its output is better than that of the OpenAI page. The example looks much better. I actually drew a table. The table was drawn very well, but the result he gave in the end? This time is right, 12:00 noon to 12:00 noon is okay, but other times are not good. Let’s take a look at GPT-4. The output speed of GPT-4 is obviously slower than GP3.5. Let’s go fast. Looking at the results, GPT-4 actually gave two wrong conclusions. The first one is correct at noon, which is 12:00, and the other two times are wrong. It seems that Chinese is not much better. Let’s use English. Let’s look at GPT3.5 again in English and quickly give out 4 options, none of which is right. OK, let’s look at GPT4 again. The answer is very accurate. 12:00 to 12:30 and there is no other time. This is The only answer to the above is the new line about
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/yXBhQpV3WtY/10-46.webp)
+
+←→
+
+Main point
+
+Stay tuned for GPT4 report! 🔍📈
+
+Full script
+
+GPT4 The latest report will be shared with you after the in-depth test results. I am Axton. Please like, comment, subscribe to my channel Bing and turn on the little bell so that you will not miss useful and interesting content in the future. Let's see you next time
+
+
+
+
+

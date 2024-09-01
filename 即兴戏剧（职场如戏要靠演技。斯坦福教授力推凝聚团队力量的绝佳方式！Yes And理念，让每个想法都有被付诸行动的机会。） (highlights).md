@@ -1,0 +1,5 @@
+- Author:: [[苏广辉]]
+- Full Title:: 即兴戏剧（职场如戏要靠演技。斯坦福教授力推凝聚团队力量的绝佳方式！Yes And理念，让每个想法都有被付诸行动的机会。）
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 提示），B、C、D就接过来。写演交替应该是无缝衔接的，A和B、C、D需

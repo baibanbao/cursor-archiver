@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BM2ZkNjM5MjEtNTBlMC00OTI5LTgyYmEtZDljMzNmNzhiNzY0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Madden]]
+        - Writer:: [[Marc Norman]] [[Tom Stoppard]]
+        - Cast:: [[Gwyneth Paltrow]] [[Joseph Fiennes]] [[Geoffrey Rush]]
+        - Year:: [[1998]]
+        - Genre:: #Comedy #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0138097
+    - **Plot Summary:** The world's greatest ever playwright, William Shakespeare, is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaVUmm6zuy_.pdf?alt=media&token=fcf52c80-306c-4b49-8442-1ac21aa40ebb}}

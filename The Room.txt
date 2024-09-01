@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjEzN2FlYmYtNDkwMC00NGFkLWE5ODctYmE5NmYxNzE2MmRiXkEyXkFqcGdeQXVyMjMwODc5Mw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Tommy Wiseau]]
+        - Writer:: [[Tommy Wiseau]]
+        - Cast:: [[Tommy Wiseau]] [[Juliette Danielle]] [[Greg Sestero]]
+        - Year:: [[2003]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0368226
+    - **Plot Summary:** Johnny is a successful bank executive who lives quietly in a San Francisco townhouse with his fiancée, Lisa. One day, putting aside any scruple, she seduces Johnny's best friend, Mark. From there, nothing will be the same again.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FlMfxAFe8bA.pdf?alt=media&token=26e66dab-3fd7-40c7-b6c9-de5af22ad34a}}

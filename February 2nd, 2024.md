@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 11:23
+- Daily Tasks
+    - [[gc10]]第二课
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **11:23** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- [[Heptabase]]
+    - 用来管理[[gc10]]中的[[KYC]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[Youtuber]]
+- [[Edit Later]]
+- [[写书]]
+- [[每天翻译一首诗]]
+- ---

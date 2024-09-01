@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 02:50
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [吴冠中画作及个人文献 | 香港艺术馆](https://hk.art.museum/sc/web/ma/collections/wu-guanzhongs-paintings-and-personal-archives.html)
+    - [「更新」MacOS系统软件目录（建议收藏）-下次更新预计在11月](https://mp.weixin.qq.com/s/wa4Ga4DAGPFIsW6FiQzgGw)
+    - 读书指南
+        - 看大字版的圣经
+        - 平常多站立写作
+        - 读大字版的图书
+        - 做一个喜乐的基督徒
+    - 
+- ---

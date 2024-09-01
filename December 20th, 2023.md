@@ -1,0 +1,34 @@
+- [[Gratitude]]
+    - 祷告了，但是没有单独祷告。
+- [[Day Start]] 15:13
+- Daily Tasks
+    - {{[[DONE]]}} 编剧故事营
+    - {{[[DONE]]}} 与[[胡天津]]门训
+        - [CL02.忠心管家2.0 | SLBC Public Sharing](https://file.slbc.app:63443/slbc_core_seminars/CL02.%E5%BF%A0%E5%BF%83%E7%AE%A1%E5%AE%B62.0)
+    - {{[[TODO]]}} 写2个pomo
+        - 一个都没写，真的够堕落。
+    - {{[[DONE]]}} 录制了一期两句半《大话上海》
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---
+- [[Daily Thoughts]]
+    - 编剧故事营要有先保证缴费学员的利益，不能挤占他们的时间、空间。对此自己应该反思，而不是利用别人的好性，不加区别对待。
+    - 叫别人的名字不要叫某某爸爸某某妈妈
+    - 下次两个选项
+        - 换成地下一层场地
+        - 或者减少上课人数
+    - 不要因为要做老好人而损害自己客户的专属权利。
+- [[Daily Accomplishments]]
+    - 修好了nas
+    - 其余真的没什么
+    - 完成了一次门训
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+    - 组织能力差劲，忘记了线上班同学的利益，课程缺乏设计，属于得过且过，这样下去所有的客户都会远离。

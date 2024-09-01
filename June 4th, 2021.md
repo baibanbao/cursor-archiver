@@ -1,0 +1,18 @@
+- m1 mbp到货
+    - 没有进行time machine
+    - 感谢#[[Seven]] ，同意不卖mbp 2017
+        - 这样我就有了两台mbp
+        - #[[Jonas]] 也有了自己的教练机
+    - 而是选择了全新安装
+        - essential apps and services
+            - 1password
+            - textexpander
+            - google chrome
+            - clover text edit
+        - new purchase
+            - final cut pro x
+                - 取消了adobe pr全家桶
+                - 不喜欢用盗版的感觉
+- 新MBP遐思录
+    - 初稿 {{word-count}} 
+        - 今天新买的MBP送到了。

@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 15:45
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+        - {{[[DONE]]}} 督促完成今天的作业
+    - {{[[DONE]]}} 走路一万步
+    - {{[[DONE]]}} 补觉
+    - {{[[TODO]]}} 3点前睡觉
+    - {{[[DONE]]}} 午饭和晚饭不吃碳水
+- ---
+- [[Daily Journal]] 
+    - [[October 23rd, 2022]]
+        - [[October 20th, 2022]] 订蛋糕
+        - 岳父生日，参加八十大寿宴
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

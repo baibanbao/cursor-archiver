@@ -1,0 +1,2 @@
+- 猛犸的设定
+    - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaDV4JFAwfO.?alt=media&token=e8e2e871-bf97-439b-91bb-92e8b22a22f4

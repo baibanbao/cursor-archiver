@@ -1,0 +1,9 @@
+- Author:: [[Dr. Charles F. Stanley]]
+- Full Title:: The Spirit-Filled Life
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51hvj-1XMBL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - They radiate integrity. ([Location 1693](https://readwise.io/to_kindle?action=open&asin=B00I5QX5DU&location=1693))
+    - Wherever he goes, he shares the gospel in a powerful, yet inoffensive way. ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B00I5QX5DU&location=2242))
+    - When I am afraid, ([Location 2507](https://readwise.io/to_kindle?action=open&asin=B00I5QX5DU&location=2507))
+    - I will put my trust in You. In God, whose word I praise, In God I have put my trust; I shall not be afraid. What can mere man do to me? ([Location 2508](https://readwise.io/to_kindle?action=open&asin=B00I5QX5DU&location=2508))

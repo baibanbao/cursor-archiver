@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Charles Chaplin]]
+        - Writer:: [[Charles Chaplin]]
+        - Cast:: [[Charles Chaplin]] [[Paulette Goddard]] [[Henry Bergman]]
+        - Year:: [[1936]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0027977
+    - **Plot Summary:** The Tramp struggles to live in modern industrial society with the help of a young homeless woman.

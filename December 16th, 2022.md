@@ -1,0 +1,49 @@
+- #[[Prayers&Answers]]
+    - Date: [[December 16th, 2022]] 07:15
+        - 赞美感谢
+            - 
+        - 认罪悔改
+            - 
+        - 祈求
+            - 
+        - Tongues
+            - Set a Pomodoro
+- [[Gratitude]]
+- [[Day Start]] 06:53
+- Daily Tasks
+    - {{[[DONE]]}} 03:08 36 据知情人士透露，中国相关部门已通知华特迪士尼公司，《阿凡达：水之道》将于12月16日在中国院线上映。该片也将同日在全球上映。 [[December 16th, 2022]]
+    - {{[[DONE]]}} 购买高铁票
+    - {{[[TODO]]}} Check all the things
+        - 血压计
+        - 药品
+        - 电脑
+        - 电子产品
+- ---
+- [[Daily Journal]] 
+    - Rewind试用 #[[Finance]] #Tech
+        - 邀请信
+            - ## Your invitation to the Rewind Early Access Program!
+                - Inbox
+                - ![](https://lh3.googleusercontent.com/a-/AD5-WCl3kI499_pC1T9FGQ747AeCd9cMIL5omomx7ny6=s40-p)
+            - ### **Dan Siroker** <dan@rewind.ai>
+                - 5:31 AM (1 hour ago)
+                - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+                - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+                - to me
+                - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+                - Thanks for your patience-- you are now at the top of our 300k+ waitlist and we'd love to welcome you to our Early Access Program.
+                - [Rewind](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVDQ0Z2NEQUxyTkFibk5BUUdGRjdNaWtOTTFub2RaX2tzZ093QT0iLCJocmVmIjoiaHR0cHM6Ly9yZXdpbmQuYWkvIiwiaW50ZXJuYWwiOiJmOGUyMDcwMGI5Y2QwMWJhY2QwMSIsImxpbmtfaWQiOjE2MX0/1fa003b37785fa06e8624db8957eaf5dea814208d865e5b8fbda74aa2f9d8f80) is the search engine for your life. It is a macOS app that records anything you've seen, said, or heard and makes it searchable.
+                - You are among the first to get access to Rewind so we want to set some expectations up front: this is still an early version of our product and you will likely encounter bugs and rough edges. If you do, please let us know. We want to hear your feedback!
+                - It’s also important to note that:
+                    - We only support **Macs with Apple Silicon (M1 or M2) that are running macOS Monterey (12) or later**.
+                    - Membership in the Early Access Program costs $20 per month and includes a 30-day free trial.
+                    - We offer a 100% money-back satisfaction guarantee.
+                - Claim your spot now: [Start your 30-day free trial of Rewind here](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVDQ0Z2NEQUxyTkFibk5BUUdGRjdNaWtOTTFub2RaX2tzZ093QT0iLCJocmVmIjoiaHR0cHM6Ly9idXkuc3RyaXBlLmNvbS85QVEwM2thSFZiRkhlQjJiSU0iLCJpbnRlcm5hbCI6ImY4ZTIwNzAwYjljZDAxYmFjZDAxIiwibGlua19pZCI6MzB9/658db73af0ed1d23987ce174d1f533b2549279915577a5338c50d34212b6ed94).
+                - Thanks,
+                - Dan
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

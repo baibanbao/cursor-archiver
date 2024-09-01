@@ -1,0 +1,23 @@
+- 晨间日记
+    - 每天早晨把要吐槽的东西吐出来，就是一天的开始了。
+    - 福联翻译
+        - 上周所欠
+            - 周五：https://www.thegospelcoalition.org/article/foundations-sexual-ethics
+            - 周六：https://www.thegospelcoalition.org/article/4-reasons-christians-ban-porn
+        - 本周要翻
+            - 下周的文章如下：
+            - [https://www.thegospelcoalition.org/article/hamilton-healing-balm-restless-immigrants/]()
+            - [https://www.thegospelcoalition.org/article/against-music/]()
+            - [https://www.thegospelcoalition.org/article/justice-adolf-eichmann-operation-finale/[https://www.thegospelcoalition.org/article/4-ways-jerk-online/]()[https://www.thegospelcoalition.org/article/pastors-friends-church/[https://www.thegospelcoalition.org/reviews/theology-economics/]()]()]()
+- 今日公众号文章
+    - 疯子Minor
+        - 《[教授与疯子](http://www.amazon.cn/%E6%95%99%E6%8E%88%E4%B8%8E%E7%96%AF%E5%AD%90-%E8%A5%BF%E8%92%99%C2%B7%E6%B8%A9%E5%88%87%E6%96%AF%E7%89%B9/dp/B002LIS1F0/ref=sr_1_1?ie=UTF8&qid=1325273639&sr=8-1)》是记者Simon Winchester的代表作，记叙了人类历史上最大的一本辞典《牛津大词典》（Oxford English Dictionary，简称OED）的诞生。书中有两个主人公：一个是教授，OED的主编James Murray，一个放牧都教牛拉丁语的语言奇才；一个是疯子，W.C. Minor，参加过美国南北战争的退役军医，被关进精神病院的杀人犯。他们代表了OED创造者的两极，一方是金字塔顶端的灵魂人物，一方是成千上万志愿者。
+        - OED的编纂是人类历史上最浩大的文化工程，也是人类心智最伟大的冒险之举。它基于这样的一个理念：这一词典要囊括英语中的全部词汇。每一个单词，每一个细微的差别，每一个词义、拼法、读音上的差异，每一个词源发展的来历，更重要的是，每一词、每一义都必须援引英语作家们的例句。换言之，每一个词条都有自己完整的自传，都在讲述一个自身的故事，都体现了几百年来用法的转变，并且以英语作家的真实作品引语为例证。
+        - 这样一个卷帙浩繁的工程，单靠学者教授是无法完成的。因为它需要整理全部的英语单词和作家的作品。于是，OED编纂委员会面向全国和殖民地征集英语阅读者，他们按照时间段分配要阅读的书籍，按照统一格式从中摘出单词和引语，再把摘录的词条寄给OED的编纂者。
+        - 在没有互联网和[Wikipedia](http://www.wikipedia.org/)之前，人类已经开始利用志愿者的集体智慧，完成一项浩大的辞书编纂工程。这是意志与智慧的胜利，也是利他主义精神的体现。这种自由人自愿联合的义工协作模式，也只有昂格鲁－撒克逊民族，才能变为现实。
+        - W.C. Minor作为一个旅居英国的美国退伍军医，一直被一种类似于受迫害狂的精神疾病所困扰。他误杀了工人G.M.，虽免于刑责，但还是被关进了刑事精神病院。阅读成为他救赎自己的唯一方式。而机缘巧合，使他看到了Murray发到全球英文书店的《致阅读英语公众》－－编辑委员会“需要英国、美国和英属殖民地广大读者的帮助，以便完成二十年前热情开始的工作，阅读尚未读完的书籍，摘出所需资料。”
+        - 对于倍受精神病和负罪感煎熬的Minor来说，这不啻于来自上天的呼召。他报了名，并成为词条的最大贡献者之一。他的工作方法具有天才和独创性，能够根据编辑委员会的需要，提供词汇。他寄出了1万多词条，并且几乎条条可用。在被疾病重压的日子里，编纂OED成为他精神最大的安慰。本书的作者甚至争辩道，假如那时已经有现在的精神镇静药物，Minor可能不会对OED作出任何一点贡献，他整天扎完针就睡大觉去了，那样就变成了一个没有激情的活死人。
+        - OED历时70年才编辑完成，无论是Murray博士还是Minor医生，都没有看到1928年全本的出版。这套人类历史上最不可思议的词典，就在教授和疯子们的全身心投入下，变成了现实。
+        - 1989年，[OED已经出版了第二版](http://www.amazon.com/Oxford-English-Dictionary-vol-print/dp/0199573158/ref=sr_1_1?ie=UTF8&qid=1325305033&sr=8-1)，一共20大卷，21,730页，重达148磅。随着数字时代的到来，OED出了更便于检索的光盘版，出人意料的是，这么宏伟的出版物，只需要一张700M的光盘就可以容纳。借助互联网之便，OED v4.0可以通过bt下载到，并且可以在Mac和PC上使用。看到浸满几代人智慧与汗水的伟大作品，躺在自己的硬盘里，一种久违的崇高之情在内心的断壁残垣中缓缓而生。
+    - 杭州翻译家
+        - 

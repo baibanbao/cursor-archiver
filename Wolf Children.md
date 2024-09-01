@@ -1,0 +1,11 @@
+- 
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Mamoru Hosoda]]
+        - Writer:: [[Mamoru Hosoda]] [[Satoko Okudera]]
+        - Cast:: [[Aoi Miyazaki]] [[Takao Osawa]] [[Haru Kuroki]]
+        - Year:: [[2012]]
+        - Genre:: #Animation #Drama #Family
+    - **IMDb:** https://www.imdb.com/title/tt2140203
+    - **Plot Summary:** After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from s...

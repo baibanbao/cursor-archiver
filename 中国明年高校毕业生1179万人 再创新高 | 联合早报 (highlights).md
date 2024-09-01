@@ -1,0 +1,7 @@
+- Author:: [[国际版]]
+- Full Title:: 中国明年高校毕业生1179万人 再创新高 | 联合早报
+- URL:: https://www.zaobao.com.sg/realtime/china/story20231206-1454422
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 6th, 2023]]
+    - 中国2024年高校应届毕业生规模预计达1179万人，再创历史新高，意味着明年高校毕业生将面临更大就业压力。  综合新华社和央视新闻报道，中国教育部、人力资源社会保障部星期二（12月5日）在北京召开全国普通高校毕业生就业创业工作视频会议时，披露上述数据，预计明年毕业生将比今年多出21万人。

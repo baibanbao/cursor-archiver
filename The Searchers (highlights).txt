@@ -1,0 +1,13 @@
+- Author:: [[Glenn Frankel]]
+- Full Title:: The Searchers
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51jl836pBIL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - “THE BIGGEST, ROUGHEST, TOUGHEST … AND MOST BEAUTIFUL PICTURE EVER MADE!” ([Location 117](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=117))
+    - It was extraordinarily influential on a generation of modern American filmmakers—from Steven Spielberg to George Lucas to Martin Scorsese—imprinting itself on their psyches and their ambitions during their formative years. “It was a sacred feeling,” recalled Scorsese, who first saw the film at age thirteen, “seeing that movie on that big screen.” ([Location 139](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=139))
+    - Just as Ernest Hemingway noted that “all modern American literature comes from one book by Mark Twain called Huckleberry Finn,” film critic Stuart Byron once declared, “in the same broad sense it can be said that all recent American cinema derives from John Ford’s The Searchers.” ([Location 144](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=144))
+    - “A running horse remains one of the finest subjects for a movie camera.” ([Location 3638](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=3638))
+    - After The Great Train Robbery in 1903, the genre slowly took shape over the course of a decade, ([Location 3643](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=3643))
+    - “When the legend becomes fact, print the legend,” ([Location 3694](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=3694))
+    - If Ford is sloppy around the edges, sacrificing continuity and visual coherence, he is precise at the core. ([Location 5405](https://readwise.io/to_kindle?action=open&asin=B009SJZI60&location=5405))
+        - **Note**: precise at the core.

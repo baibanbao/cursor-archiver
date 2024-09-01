@@ -1,0 +1,19 @@
+- [[Gratitude]]
+- [[Day Start]] 16:12
+- Daily Tasks
+    - {{[[TODO]]}} 接王玲和楠楠
+    - {{[[DONE]]}} 适应7人居生活
+        - {{[[DONE]]}} 开始床前办公
+        - {{[[TODO]]}} 找到写作的状态，尽管不一定是好状态，但至少是一种状态
+    - {{[[TODO]]}} 清理磁盘
+        - {{[[DONE]]}} 目前空出300多G
+        - {{[[DONE]]}} 以后剪片子在[[T7移动硬盘]]上
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [(29) 好和弦的旁白聲音後製流程！ - YouTube](https://www.youtube.com/watch?v=FjiTfm4Relc)
+- ---

@@ -1,0 +1,14 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Orson Welles]]
+        - Writer:: [[Herman J Mankiewicz]] [[Orson Welles]] [[John Houseman]]
+        - Cast:: [[Orson Welles]] [[Joseph Cotten]] [[Dorothy Comingore]]
+        - Year:: [[1941]]
+        - Genre:: #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0033467
+    - **Plot Summary:** Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FmhrL_fkt6G.pdf?alt=media&token=d5d2fac2-70f1-451b-b91f-0483a6a7cf8c}}
+    - **Alternative Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaKazsJDP4c.pdf?alt=media&token=7a4a70fb-397c-4d0a-8614-f510717fffc4}}

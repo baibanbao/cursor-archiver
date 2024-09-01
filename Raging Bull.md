@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Martin Scorsese]]
+        - Writer:: [[Jake LaMotta]] [[Joseph Carter]] [[Peter Savage]]
+        - Cast:: [[Robert De Niro]] [[Cathy Moriarty]] [[Joe Pesci]]
+        - Year:: [[1980]]
+        - Genre:: #Biography #Drama #Sport
+    - **IMDb:** https://www.imdb.com/title/tt0081398
+    - **Plot Summary:** The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.

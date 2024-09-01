@@ -1,0 +1,43 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[January 10th, 2024]] 13:06
+        - 赞美感谢
+            - 赞美主的拯救，护理
+            - 感谢主让我没有得糖尿病
+            - 感谢主让我有逆转的机会
+            - 感谢主没有让我中风或者丧失思考的能力
+            - 感谢主让我今晚可以上课
+        - 认罪悔改
+            - 为自己小信
+            - 为自己没有数算主的恩典
+        - 祈求代求
+            - 求主治疗面部神经
+            - 求主让我减肥可以实施
+            - 求主让我遵守主的命令
+            - 求主让我荣耀主的名，无论是通过课堂，还是通过课后
+            - 求主保护#[[SLBC]]
+            - 求主让教会早日恢复
+            - 求主保护教会在外流浪时的安全
+            - 求主让主内肢体团契
+            - 为[[包晓东]]祷告
+            - 为[[Helen]][[邓俊霞]]和她的未婚夫祷告
+            - 为[[叶振]]祷告
+            - 为[[星河]]姊妹祷告
+- [[Day Start]] 13:06
+- Daily Tasks
+    - {{[[DONE]]}} 放学 12:00-12:10
+    - {{[[DONE]]}} 上学 9:30-9:40 
+    - {{[[TODO]]}} 辅导英语作文
+    - {{[[TODO]]}} 编剧故事营 第八课
+    - {{[[DONE]]}} 两句半
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Jump Cut Smoothing for Talking Heads](https://morphcut.github.io/)
+    - [[三体]]奈飞版
+        - 
+- ---

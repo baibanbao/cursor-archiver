@@ -1,0 +1,5 @@
+- [[Weekly Summary]]
+    - [[What went right]]
+    - [[What went wrong]]
+    - [[What could I do differently]]
+- [[Weekly Accomplishments]]

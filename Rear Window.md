@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[John Michael Hayes]] [[Cornell Woolrich]]
+        - Cast:: [[James Stewart]] [[Grace Kelly]] [[Wendell Corey]]
+        - Year:: [[1954]]
+        - Genre:: #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0047396
+    - **Plot Summary:** A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FJy9qe6fmoE.pdf?alt=media&token=abcee8c0-1577-4c92-b8fa-9c7d8637930e}}

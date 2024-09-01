@@ -1,0 +1,192 @@
+- [[生日感谢名单]]
+- [[一百个基本]]
+- 2014年总结
+    - ---
+    - layout: note
+    - title: 2014年私人年度总结
+    - categories: notes
+    - ---
+    - ##2014年私人年度总结
+    - * 年度感动：儿子用书面语说：“你是我的父（hù）亲。”
+    - * 年度远行：三入澳门。
+    - * 年度书籍：柏拉图《理想国》（郭斌和译）
+    - * 年度美剧：《国土安全》S04
+    - * 年度观秀：澳门《水舞间》
+    - * 年度交友：认识@阳志平
+    - * 年度治愈：在心理辅导下，部分治好拖延症。
+    - * 年度成绩：两剧上演
+    - * 年度技术：掌握了Markdown，成为唯一写作工具。
+    - * 年度惊喜：澳门大汇演成为perfect show
+    - * 年度感恩：Seven
+    - * 年度伤心：恨无十年暇遍读奇书。
+    - * 年度疾痛：高血脂
+    - * 年度美食：秋葵、番石榴
+    - * 年度知识：大型晚会编排
+    - * 年度遗憾：所参与创办杂志《新西湖》停刊
+    - * 年度警戒：应戒酒而未戒。
+    - * 年度会买：iPhone6 Plus
+    - * 年度浪费：买了2个运动手环。
+    - * 年度期许：长恨此身非我有，何时忘却营营。
+- 2013年总结
+    - ---
+    - author: wangpei
+    - comments: true
+    - date: 2013-12-31 07:27:32+00:00
+    - layout: note
+    - slug: 2013-an-unsatisfactory-year
+    - title: 2013，一份不满意的答卷
+    - wordpress_id: 6193
+    - categories:
+    - - 生活不是条件反射
+    - tags:
+    - - 博客
+    - - 忏悔
+    - - 计划
+    - - 许愿
+    - ---
+    - 2013，马上就要过去了。回首一年，碌碌无为，时光蹉跎，惟留羞愧。看看白板报发表的博客数量就知道了，全年发文30篇（其中5月、8月各只有1篇），这只相当于2010年一个月的文章量。
+    - 究竟是什么原因让我变得这样惫懒？当奶爸？这个借口太无耻了，因为都是我媳妇在全年无休地带娃。身体欠佳？有一点，但没到不能写字的地步。工作太忙？也是胡扯，这一年只出了12期杂志，写了一个剧本而已。
+    - 我想一个原因是这一年深刻体会到表达的无力感。满腔怒火之花，无法形成语句，只能填塞胸间，偶尔憋不住发一两声，也不过詈词粗口，或只是喧哗骚动，没任何意义。
+    - 偶尔买到一本翻译得稀巴烂的书（例如：李伟红翻译的《宽银幕》）让我愤怒；去服务质量很差的餐馆排队（例如：定安路灶丰年间）会让我愤怒；漫天雾霾、自来水异味、投标被黑，都让我怒从心起，甚至看《国土安全》第三季看到美国人到伊朗领土上横行霸道，也会让我气不打一处来。年轻时有了气，会当场发泄出来，至少会写下来，而中年之后，却更多地选择沉默。
+    - 这一年我开通了微信公众帐号，看上去与时俱进，其实更像是小区里老不正经的老汉跟着年轻人赶时髦。就凭我现在的写作状态根本无力维护一个微信公众号，何况两个。与其发一些旧文滥竽充数，还不如早点停掉。
+    - 乏善可陈的2013，也有几件有意义的事。首先是，开始补电影课。这一年看了约翰·福特、大卫·里恩所有的代表作，并开始看希区柯克、黑泽明、怀尔斯等人的电影。养成了看完电影就读剧本的好习惯。但是，这一年没能写出电影剧本，失约失人，愧哉愧哉。
+    - 读书方面，今年重读了一遍《新约全书》。发现了一本好书：桥本忍写的《复眼的影像--我与黑泽明》，仔细通读了《编剧的艺术》，正在读舟桥和郎写的《电视剧脚本作法48讲》，越发觉得日本人写的书最靠谱。
+    - 这一年最大的收获还是识人吧。在牟森的介绍下，认识了艺术思想家高士明、戏剧构作满宇轩、画家王公懿、左翼思想家陆兴华等人，获益匪浅。还有通过刘淼，认识了简书的朋友、诗人乌青、摄影师拉黑等人。今年还见了鹿童、小燕、大学梁同学等新朋老友，一并感恩。
+    - 来年，许个愿，博客文章量增加到至少100篇。只要有条件，每两天看一部电影，读一个剧本，写一篇学习笔记。
+    - 希望明年此时的总结，不再满是羞惭与懊悔。
+- 2012镜头里的一年
+    - ---
+    - author: wangpei
+    - comments: true
+    - date: 2012-12-30 07:58:57+00:00
+    - layout: note
+    - slug: my-2012-in-picture
+    - title: 镜头中的一年
+    - wordpress_id: 5817
+    - categories:
+    - - 爱看电影
+    - - 生活不是条件反射
+    - tags:
+    - - 年终总结
+    - - 照片
+    - ---
+    - 又到了一年一度照片盘点的时间了，2012年的主题非常简单，育儿。我照片库中十分之九是儿子的照片。这一年，我跟他一起成长。
+    - ![儿子的小手](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_4105.jpg)
+    - 这双小手，一年来一直拉着我向前走。我的朋友张广天说：“王佩啊，想尽一切办法把儿子养大，你就赚了。“
+    - ![爷爷与孙子](http://www.baibanbao.net/wp-content/uploads/2012/12/DSC_0746.jpg)
+    - 我把这张照片设为电脑桌面，这是父亲夏天来看他孙子时，我悄悄拍的。一代人渐行渐远，一代人却朝我们走来，绵延不断，生生不息。
+    - ![学车](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_2730.jpg)
+    - 2012年，个人里程碑事件是考出了驾照。驾校就设在拘留所旁边，每天练车的时候，给人以警示教育。在这边不好好学，早晚要到那边去学。
+    - ![冯一刀与月小刀](http://www.baibanbao.net/wp-content/uploads/2012/12/DSC_0839.jpg)
+    - 上帝不能来到每个人面前，所以创造了朋友。一年来，偶尔跟朋友们小聚，成了浮上来透口气的最好办法。
+    - ![老高](http://www.baibanbao.net/wp-content/uploads/2012/12/DSC_0154.jpg)
+    - 老高得遂所愿，开了一家牛二羊锅，这也成了我们经常聚会的地方。
+    - ![内蒙](http://www.baibanbao.net/wp-content/uploads/2012/12/DSC_0014.jpg)
+    - 2012年，去了一趟内蒙。读了几百万字与内蒙相关的史料。
+    - ![内蒙歌手](http://www.baibanbao.net/wp-content/uploads/2012/12/DSC_0175.jpg)
+    - 内蒙歌手胳膊上的纹身，翻译过来的意思是：“圣天之威的蒙古大印，所到之处，所有子民，服矣，惧矣。”
+    - ![老蒋](http://www.baibanbao.net/wp-content/uploads/2012/12/laojiang.jpg)
+    - 去了两次北京，见了老蒋、张广天、牟森、欣燃等一群朋友。
+    - ![路过人艺](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_0532.jpg)
+    - 路过人艺，大小剧场都一样红火。
+    - ![同学聚会](http://www.baibanbao.net/wp-content/uploads/2012/12/34.jpg)
+    - 参加了一次同学聚会，不管混得是否如意，老友见面足以乐而忘忧。
+    - ![同学的孩子](http://www.baibanbao.net/wp-content/uploads/2012/12/14.jpg)
+    - 同学的孩子们一个个长大了，在她们母亲飞奔过的操场上继续飞奔。
+    - ![远离这个城市](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_0271.jpg)
+    - 说声再见虽然很容易，但是这个城市将始终尾随着你。没有渡载你的船，没有指引你的道路。
+    - ![圣母](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_2535.jpg)
+    - 夜色已降临，先知的手在墙上写下神谕。
+    - ![shaiese](http://www.baibanbao.net/wp-content/uploads/2012/12/shaiese.jpg)
+    - 2012，最难过的是，有朋友已经永远地离去。
+    - ![飞鸟](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_0193.jpg)
+    - 魂来枫林青，魂返关塞黑。
+    - ![邹劲光](http://www.baibanbao.net/wp-content/uploads/2012/12/zoujinguang.jpg)
+    - 2012，最难忘的是，有朋友总是在急难时，给予最及时的帮助。
+    - ![张远帆、杨婷夫妇](http://www.baibanbao.net/wp-content/uploads/2012/12/yuanfan.jpg)
+    - 2012，最欣慰的是，有朋友跟心上人从此幸福地生活在一起。
+    - ![期待来年](http://www.baibanbao.net/wp-content/uploads/2012/12/IMG_2538.jpg)
+    - 无论如何，我们还有一样宝贵的东西叫期待。
+- 2011镜头李的一年
+    - ---
+    - author: wangpei
+    - comments: true
+    - date: 2012-01-02 17:26:16+00:00
+    - layout: note
+    - slug: 2011-in-picture
+    - title: 镜头里的一年
+    - wordpress_id: 5168
+    - categories:
+    - - 爱看电影
+    - - 生活不是条件反射
+    - ---
+    - [![](http://farm6.staticflickr.com/5283/5310733057_d08572726f.jpg)](http://www.flickr.com/photos/lookoo/5310733057/)
+    - 这一年过得真快，2010年12月31日－2011年1月1日，我和老婆参加了跨年诗歌朗诵会。在新年钟声敲响之际，大家齐声朗诵卡瓦菲斯的《城市》。
+    - [![吾梦中好抓人](http://farm6.staticflickr.com/5204/5380544595_724d6c6238.jpg)](http://www.flickr.com/photos/lookoo/5380544595/)
+    - 匆匆一年，有猫相伴。白菜头不是宠物，而是家庭成员。这一年，它带给我们太多的安慰、快乐、以及短暂悲伤后的惊喜。
+    - [![我发现了杭州中轴线](http://farm6.staticflickr.com/5060/5438276982_0477158bb8.jpg)](http://www.flickr.com/photos/lookoo/5438276982/)
+    - 这是一张很普通的照片，于我，却有惊心动魄的含义。2011年2月12日，站在杭州的中轴线上拍下这张照片。2个小时之后，一张辞呈已经打好。
+    - [![老婆做饭被蒜吓了一跳](http://farm6.staticflickr.com/5294/5460558928_b63891b4a7.jpg)](http://www.flickr.com/photos/lookoo/5460558928/)
+    - 老婆做饭的时候，忽然一声惊呼，我跑出来一看，原来她发现了这头怪蒜。我把这张照片发到微博，被转得到处都是。这张脸虽然难看，但至少它不装蒜。
+    - [![Bob Dylan Concert,  Shanghai, April 8, 2011](http://farm6.staticflickr.com/5024/5600798479_0ba3e4a8f3.jpg)](http://www.flickr.com/photos/lookoo/5600798479/)
+    - 2011年最失误的两件事，一是花1380的票价到上海看了一场鲍勃迪伦的演出，二没有舍得去北京看凯文斯帕西的《理查三世》。
+    - [![IMG_1185](http://farm8.staticflickr.com/7003/6615891195_9e5b22513e.jpg)](http://www.flickr.com/photos/lookoo/6615891195/)
+    - 这一年我以写作为生，除了给自己的杂志撰稿之外，还给报纸杂志写了181篇专栏，发表了26万字。如果这还不是专栏作家的话，那我不知道怎样才算是。
+    - [![IMG_2480](http://farm8.staticflickr.com/7011/6615996777_24a6d084d2.jpg)](http://www.flickr.com/photos/lookoo/6615996777/)
+    - 这一年波诡云谲，我们平安走过。
+    - [![IMG_2467](http://farm8.staticflickr.com/7025/6615983967_c868620372.jpg)](http://www.flickr.com/photos/lookoo/6615983967/)
+    - 偶像的黄昏，一切坚固的东西都已烟消云散了。
+    - [![IMG_0162](http://farm8.staticflickr.com/7150/6616903867_1235606655.jpg)](http://www.flickr.com/photos/lookoo/6616903867/)
+    - 大师一个个远去，留下众人的怀念或狼藉的声名。
+    - [![](http://farm8.staticflickr.com/7023/6567051937_3d14ba8a54.jpg)](http://www.flickr.com/photos/lookoo/6567051937/)
+    - 无论峡谷，无论海洋，有你同在，就是天堂。4月一个明媚的早晨，跟老婆去看富春江。
+    - [![](http://farm8.staticflickr.com/7033/6617146723_fb39971f2c.jpg)](http://www.flickr.com/photos/lookoo/6617146723/)
+    - 有播种，就有收获。
+    - [![IMG_1288](http://farm8.staticflickr.com/7017/6615900435_2feb54b958.jpg)](http://www.flickr.com/photos/lookoo/6615900435/)
+    - 这一年，我们脚步匆匆。
+    - [![IMG_1949](http://farm8.staticflickr.com/7153/6616921605_a2a3c02781.jpg)](http://www.flickr.com/photos/lookoo/6616921605/)
+    - 老婆走进产房的那一刻。
+    - [![wangyuancheng](http://farm8.staticflickr.com/7021/6558302705_0bee19db26.jpg)](http://www.flickr.com/photos/lookoo/6558302705/)
+    - 2011年12月15日下午2:23，儿子诞生。
+    - [![baicaitou-rose](http://farm8.staticflickr.com/7197/6879479919_049056f651.jpg)](http://www.flickr.com/photos/lookoo/6879479919/)
+    - 从此，他们幸福地生活在一起。
+- 2010镜头里的一年
+    - ---
+    - author: wangpei
+    - comments: true
+    - date: 2011-01-01 14:45:33+00:00
+    - layout: note
+    - slug: '%e9%95%9c%e5%a4%b4%e9%87%8c%e7%9a%84%e4%b8%80%e5%b9%b4'
+    - title: 镜头里的一年
+    - wordpress_id: 3821
+    - categories:
+    - - 爱看电影
+    - - 生活不是条件反射
+    - tags:
+    - - 回顾
+    - - 摄影
+    - ---
+    - [![twitter-in-shanghai-all2](http://farm5.static.flickr.com/4011/4284366734_5b765810a4_z.jpg)](http://www.flickr.com/photos/lookoo/4284366734/)
+    - 2010年1月17日，上海推友聚会。
+    - [![P1020715](http://farm5.static.flickr.com/4093/4747967508_dc5ca66b5f_z.jpg)](http://www.flickr.com/photos/lookoo/4747967508/)
+    - 2010年5月7日，一个雨天，一只迷路的小猫来到我住的院子，怎么也不肯走。我们把他收留下来，并给他取名白菜头。
+    - [![flower](http://farm5.static.flickr.com/4065/4636576770_10390738ba_z.jpg)](http://www.flickr.com/photos/lookoo/4636576770/)
+    - 2010年5月22日，南京一咖啡馆里，一束鲜花。
+    - [![P1030632](http://farm5.static.flickr.com/4120/4778996288_8f4538c0f9_z.jpg)](http://www.flickr.com/photos/lookoo/4778996288/)
+    - 去年一年经常去北京出差，每次都参加当地老男人局。这是7月9日，跟牟森、老六、陈晓卿等名士在一起。
+    - [![P1060196](http://farm5.static.flickr.com/4108/5079648704_411ce55ff5_z.jpg)](http://www.flickr.com/photos/lookoo/5079648704/)
+    - 2010年做得最大胆的一件事，就是跟老婆双双骑自行车回家。这是10月4日，在309国道上停下来修车。
+    - [![IMG_0076](http://farm5.static.flickr.com/4092/5117230489_43ed0af7ca_z.jpg)](http://www.flickr.com/photos/lookoo/5117230489/)
+    - 沪杭高铁的开通，我边体验边用微博直播，有两样新东西必将深刻改变中国，社会化媒体和高铁。
+    - [![000032](http://farm2.static.flickr.com/1211/5136678362_73fcdcbd3d_z.jpg)](http://www.flickr.com/photos/lookoo/5136678362/)
+    - 时间不是匀速流动的，去年加速度运行，今年也减不了速。
+    - [![因物价上涨](http://farm2.static.flickr.com/1404/5169000354_6bcc764e1d_z.jpg)](http://www.flickr.com/photos/lookoo/5169000354/)
+    - 通胀加剧，涨声一片，我也没想到自己在年终因一篇比较中美物价的博文，小小地火了一把。
+    - [![一生只写一本书](http://farm5.static.flickr.com/4111/5213499107_97c2da4bf8_z.jpg)](http://www.flickr.com/photos/lookoo/5213499107/)
+    - 日子其实就是一本翻开的大书，读好写好眼前的每一页吧，不要总指望“翻开新的一页”，有可能新的一页是封底。
+- [[2010微不足道的英雄]]
+- [[2009镜头里的一年]]
+- 向[[金安平老师]]请教腊八蒜的制作
+    - 白醋，密封，室温，7天，不加盐，可加少许糖，变绿就好
+    - 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLi-hfINF0r.jpeg?alt=media&token=c50b83ed-c2fe-4f86-b49e-c6997c0a4a98)

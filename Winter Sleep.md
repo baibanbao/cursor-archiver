@@ -1,0 +1,11 @@
+- 
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzE2MjEwMTQtOTQ2Mi00ZWExLTkyMjUtNmJjMjBlYWFjZDdlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Nuri Bilge Ceylan]]
+        - Writer:: [[Ebru Ceylan]] [[Nuri Bilge Ceylan]] [[Anton Chekhov]]
+        - Cast:: [[Haluk Bilginer]] [[Melisa Sözen]] [[Demet Akbag]]
+        - Year:: [[2014]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt2758880
+    - **Plot Summary:** A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.

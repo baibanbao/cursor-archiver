@@ -1,0 +1,6 @@
+- Author:: [[Zhongjing Liu | 劉仲敬]]
+- Full Title:: 道縣、卡廷與二二八
+- Category:: #articles
+- URL:: https://medium.com/p/b6a17d08fd8f
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 一個民族經過了定點清除以後，在一代人的時間內是無法恢復元氣的，也就說是殺二十萬保二十年太平的理論是科學的，只有國際恐怖組織才掌握這方面的大量實驗樣本，所以他們確實比資產階級內行。

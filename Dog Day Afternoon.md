@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sidney Lumet]]
+        - Writer:: [[Frank Pierson]] [[PF Kluge]] [[Thomas Moore]]
+        - Cast:: [[Al Pacino]] [[John Cazale]] [[Penelope Allen]]
+        - Year:: [[1975]]
+        - Genre:: #Biography #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0072890
+    - **Plot Summary:** Three amateur bank robbers plan to hold up a bank. A nice simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong d...

@@ -1,0 +1,53 @@
+- [[Gratitude]]
+    -  感谢[[刘淼]]提议恢复[[两句半]]
+    - 感谢推友提供新的灵感
+        - [為我的筆記加上 AI：RAG 實作經驗分享與四大產品化挑戰 - ALPHA Camp](https://tw.alphacamp.co/blog/adding-ai-to-my-notes-rag-implementation-experience-sharing)
+            - 文字记录
+                - 黃昱嘉｜aka 月水瓶的小貓座
+                - @yujimur
+                - 多年累積下來，我的 Apple Notes 已經有 7000 多則筆記，搜尋愈來愈不準確，常在寫新筆記時想參考舊筆記，卻怎麼也找不到
+                - 於是，我決定替 Apple Notes 加個 RAG（順便當練習）。隨著新筆記輸入，底下便自動推薦相似度最高的五則筆記，效果可參考下方影片
+                - 由於我的筆記包含科技、商業、文學、音樂等廣泛的領域，目前覺得 RAG 效果挺不錯的。當輸入「行銷規劃」，底下只會出現關於行銷的筆記；切換到「樂理」，則只會推薦音樂相關的筆記
+                - （請大家不要仔細看我都記了什麼筆記，有點害羞！）
+                - 詳細的心得紀錄也放在 ALPHA Camp 部落格，有興趣的話歡迎閱讀（感謝 Titan 邀稿！）：
+                - ▌〈為我的筆記加上 AI：RAG 實作經驗分享與四大產品化挑戰〉：https://s.yujimur.com/XhR
+                - 我用的是 Cloudflare 的 Vectorize 向量資料庫，以及 BAAI 的 bge-m 3 模型。前端則寫了簡易的 Next.js 網站，每次輸入一小段文字後，就重新做 embedding 並與向量資料庫比對，找出相似度最高的五則筆記
+                - （bge-m 3 具備多語言 embedding 能力，如果大家也想嘗試的話，可能要注意一點，有些模型只能 embed 單一語言）
+                - 整件事實作起來算蠻單純的，最麻煩的地方應該是得逐一對筆記做 embedding ，上傳至向量資料庫（只上傳向量與索引用的筆記 ID，筆記內容保留在本機端）
+                - 我沒有打算為這個小 side project 搞一個 GPU，所以翻出了 2015 年的 Macbook Pro，白天工作時就放在旁邊讓它跑⋯⋯（其實還蠻快的，大概 2~3 小時吧）
+                - 嚴格說起來，這是只有 R（Retrieval）沒有 G（Generation）的 RAG。但我並不需要 LLM「幫我寫筆記」或「跟筆記對話」，如果它太熱心反而有點困擾
+                - 這也是我這段時間常常思考的事。因為 ChatGPT 太紅，許多新產品預設都是聊天界面。但我總覺得聊天界面並沒有那麼好用，很類似在終端機下指令
+                - 對我而言，AI 在背後理解使用者意圖，並且魔法一般完成某些事情，是我更喜歡的體驗
+                - 當然，「沒有聊天界面」還有一個不太重要的好處：使用者不能下 prompt，自然也就不用擔心 prompt injection / leak。這套邏輯，大概就類似於「不要試著解決問題，而是解決提出問題的人」（？？）
+            - 视频演示
+                - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FoMBpKYB0Xi.mp4?alt=media&token=29939012-d588-4572-a6e6-ba43eebcd5b3}}
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 22:35
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **22:35** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[一娱多吃]]
+- [[写作GPTs]]
+- [[两句半]]
+- [[背诵]]#Jonas 
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+- ---

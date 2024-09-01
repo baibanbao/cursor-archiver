@@ -1,0 +1,5 @@
+﻿/Users/zhongwen_ai/Library/Application Support/Bitcoin/
+
+./Bitcoin-Core.app/Contents/MacOS/Bitcoin-Qt -reindex
+
+./Bitcoin-Core/Bitcoin-Qt.app/Contents/MacOS/Bitcoin-Qt -reindex

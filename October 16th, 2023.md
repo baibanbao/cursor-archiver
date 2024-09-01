@@ -1,0 +1,25 @@
+- #[[Prayers&Answers]]
+    - Date: [[October 16th, 2023]] 09:02
+        - 赞美感谢
+            - 赞美主的拯救
+        - 认罪悔改
+            - 为自己完全放弃生活而忏悔
+        - 祈求
+            - 求主让我与主同行，看到圣经中的真实才是现实
+            - 让我紧紧抓住神的应许
+            - 让我能够成为家庭的头，顶天立地之人
+        - Tongues
+            - Set a Pomodoro
+- [[Gratitude]]
+- [[Day Start]] 09:07
+- Daily Tasks
+    - {{[[TODO]]}} 吃药
+    - {{[[TODO]]}} 陪[[岳父]]去 #中山医院 看病
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

@@ -1,0 +1,5 @@
+- [[webclips]]
+    - [撕烤一切：旁听剧本朗读会](https://rigeng100.com/post/dayone/ooawr5_q_dm0ijep_-zjyotwh9_k/2022-04-08)
+    - {{[[TODO]]}} 
+    - [Academy Bans Will Smith From Oscars for 10 Years - Variety](https://variety.com/2022/awards/news/oscars-will-smith-consequences-chris-rock-1235228010/)
+    - 

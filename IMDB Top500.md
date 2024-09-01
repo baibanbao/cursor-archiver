@@ -1,0 +1,3500 @@
+- 1. The Shawshank Redemption (1994)
+- R | 142 min | Drama
+    - 9.3  Rate 81 Metascore
+- Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+- Director: Frank Darabont | Stars: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+- Votes: 2,634,704 | Gross: $28.34M
+    - Watch on HBO Max
+- with subscription
+- The Godfather 
+- 2. The Godfather (1972)
+- R | 175 min | Crime, Drama
+    - 9.2  Rate 100 Metascore
+- The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
+- Director: Francis Ford Coppola | Stars: Marlon Brando, Al Pacino, James Caan, Diane Keaton
+- Votes: 1,826,014 | Gross: $134.97M
+- The Dark Knight 
+- 3. The Dark Knight (2008)
+- PG-13 | 152 min | Action, Crime, Drama
+    - 9  Rate 84 Metascore
+- When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+- Director: Christopher Nolan | Stars: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+- Votes: 2,605,899 | Gross: $534.86M
+- The Godfather Part II 
+- 4. The Godfather Part II (1974)
+- R | 202 min | Crime, Drama
+    - 9  Rate 90 Metascore
+- The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.
+- Director: Francis Ford Coppola | Stars: Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton
+- Votes: 1,252,433 | Gross: $57.30M
+- The Lord of the Rings: The Return of the King 
+- 5. The Lord of the Rings: The Return of the King (2003)
+- PG-13 | 201 min | Action, Adventure, Drama
+    - 9  9 94 Metascore
+- Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+- Director: Peter Jackson | Stars: Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom
+- Votes: 1,807,856 | Gross: $377.85M
+- Pulp Fiction 
+- 6. Pulp Fiction (1994)
+- R | 154 min | Crime, Drama
+    - 8.9  Rate 94 Metascore
+- The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+- Director: Quentin Tarantino | Stars: John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis
+- Votes: 2,016,546 | Gross: $107.93M
+- Schindler's List 
+- 7. Schindler's List (1993)
+- R | 195 min | Biography, Drama, History
+    - 9  9 94 Metascore
+- In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
+- Director: Steven Spielberg | Stars: Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall
+- Votes: 1,336,519 | Gross: $96.90M
+- The Good, the Bad and the Ugly 
+- 8. The Good, the Bad and the Ugly (1966)
+- R | 178 min | Adventure, Western
+    - 8.8  Rate 90 Metascore
+- A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+- Director: Sergio Leone | Stars: Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè
+- Votes: 752,921 | Gross: $6.10M
+- 12 Angry Men 
+- 9. 12 Angry Men (1957)
+- Approved | 96 min | Crime, Drama
+    - 9  Rate 96 Metascore
+- The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.
+- Director: Sidney Lumet | Stars: Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler
+- Votes: 778,004 | Gross: $4.36M
+- Inception 
+- 10. Inception (2010)
+- PG-13 | 148 min | Action, Adventure, Sci-Fi
+    - 8.8  Rate 74 Metascore
+- A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+- Director: Christopher Nolan | Stars: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe
+- Votes: 2,310,540 | Gross: $292.58M
+- Fight Club 
+- 11. Fight Club (1999)
+- R | 139 min | Drama
+    - 8.8  Rate 66 Metascore
+- An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+- Director: David Fincher | Stars: Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier
+- Votes: 2,078,474 | Gross: $37.03M
+- The Lord of the Rings: The Fellowship of the Ring 
+- 12. The Lord of the Rings: The Fellowship of the Ring (2001)
+- PG-13 | 178 min | Action, Adventure, Drama
+    - 8.8  Rate 92 Metascore
+- A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+- Director: Peter Jackson | Stars: Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean
+- Votes: 1,830,127 | Gross: $315.54M
+- Forrest Gump 
+- 13. Forrest Gump (1994)
+- PG-13 | 142 min | Drama, Romance
+    - 8.8  Rate 82 Metascore
+- The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+- Director: Robert Zemeckis | Stars: Tom Hanks, Robin Wright, Gary Sinise, Sally Field
+- Votes: 2,039,433 | Gross: $330.25M
+- Star Wars: Episode V - The Empire Strikes Back 
+- 14. Star Wars: Episode V - The Empire Strikes Back (1980)
+- PG | 124 min | Action, Adventure, Fantasy
+    - 8.7  Rate 82 Metascore
+- After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.
+- Director: Irvin Kershner | Stars: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+- Votes: 1,273,993 | Gross: $290.48M
+- Ayla: The Daughter of War 
+- 15. Ayla: The Daughter of War (2017)
+- 125 min | Biography, Drama, History
+    - 8.3  Rate
+- In 1950, amid-st the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, ... See full summary »
+- Director: Can Ulkay | Stars: Çetin Tekindor, Ismail Hacioglu, Kyung-jin Lee, Kim Seol
+- Votes: 39,573
+- The Lord of the Rings: The Two Towers 
+- 16. The Lord of the Rings: The Two Towers (2002)
+- PG-13 | 179 min | Action, Adventure, Drama
+    - 8.8  Rate 87 Metascore
+- While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+- Director: Peter Jackson | Stars: Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom
+- Votes: 1,632,566 | Gross: $342.55M
+- The Matrix 
+- 17. The Matrix (1999)
+- R | 136 min | Action, Sci-Fi
+    - 8.7  Rate 73 Metascore
+- When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+- Directors: Lana Wachowski, Lilly Wachowski | Stars: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+- Votes: 1,885,849 | Gross: $171.48M
+- Goodfellas 
+- 18. Goodfellas (1990)
+- R | 145 min | Biography, Crime, Drama
+    - 8.7  Rate 90 Metascore
+- The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+- Director: Martin Scorsese | Stars: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+- Votes: 1,141,608 | Gross: $46.84M
+- One Flew Over the Cuckoo's Nest 
+- 19. One Flew Over the Cuckoo's Nest (1975)
+- R | 133 min | Drama
+    - 8.7  Rate 84 Metascore
+- In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.
+- Director: Milos Forman | Stars: Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco
+- Votes: 996,220 | Gross: $112.00M
+- Seven Samurai 
+- 20. Seven Samurai (1954)
+- Not Rated | 207 min | Action, Drama
+    - 8.6  Rate 98 Metascore
+- Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki
+- Votes: 343,171 | Gross: $0.27M
+- Spider-Man: Into the Spider-Verse 
+- 21. Spider-Man: Into the Spider-Verse (2018)
+- PG | 117 min | Animation, Action, Adventure
+    - 8.4  8 87 Metascore
+- Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.
+- Directors: Bob Persichetti, Peter Ramsey, Rodney Rothman | Stars: Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali
+- Votes: 511,655 | Gross: $190.24M
+- Interstellar 
+- 22. Interstellar (2014)
+- PG-13 | 169 min | Adventure, Drama, Sci-Fi
+    - 8.6  Rate 74 Metascore
+- A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+- Director: Christopher Nolan | Stars: Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy
+- Votes: 1,776,875 | Gross: $188.02M
+- City of God 
+- 23. City of God (2002)
+- R | 130 min | Crime, Drama
+    - 8.6  Rate 79 Metascore
+- In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.
+- Directors: Fernando Meirelles, Kátia Lund | Stars: Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen
+- Votes: 749,520 | Gross: $7.56M
+- Spirited Away 
+- 24. Spirited Away (2001)
+- PG | 125 min | Animation, Adventure, Family
+    - 8.6  Rate 96 Metascore
+- During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+- Director: Hayao Miyazaki | Stars: Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi
+- Votes: 748,405 | Gross: $10.06M
+- Saving Private Ryan 
+- 25. Saving Private Ryan (1998)
+- R | 169 min | Drama, War
+    - 8.6  Rate 91 Metascore
+- Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+- Director: Steven Spielberg | Stars: Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns
+- Votes: 1,369,899 | Gross: $216.54M
+- Life Is Beautiful 
+- 26. Life Is Beautiful (1997)
+- PG-13 | 116 min | Comedy, Drama, Romance
+    - 8.6  Rate 59 Metascore
+- When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+- Director: Roberto Benigni | Stars: Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano
+- Votes: 686,076 | Gross: $57.60M
+- The Usual Suspects 
+- 27. The Usual Suspects (1995)
+- R | 106 min | Crime, Drama, Mystery
+    - 8.5  Rate 77 Metascore
+- A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+- Director: Bryan Singer | Stars: Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin
+- Votes: 1,073,208 | Gross: $23.34M
+- Se7en 
+- 28. Se7en (1995)
+- R | 127 min | Crime, Drama, Mystery
+    - 8.6  Rate 65 Metascore
+- Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+- Director: David Fincher | Stars: Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker
+- Votes: 1,620,125 | Gross: $100.13M
+- Léon: The Professional 
+- 29. Léon: The Professional (1994)
+- R | 110 min | Action, Crime, Drama
+    - 8.5  Rate 64 Metascore
+- 12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.
+- Director: Luc Besson | Stars: Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello
+- Votes: 1,144,227 | Gross: $19.50M
+- The Silence of the Lambs 
+- 30. The Silence of the Lambs (1991)
+- R | 118 min | Crime, Drama, Thriller
+    - 8.6  Rate 85 Metascore
+- A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+- Director: Jonathan Demme | Stars: Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons
+- Votes: 1,408,296 | Gross: $130.74M
+- Star Wars 
+- 31. Star Wars (1977)
+- PG | 121 min | Action, Adventure, Fantasy
+    - 8.6  Rate 90 Metascore
+- Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+- Director: George Lucas | Stars: Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness
+- Votes: 1,346,666 | Gross: $322.74M
+- It's a Wonderful Life 
+- 32. It's a Wonderful Life (1946)
+- PG | 130 min | Drama, Family, Fantasy
+    - 8.6  9 89 Metascore
+- An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+- Director: Frank Capra | Stars: James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell
+- Votes: 450,749
+- Avengers: Infinity War 
+- 33. Avengers: Infinity War (2018)
+- PG-13 | 149 min | Action, Adventure, Sci-Fi
+    - 8.4  Rate 68 Metascore
+- The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+- Directors: Anthony Russo, Joe Russo | Stars: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+- Votes: 1,050,866 | Gross: $678.82M
+- Whiplash 
+- 34. Whiplash (2014)
+- R | 106 min | Drama, Music
+    - 8.5  Rate 88 Metascore
+- A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
+- Director: Damien Chazelle | Stars: Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser
+- Votes: 835,065 | Gross: $13.09M
+- The Intouchables 
+- 35. The Intouchables (2011)
+- R | 112 min | Biography, Comedy, Drama
+    - 8.5  Rate 57 Metascore
+- After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+- Directors: Olivier Nakache, Éric Toledano | Stars: François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot
+- Votes: 844,949 | Gross: $13.18M
+- The Prestige 
+- 36. The Prestige (2006)
+- PG-13 | 130 min | Drama, Mystery, Sci-Fi
+    - 8.5  Rate 66 Metascore
+- After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.
+- Director: Christopher Nolan | Stars: Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine
+- Votes: 1,313,670 | Gross: $53.09M
+- The Departed 
+- 37. The Departed (2006)
+- R | 151 min | Crime, Drama, Thriller
+    - 8.5  Rate 85 Metascore
+- An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+- Director: Martin Scorsese | Stars: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+- Votes: 1,306,778 | Gross: $132.38M
+- The Pianist 
+- 38. The Pianist (2002)
+- R | 150 min | Biography, Drama, Music
+    - 8.5  Rate 85 Metascore
+- A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+- Director: Roman Polanski | Stars: Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox
+- Votes: 818,845 | Gross: $32.57M
+- Memento 
+- 39. Memento (2000)
+- R | 113 min | Mystery, Thriller
+    - 8.4  Rate 80 Metascore
+- A man with short-term memory loss attempts to track down his wife's murderer.
+- Director: Christopher Nolan | Stars: Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior
+- Votes: 1,223,196 | Gross: $25.54M
+- Gladiator 
+- 40. Gladiator (2000)
+- R | 155 min | Action, Adventure, Drama
+    - 8.5  Rate 67 Metascore
+- A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+- Director: Ridley Scott | Stars: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+- Votes: 1,477,147 | Gross: $187.71M
+- The Green Mile 
+- 41. The Green Mile (1999)
+- R | 189 min | Crime, Drama, Fantasy
+    - 8.6  Rate 61 Metascore
+- The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+- Director: Frank Darabont | Stars: Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt
+- Votes: 1,279,547 | Gross: $136.80M
+- American History X 
+- 42. American History X (1998)
+- R | 119 min | Crime, Drama
+    - 8.5  Rate 62 Metascore
+- A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+- Director: Tony Kaye | Stars: Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien
+- Votes: 1,109,842 | Gross: $6.72M
+- The Lion King 
+- 43. The Lion King (1994)
+- G | 88 min | Animation, Adventure, Drama
+    - 8.5  Rate 88 Metascore
+- Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+- Directors: Roger Allers, Rob Minkoff | Stars: Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg
+- Votes: 1,042,355 | Gross: $422.78M
+- Terminator 2: Judgment Day 
+- 44. Terminator 2: Judgment Day (1991)
+- R | 137 min | Action, Sci-Fi
+    - 8.6  Rate 75 Metascore
+- A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.
+- Director: James Cameron | Stars: Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick
+- Votes: 1,084,275 | Gross: $204.84M
+- Cinema Paradiso 
+- 45. [[Cinema Paradiso]] (1988)
+- R | 155 min | Drama, Romance
+    - 8.5  Rate 80 Metascore
+- A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.
+- Director: Giuseppe Tornatore | Stars: Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli
+- Votes: 258,462 | Gross: $11.99M
+- Grave of the Fireflies 
+- 46. [[Grave of the Fireflies]] (1988)
+- Not Rated | 89 min | Animation, Drama, War
+    - 8.5  Rate 94 Metascore
+- A young boy and his little sister struggle to survive in Japan during World War II.
+- Director: Isao Takahata | Stars: Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara
+- Votes: 272,945
+- [[Back to the Future]] 
+- 47.[[ Back to the Future]] (1985)
+- PG | 116 min | Adventure, Comedy, Sci-Fi
+    - 8.5  Rate 87 Metascore
+- Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+- Director: Robert Zemeckis | Stars: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+- Votes: 1,183,082 | Gross: $210.61M
+- Indiana Jones and the Raiders of the Lost Ark 
+- 48. Indiana Jones and the Raiders of the Lost Ark (1981)
+- PG | 115 min | Action, Adventure
+    - 8.4  Rate 85 Metascore
+- Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.
+- Director: Steven Spielberg | Stars: Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies
+- Votes: 955,611 | Gross: $248.16M
+- Apocalypse Now 
+- 49. [[Apocalypse Now]] (1979)
+- R | 147 min | Drama, Mystery, War
+    - 8.5  Rate 94 Metascore
+- A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+- Director: Francis Ford Coppola | Stars: Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest
+- Votes: 660,315 | Gross: $83.47M
+- Alien 
+- 50. Alien (1979)
+- R | 117 min | Horror, Sci-Fi
+    - 8.5  Rate 89 Metascore
+- The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.
+- Director: Ridley Scott | Stars: Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright
+- Votes: 868,981 | Gross: $78.90M
+- Once Upon a Time in the West 
+- 51. [[Once Upon a Time in the West]] (1968)
+- PG-13 | 165 min | Western
+    - 8.5  Rate 80 Metascore
+- A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.
+- Director: Sergio Leone | Stars: Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards
+- Votes: 327,039 | Gross: $5.32M
+- Psycho 
+- 52. Psycho (1960)
+- R | 109 min | Horror, Mystery, Thriller
+    - 8.5  9 97 Metascore
+- A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
+- Director: Alfred Hitchcock | Stars: Anthony Perkins, Janet Leigh, Vera Miles, John Gavin
+- Votes: 663,143 | Gross: $32.00M
+- Rear Window 
+- 53. Rear Window (1954)
+- PG | 112 min | Mystery, Thriller
+    - 8.5  Rate 100 Metascore
+- A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.
+- Director: Alfred Hitchcock | Stars: James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter
+- Votes: 486,831 | Gross: $36.76M
+- Casablanca 
+- 54. Casablanca (1942)
+- PG | 102 min | Drama, Romance, War
+    - 8.5  Rate 100 Metascore
+- A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.
+- Director: Michael Curtiz | Stars: Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+- Votes: 566,307 | Gross: $1.02M
+- The Great Dictator 
+- 55. [[The Great Dictator]] (1940)
+- G | 125 min | Comedy, Drama, War
+    - 8.4  8
+- Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.
+- Director: Charles Chaplin | Stars: Charles Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner
+- Votes: 222,631 | Gross: $0.29M
+- Modern Times 
+- 56. [[Modern Times]] (1936)
+- G | 87 min | Comedy, Drama, Romance
+    - 8.5  9 96 Metascore
+- The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+- Director: Charles Chaplin | Stars: Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford
+- Votes: 240,521 | Gross: $0.16M
+- City Lights 
+- 57. [[City Lights]] (1931)
+- G | 87 min | Comedy, Drama, Romance
+    - 8.5  9 99 Metascore
+- With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+- Director: Charles Chaplin | Stars: Charles Chaplin, Virginia Cherrill, Florence Lee, Harry Myers
+- Votes: 183,677 | Gross: $0.02M
+- Your Name. 
+- 58. [[Your Name.]] (2016)
+- PG | 106 min | Animation, Drama, Fantasy
+    - 8.4  Rate 79 Metascore
+- Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
+- Director: Makoto Shinkai | Stars: Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yûki
+- Votes: 260,656 | Gross: $5.02M
+- Coco 
+- 59. Coco (I) (2017)
+- PG | 105 min | Animation, Adventure, Comedy
+    - 8.4  Rate 81 Metascore
+- Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+- Directors: Lee Unkrich, Adrian Molina | Stars: Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
+- Votes: 493,081 | Gross: $209.73M
+- Django Unchained 
+- 60. [[Django Unchained]] (2012)
+- R | 165 min | Drama, Western
+    - 8.4  Rate 81 Metascore
+- With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.
+- Director: Quentin Tarantino | Stars: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+- Votes: 1,524,453 | Gross: $162.81M
+- The Dark Knight Rises 
+- 61. [[The Dark Knight Rises]] (2012)
+- PG-13 | 164 min | Action, Drama
+    - 8.4  Rate 78 Metascore
+- Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.
+- Director: Christopher Nolan | Stars: Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman
+- Votes: 1,679,822 | Gross: $448.14M
+- WALL·E 
+- 62. [[WALL·E ]](2008)
+- G | 98 min | Animation, Adventure, Family
+    - 8.4  Rate 95 Metascore
+- In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+- Director: Andrew Stanton | Stars: Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard
+- Votes: 1,101,302 | Gross: $223.81M
+- My Father and My Son 
+- 63. [[My Father and My Son]] (2005)
+- Not Rated | 112 min | Drama, Family
+    - 8.2  Rate
+- The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.
+- Director: Cagan Irmak | Stars: Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman
+- Votes: 86,476
+- The Lives of Others 
+- 64. [[The Lives of Others]] (2006)
+- R | 137 min | Drama, Mystery, Thriller
+    - 8.4  Rate 89 Metascore
+- In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+- Director: Florian Henckel von Donnersmarck | Stars: Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur
+- Votes: 387,053 | Gross: $11.29M
+- Oldboy 
+- 65. [[Oldboy]] (2003)
+- R | 120 min | Action, Drama, Mystery
+    - 8.4  Rate 77 Metascore
+- After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+- Director: Park Chan-wook | Stars: Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok
+- Votes: 571,124 | Gross: $0.71M
+- American Beauty 
+- 66. [[American Beauty]] (1999)
+- R | 122 min | Drama
+    - 8.4  Rate 84 Metascore
+- A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+- Director: Sam Mendes | Stars: Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
+- Votes: 1,143,134 | Gross: $130.10M
+- Princess Mononoke 
+- 67. Princess Mononoke (1997)
+- PG-13 | 134 min | Animation, Adventure, Fantasy
+    - 8.4  Rate 76 Metascore
+- On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+- Director: Hayao Miyazaki | Stars: Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup
+- Votes: 389,480 | Gross: $2.38M
+- Braveheart 
+- 68. [[Braveheart]] (1995)
+- R | 178 min | Biography, Drama, History
+    - 8.4  Rate 68 Metascore
+- Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.
+- Director: Mel Gibson | Stars: Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen
+- Votes: 1,028,033 | Gross: $75.60M
+- Aliens 
+- 69. Aliens (1986)
+- R | 137 min | Action, Adventure, Sci-Fi
+    - 8.4  Rate 84 Metascore
+- Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.
+- Director: James Cameron | Stars: Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser
+- Votes: 709,553 | Gross: $85.16M
+- Once Upon a Time in America 
+- 70. Once Upon a Time in America (1984)
+- R | 229 min | Crime, Drama
+    - 8.3  Rate 75 Metascore
+- A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.
+- Director: Sergio Leone | Stars: Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams
+- Votes: 348,783 | Gross: $5.32M
+- The Boat 
+- 71. [[The Boat]](1981)
+- R | 149 min | Drama, War
+    - 8.4  Rate 86 Metascore
+- The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.
+- Director: Wolfgang Petersen | Stars: Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch
+- Votes: 249,772 | Gross: $11.49M
+- The Shining 
+- 72. [[The Shining]] (1980)
+- R | 146 min | Drama, Horror
+    - 8.4  Rate 66 Metascore
+- A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+- Director: Stanley Kubrick | Stars: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+- Votes: 1,003,230 | Gross: $44.02M
+- Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+- 73. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+- PG | 95 min | Comedy, War
+    - 8.4  Rate 97 Metascore
+- An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.
+- Director: Stanley Kubrick | Stars: Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn
+- Votes: 486,617 | Gross: $0.28M
+- Witness for the Prosecution 
+- 74. [[Witness for the Prosecution]] (1957)
+- Approved | 116 min | Crime, Drama, Mystery
+    - 8.4  Rate 76 Metascore
+- A veteran British barrister must defend his client in a murder trial that has surprise after surprise.
+- Director: [[Billy Wilder]] | Stars: Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester
+- Votes: 124,411 | Gross: $8.18M
+- Paths of Glory 
+- 75.[[Paths of Glory]] (1957)
+- Approved | 88 min | Drama, War
+    - 8.4  Rate 90 Metascore
+- After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.
+- Director: Stanley Kubrick | Stars: Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready
+- Votes: 196,055
+- Sunset Blvd. 
+- 76. [[Sunset Blvd.]] (1950)
+- Passed | 110 min | Drama, Film-Noir
+    - 8.4  10
+- A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.
+- Director: Billy Wilder | Stars: William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson
+- Votes: 220,504
+- Green Book 
+- 77. Green Book (2018)
+- PG-13 | 130 min | Biography, Comedy, Drama
+    - 8.2  8 69 Metascore
+- A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.
+- Director: Peter Farrelly | Stars: Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco
+- Votes: 478,292 | Gross: $85.08M
+- The Hunt 
+- 78. [[The Hunt]] (2012)
+- R | 115 min | Drama
+    - 8.3  Rate 77 Metascore
+- A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+- Director: Thomas Vinterberg | Stars: Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm
+- Votes: 325,534 | Gross: $0.69M
+- Incendies 
+- 79. [[Incendies]] (2010)
+- R | 131 min | Drama, Mystery
+    - 8.3  Rate 80 Metascore
+- Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.
+- Director: Denis Villeneuve | Stars: Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel
+- Votes: 175,657 | Gross: $6.86M
+- Up 
+- 80. [[Up]] (2009)
+- PG | 96 min | Animation, Adventure, Comedy
+    - 8.3  Rate 88 Metascore
+- 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.
+- Directors: Pete Docter, Bob Peterson | Stars: Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer
+- Votes: 1,030,524 | Gross: $293.00M
+- Toy Story 3 
+- 81. Toy Story 3 (2010)
+- G | 103 min | Animation, Adventure, Comedy
+    - 8.3  Rate 92 Metascore
+- The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+- Director: Lee Unkrich | Stars: Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty
+- Votes: 827,038 | Gross: $415.00M
+- Inglourious Basterds 
+- 82. [[Inglourious Basterds]] (2009)
+- R | 153 min | Adventure, Drama, War
+    - 8.3  Rate 69 Metascore
+- In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+- Director: Quentin Tarantino | Stars: Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent
+- Votes: 1,421,930 | Gross: $120.54M
+- Eternal Sunshine of the Spotless Mind 
+- 83. Eternal Sunshine of the Spotless Mind (2004)
+- R | 108 min | Drama, Romance, Sci-Fi
+    - 8.3  Rate 89 Metascore
+- When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+- Director: Michel Gondry | Stars: Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne
+- Votes: 994,653 | Gross: $34.40M
+- Amélie 
+- 84. Amélie (2001)
+- R | 122 min | Comedy, Romance
+    - 8.3  Rate 69 Metascore
+- Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+- Director: Jean-Pierre Jeunet | Stars: Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta
+- Votes: 750,731 | Gross: $33.23M
+- Snatch 
+- 85. Snatch (2000)
+- R | 102 min | Comedy, Crime
+    - 8.3  Rate 55 Metascore
+- Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+- Director: Guy Ritchie | Stars: Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones
+- Votes: 847,119 | Gross: $30.33M
+- Requiem for a Dream 
+- 86. Requiem for a Dream (2000)
+- R | 102 min | Drama
+    - 8.3  Rate 68 Metascore
+- The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+- Director: Darren Aronofsky | Stars: Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans
+- Votes: 832,223 | Gross: $3.64M
+- L.A. Confidential 
+- 87. L.A. Confidential (1997)
+- R | 138 min | Crime, Drama, Mystery
+    - 8.2  Rate 90 Metascore
+- As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.
+- Director: Curtis Hanson | Stars: Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger
+- Votes: 578,561 | Gross: $64.62M
+- Good Will Hunting 
+- 88. Good Will Hunting (1997)
+- R | 126 min | Drama, Romance
+    - 8.3  Rate 70 Metascore
+- Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+- Director: Gus Van Sant | Stars: Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård
+- Votes: 952,972 | Gross: $138.43M
+- The Bandit 
+- 89. [[The Bandit ]](1996)
+- Not Rated | 128 min | Crime, Drama, Thriller
+    - 8.1  Rate
+- Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.
+- Director: Yavuz Turgul | Stars: Sener Sen, Ugur Yücel, Sermin Hürmeriç, Yesim Salkim
+- Votes: 69,935
+- Toy Story 
+- 90. Toy Story (1995)
+- G | 81 min | Animation, Adventure, Comedy
+    - 8.3  Rate 95 Metascore
+- A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.
+- Director: John Lasseter | Stars: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+- Votes: 981,063 | Gross: $191.80M
+- Reservoir Dogs 
+- 91. Reservoir Dogs (1992)
+- R | 99 min | Crime, Drama, Thriller
+    - 8.3  Rate 79 Metascore
+- When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
+- Director: Quentin Tarantino | Stars: Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn
+- Votes: 1,004,684 | Gross: $2.83M
+- Full Metal Jacket 
+- 92. Full Metal Jacket (1987)
+- R | 116 min | Drama, War
+    - 8.3  Rate 76 Metascore
+- A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+- Director: Stanley Kubrick | Stars: Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin
+- Votes: 734,499 | Gross: $46.36M
+- Amadeus 
+- 93. Amadeus (1984)
+- R | 160 min | Biography, Drama, Music
+    - 8.4  9 88 Metascore
+- The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.
+- Director: Milos Forman | Stars: F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice
+- Votes: 398,124 | Gross: $51.97M
+- Scarface 
+- 94. Scarface (1983)
+- R | 170 min | Crime, Drama
+    - 8.3  Rate 65 Metascore
+- In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+- Director: Brian De Palma | Stars: Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio
+- Votes: 826,791 | Gross: $45.60M
+- Star Wars: Episode VI - Return of the Jedi 
+- 95. Star Wars: Episode VI - Return of the Jedi (1983)
+- PG | 131 min | Action, Adventure, Fantasy
+    - 8.3  Rate 58 Metascore
+- After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.
+- Director: Richard Marquand | Stars: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+- Votes: 1,040,298 | Gross: $309.13M
+- Taxi Driver 
+- 96. Taxi Driver (1976)
+- R | 114 min | Crime, Drama
+    - 8.2  8 94 Metascore
+- A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.
+- Director: Martin Scorsese | Stars: Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks
+- Votes: 816,320 | Gross: $28.26M
+- Monty Python and the Holy Grail 
+- 97. Monty Python and the Holy Grail (1975)
+- PG | 91 min | Adventure, Comedy, Fantasy
+    - 8.2  Rate 91 Metascore
+- King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+- Directors: Terry Gilliam, Terry Jones | Stars: Graham Chapman, John Cleese, Eric Idle, Terry Gilliam
+- Votes: 537,545 | Gross: $1.23M
+- The Sting 
+- 98. The Sting (1973)
+- PG | 129 min | Comedy, Crime, Drama
+    - 8.3  Rate 83 Metascore
+- Two grifters team up to pull off the ultimate con.
+- Director: George Roy Hill | Stars: Paul Newman, Robert Redford, Robert Shaw, Charles Durning
+- Votes: 260,339 | Gross: $159.60M
+- A Clockwork Orange 
+- 99. A Clockwork Orange (1971)
+- R | 136 min | Crime, Sci-Fi
+    - 8.3  Rate 77 Metascore
+- In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+- Director: Stanley Kubrick | Stars: Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke
+- Votes: 820,439 | Gross: $6.21M
+    - Watch on HBO Max
+- with subscription
+- 2001: A Space Odyssey 
+- 100. 2001: A Space Odyssey (1968)
+- G | 149 min | Adventure, Sci-Fi
+    - 8.3  7 84 Metascore
+- After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.
+- Director: Stanley Kubrick | Stars: Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
+- Votes: 661,068 | Gross: $56.95M
+- 101. [[For a Few Dollars More]] (1965)
+- R | 132 min | Western
+    - 8.2  Rate 74 Metascore
+- Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.
+- Director: Sergio Leone | Stars: Clint Eastwood, Lee Van Cleef, Gian Maria Volontè, Mara Krupp
+- Votes: 255,010 | Gross: $15.00M
+    - Watch on Pluto TV
+- Go to pluto.tv
+- To Kill a Mockingbird
+- 102. To Kill a Mockingbird (1962)
+- Approved | 129 min | Crime, Drama
+    - 8.3  Rate 88 Metascore
+- Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.
+- Director: Robert Mulligan | Stars: Gregory Peck, John Megna, Frank Overton, Rosemary Murphy
+- Votes: 314,822
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Lawrence of Arabia
+- 103. Lawrence of Arabia (1962)
+- Approved | 218 min | Adventure, Biography, Drama
+    - 8.3  Rate 100 Metascore
+- The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
+- Director: David Lean | Stars: Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins
+- Votes: 291,627 | Gross: $44.82M
+    - Watch on Prime Video
+- rent/buy from $2.99
+- Yojimbo
+- 104. Yojimbo (1961)
+- Not Rated | 110 min | Action, Drama, Thriller
+    - 8.2  Rate 93 Metascore
+- A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai, Yôko Tsukasa
+- Votes: 122,454
+- The Apartment
+- 105. The Apartment (1960)
+- Approved | 125 min | Comedy, Drama, Romance
+    - 8.3  Rate 94 Metascore
+- A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.
+- Director: Billy Wilder | Stars: Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston
+- Votes: 180,486 | Gross: $18.60M
+- North by Northwest
+- 106. North by Northwest (1959)
+- Approved | 136 min | Action, Adventure, Mystery
+    - 8.3  Rate 98 Metascore
+- A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.
+- Director: Alfred Hitchcock | Stars: Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis
+- Votes: 325,582 | Gross: $13.28M
+- Vertigo
+- 107. Vertigo (1958)
+- PG | 128 min | Mystery, Romance, Thriller
+    - 8.3  Rate 100 Metascore
+- A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.
+- Director: Alfred Hitchcock | Stars: James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore
+- Votes: 399,088 | Gross: $3.20M
+- Singin' in the Rain
+- 108. Singin' in the Rain (1952)
+- G | 103 min | Comedy, Musical, Romance
+    - 8.3  Rate 99 Metascore
+- A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.
+- Directors: Stanley Donen, Gene Kelly | Stars: Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen
+- Votes: 240,637 | Gross: $8.82M
+- Ikiru
+- 109. Ikiru (1952)
+- Not Rated | 143 min | Drama
+    - 8.3  Rate 91 Metascore
+- A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.
+- Director: Akira Kurosawa | Stars: Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori, Haruo Tanaka
+- Votes: 77,959 | Gross: $0.06M
+- Rashomon
+- 110. Rashomon (1950)
+- Not Rated | 88 min | Crime, Drama, Mystery
+    - 8.2  Rate 98 Metascore
+- The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura
+- Votes: 167,605 | Gross: $0.10M
+- All About Eve
+- 111. All About Eve (1950)
+- Passed | 138 min | Drama
+    - 8.2  Rate 98 Metascore
+- A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.
+- Director: Joseph L. Mankiewicz | Stars: Bette Davis, Anne Baxter, George Sanders, Celeste Holm
+- Votes: 130,963 | Gross: $0.01M
+- Bicycle Thieves
+- 112. Bicycle Thieves (1948)
+- Not Rated | 89 min | Drama
+    - 8.3  Rate
+- In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.
+- Director: Vittorio De Sica | Stars: Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri
+- Votes: 162,670 | Gross: $0.33M
+- Double Indemnity
+- 113. Double Indemnity (1944)
+- Passed | 107 min | Crime, Drama, Film-Noir
+    - 8.3  Rate 95 Metascore
+- A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.
+- Director: Billy Wilder | Stars: Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr
+- Votes: 156,444 | Gross: $5.72M
+- Citizen Kane
+- 114. Citizen Kane (1941)
+- PG | 119 min | Drama, Mystery
+    - 8.3  10 100 Metascore
+- Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'
+- Director: Orson Welles | Stars: Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead
+- Votes: 439,064 | Gross: $1.59M
+- M
+- 115. M (1931)
+- Passed | 99 min | Crime, Mystery, Thriller
+    - 8.3  Rate
+- When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
+- Director: Fritz Lang | Stars: Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke
+- Votes: 157,100 | Gross: $0.03M
+- Metropolis
+- 116. Metropolis (1927)
+- Not Rated | 153 min | Drama, Sci-Fi
+    - 8.3  Rate 98 Metascore
+- In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.
+- Director: Fritz Lang | Stars: Brigitte Helm, Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge
+- Votes: 173,409 | Gross: $1.24M
+- The Kid
+- 117. The Kid (1921)
+- Passed | 68 min | Comedy, Drama, Family
+    - 8.3  Rate
+- The Tramp cares for an abandoned child, but events put their relationship in jeopardy.
+- Director: Charles Chaplin | Stars: Charles Chaplin, Edna Purviance, Jackie Coogan, Carl Miller
+- Votes: 125,976 | Gross: $5.45M
+- Three Billboards Outside Ebbing, Missouri
+- 118. Three Billboards Outside Ebbing, Missouri (2017)
+- R | 115 min | Comedy, Crime, Drama
+    - 8.1  7 88 Metascore
+- A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+- Director: Martin McDonagh | Stars: Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones
+- Votes: 498,727 | Gross: $54.51M
+- Room
+- 119. Room (I) (2015)
+- R | 118 min | Drama, Thriller
+    - 8.1  Rate 86 Metascore
+- Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.
+- Director: Lenny Abrahamson | Stars: Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson
+- Votes: 416,336 | Gross: $14.68M
+- Tangerines
+- 120. [[Tangerines ]](2013)
+- Not Rated | 87 min | Drama, War
+    - 8.1  Rate 73 Metascore
+- In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.
+- Director: Zaza Urushadze | Stars: Lembit Ulfsak, Elmo Nüganen, Giorgi Nakashidze, Misha Meskhi
+- Votes: 46,217 | Gross: $0.14M
+- Winter Sleep
+- 121. [[Winter Sleep]] (2014)
+- Not Rated | 196 min | Drama
+    - 8  Rate 88 Metascore
+- A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.
+- Director: Nuri Bilge Ceylan | Stars: Haluk Bilginer, Melisa Sözen, Demet Akbag, Ayberk Pekcan
+- Votes: 51,603 | Gross: $0.17M
+- Wolf Children
+- 122. [[Wolf Children]] (2012)
+- PG | 117 min | Animation, Drama, Family
+    - 8.1  Rate 71 Metascore
+- After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from society.
+- Director: Mamoru Hosoda | Stars: Aoi Miyazaki, Takao Osawa, Haru Kuroki, Yukito Nishii
+- Votes: 44,730
+- Inside Out
+- 123. Inside Out (I) (2015)
+- PG | 95 min | Animation, Adventure, Comedy
+    - 8.2  Rate 94 Metascore
+- After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
+- Directors: Pete Docter, Ronnie Del Carmen | Stars: Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling
+- Votes: 702,029 | Gross: $356.46M
+- The Secret in Their Eyes
+- 124. [[The Secret in Their Eyes]] (2009)
+- R | 129 min | Drama, Mystery, Romance
+    - 8.2  Rate 80 Metascore
+- A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.
+- Director: Juan José Campanella | Stars: Ricardo Darín, Soledad Villamil, Pablo Rago, Carla Quevedo
+- Votes: 208,646 | Gross: $6.39M
+- Warrior
+- 125. Warrior (2011)
+- PG-13 | 140 min | Action, Drama, Sport
+    - 8.2  Rate 71 Metascore
+- The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
+- Director: Gavin O'Connor | Stars: Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison
+- Votes: 469,066 | Gross: $13.66M
+- The Wolf of Wall Street
+- 126. The Wolf of Wall Street (2013)
+- R | 180 min | Biography, Comedy, Crime
+    - 8.2  Rate 75 Metascore
+- Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
+- Director: Martin Scorsese | Stars: Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey
+- Votes: 1,374,966 | Gross: $116.90M
+- There Will Be Blood
+- 127. There Will Be Blood (2007)
+- R | 158 min | Drama
+    - 8.2  Rate 93 Metascore
+- A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+- Director: Paul Thomas Anderson | Stars: Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer
+- Votes: 579,577 | Gross: $40.22M
+- Pan's Labyrinth
+- 128. Pan's Labyrinth (2006)
+- R | 118 min | Drama, Fantasy, War
+    - 8.2  Rate 98 Metascore
+- In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+- Director: Guillermo del Toro | Stars: Ivana Baquero, Ariadna Gil, Sergi López, Maribel Verdú
+- Votes: 663,185 | Gross: $37.63M
+- V for Vendetta
+- 129. V for Vendetta (2005)
+- R | 132 min | Action, Drama, Sci-Fi
+    - 8.2  Rate 62 Metascore
+- In a future British dystopian society, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow the tyrannical government - with the help of a young woman.
+- Director: James McTeigue | Stars: Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea
+- Votes: 1,110,710 | Gross: $70.51M
+- Batman Begins
+- 130. Batman Begins (2005)
+- PG-13 | 140 min | Action, Crime, Drama
+    - 8.2  Rate 70 Metascore
+- After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+- Director: Christopher Nolan | Stars: Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson
+- Votes: 1,449,596 | Gross: $206.85M
+- Downfall
+- 131. [[Downfall]] (2004)
+- R | 156 min | Biography, Drama, History
+    - 8.2  Rate 82 Metascore
+- Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
+- Director: Oliver Hirschbiegel | Stars: Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler
+- Votes: 353,747 | Gross: $5.51M
+- Howl's Moving Castle
+- 132. Howl's Moving Castle (2004)
+- PG | 119 min | Animation, Adventure, Family
+    - 8.2  Rate 80 Metascore
+- When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+- Director: Hayao Miyazaki | Stars: Chieko Baishô, Takuya Kimura, Tatsuya Gashûin, Akihiro Miwa
+- Votes: 388,669 | Gross: $4.71M
+- A Beautiful Mind
+- 133. A Beautiful Mind (2001)
+- PG-13 | 135 min | Biography, Drama
+    - 8.2  Rate 72 Metascore
+- After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+- Director: Ron Howard | Stars: Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer
+- Votes: 922,868 | Gross: $170.74M
+- Lock, Stock and Two Smoking Barrels
+- 134. Lock, Stock and Two Smoking Barrels (1998)
+- R | 107 min | Action, Comedy, Crime
+    - 8.2  Rate 66 Metascore
+- Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.
+- Director: Guy Ritchie | Stars: Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham
+- Votes: 577,523 | Gross: $3.90M
+- Trainspotting
+- 135. Trainspotting (1996)
+- R | 93 min | Drama
+    - 8.1  Rate 83 Metascore
+- Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+- Director: Danny Boyle | Stars: Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
+- Votes: 681,397 | Gross: $16.50M
+- Heat
+- 136. Heat (1995)
+- R | 170 min | Action, Crime, Drama
+    - 8.3  Rate 76 Metascore
+- A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.
+- Director: Michael Mann | Stars: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
+- Votes: 646,781 | Gross: $67.44M
+- Casino
+- 137. Casino (1995)
+- R | 178 min | Crime, Drama
+    - 8.2  Rate 73 Metascore
+- A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.
+- Director: Martin Scorsese | Stars: Robert De Niro, Sharon Stone, Joe Pesci, James Woods
+- Votes: 513,971 | Gross: $42.44M
+- Unforgiven
+- 138. Unforgiven (1992)
+- R | 130 min | Drama, Western
+    - 8.2  Rate 85 Metascore
+- Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The "Schofield Kid."
+- Director: Clint Eastwood | Stars: Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris
+- Votes: 409,136 | Gross: $101.16M
+- Indiana Jones and the Last Crusade
+- 139. Indiana Jones and the Last Crusade (1989)
+- PG-13 | 127 min | Action, Adventure
+    - 8.2  Rate 65 Metascore
+- In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry "Indiana" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.
+- Director: Steven Spielberg | Stars: Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott
+- Votes: 747,370 | Gross: $197.17M
+- My Neighbor Totoro
+- 140. My Neighbor Totoro (1988)
+- G | 86 min | Animation, Comedy, Family
+    - 8.1  Rate 86 Metascore
+- When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+- Director: Hayao Miyazaki | Stars: Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto, Shigesato Itoi
+- Votes: 334,369 | Gross: $1.11M
+- Die Hard
+- 141. Die Hard (1988)
+- R | 132 min | Action, Thriller
+    - 8.2  Rate 72 Metascore
+- An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.
+- Director: John McTiernan | Stars: Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson
+- Votes: 867,213 | Gross: $83.01M
+- Come and See
+- 142. [[Come and See]] (1985)
+- Not Rated | 142 min | Drama, Thriller, War
+    - 8.4  Rate
+- After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.
+- Director: Elem Klimov | Stars: Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas
+- Votes: 77,853
+- Ran
+- 143. Ran (1985)
+- R | 162 min | Action, Drama, War
+    - 8.2  Rate 96 Metascore
+- In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.
+- Director: Akira Kurosawa | Stars: Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ryû
+- Votes: 124,983 | Gross: $4.14M
+- Blade Runner
+- 144. Blade Runner (1982)
+- R | 117 min | Action, Drama, Sci-Fi
+    - 8.1  8 84 Metascore
+- A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+- Director: Ridley Scott | Stars: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+- Votes: 760,478 | Gross: $32.87M
+- Raging Bull
+- 145. Raging Bull (1980)
+- R | 129 min | Biography, Drama, Sport
+    - 8.2  Rate 89 Metascore
+- The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.
+- Director: Martin Scorsese | Stars: Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+- Votes: 351,117 | Gross: $23.38M
+- The Elephant Man
+- 146. The Elephant Man (1980)
+- PG | 124 min | Biography, Drama
+    - 8.2  Rate 78 Metascore
+- A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.
+- Director: David Lynch | Stars: Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud
+- Votes: 239,683
+- Chinatown
+- 147. Chinatown (1974)
+- R | 130 min | Drama, Mystery, Thriller
+    - 8.2  Rate 92 Metascore
+- A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.
+- Director: Roman Polanski | Stars: Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez
+- Votes: 324,281 | Gross: $8.49M
+- Andrei Rublev
+- 148. Andrei Rublev (1966)
+- R | 205 min | Biography, Drama, History
+    - 8  Rate
+- The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.
+- Director: Andrei Tarkovsky | Stars: Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko, Nikolay Sergeev
+- Votes: 53,542 | Gross: $0.10M
+- The Great Escape
+- 149. The Great Escape (1963)
+- Approved | 172 min | Adventure, Drama, History
+    - 8.2  Rate 86 Metascore
+- Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+- Director: John Sturges | Stars: Steve McQueen, James Garner, Richard Attenborough, Charles Bronson
+- Votes: 243,386 | Gross: $12.10M
+- Judgment at Nuremberg
+- 150. Judgment at Nuremberg (1961)
+- Approved | 179 min | Drama, War
+    - 8.3  Rate 60 Metascore
+- In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.
+- Director: Stanley Kramer | Stars: Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich
+- Votes: 77,400
+- Some Like It Hot
+- 151. Some Like It Hot (1959)
+- Passed | 121 min | Comedy, Music, Romance
+    - 8.2  10 98 Metascore
+- After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+- Director: Billy Wilder | Stars: Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft
+- Votes: 265,489 | Gross: $25.00M
+- Wild Strawberries
+- 152. Wild Strawberries (1957)
+- Not Rated | 91 min | Drama, Romance
+    - 8.1  Rate 88 Metascore
+- After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.
+- Director: Ingmar Bergman | Stars: Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand
+- Votes: 107,001
+- The Seventh Seal
+- 153. The Seventh Seal (1957)
+- Not Rated | 96 min | Drama, Fantasy
+    - 8.1  Rate 88 Metascore
+- A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.
+- Director: Ingmar Bergman | Stars: Max von Sydow, Gunnar Björnstrand, Bengt Ekerot, Nils Poppe
+- Votes: 184,134
+- The Bridge on the River Kwai
+- 154. The Bridge on the River Kwai (1957)
+- PG | 161 min | Adventure, Drama, War
+    - 8.2  Rate 87 Metascore
+- British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.
+- Director: David Lean | Stars: William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
+- Votes: 219,685 | Gross: $44.91M
+- On the Waterfront
+- 155. On the Waterfront (1954)
+- Approved | 108 min | Crime, Drama, Thriller
+    - 8.1  8 91 Metascore
+- An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.
+- Director: Elia Kazan | Stars: Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger
+- Votes: 154,539 | Gross: $9.60M
+- Dial M for Murder
+- 156. Dial M for Murder (1954)
+- PG | 105 min | Crime, Thriller
+    - 8.2  Rate 75 Metascore
+- A former tennis star arranges the murder of his adulterous wife.
+- Director: Alfred Hitchcock | Stars: Ray Milland, Grace Kelly, Robert Cummings, John Williams
+- Votes: 174,857 | Gross: $0.01M
+- Tokyo Story
+- 157. Tokyo Story (1953)
+- Not Rated | 136 min | Drama
+    - 8.2  10
+- An old couple visit their children and grandchildren in the city, but receive little attention.
+- Director: Yasujirô Ozu | Stars: Chishû Ryû, Chieko Higashiyama, Sô Yamamura, Setsuko Hara
+- Votes: 61,451
+- The Third Man
+- 158. The Third Man (1949)
+- Approved | 93 min | Film-Noir, Mystery, Thriller
+    - 8.1  9 97 Metascore
+- Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.
+- Director: Carol Reed | Stars: Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard
+- Votes: 171,089 | Gross: $0.45M
+- The Treasure of the Sierra Madre
+- 159. The Treasure of the Sierra Madre (1948)
+- Passed | 126 min | Adventure, Drama, Western
+    - 8.2  Rate 98 Metascore
+- Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.
+- Director: John Huston | Stars: Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett
+- Votes: 124,565 | Gross: $5.01M
+- Mr. Smith Goes to Washington
+- 160. Mr. Smith Goes to Washington (1939)
+- Passed | 129 min | Comedy, Drama
+    - 8.1  Rate 73 Metascore
+- A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.
+- Director: Frank Capra | Stars: James Stewart, Jean Arthur, Claude Rains, Edward Arnold
+- Votes: 115,444 | Gross: $9.60M
+- Gone with the Wind
+- 161. Gone with the Wind (1939)
+- Passed | 238 min | Drama, Romance, War
+    - 8.2  Rate 97 Metascore
+- The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.
+- Directors: Victor Fleming, George Cukor, Sam Wood | Stars: Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil
+- Votes: 313,760 | Gross: $198.68M
+- The Passion of Joan of Arc
+- 162. The Passion of Joan of Arc (1928)
+- Passed | 114 min | Biography, Drama, History
+    - 8.2  Rate
+- In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.
+- Director: Carl Theodor Dreyer | Stars: Maria Falconetti, Eugene Silvain, André Berley, Maurice Schutz
+- Votes: 54,574 | Gross: $0.02M
+- Sunrise
+- 163. Sunrise (1927)
+- Passed | 94 min | Drama, Romance
+    - 8.1  Rate
+- A sophisticated urban woman seduces a farmer in the hopes that he will murder his neglected wife and join her in the city, but he soon finds himself rekindling his romance with the latter when she discovers their scheme.
+- Director: F.W. Murnau | Stars: George O'Brien, Janet Gaynor, Margaret Livingston, Bodil Rosing
+- Votes: 51,012 | Gross: $0.54M
+- The General
+- 164. The General (1926)
+- Passed | 67 min | Action, Adventure, Comedy
+    - 8.2  Rate
+- After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.
+- Directors: Clyde Bruckman, Buster Keaton | Stars: Buster Keaton, Marion Mack, Glen Cavender, Jim Farley
+- Votes: 91,118 | Gross: $1.03M
+- The Gold Rush
+- 165. The Gold Rush (1925)
+- Passed | 95 min | Adventure, Comedy, Drama
+    - 8.2  Rate
+- A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.
+- Director: Charles Chaplin | Stars: Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman
+- Votes: 110,953 | Gross: $5.45M
+- Sherlock Jr.
+- 166. Sherlock Jr. (1924)
+- Passed | 45 min | Action, Comedy, Romance
+    - 8.2  Rate
+- A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.
+- Director: Buster Keaton | Stars: Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly
+- Votes: 49,711 | Gross: $0.98M
+- The Invisible Guest
+- 167. The Invisible Guest (2016)
+- TV-MA | 106 min | Crime, Drama, Mystery
+    - 8  7
+- A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.
+- Director: Oriol Paulo | Stars: Mario Casas, Ana Wagener, Jose Coronado, Bárbara Lennie
+- Votes: 174,047
+- The Handmaiden
+- 168. The Handmaiden (2016)
+- Not Rated | 145 min | Drama, Romance, Thriller
+    - 8.1  Rate 84 Metascore
+- A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.
+- Director: Park Chan-wook | Stars: Kim Min-hee, Ha Jung-woo, Cho Jin-woong, Moon So-ri
+- Votes: 143,858 | Gross: $2.01M
+- Mommy
+- 169. Mommy (I) (2014)
+- R | 139 min | Drama
+    - 8  Rate 74 Metascore
+- A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.
+- Director: Xavier Dolan | Stars: Anne Dorval, Antoine Olivier Pilon, Suzanne Clément, Patrick Huard
+- Votes: 56,881 | Gross: $3.49M
+- Logan
+- 170. Logan (2017)
+- R | 137 min | Action, Drama, Sci-Fi
+    - 8.1  Rate 77 Metascore
+- In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.
+- Director: James Mangold | Stars: Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
+- Votes: 747,680 | Gross: $226.28M
+- Wild Tales
+- 171. [[Wild Tales]] (2014)
+- R | 122 min | Comedy, Drama, Thriller
+    - 8.1  Rate 77 Metascore
+- Six short stories that explore the extremities of human behavior involving people in distress.
+- Director: Damián Szifron | Stars: Darío Grandinetti, María Marull, Mónica Villa, Diego Starosta
+- Votes: 196,711 | Gross: $3.11M
+- The Grand Budapest Hotel
+- 172. The Grand Budapest Hotel (2014)
+- R | 99 min | Adventure, Comedy, Crime
+    - 8.1  Rate 88 Metascore
+- A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.
+- Director: Wes Anderson | Stars: Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody
+- Votes: 796,099 | Gross: $59.10M
+- Gone Girl
+- 173. Gone Girl (2014)
+- R | 149 min | Drama, Mystery, Thriller
+    - 8.1  Rate 79 Metascore
+- With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+- Director: David Fincher | Stars: Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
+- Votes: 968,549 | Gross: $167.77M
+- Hacksaw Ridge
+- 174. Hacksaw Ridge (2016)
+- R | 139 min | Biography, Drama, History
+    - 8.1  8 71 Metascore
+- World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.
+- Director: Mel Gibson | Stars: Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer
+- Votes: 514,815 | Gross: $67.21M
+- 12 Years a Slave
+- 175. 12 Years a Slave (2013)
+- R | 134 min | Biography, Drama, History
+    - 8.1  Rate 96 Metascore
+- In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
+- Director: Steve McQueen | Stars: Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt
+- Votes: 694,450 | Gross: $56.67M
+- Guardians of the Galaxy
+- 176. Guardians of the Galaxy (2014)
+- PG-13 | 121 min | Action, Adventure, Comedy
+    - 8  Rate 76 Metascore
+- A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+- Director: James Gunn | Stars: Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana
+- Votes: 1,160,822 | Gross: $333.18M
+- Rush
+- 177. Rush (I) (2013)
+- R | 123 min | Action, Biography, Drama
+    - 8.1  Rate 74 Metascore
+- The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
+- Director: Ron Howard | Stars: Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara
+- Votes: 475,614 | Gross: $26.95M
+- Spotlight
+- 178. Spotlight (I) (2015)
+- R | 129 min | Biography, Crime, Drama
+    - 8.1  Rate 93 Metascore
+- The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+- Director: Tom McCarthy | Stars: Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber
+- Votes: 465,409 | Gross: $45.06M
+- Song of the Sea
+- 179. Song of the Sea (2014)
+- PG | 93 min | Animation, Adventure, Drama
+    - 8  Rate 85 Metascore
+- Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.
+- Director: Tomm Moore | Stars: David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan
+- Votes: 58,205 | Gross: $0.86M
+- Bohemian Rhapsody
+- 180. Bohemian Rhapsody (2018)
+- PG-13 | 134 min | Biography, Drama, Music
+    - 7.9  8 49 Metascore
+- The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+- Director: Bryan Singer | Stars: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy
+- Votes: 530,365 | Gross: $216.43M
+- Elite Squad 2: The Enemy Within
+- 181. Elite Squad 2: The Enemy Within (2010)
+- Not Rated | 115 min | Action, Crime, Drama
+    - 8  Rate 71 Metascore
+- After a prison riot, former-Captain Nascimento, now a high ranking security officer in Rio de Janeiro, is swept into a bloody political dispute that involves government officials and paramilitary groups.
+- Director: José Padilha | Stars: Wagner Moura, Irandhir Santos, André Ramiro, Milhem Cortaz
+- Votes: 83,107 | Gross: $0.10M
+- The Help
+- 182. The Help (2011)
+- PG-13 | 146 min | Drama
+    - 8.1  Rate 62 Metascore
+- An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
+- Director: Tate Taylor | Stars: Emma Stone, Viola Davis, Octavia Spencer, Bryce Dallas Howard
+- Votes: 455,650 | Gross: $169.71M
+- Prisoners
+- 183. Prisoners (2013)
+- R | 153 min | Crime, Drama, Mystery
+    - 8.1  Rate 70 Metascore
+- When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.
+- Director: Denis Villeneuve | Stars: Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo
+- Votes: 696,456 | Gross: $61.00M
+- Mad Max: Fury Road
+- 184. Mad Max: Fury Road (2015)
+- R | 120 min | Action, Adventure, Sci-Fi
+    - 8.1  Rate 90 Metascore
+- In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.
+- Director: George Miller | Stars: Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz
+- Votes: 986,679 | Gross: $154.06M
+- Gran Torino
+- 185. Gran Torino (2008)
+- R | 116 min | Drama
+    - 8.1  Rate 72 Metascore
+- Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.
+- Director: Clint Eastwood | Stars: Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her
+- Votes: 769,901 | Gross: $148.10M
+- Harry Potter and the Deathly Hallows: Part 2
+- 186. Harry Potter and the Deathly Hallows: Part 2 (2011)
+- PG-13 | 130 min | Adventure, Fantasy, Mystery
+    - 8.1  Rate 85 Metascore
+- Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+- Director: David Yates | Stars: Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon
+- Votes: 862,051 | Gross: $381.01M
+- The Breath
+- 187. [[The Breath]] (2009)
+- 128 min | Action, Drama, Thriller
+    - 7.9  Rate
+- Story of 40-man Turkish task force who must defend a relay station.
+- Director: Levent Semerci | Stars: Mete Horozoglu, Ilker Kizmaz, Baris Bagci, Özgür Eren Koç
+- Votes: 33,735
+- Shutter Island
+- 188. Shutter Island (2010)
+- R | 138 min | Mystery, Thriller
+    - 8.2  Rate 63 Metascore
+- In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.
+- Director: Martin Scorsese | Stars: Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley
+- Votes: 1,285,482 | Gross: $128.01M
+- Departures
+- 189. Departures (2008)
+- PG-13 | 130 min | Drama, Music
+    - 8  8 68 Metascore
+- A newly unemployed cellist takes a job preparing the dead for funerals.
+- Director: Yôjirô Takita | Stars: Masahiro Motoki, Ryôko Hirosue, Tsutomu Yamazaki, Kazuko Yoshiyuki
+- Votes: 52,134 | Gross: $1.50M
+- Hachi: A Dog's Tale
+- 190. Hachi: A Dog's Tale (2009)
+- G | 93 min | Biography, Drama, Family
+    - 8.1  Rate
+- A college professor bonds with an abandoned dog he takes into his home.
+- Director: Lasse Hallström | Stars: Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa, Sarah Roemer
+- Votes: 282,527
+- Mary and Max
+- 191. Mary and Max (2009)
+- Not Rated | 92 min | Animation, Comedy, Drama
+    - 8.1  Rate
+- A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.
+- Director: Adam Elliot | Stars: Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries
+- Votes: 176,734
+- How to Train Your Dragon
+- 192. How to Train Your Dragon (2010)
+- PG | 98 min | Animation, Action, Adventure
+    - 8.1  Rate 75 Metascore
+- A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+- Directors: Dean DeBlois, Chris Sanders | Stars: Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson
+- Votes: 731,696 | Gross: $217.58M
+- Elite Squad
+- 193. Elite Squad (2007)
+- R | 115 min | Action, Crime, Drama
+    - 8  Rate 33 Metascore
+- In 1997 Rio de Janeiro, Captain Nascimento has to find a substitute for his position while trying to take down drug dealers and criminals before the Pope visits.
+- Director: José Padilha | Stars: Wagner Moura, André Ramiro, Caio Junqueira, Milhem Cortaz
+- Votes: 103,972 | Gross: $0.01M
+- The Avengers
+- 194. The Avengers (2012)
+- PG-13 | 143 min | Action, Adventure, Sci-Fi
+    - 8  Rate 69 Metascore
+- Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+- Director: Joss Whedon | Stars: Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner
+- Votes: 1,374,475 | Gross: $623.28M
+- Persepolis
+- 195. Persepolis (2007)
+- PG-13 | 96 min | Animation, Biography, Drama
+    - 8  Rate 90 Metascore
+- A precocious and outspoken Iranian girl grows up during the Islamic Revolution.
+- Directors: Vincent Paronnaud, Marjane Satrapi | Stars: Chiara Mastroianni, Catherine Deneuve, Gena Rowlands, Danielle Darrieux
+- Votes: 94,598 | Gross: $4.45M
+- Into the Wild
+- 196. Into the Wild (2007)
+- R | 148 min | Adventure, Biography, Drama
+    - 8.1  Rate 73 Metascore
+- After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.
+- Director: Sean Penn | Stars: Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden
+- Votes: 618,865 | Gross: $18.35M
+- No Country for Old Men
+- 197. No Country for Old Men (2007)
+- R | 122 min | Crime, Drama, Thriller
+    - 8.2  Rate 92 Metascore
+- Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+- Directors: Ethan Coen, Joel Coen | Stars: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
+- Votes: 957,612 | Gross: $74.28M
+- 3-Iron
+- 198. 3-Iron (2004)
+- R | 88 min | Crime, Drama, Romance
+    - 7.9  Rate 72 Metascore
+- A transient young man breaks into empty homes to partake of the vacationing residents' lives for a few days.
+- Director: Kim Ki-duk | Stars: Seung-Yun Lee, Hee Jae, Hyuk-ho Kwon, Jin-mo Joo
+- Votes: 55,188 | Gross: $0.24M
+- Million Dollar Baby
+- 199. Million Dollar Baby (2004)
+- PG-13 | 132 min | Drama, Sport
+    - 8.1  Rate 86 Metascore
+- A determined woman works with a hardened boxing trainer to become a professional.
+- Director: Clint Eastwood | Stars: Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel
+- Votes: 682,608 | Gross: $100.49M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Hotel Rwanda
+- 200. Hotel Rwanda (2004)
+- PG-13 | 121 min | Biography, Drama, History
+    - 8.1  Rate 79 Metascore
+- Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.
+- Director: Terry George | Stars: Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali
+- Votes: 354,298 | Gross: $23.53M
+- Tae Guk Gi: The Brotherhood of War
+- 201. Tae Guk Gi: The Brotherhood of War (2004)
+- R | 140 min | Action, Drama, War
+    - 8  Rate 64 Metascore
+- When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.
+- Director: Je-kyu Kang | Stars: Jang Dong-Gun, Won Bin, Eun-ju Lee, Hyeong-jin Kong
+- Votes: 39,753 | Gross: $1.11M
+    - Search on Amazon
+- Before Sunset
+- 202. Before Sunset (2004)
+- R | 80 min | Drama, Romance
+    - 8.1  Rate 90 Metascore
+- Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.
+- Director: Richard Linklater | Stars: Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès
+- Votes: 261,847 | Gross: $5.82M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Spring, Summer, Fall, Winter... and Spring
+- 203. Spring, Summer, Fall, Winter... and Spring (2003)
+- R | 103 min | Drama, Romance
+    - 8  Rate 85 Metascore
+- A boy is raised by a Buddhist monk in an isolated floating temple where the years pass like the seasons.
+- Director: Kim Ki-duk | Stars: Kim Ki-duk, Oh Yeong-su, Jong-ho Kim, Kim Young-min
+- Votes: 82,881 | Gross: $2.38M
+- Memories of Murder
+- 204. Memories of Murder (2003)
+- Not Rated | 132 min | Crime, Drama, Mystery
+    - 8.1  Rate 82 Metascore
+- In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.
+- Director: Bong Joon Ho | Stars: Song Kang-ho, Kim Sang-kyung, Roe-ha Kim, Jae-ho Song
+- Votes: 179,686 | Gross: $0.01M
+- Vizontele
+- 205. Vizontele (2001)
+- 110 min | Comedy, Drama
+    - 8  Rate
+- Lives of residents in a small, Anatolian village change when television is introduced to them.
+- Directors: Yilmaz Erdogan, Ömer Faruk Sorak | Stars: Yilmaz Erdogan, Demet Akbag, Altan Erkekli, Cem Yilmaz
+- Votes: 36,691
+- Kill Bill: Vol. 1
+- 206. Kill Bill: Vol. 1 (2003)
+- R | 111 min | Action, Crime, Drama
+    - 8.2  Rate 69 Metascore
+- After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.
+- Director: Quentin Tarantino | Stars: Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen
+- Votes: 1,100,527 | Gross: $70.10M
+    - Watch on HBO Max
+- with subscription
+- Finding Nemo
+- 207. Finding Nemo (2003)
+- G | 100 min | Animation, Adventure, Comedy
+    - 8.2  Rate 90 Metascore
+- After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+- Directors: Andrew Stanton, Lee Unkrich | Stars: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe
+- Votes: 1,032,005 | Gross: $380.84M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Catch Me If You Can
+- 208. Catch Me If You Can (2002)
+- PG-13 | 141 min | Biography, Crime, Drama
+    - 8.1  Rate 75 Metascore
+- Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.
+- Director: Steven Spielberg | Stars: Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
+- Votes: 961,944 | Gross: $164.62M
+    - Watch on Netflix
+- with subscription
+- Donnie Darko
+- 209. Donnie Darko (2001)
+- R | 113 min | Drama, Mystery, Sci-Fi
+    - 8  Rate 88 Metascore
+- After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.
+- Director: Richard Kelly | Stars: Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne
+- Votes: 793,258 | Gross: $1.48M
+    - Watch on AMC+
+- with Prime Video Channels
+- Amores perros
+- 210. Amores perros (2000)
+- R | 154 min | Drama, Thriller
+    - 8.1  Rate 83 Metascore
+- A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.
+- Director: Alejandro G. Iñárritu | Stars: Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero
+- Votes: 239,506 | Gross: $5.38M
+- Monsters, Inc.
+- 211. [[Monsters Inc.]] (2001)
+- G | 92 min | Animation, Adventure, Comedy
+    - 8.1  Rate 79 Metascore
+- In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.
+- Directors: Pete Docter, David Silverman, Lee Unkrich | Stars: Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi
+- Votes: 897,897 | Gross: $289.92M
+- The Sixth Sense
+- 212. The Sixth Sense (1999)
+- PG-13 | 107 min | Drama, Mystery, Thriller
+    - 8.2  Rate 64 Metascore
+- A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.
+- Director: M. Night Shyamalan | Stars: Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams
+- Votes: 981,440 | Gross: $293.51M
+- The Celebration
+- 213. The Celebration (1998)
+- R | 105 min | Drama
+    - 8.1  Rate 82 Metascore
+- At Helge's 60th birthday party, some unpleasant family truths are revealed.
+- Director: Thomas Vinterberg | Stars: Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen, Paprika Steen
+- Votes: 86,870 | Gross: $1.65M
+- [[The Legend of 1900]]
+- 214. The Legend of 1900 (1998)
+- R | 169 min | Drama, Music, Romance
+    - 8  Rate 58 Metascore
+- A baby boy, discovered in 1900 on an ocean liner, grows into a musical prodigy, never setting foot on land.
+- Director: Giuseppe Tornatore | Stars: Tim Roth, Pruitt Taylor Vince, Mélanie Thierry, Bill Nunn
+- Votes: 64,269 | Gross: $0.26M
+- The Truman Show
+- 215. The Truman Show (1998)
+- PG | 103 min | Comedy, Drama
+    - 8.2  Rate 90 Metascore
+- An insurance salesman discovers his whole life is actually a reality TV show.
+- Director: Peter Weir | Stars: Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich
+- Votes: 1,059,483 | Gross: $125.62M
+- The Big Lebowski
+- 216. The Big Lebowski (1998)
+- R | 117 min | Comedy, Crime
+    - 8.1  Rate 71 Metascore
+- Ultimate L.A. slacker Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.
+- Directors: Joel Coen, Ethan Coen | Stars: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+- Votes: 800,261 | Gross: $17.50M
+- In the Mood for Love
+- 217. In the Mood for Love (2000)
+- PG | 98 min | Drama, Romance
+    - 8.1  Rate 85 Metascore
+- Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.
+- Director: Kar-Wai Wong | Stars: Tony Chiu-Wai Leung, Maggie Cheung, Siu Ping-Lam, Tung Cho 'Joe' Cheung
+- Votes: 147,995 | Gross: $2.73M
+- Fargo
+- 218. Fargo (1996)
+- R | 98 min | Crime, Thriller
+    - 8.1  10 85 Metascore
+- Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+- Directors: Joel Coen, Ethan Coen | Stars: William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare
+- Votes: 672,051 | Gross: $24.61M
+- Underground
+- 219. Underground (1995)
+- Not Rated | 167 min | Comedy, Drama, Fantasy
+    - 8.1  Rate 79 Metascore
+- A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love, and hate.
+- Director: Emir Kusturica | Stars: Predrag 'Miki' Manojlovic, Lazar Ristovski, Mirjana Jokovic, Slavko Stimac
+- Votes: 58,430 | Gross: $0.17M
+- La Haine
+- 220. La Haine (1995)
+- Not Rated | 98 min | Crime, Drama
+    - 8.1  Rate
+- 24 hours in the lives of three young men in the French suburbs the day after a violent riot.
+- Director: Mathieu Kassovitz | Stars: Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili
+- Votes: 171,748 | Gross: $0.31M
+- Before Sunrise
+- 221. Before Sunrise (1995)
+- R | 101 min | Drama, Romance
+    - 8.1  Rate 77 Metascore
+- A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+- Director: Richard Linklater | Stars: Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl
+- Votes: 304,604 | Gross: $5.54M
+- Three Colors: Red
+- 222. Three Colors: Red (1994)
+- R | 99 min | Drama, Mystery, Romance
+    - 8.1  Rate 100 Metascore
+- A model discovers a retired judge is keen on invading people's privacy.
+- Director: Krzysztof Kieslowski | Stars: Irène Jacob, Jean-Louis Trintignant, Frédérique Feder, Jean-Pierre Lorit
+- Votes: 102,792 | Gross: $4.04M
+    - Watch on HBO Max
+- with subscription
+- Chungking Express
+- 223. Chungking Express (1994)
+- PG-13 | 102 min | Comedy, Crime, Drama
+    - 8  Rate 78 Metascore
+- Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.
+- Director: Kar-Wai Wong | Stars: Brigitte Lin, Takeshi Kaneshiro, Tony Chiu-Wai Leung, Faye Wong
+- Votes: 80,667 | Gross: $0.60M
+    - Watch on HBO Max
+- with subscription
+- Jurassic Park
+- 224. Jurassic Park (1993)
+- PG-13 | 127 min | Action, Adventure, Sci-Fi
+    - 8.2  Rate 68 Metascore
+- A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+- Director: Steven Spielberg | Stars: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+- Votes: 975,561 | Gross: $402.45M
+    - Watch on HBO Max
+- with subscription
+- In the Name of the Father
+- 225. In the Name of the Father (1993)
+- R | 133 min | Biography, Crime, Drama
+    - 8.1  Rate 84 Metascore
+- A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
+- Director: Jim Sheridan | Stars: Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie, Philip King
+- Votes: 174,166 | Gross: $25.01M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Dead Poets Society
+- 226. Dead Poets Society (1989)
+- PG | 128 min | Comedy, Drama
+    - 8.1  Rate 79 Metascore
+- Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.
+- Director: Peter Weir | Stars: Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles
+- Votes: 482,680 | Gross: $95.86M
+- Akira
+- 227. Akira (1988)
+- R | 124 min | Animation, Action, Drama
+    - 8  7 67 Metascore
+- A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.
+- Director: Katsuhiro Ôtomo | Stars: Mitsuo Iwata, Nozomu Sasaki, Mami Koyama, Tesshô Genda
+- Votes: 184,670 | Gross: $0.55M
+- The Princess Bride
+- 228. The Princess Bride (1987)
+- PG | 98 min | Adventure, Family, Fantasy
+    - 8  Rate 77 Metascore
+- While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+- Director: Rob Reiner | Stars: Cary Elwes, Mandy Patinkin, Robin Wright, Chris Sarandon
+- Votes: 424,911 | Gross: $30.86M
+- Wings of Desire
+- 229. Wings of Desire (1987)
+- PG-13 | 128 min | Drama, Fantasy, Romance
+    - 8  Rate 79 Metascore
+- An angel tires of his purely ethereal life of merely overseeing the human activity of Berlin's residents, and longs for the tangible joys of physical existence when he falls in love with a mortal.
+- Director: Wim Wenders | Stars: Bruno Ganz, Solveig Dommartin, Otto Sander, Curt Bois
+- Votes: 70,980 | Gross: $3.33M
+- Castle in the Sky
+- 230. Castle in the Sky (1986)
+- PG | 125 min | Animation, Adventure, Family
+    - 8  Rate 78 Metascore
+- A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
+- Director: Hayao Miyazaki | Stars: Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui, Minori Terada
+- Votes: 165,434
+- Stand by Me
+- 231. Stand by Me (1986)
+- R | 89 min | Adventure, Drama
+    - 8.1  7 75 Metascore
+- After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.
+- Director: Rob Reiner | Stars: Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell
+- Votes: 399,502 | Gross: $52.29M
+- Platoon
+- 232. Platoon (1986)
+- R | 120 min | Drama, War
+    - 8.1  Rate 92 Metascore
+- Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.
+- Director: Oliver Stone | Stars: Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David
+- Votes: 411,543 | Gross: $138.53M
+- Paris, Texas
+- 233. Paris, Texas (1984)
+- R | 145 min | Drama
+    - 8.1  Rate 80 Metascore
+- Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.
+- Director: Wim Wenders | Stars: Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Sam Berry
+- Votes: 105,604 | Gross: $2.18M
+- Nausicaä of the Valley of the Wind
+- 234. Nausicaä of the Valley of the Wind (1984)
+- PG | 117 min | Animation, Adventure, Sci-Fi
+    - 8  Rate 86 Metascore
+- Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.
+- Director: Hayao Miyazaki | Stars: Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda, Gorô Naya
+- Votes: 168,391 | Gross: $0.50M
+    - Watch on HBO Max
+- with subscription
+- The Thing
+- 235. The Thing (1982)
+- R | 109 min | Horror, Mystery, Sci-Fi
+    - 8.2  Rate 57 Metascore
+- A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+- Director: John Carpenter | Stars: Kurt Russell, Wilford Brimley, Keith David, Richard Masur
+- Votes: 417,949 | Gross: $13.78M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Gandhi
+- 236. Gandhi (1982)
+- PG | 191 min | Biography, Drama
+    - 8.1  Rate 79 Metascore
+- The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.
+- Director: Richard Attenborough | Stars: Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth
+- Votes: 230,743 | Gross: $52.77M
+    - Watch on Prime Video
+- rent/buy from $2.99
+- Fitzcarraldo
+- 237. Fitzcarraldo (1982)
+- PG | 158 min | Adventure, Drama
+    - 8  10
+- The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.
+- Director: Werner Herzog | Stars: Klaus Kinski, Claudia Cardinale, José Lewgoy, Miguel Ángel Fuentes
+- Votes: 34,995
+    - Watch on Freevee
+- Watch Free on Freevee
+- Fanny and Alexander
+- 238. Fanny and Alexander (1982)
+- R | 188 min | Drama
+    - 8.1  9 100 Metascore
+- Two young Swedish children in the 1900s experience the many comedies and tragedies of their lively and affectionate theatrical family, the Ekdahls.
+- Director: Ingmar Bergman | Stars: Bertil Guve, Pernilla Allwin, Kristina Adolphson, Börje Ahlstedt
+- Votes: 63,696 | Gross: $4.97M
+- Stalker
+- 239. Stalker (1979)
+- Not Rated | 162 min | Drama, Sci-Fi
+    - 8.1  10
+- A guide leads two men through an area known as the Zone to find a room that grants wishes.
+- Director: Andrei Tarkovsky | Stars: Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn, Nikolay Grinko
+- Votes: 133,285 | Gross: $0.23M
+- Life of Brian
+- 240. Life of Brian (1979)
+- R | 94 min | Comedy
+    - 8  Rate 77 Metascore
+- Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.
+- Director: Terry Jones | Stars: Graham Chapman, John Cleese, Michael Palin, Terry Gilliam
+- Votes: 397,201 | Gross: $20.05M
+- The Deer Hunter
+- 241. The Deer Hunter (1978)
+- R | 183 min | Drama, War
+    - 8.1  Rate 86 Metascore
+- An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.
+- Director: Michael Cimino | Stars: Robert De Niro, Christopher Walken, John Cazale, John Savage
+- Votes: 337,335 | Gross: $48.98M
+- Rocky
+- 242. Rocky (1976)
+- PG | 120 min | Drama, Sport
+    - 8.1  Rate 70 Metascore
+- A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.
+- Director: John G. Avildsen | Stars: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+- Votes: 569,089 | Gross: $117.24M
+- Network
+- 243. Network (1976)
+- R | 121 min | Drama
+    - 8.1  Rate 83 Metascore
+- A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.
+- Director: Sidney Lumet | Stars: Faye Dunaway, William Holden, Peter Finch, Robert Duvall
+- Votes: 158,973
+    - Watch on Prime Video
+- rent/buy from $2.99
+- Barry Lyndon
+- 244. Barry Lyndon (1975)
+- PG | 185 min | Adventure, Drama, War
+    - 8.1  Rate 89 Metascore
+- An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.
+- Director: Stanley Kubrick | Stars: Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger
+- Votes: 166,602
+    - Watch on Prime Video
+- rent/buy from $2.99
+- Mirror
+- 245. Mirror (1975)
+- Not Rated | 107 min | Biography, Drama
+    - 8  Rate 80 Metascore
+- A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.
+- Director: Andrei Tarkovsky | Stars: Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev, Oleg Yankovskiy
+- Votes: 46,539 | Gross: $0.18M
+    - Watch on Freevee
+- Watch Free on Freevee
+- Paper Moon
+- 246. Paper Moon (1973)
+- PG | 102 min | Comedy, Crime, Drama
+    - 8.1  Rate 77 Metascore
+- During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.
+- Director: Peter Bogdanovich | Stars: Ryan O'Neal, Tatum O'Neal, Madeline Kahn, John Hillerman
+- Votes: 47,654 | Gross: $30.93M
+    - Watch on Prime Video
+- included with Prime
+- Cries & Whispers
+- 247. Cries & Whispers (1972)
+- R | 91 min | Drama
+    - 8  Rate
+- When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.
+- Director: Ingmar Bergman | Stars: Harriet Andersson, Liv Ullmann, Kari Sylwan, Ingrid Thulin
+- Votes: 34,209 | Gross: $1.74M
+- Solaris
+- 248. Solaris (1972)
+- PG | 167 min | Drama, Mystery, Sci-Fi
+    - 8  Rate 90 Metascore
+- A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.
+- Director: Andrei Tarkovsky | Stars: Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetskiy
+- Votes: 90,966
+- The Last Picture Show
+- 249. The Last Picture Show (1971)
+- R | 118 min | Drama, Romance
+    - 8  Rate 93 Metascore
+- In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.
+- Director: Peter Bogdanovich | Stars: Timothy Bottoms, Jeff Bridges, Cybill Shepherd, Ben Johnson
+- Votes: 48,352 | Gross: $29.13M
+- Butch Cassidy and the Sundance Kid
+- 250. Butch Cassidy and the Sundance Kid (1969)
+- PG | 110 min | Biography, Crime, Drama
+    - 8  Rate 66 Metascore
+- Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.
+- Director: George Roy Hill | Stars: Paul Newman, Robert Redford, Katharine Ross, Strother Martin
+- Votes: 215,236 | Gross: $102.31M
+- The Lion in Winter
+- 251. The Lion in Winter (1968)
+- PG | 134 min | Biography, Drama, History
+    - 7.9  Rate
+- 1183 A.D.: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. When he allows his imprisoned wife Eleanor of Aquitaine out for a Christmas visit, they all variously plot to force him into a decision.
+- Director: Anthony Harvey | Stars: Peter O'Toole, Katharine Hepburn, Anthony Hopkins, John Castle
+- Votes: 31,565 | Gross: $22.28M
+- Le Samouraï
+- 252. Le Samouraï (1967)
+- GP | 101 min | Crime, Drama
+    - 8  Rate
+- After professional hitman Jef Costello is seen by witnesses his efforts to provide himself an alibi drive him further into a corner.
+- Director: Jean-Pierre Melville | Stars: Alain Delon, François Périer, Nathalie Delon, Cathy Rosier
+- Votes: 51,471 | Gross: $0.04M
+- Cool Hand Luke
+- 253. Cool Hand Luke (1967)
+- GP | 127 min | Crime, Drama
+    - 8.1  Rate 92 Metascore
+- A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.
+- Director: Stuart Rosenberg | Stars: Paul Newman, George Kennedy, Strother Martin, J.D. Cannon
+- Votes: 176,496 | Gross: $16.22M
+- Persona
+- 254. Persona (1966)
+- Not Rated | 83 min | Drama, Thriller
+    - 8.1  Rate 86 Metascore
+- A nurse is put in charge of a mute actress and finds that their personae are melding together.
+- Director: Ingmar Bergman | Stars: Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Björnstrand
+- Votes: 117,839
+- The Battle of Algiers
+- 255. The Battle of Algiers (1966)
+- Not Rated | 121 min | Drama, War
+    - 8.1  Rate 96 Metascore
+- In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.
+- Director: Gillo Pontecorvo | Stars: Brahim Hadjadj, Jean Martin, Yacef Saadi, Samia Kerbash
+- Votes: 60,011 | Gross: $0.06M
+- 8½
+- 256. 8½ (1963)
+- Not Rated | 138 min | Drama
+    - 8  Rate 91 Metascore
+- A harried movie director retreats into his memories and fantasies.
+- Director: Federico Fellini | Stars: Marcello Mastroianni, Anouk Aimée, Claudia Cardinale, Sandra Milo
+- Votes: 117,576 | Gross: $0.05M
+- What Ever Happened to Baby Jane?
+- 257. What Ever Happened to Baby Jane? (1962)
+- Passed | 134 min | Drama, Horror, Thriller
+    - 8  Rate 75 Metascore
+- A former child star torments her paraplegic sister in their decaying Hollywood mansion.
+- Director: Robert Aldrich | Stars: Bette Davis, Joan Crawford, Victor Buono, Wesley Addy
+- Votes: 56,238 | Gross: $4.05M
+- Sanjuro
+- 258. Sanjuro (1962)
+- Not Rated | 96 min | Action, Drama, Thriller
+    - 8  Rate
+- A crafty samurai helps a young man and his fellow clansmen trying to save his uncle, who has been framed and imprisoned by a corrupt superintendent.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Tatsuya Nakadai, Keiju Kobayashi, Yûnosuke Itô
+- Votes: 38,234
+- The Man Who Shot Liberty Valance
+- 259. The Man Who Shot Liberty Valance (1962)
+- Approved | 123 min | Drama, Western
+    - 8.1  Rate 94 Metascore
+- A senator returns to a western town for the funeral of an old friend and tells the story of his origins.
+- Director: John Ford | Stars: James Stewart, John Wayne, Vera Miles, Lee Marvin
+- Votes: 75,966
+    - Watch on AMC+
+- with Prime Video Channels
+- Ivan's Childhood
+- 260. Ivan's Childhood (1962)
+- Not Rated | 95 min | Drama, War
+    - 8  Rate
+- During WWII, Soviet orphan Ivan Bondarev strikes up a friendship with three sympathetic Soviet officers while working as a scout behind the German lines.
+- Directors: Andrei Tarkovsky, Eduard Abalov | Stars: Nikolay Burlyaev, Valentin Zubkov, Evgeniy Zharikov, Stepan Krylov
+- Votes: 36,583
+    - Watch on Prime Video
+- rent/buy from $2.99
+- La dolce vita
+- 261. La dolce vita (1960)
+- Not Rated | 174 min | Comedy, Drama
+    - 8  Rate 95 Metascore
+- A series of stories following a week in the life of a philandering tabloid journalist living in Rome.
+- Director: Federico Fellini | Stars: Marcello Mastroianni, Anita Ekberg, Anouk Aimée, Yvonne Furneaux
+- Votes: 73,060 | Gross: $19.52M
+    - Search on Amazon
+- The 400 Blows
+- 262. The 400 Blows (1959)
+- Not Rated | 99 min | Crime, Drama
+    - 8.1  Rate
+- A young boy, left without attention, delves into a life of petty crime.
+- Director: François Truffaut | Stars: Jean-Pierre Léaud, Albert Rémy, Claire Maurier, Guy Decomble
+- Votes: 117,277
+    - Watch on HBO Max
+- with subscription
+- Ben-Hur
+- 263. Ben-Hur (1959)
+- G | 212 min | Adventure, Drama
+    - 8.1  Rate 90 Metascore
+- After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.
+- Director: William Wyler | Stars: Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet
+- Votes: 238,262 | Gross: $74.70M
+- The Hidden Fortress
+- 264. The Hidden Fortress (1958)
+- Not Rated | 126 min | Action, Adventure, Drama
+    - 8.1  Rate 89 Metascore
+- Lured by gold, two greedy peasants unknowingly escort a princess and her general across enemy lines.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Misa Uehara, Minoru Chiaki, Kamatari Fujiwara
+- Votes: 39,115
+- Cat on a Hot Tin Roof
+- 265. Cat on a Hot Tin Roof (1958)
+- Not Rated | 108 min | Drama
+    - 7.9  Rate 84 Metascore
+- Brick is an alcoholic ex-football player who drinks his days away and resists the affections of his wife. A reunion with his terminal father jogs a host of memories and revelations for both father and son.
+- Director: Richard Brooks | Stars: Elizabeth Taylor, Paul Newman, Burl Ives, Jack Carson
+- Votes: 49,567 | Gross: $17.57M
+- Nights of Cabiria
+- 266. Nights of Cabiria (1957)
+- Not Rated | 110 min | Drama
+    - 8.1  Rate
+- A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.
+- Director: Federico Fellini | Stars: Giulietta Masina, François Périer, Franca Marzi, Dorian Gray
+- Votes: 48,996 | Gross: $0.75M
+- Throne of Blood
+- 267. Throne of Blood (1957)
+- Not Rated | 110 min | Drama, History
+    - 8.1  Rate
+- A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle.
+- Director: Akira Kurosawa | Stars: Toshirô Mifune, Minoru Chiaki, Isuzu Yamada, Takashi Shimura
+- Votes: 52,158
+    - Watch on HBO Max
+- with subscription
+- The Road
+- 268. The Road (1954)
+- Not Rated | 108 min | Drama
+    - 8  Rate
+- A care-free girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.
+- Director: Federico Fellini | Stars: Anthony Quinn, Giulietta Masina, Richard Basehart, Aldo Silvani
+- Votes: 63,129
+    - Watch on HBO Max
+- with subscription
+- Diabolique
+- 269. Diabolique (1955)
+- Not Rated | 117 min | Crime, Drama, Horror
+    - 8.1  Rate
+- The wife and mistress of a loathed school principal plan to murder him with what they believe is the perfect alibi.
+- Director: Henri-Georges Clouzot | Stars: Simone Signoret, Véra Clouzot, Paul Meurisse, Charles Vanel
+- Votes: 65,823 | Gross: $1.09M
+    - Watch on HBO Max
+- with subscription
+- The Wages of Fear
+- 270. The Wages of Fear (1953)
+- Not Rated | 131 min | Adventure, Drama, Thriller
+    - 8.2  9 85 Metascore
+- In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.
+- Director: Henri-Georges Clouzot | Stars: Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli
+- Votes: 61,032
+    - Watch on HBO Max
+- with subscription
+- Roman Holiday
+- 271. Roman Holiday (1953)
+- Passed | 118 min | Comedy, Romance
+    - 8  Rate 78 Metascore
+- A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.
+- Director: William Wyler | Stars: Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power
+- Votes: 138,146
+- Kind Hearts and Coronets
+- 272. Kind Hearts and Coronets (1949)
+- Not Rated | 106 min | Comedy, Crime
+    - 8  Rate
+- A distant poor relative of the Duke D'Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.
+- Director: Robert Hamer | Stars: Dennis Price, Alec Guinness, Valerie Hobson, Joan Greenwood
+- Votes: 37,369
+- Brief Encounter
+- 273. Brief Encounter (1945)
+- Not Rated | 86 min | Drama, Romance
+    - 8  9 92 Metascore
+- Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.
+- Director: David Lean | Stars: Celia Johnson, Trevor Howard, Stanley Holloway, Joyce Carey
+- Votes: 40,184
+- The Best Years of Our Lives
+- 274. The Best Years of Our Lives (1946)
+- Approved | 170 min | Drama, Romance, War
+    - 8.1  Rate 93 Metascore
+- Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.
+- Director: William Wyler | Stars: Myrna Loy, Dana Andrews, Fredric March, Teresa Wright
+- Votes: 64,398 | Gross: $23.65M
+    - Watch on Pluto TV
+- Go to pluto.tv
+- The Maltese Falcon
+- 275. The Maltese Falcon (1941)
+- Passed | 100 min | Crime, Film-Noir, Mystery
+    - 8  Rate 97 Metascore
+- San Francisco private detective Sam Spade takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette, with the stakes rising after his partner is murdered.
+- Director: John Huston | Stars: Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre
+- Votes: 158,199 | Gross: $2.11M
+    - Watch on HBO Max
+- with subscription
+- Rebecca
+- 276. Rebecca (1940)
+- Approved | 130 min | Drama, Film-Noir, Mystery
+    - 8.1  Rate 86 Metascore
+- A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.
+- Director: Alfred Hitchcock | Stars: Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson
+- Votes: 136,711 | Gross: $4.36M
+    - Search on Amazon
+- The Grapes of Wrath
+- 277. The Grapes of Wrath (1940)
+- Passed | 129 min | Drama
+    - 8.1  Rate 96 Metascore
+- An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.
+- Director: John Ford | Stars: Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin
+- Votes: 93,010 | Gross: $0.06M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- The Grand Illusion
+- 278. The Grand Illusion (1937)
+- Not Rated | 113 min | Drama, War
+    - 8.1  Rate
+- During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.
+- Director: Jean Renoir | Stars: Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim
+- Votes: 36,669 | Gross: $0.17M
+- It Happened One Night
+- 279. It Happened One Night (1934)
+- Passed | 105 min | Comedy, Romance
+    - 8.1  Rate 87 Metascore
+- A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.
+- Director: Frank Capra | Stars: Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns
+- Votes: 103,595 | Gross: $4.36M
+    - Watch on Prime Video
+- rent/buy from $2.99
+- All Quiet on the Western Front
+- 280. All Quiet on the Western Front (1930)
+- Passed | 152 min | Drama, War
+    - 8.1  Rate 91 Metascore
+- A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.
+- Director: Lewis Milestone | Stars: Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy
+- Votes: 61,415 | Gross: $3.27M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- The Cabinet of Dr. Caligari
+- 281. The Cabinet of Dr. Caligari (1920)
+- Not Rated | 67 min | Horror, Mystery, Thriller
+    - 8  Rate
+- Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.
+- Director: Robert Wiene | Stars: Werner Krauss, Conrad Veidt, Friedrich Feher, Lil Dagover
+- Votes: 63,552
+    - Watch on AMC+
+- with Prime Video Channels
+- La La Land
+- 282. La La Land (2016)
+- PG-13 | 128 min | Comedy, Drama, Music
+    - 8  Rate 94 Metascore
+- While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+- Director: Damien Chazelle | Stars: Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons
+- Votes: 576,986 | Gross: $151.10M
+    - Watch on Hulu
+- on Hulu.com and the Hulu app
+- The Martian
+- 283. The Martian (2015)
+- PG-13 | 144 min | Adventure, Drama, Sci-Fi
+    - 8  Rate 80 Metascore
+- An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.
+- Director: Ridley Scott | Stars: Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara
+- Votes: 841,602 | Gross: $228.43M
+- Sing Street
+- 284. Sing Street (2016)
+- PG-13 | 106 min | Comedy, Drama, Music
+    - 7.9  Rate 79 Metascore
+- A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.
+- Director: John Carney | Stars: Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor
+- Votes: 93,468 | Gross: $3.24M
+- Zootopia
+- 285. Zootopia (2016)
+- PG | 108 min | Animation, Adventure, Comedy
+    - 8  Rate 78 Metascore
+- In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+- Directors: Byron Howard, Rich Moore, Jared Bush | Stars: Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate
+- Votes: 491,524 | Gross: $341.27M
+- The Tale of The Princess Kaguya
+- 286. The Tale of The Princess Kaguya (2013)
+- PG | 137 min | Animation, Drama, Family
+    - 8  Rate 89 Metascore
+- Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her, but ultimately she must confront her fate, the punishment for her crime.
+- Director: Isao Takahata | Stars: Chloë Grace Moretz, James Caan, Mary Steenburgen, James Marsden
+- Votes: 46,427 | Gross: $1.51M
+- Wonder
+- 287. Wonder (I) (2017)
+- PG | 113 min | Drama, Family
+    - 7.9  Rate 66 Metascore
+- Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.
+- Director: Stephen Chbosky | Stars: Jacob Tremblay, Owen Wilson, Izabela Vidovic, Julia Roberts
+- Votes: 163,033 | Gross: $132.42M
+- Short Term 12
+- 288. Short Term 12 (2013)
+- R | 96 min | Drama
+    - 7.9  Rate 82 Metascore
+- A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.
+- Director: Destin Daniel Cretton | Stars: Brie Larson, Frantz Turner, John Gallagher Jr., Kaitlyn Dever
+- Votes: 87,772 | Gross: $1.01M
+- The Raid 2
+- 289. The Raid 2 (2014)
+- R | 150 min | Action, Crime, Thriller
+    - 7.9  Rate 71 Metascore
+- Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.
+- Director: Gareth Evans | Stars: Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara
+- Votes: 123,140 | Gross: $2.63M
+    - Watch on Prime Video
+- rent/buy from $2.99
+- The Imitation Game
+- 290. The Imitation Game (2014)
+- PG-13 | 114 min | Biography, Drama, Thriller
+    - 8  Rate 71 Metascore
+- During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.
+- Director: Morten Tyldum | Stars: Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech
+- Votes: 760,263 | Gross: $91.13M
+    - Watch on Netflix
+- with subscription
+- X-Men: Days of Future Past
+- 291. X-Men: Days of Future Past (2014)
+- PG-13 | 132 min | Action, Adventure, Sci-Fi
+    - 7.9  Rate 75 Metascore
+- The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.
+- Director: Bryan Singer | Stars: Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy
+- Votes: 706,909 | Gross: $233.92M
+    - Watch on Prime Video
+- rent/buy from $3.99
+- Blade Runner 2049
+- 292. Blade Runner 2049 (2017)
+- R | 164 min | Action, Drama, Mystery
+    - 8  Rate 81 Metascore
+- Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.
+- Director: Denis Villeneuve | Stars: Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista
+- Votes: 557,278 | Gross: $92.05M
+- Her
+- 293. Her (2013)
+- R | 126 min | Drama, Romance, Sci-Fi
+    - 8  Rate 91 Metascore
+- In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
+- Director: Spike Jonze | Stars: Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara
+- Votes: 604,285 | Gross: $25.57M
+- The Revenant
+- 294. The Revenant (2015)
+- R | 156 min | Action, Adventure, Drama
+    - 8  Rate 76 Metascore
+- A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+- Director: Alejandro G. Iñárritu | Stars: Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson
+- Votes: 791,958 | Gross: $183.64M
+- The Perks of Being a Wallflower
+- 295. The Perks of Being a Wallflower (2012)
+- PG-13 | 103 min | Drama
+    - 8  Rate 67 Metascore
+- An introvert freshman is taken under the wings of two seniors who welcome him to the real world.
+- Director: Stephen Chbosky | Stars: Logan Lerman, Emma Watson, Ezra Miller, Paul Rudd
+- Votes: 506,230 | Gross: $17.74M
+- The King's Speech
+- 296. The King's Speech (2010)
+- R | 118 min | Biography, Drama, History
+    - 8  Rate 88 Metascore
+- The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.
+- Director: Tom Hooper | Stars: Colin Firth, Geoffrey Rush, Helena Bonham Carter, Derek Jacobi
+- Votes: 676,380 | Gross: $138.80M
+- Deadpool
+- 297. Deadpool (2016)
+- R | 108 min | Action, Adventure, Comedy
+    - 8  Rate 65 Metascore
+- A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+- Director: Tim Miller | Stars: Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein
+- Votes: 1,018,399 | Gross: $363.07M
+- Ip Man
+- 298. Ip Man (2008)
+- R | 106 min | Action, Biography, Drama
+    - 8  Rate 59 Metascore
+- During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.
+- Director: Wilson Yip | Stars: Donnie Yen, Simon Yam, Siu-Wong Fan, Ka-Tung Lam
+- Votes: 223,307
+- Waltz with Bashir
+- 299. Waltz with Bashir (2008)
+- R | 90 min | Documentary, Animation, Biography
+    - 8  Rate 91 Metascore
+- An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.
+- Director: Ari Folman | Stars: Ari Folman, Ron Ben-Yishai, Ronny Dayag, Ori Sivan
+- Votes: 57,966 | Gross: $2.28M
+    - Watch on Prime Video
+- rent/buy from $2.99
+- Slumdog Millionaire
+- 300. Slumdog Millionaire (2008)
+- R | 120 min | Crime, Drama, Romance
+    - 8  Rate 84 Metascore
+- A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of "Who Wants to be a Millionaire?".
+- Directors: Danny Boyle, Loveleen Tandan | Stars: Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor
+- Votes: 840,133 | Gross: $141.32M
+- Black Swan
+- 301. Black Swan (2010)
+- R | 108 min | Drama, Thriller
+    - 8  Rate 79 Metascore
+- A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's "Swan Lake".
+- Director: Darren Aronofsky | Stars: Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder
+- Votes: 757,443 | Gross: $106.95M
+    - Watch on Hulu
+- on Hulu.com and the Hulu app
+- Star Trek
+- 302. Star Trek (2009)
+- PG-13 | 127 min | Action, Adventure, Sci-Fi
+    - 7.9  Rate 82 Metascore
+- The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+- Director: J.J. Abrams | Stars: Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy
+- Votes: 601,752 | Gross: $257.73M
+- Dallas Buyers Club
+- 303. Dallas Buyers Club (2013)
+- R | 117 min | Biography, Drama
+    - 7.9  Rate 79 Metascore
+- In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+- Director: Jean-Marc Vallée | Stars: Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn
+- Votes: 484,221 | Gross: $27.30M
+- The Pursuit of Happyness
+- 304. The Pursuit of Happyness (2006)
+- PG-13 | 117 min | Biography, Drama
+    - 8  Rate 64 Metascore
+- A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
+- Director: Gabriele Muccino | Stars: Will Smith, Thandiwe Newton, Jaden Smith, Brian Howe
+- Votes: 505,162 | Gross: $163.57M
+- Blood Diamond
+- 305. Blood Diamond (2006)
+- R | 143 min | Adventure, Drama, Thriller
+    - 8  Rate 64 Metascore
+- A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
+- Director: Edward Zwick | Stars: Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers
+- Votes: 544,300 | Gross: $57.37M
+- The Bourne Ultimatum
+- 306. The Bourne Ultimatum (2007)
+- PG-13 | 115 min | Action, Mystery, Thriller
+    - 8  Rate 85 Metascore
+- Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.
+- Director: Paul Greengrass | Stars: Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles
+- Votes: 632,158 | Gross: $227.47M
+- Sin City
+- 307. Sin City (2005)
+- R | 124 min | Crime, Thriller
+    - 8  Rate 74 Metascore
+- An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.
+- Directors: Frank Miller, Quentin Tarantino, Robert Rodriguez | Stars: Mickey Rourke, Clive Owen, Bruce Willis, Jessica Alba
+- Votes: 765,459 | Gross: $74.10M
+- The Diving Bell and the Butterfly
+- 308. The Diving Bell and the Butterfly (2007)
+- PG-13 | 112 min | Biography, Drama
+    - 8  Rate 92 Metascore
+- The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.
+- Director: Julian Schnabel | Stars: Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze, Anne Consigny
+- Votes: 107,684 | Gross: $5.99M
+- Ratatouille
+- 309. Ratatouille (2007)
+- G | 111 min | Animation, Adventure, Comedy
+    - 8.1  Rate 96 Metascore
+- A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.
+- Directors: Brad Bird, Jan Pinkava | Stars: Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm
+- Votes: 722,715 | Gross: $206.45M
+- Casino Royale
+- 310. Casino Royale (2006)
+- PG-13 | 144 min | Action, Adventure, Thriller
+    - 8  Rate 80 Metascore
+- After earning 00 status and a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.
+- Director: Martin Campbell | Stars: Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright
+- Votes: 652,241 | Gross: $167.45M
+- Kill Bill: Vol. 2
+- 311. Kill Bill: Vol. 2 (2004)
+- R | 137 min | Action, Crime, Thriller
+    - 8  Rate 83 Metascore
+- The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.
+- Director: Quentin Tarantino | Stars: Uma Thurman, David Carradine, Michael Madsen, Daryl Hannah
+- Votes: 747,681 | Gross: $66.21M
+- The Return
+- 312. The Return (2003)
+- Not Rated | 110 min | Drama
+    - 7.9  Rate 82 Metascore
+- In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.
+- Director: Andrey Zvyagintsev | Stars: Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko, Nataliya Vdovina
+- Votes: 45,546 | Gross: $0.50M
+- Cinderella Man
+- 313. Cinderella Man (2005)
+- PG-13 | 144 min | Biography, Drama, Romance
+    - 8  Rate 69 Metascore
+- The story of James J. Braddock, a supposedly washed-up boxer who came back to challenge for the heavyweight championship of the world.
+- Director: Ron Howard | Stars: Russell Crowe, Renée Zellweger, Craig Bierko, Paul Giamatti
+- Votes: 187,465 | Gross: $61.65M
+- Mystic River
+- 314. Mystic River (2003)
+- R | 138 min | Crime, Drama, Mystery
+    - 7.9  Rate 84 Metascore
+- The lives of three men who were childhood friends are shattered when one of them has a family tragedy.
+- Director: Clint Eastwood | Stars: Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum
+- Votes: 453,854 | Gross: $90.14M
+- Pirates of the Caribbean: The Curse of the Black Pearl
+- 315. Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+- PG-13 | 143 min | Action, Adventure, Fantasy
+    - 8.1  Rate 63 Metascore
+- Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+- Director: Gore Verbinski | Stars: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+- Votes: 1,113,379 | Gross: $305.41M
+- Big Fish
+- 316. Big Fish (2003)
+- PG-13 | 125 min | Adventure, Drama, Fantasy
+    - 8  Rate 58 Metascore
+- A frustrated son tries to determine the fact from fiction in his dying father's life.
+- Director: Tim Burton | Stars: Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange
+- Votes: 439,428 | Gross: $66.26M
+- The Incredibles
+- 317. The Incredibles (2004)
+- PG | 115 min | Animation, Action, Adventure
+    - 8  Rate 90 Metascore
+- While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.
+- Director: Brad Bird | Stars: Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee
+- Votes: 726,351 | Gross: $261.44M
+- Talk to Her
+- 318. Talk to Her (2002)
+- R | 112 min | Drama, Mystery, Romance
+    - 7.9  Rate 86 Metascore
+- Two men share an odd friendship while they care for two women who are both in deep comas.
+- Director: Pedro Almodóvar | Stars: Rosario Flores, Javier Cámara, Darío Grandinetti, Leonor Watling
+- Votes: 112,336 | Gross: $9.28M
+- No Man's Land
+- 319. No Man's Land (I) (2001)
+- R | 98 min | Comedy, Drama, War
+    - 7.9  Rate 84 Metascore
+- Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man's land, whilst a third soldier becomes a living booby trap.
+- Director: Danis Tanovic | Stars: Branko Djuric, Rene Bitorajac, Filip Sovagovic, Georges Siatidis
+- Votes: 47,190 | Gross: $1.06M
+- Dogville
+- 320. Dogville (2003)
+- R | 178 min | Crime, Drama
+    - 8  Rate 60 Metascore
+- A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town she finds out that their support has a price.
+- Director: Lars von Trier | Stars: Nicole Kidman, Paul Bettany, Lauren Bacall, Harriet Andersson
+- Votes: 148,547 | Gross: $1.53M
+- Magnolia
+- 321. Magnolia (1999)
+- R | 188 min | Drama
+    - 8  Rate 77 Metascore
+- An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.
+- Director: Paul Thomas Anderson | Stars: Tom Cruise, Jason Robards, Julianne Moore, Philip Seymour Hoffman
+- Votes: 311,321 | Gross: $22.46M
+- Dancer in the Dark
+- 322. Dancer in the Dark (2000)
+- R | 140 min | Crime, Drama, Musical
+    - 7.9  Rate 61 Metascore
+- An Eastern European US immigrant with a love for musicals has to cope with the gradual loss of her vision.
+- Director: Lars von Trier | Stars: Björk, Catherine Deneuve, David Morse, Peter Stormare
+- Votes: 109,737 | Gross: $4.18M
+- Mulholland Drive
+- 323. Mulholland Drive (2001)
+- R | 147 min | Drama, Mystery, Thriller
+    - 7.9  Rate 85 Metascore
+- After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.
+- Director: David Lynch | Stars: Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates
+- Votes: 352,428 | Gross: $7.22M
+- The Straight Story
+- 324. The Straight Story (1999)
+- G | 112 min | Biography, Drama
+    - 8  Rate 86 Metascore
+- An old man makes a long journey by lawnmower to mend his relationship with an ill brother.
+- Director: David Lynch | Stars: Richard Farnsworth, Sissy Spacek, Jane Galloway Heitz, Joseph A. Carpenter
+- Votes: 90,367 | Gross: $6.20M
+- The Iron Giant
+- 325. The Iron Giant (1999)
+- PG | 86 min | Animation, Action, Adventure
+    - 8.1  Rate 85 Metascore
+- A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
+- Director: Brad Bird | Stars: Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel
+- Votes: 192,855 | Gross: $23.16M
+- Sling Blade
+- 326. Sling Blade (1996)
+- R | 135 min | Drama
+    - 8  Rate 84 Metascore
+- Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.
+- Director: Billy Bob Thornton | Stars: Billy Bob Thornton, Dwight Yoakam, J.T. Walsh, John Ritter
+- Votes: 93,945 | Gross: $24.48M
+- Secrets & Lies
+- 327. Secrets & Lies (1996)
+- R | 136 min | Comedy, Drama
+    - 8  Rate 91 Metascore
+- Following the death of her adoptive parents, a successful young black optometrist establishes contact with her biological mother -- a lonely white factory worker living in poverty in East London.
+- Director: Mike Leigh | Stars: Timothy Spall, Brenda Blethyn, Phyllis Logan, Claire Rushbrook
+- Votes: 43,393 | Gross: $13.42M
+- 12 Monkeys
+- 328. 12 Monkeys (1995)
+- R | 129 min | Mystery, Sci-Fi, Thriller
+    - 8  Rate 74 Metascore
+- In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+- Director: Terry Gilliam | Stars: Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito
+- Votes: 614,340 | Gross: $57.14M
+- Three Colors: Blue
+- 329. Three Colors: Blue (1993)
+- R | 94 min | Drama, Music, Mystery
+    - 7.9  Rate 85 Metascore
+- A woman struggles to find a way to live her life after the death of her husband and child.
+- Director: Krzysztof Kieslowski | Stars: Juliette Binoche, Zbigniew Zamachowski, Julie Delpy, Benoît Régent
+- Votes: 101,627 | Gross: $1.32M
+- The Nightmare Before Christmas
+- 330. The Nightmare Before Christmas (1993)
+- PG | 76 min | Animation, Family, Fantasy
+    - 7.9  Rate 82 Metascore
+- Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.
+- Director: Henry Selick | Stars: Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey
+- Votes: 330,911 | Gross: $75.08M
+- Groundhog Day
+- 331. Groundhog Day (1993)
+- PG | 101 min | Comedy, Drama, Fantasy
+    - 8.1  Rate 72 Metascore
+- A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.
+- Director: Harold Ramis | Stars: Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky
+- Votes: 624,263 | Gross: $70.91M
+- Scent of a Woman
+- 332. Scent of a Woman (1992)
+- R | 156 min | Drama
+    - 8  9 59 Metascore
+- A prep school student needing money agrees to "babysit" a blind man, but the job is not at all what he anticipated.
+- Director: Martin Brest | Stars: Al Pacino, Chris O'Donnell, James Rebhorn, Gabrielle Anwar
+- Votes: 293,703 | Gross: $63.90M
+- Aladdin
+- 333. Aladdin (1992)
+- G | 90 min | Animation, Adventure, Comedy
+    - 8  Rate 86 Metascore
+- A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+- Directors: Ron Clements, John Musker | Stars: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+- Votes: 413,488 | Gross: $217.35M
+- JFK
+- 334. JFK (1991)
+- R | 189 min | Drama, History, Thriller
+    - 8  Rate 72 Metascore
+- New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.
+- Director: Oliver Stone | Stars: Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau
+- Votes: 155,551 | Gross: $70.41M
+- Beauty and the Beast
+- 335. Beauty and the Beast (1991)
+- G | 84 min | Animation, Family, Fantasy
+    - 8  Rate 95 Metascore
+- A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.
+- Directors: Gary Trousdale, Kirk Wise | Stars: Paige O'Hara, Robby Benson, Jesse Corti, Rex Everhart
+- Votes: 451,172 | Gross: $218.97M
+- Dances with Wolves
+- 336. Dances with Wolves (1990)
+- PG-13 | 181 min | Adventure, Drama, Western
+    - 8  Rate 72 Metascore
+- Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.
+- Director: Kevin Costner | Stars: Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant
+- Votes: 263,950 | Gross: $184.21M
+- Rain Man
+- 337. Rain Man (1988)
+- R | 133 min | Drama
+    - 8  Rate 65 Metascore
+- After a selfish L.A. yuppie learns his estranged father left a fortune to an autistic-savant brother in Ohio that he didn't know existed, he absconds with his brother and sets out across the country, hoping to gain a larger inheritance.
+- Director: Barry Levinson | Stars: Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen
+- Votes: 510,547 | Gross: $178.80M
+- Brazil
+- 338. Brazil (1985)
+- R | 132 min | Drama, Sci-Fi
+    - 7.9  Rate 84 Metascore
+- A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.
+- Director: Terry Gilliam | Stars: Jonathan Pryce, Kim Greist, Robert De Niro, Katherine Helmond
+- Votes: 200,237 | Gross: $9.93M
+- This Is Spinal Tap
+- 339. This Is Spinal Tap (1984)
+- R | 82 min | Comedy, Music
+    - 7.9  Rate 92 Metascore
+- Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.
+- Director: Rob Reiner | Stars: Rob Reiner, Michael McKean, Christopher Guest, Kimberly Stringer
+- Votes: 139,498 | Gross: $4.74M
+- The Terminator
+- 340. The Terminator (1984)
+- R | 107 min | Action, Sci-Fi
+    - 8.1  Rate 84 Metascore
+- A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+- Director: James Cameron | Stars: Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield
+- Votes: 855,149 | Gross: $38.40M
+- A Christmas Story
+- 341. A Christmas Story (1983)
+- PG | 93 min | Comedy, Family
+    - 7.9  Rate 77 Metascore
+- In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.
+- Director: Bob Clark | Stars: Peter Billingsley, Melinda Dillon, Darren McGavin, Scott Schwartz
+- Votes: 147,289 | Gross: $20.61M
+- Kagemusha
+- 342. Kagemusha (1980)
+- PG | 162 min | Drama, History, War
+    - 7.9  Rate 84 Metascore
+- A petty thief with an utter resemblance to a samurai warlord is hired as the lord's double. When the warlord later dies the thief is forced to take up arms in his place.
+- Director: Akira Kurosawa | Stars: Tatsuya Nakadai, Tsutomu Yamazaki, Ken'ichi Hagiwara, Jinpachi Nezu
+- Votes: 35,700
+- Manhattan
+- 343. Manhattan (1979)
+- R | 96 min | Comedy, Drama, Romance
+    - 7.9  6 83 Metascore
+- The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.
+- Director: Woody Allen | Stars: Woody Allen, Diane Keaton, Mariel Hemingway, Michael Murphy
+- Votes: 140,057 | Gross: $45.70M
+- Being There
+- 344. Being There (1979)
+- PG | 130 min | Comedy, Drama
+    - 8  Rate 83 Metascore
+- After the death of his employer forces him out of the only home he's ever known, a simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful tycoon and an insider in Washington politics.
+- Director: Hal Ashby | Stars: Peter Sellers, Shirley MacLaine, Melvyn Douglas, Jack Warden
+- Votes: 72,500 | Gross: $30.18M
+- Annie Hall
+- 345. Annie Hall (1977)
+- PG | 93 min | Comedy, Romance
+    - 8  Rate 92 Metascore
+- Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.
+- Director: Woody Allen | Stars: Woody Allen, Diane Keaton, Tony Roberts, Carol Kane
+- Votes: 264,813 | Gross: $39.20M
+- All the President's Men
+- 346. All the President's Men (1976)
+- PG | 138 min | Drama, History, Thriller
+    - 7.9  Rate 84 Metascore
+- "The Washington Post" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.
+- Director: Alan J. Pakula | Stars: Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam
+- Votes: 115,291 | Gross: $70.60M
+- Jaws
+- 347. Jaws (1975)
+- PG | 124 min | Adventure, Thriller
+    - 8.1  Rate 87 Metascore
+- When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+- Director: Steven Spielberg | Stars: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+- Votes: 596,919 | Gross: $260.00M
+- Dog Day Afternoon
+- 348. Dog Day Afternoon (1975)
+- R | 125 min | Biography, Crime, Drama
+    - 8  Rate 86 Metascore
+- Three amateur bank robbers plan to hold up a bank. A nice simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong does.
+- Director: Sidney Lumet | Stars: Al Pacino, John Cazale, Penelope Allen, Sully Boyar
+- Votes: 255,840 | Gross: $50.00M
+- Papillon
+- 349. Papillon (1973)
+- R | 151 min | Biography, Crime, Drama
+    - 8  Rate 58 Metascore
+- A French convict in the 1930s befriends a fellow criminal as the two of them begin serving their sentence in the South American penal colony on Devil's Island, which inspires the man to plot his escape.
+- Director: Franklin J. Schaffner | Stars: Steve McQueen, Dustin Hoffman, Victor Jory, Don Gordon
+- Votes: 130,419 | Gross: $53.27M
+- The Exorcist
+- 350. The Exorcist (1973)
+- R | 122 min | Horror
+    - 8.1  Rate 81 Metascore
+- When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.
+- Director: William Friedkin | Stars: Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb
+- Votes: 400,430 | Gross: $232.91M
+- Aguirre, the Wrath of God
+- 351. Aguirre, the Wrath of God (1972)
+- Not Rated | 95 min | Action, Adventure, Biography
+    - 7.8  Rate
+- In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.
+- Director: Werner Herzog | Stars: Klaus Kinski, Ruy Guerra, Helena Rojo, Del Negro
+- Votes: 57,178
+- Harold and Maude
+- 352. Harold and Maude (1971)
+- PG | 91 min | Comedy, Drama, Romance
+    - 7.9  Rate 62 Metascore
+- Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.
+- Director: Hal Ashby | Stars: Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack
+- Votes: 77,392
+- Fiddler on the Roof
+- 353. Fiddler on the Roof (1971)
+- G | 181 min | Drama, Family, Musical
+    - 8  Rate 67 Metascore
+- In pre-revolutionary Russia, a Jewish peasant with traditional values contends with marrying off three of his daughters with modern romantic ideals while growing anti-Semitic sentiment threatens his village.
+- Director: Norman Jewison | Stars: Topol, Norma Crane, Leonard Frey, Molly Picon
+- Votes: 43,579 | Gross: $80.50M
+- Patton
+- 354. Patton (1970)
+- GP | 172 min | Biography, Drama, War
+    - 7.9  Rate 91 Metascore
+- The World War II phase of the career of controversial American general George S. Patton.
+- Director: Franklin J. Schaffner | Stars: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+- Votes: 102,034 | Gross: $61.70M
+- The Wild Bunch
+- 355. The Wild Bunch (1969)
+- R | 135 min | Action, Adventure, Western
+    - 7.9  Rate 97 Metascore
+- An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.
+- Director: Sam Peckinpah | Stars: William Holden, Ernest Borgnine, Robert Ryan, Edmond O'Brien
+- Votes: 84,620 | Gross: $12.06M
+- Rosemary's Baby
+- 356. Rosemary's Baby (1968)
+- Approved | 137 min | Drama, Horror
+    - 8  Rate 96 Metascore
+- A young couple trying for a baby moves into an aging, ornate apartment building on Central Park West, where they find themselves surrounded by peculiar neighbors.
+- Director: Roman Polanski | Stars: Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer
+- Votes: 214,437
+- Planet of the Apes
+- 357. Planet of the Apes (1968)
+- G | 112 min | Adventure, Sci-Fi
+    - 8  Rate 79 Metascore
+- An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.
+- Director: Franklin J. Schaffner | Stars: Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans
+- Votes: 179,616 | Gross: $33.40M
+- In the Heat of the Night
+- 358. In the Heat of the Night (1967)
+- Approved | 110 min | Drama, Mystery, Thriller
+    - 7.9  Rate 75 Metascore
+- A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked by the police chief to investigate the case.
+- Director: Norman Jewison | Stars: Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant
+- Votes: 76,367 | Gross: $24.38M
+- The Graduate
+- 359. The Graduate (1967)
+- PG | 106 min | Comedy, Drama, Romance
+    - 8  Rate 83 Metascore
+- A disillusioned college graduate finds himself torn between his older lover and her daughter.
+- Director: Mike Nichols | Stars: Dustin Hoffman, Anne Bancroft, Katharine Ross, William Daniels
+- Votes: 272,146 | Gross: $104.95M
+- Who's Afraid of Virginia Woolf?
+- 360. Who's Afraid of Virginia Woolf? (1966)
+- Not Rated | 131 min | Drama
+    - 8  Rate 75 Metascore
+- A bitter, aging couple, with the help of alcohol, use their young houseguests to fuel anguish and emotional pain towards each other over the course of a distressing night.
+- Director: Mike Nichols | Stars: Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis
+- Votes: 75,268
+- The Sound of Music
+- 361. The Sound of Music (1965)
+- G | 172 min | Biography, Drama, Family
+    - 8.1  Rate 63 Metascore
+- A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.
+- Director: Robert Wise | Stars: Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+- Votes: 231,892 | Gross: $163.21M
+- Doctor Zhivago
+- 362. Doctor Zhivago (1965)
+- PG-13 | 197 min | Drama, Romance, War
+    - 7.9  Rate 69 Metascore
+- The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.
+- Director: David Lean | Stars: Omar Sharif, Julie Christie, Geraldine Chaplin, Rod Steiger
+- Votes: 76,565 | Gross: $111.72M
+- A Fistful of Dollars
+- 363. A Fistful of Dollars (1964)
+- R | 99 min | Action, Drama, Western
+    - 7.9  Rate 65 Metascore
+- A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
+- Director: Sergio Leone | Stars: Clint Eastwood, Gian Maria Volontè, Marianne Koch, Wolfgang Lukschy
+- Votes: 216,368 | Gross: $14.50M
+- Charade
+- 364. Charade (1963)
+- Passed | 113 min | Comedy, Mystery, Romance
+    - 7.9  Rate 83 Metascore
+- Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?
+- Director: Stanley Donen | Stars: Cary Grant, Audrey Hepburn, Walter Matthau, James Coburn
+- Votes: 77,356 | Gross: $13.47M
+- The Hustler
+- 365. The Hustler (1961)
+- Not Rated | 134 min | Drama, Sport
+    - 8  Rate 90 Metascore
+- An up-and-coming pool player plays a long-time champion in a single high-stakes match.
+- Director: Robert Rossen | Stars: Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott
+- Votes: 81,947 | Gross: $8.28M
+- Rio Bravo
+- 366. Rio Bravo (1959)
+- Passed | 141 min | Western
+    - 8  Rate 93 Metascore
+- A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.
+- Director: Howard Hawks | Stars: John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson
+- Votes: 62,542 | Gross: $12.54M
+- Anatomy of a Murder
+- 367. Anatomy of a Murder (1959)
+- Not Rated | 161 min | Drama, Mystery
+    - 8  Rate 95 Metascore
+- An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth, and will he win his case?
+- Director: Otto Preminger | Stars: James Stewart, Lee Remick, Ben Gazzara, Arthur O'Connell
+- Votes: 66,366 | Gross: $11.90M
+- Touch of Evil
+- 368. Touch of Evil (1958)
+- PG-13 | 95 min | Crime, Drama, Film-Noir
+    - 8  Rate 99 Metascore
+- A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.
+- Director: Orson Welles | Stars: Charlton Heston, Orson Welles, Janet Leigh, Joseph Calleia
+- Votes: 104,348 | Gross: $2.24M
+- The Searchers
+- 369. The Searchers (1956)
+- Passed | 119 min | Adventure, Drama, Western
+    - 7.9  Rate 94 Metascore
+- An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.
+- Director: John Ford | Stars: John Wayne, Jeffrey Hunter, Vera Miles, Ward Bond
+- Votes: 89,233
+- The Killing
+- 370. The Killing (1956)
+- Approved | 84 min | Crime, Drama, Film-Noir
+    - 8  Rate 91 Metascore
+- Crook Johnny Clay assembles a five-man team to plan and execute a daring racetrack robbery.
+- Director: Stanley Kubrick | Stars: Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen
+- Votes: 89,685
+- The Night of the Hunter
+- 371. The Night of the Hunter (1955)
+- Not Rated | 92 min | Crime, Drama, Film-Noir
+    - 8  10 99 Metascore
+- A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid the $10,000 he'd stolen in a robbery.
+- Director: Charles Laughton | Stars: Robert Mitchum, Shelley Winters, Lillian Gish, James Gleason
+- Votes: 89,328 | Gross: $0.65M
+- East of Eden
+- 372. East of Eden (1955)
+- PG | 118 min | Drama
+    - 7.8  Rate 72 Metascore
+- Two brothers in 1910s California struggle to maintain their strict, Bible-toting father's favor as an old secret about their long-absent mother comes to light.
+- Director: Elia Kazan | Stars: James Dean, Raymond Massey, Julie Harris, Burl Ives
+- Votes: 45,587
+- Stalag 17
+- 373. Stalag 17 (1953)
+- Not Rated | 120 min | Comedy, Drama, War
+    - 8  Rate 84 Metascore
+- After two Americans are killed while escaping from a German P.O.W. camp in World War II, the barracks black marketeer, J.J. Sefton, is suspected of being an informer.
+- Director: Billy Wilder | Stars: William Holden, Don Taylor, Otto Preminger, Robert Strauss
+- Votes: 55,887
+- High Noon
+- 374. High Noon (1952)
+- PG | 85 min | Drama, Thriller, Western
+    - 8  Rate 89 Metascore
+- A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at "high noon" when the gang leader, an outlaw he "sent up" years ago, arrives on the noon train.
+- Director: Fred Zinnemann | Stars: Gary Cooper, Grace Kelly, Thomas Mitchell, Lloyd Bridges
+- Votes: 104,102 | Gross: $9.45M
+- A Streetcar Named Desire
+- 375. A Streetcar Named Desire (1951)
+- PG | 122 min | Drama
+    - 7.9  Rate 97 Metascore
+- Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.
+- Director: Elia Kazan | Stars: Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden
+- Votes: 108,060 | Gross: $8.00M
+- Strangers on a Train
+- 376. Strangers on a Train (1951)
+- PG | 101 min | Crime, Drama, Film-Noir
+    - 7.9  Rate 88 Metascore
+- A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.
+- Director: Alfred Hitchcock | Stars: Farley Granger, Robert Walker, Ruth Roman, Leo G. Carroll
+- Votes: 133,655 | Gross: $7.63M
+- Harvey
+- 377. Harvey (1950)
+- Approved | 104 min | Comedy, Drama, Fantasy
+    - 7.9  Rate
+- Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.
+- Director: Henry Koster | Stars: James Stewart, Wallace Ford, William H. Lynn, Victoria Horne
+- Votes: 55,698
+- Rope
+- 378. Rope (1948)
+- Approved | 80 min | Crime, Drama, Mystery
+    - 7.9  9 73 Metascore
+- Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.
+- Director: Alfred Hitchcock | Stars: James Stewart, John Dall, Farley Granger, Dick Hogan
+- Votes: 142,858
+- Out of the Past
+- 379. Out of the Past (1947)
+- Not Rated | 97 min | Crime, Drama, Film-Noir
+    - 8  Rate 85 Metascore
+- A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses and duplicitous dames.
+- Director: Jacques Tourneur | Stars: Robert Mitchum, Jane Greer, Kirk Douglas, Rhonda Fleming
+- Votes: 37,328
+- The Big Sleep
+- 380. The Big Sleep (1946)
+- Passed | 114 min | Crime, Film-Noir, Mystery
+    - 7.9  Rate 86 Metascore
+- Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail, and what might be love.
+- Director: Howard Hawks | Stars: Humphrey Bogart, Lauren Bacall, John Ridgely, Martha Vickers
+- Votes: 85,720 | Gross: $6.54M
+- The Lost Weekend
+- 381. The Lost Weekend (1945)
+- Passed | 101 min | Drama, Film-Noir
+    - 7.9  Rate
+- The desperate life of a chronic alcoholic is followed through a four-day drinking bout.
+- Director: Billy Wilder | Stars: Ray Milland, Jane Wyman, Phillip Terry, Howard Da Silva
+- Votes: 37,233 | Gross: $9.46M
+- Laura
+- 382. Laura (1944)
+- Passed | 88 min | Drama, Film-Noir, Mystery
+    - 7.9  Rate
+- A police detective falls in love with the woman whose murder he is investigating.
+- Director: Otto Preminger | Stars: Gene Tierney, Dana Andrews, Clifton Webb, Vincent Price
+- Votes: 47,458 | Gross: $4.36M
+- Arsenic and Old Lace
+- 383. Arsenic and Old Lace (1944)
+- Not Rated | 118 min | Comedy, Crime, Thriller
+    - 7.9  Rate
+- A Brooklyn writer of books on the futility of marriage risks his reputation when he decides to tie the knot. Things get even more complicated when he learns on his wedding day that his beloved maiden aunts are habitual murderers.
+- Director: Frank Capra | Stars: Cary Grant, Priscilla Lane, Raymond Massey, Jack Carson
+- Votes: 70,651
+- The Philadelphia Story
+- 384. The Philadelphia Story (1940)
+- Not Rated | 112 min | Comedy, Romance
+    - 7.9  Rate 96 Metascore
+- When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.
+- Director: George Cukor | Stars: Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey
+- Votes: 69,251
+- His Girl Friday
+- 385. His Girl Friday (1940)
+- Passed | 92 min | Comedy, Drama, Romance
+    - 7.8  Rate
+- A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.
+- Director: Howard Hawks | Stars: Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart
+- Votes: 58,705 | Gross: $0.30M
+- The Wizard of Oz
+- 386. The Wizard of Oz (1939)
+- PG | 102 min | Adventure, Family, Fantasy
+    - 8.1  Rate 92 Metascore
+- Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.
+- Directors: Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, Richard Thorpe, King Vidor | Stars: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+- Votes: 396,171 | Gross: $2.08M
+- Bringing Up Baby
+- 387. Bringing Up Baby (1938)
+- Passed | 102 min | Comedy
+    - 7.8  Rate 91 Metascore
+- While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.
+- Director: Howard Hawks | Stars: Katharine Hepburn, Cary Grant, Charles Ruggles, Walter Catlett
+- Votes: 61,519
+- The Adventures of Robin Hood
+- 388. The Adventures of Robin Hood (1938)
+- PG | 102 min | Action, Adventure, Romance
+    - 7.9  Rate 97 Metascore
+- When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence in 1190s England, a Saxon lord fights back as the outlaw leader of a resistance movement.
+- Directors: Michael Curtiz, William Keighley | Stars: Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains
+- Votes: 51,076 | Gross: $3.98M
+- A Night at the Opera
+- 389. A Night at the Opera (1935)
+- Passed | 96 min | Comedy, Music, Musical
+    - 7.8  Rate
+- A sly business manager and the wacky friends of two opera singers in Italy help them achieve success in America while humiliating their stuffy and snobbish enemies.
+- Directors: Sam Wood, Edmund Goulding | Stars: Groucho Marx, Chico Marx, Harpo Marx, Kitty Carlisle
+- Votes: 32,939 | Gross: $2.54M
+- Duck Soup
+- 390. Duck Soup (1933)
+- Not Rated | 69 min | Comedy, Musical
+    - 7.8  Rate 93 Metascore
+- Rufus T. Firefly is named the dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of his wealthy backer Mrs. Teasdale, contending with two inept spies who can't seem to keep straight which side they're on.
+- Director: Leo McCarey | Stars: Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx
+- Votes: 60,096
+- Battleship Potemkin
+- 391. [[Battleship Potemkin]] (1925)
+- Not Rated | 66 min | Drama, History, Thriller
+    - 8  Rate 97 Metascore
+- In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.
+- Director: Sergei Eisenstein | Stars: Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov, Ivan Bobrov
+- Votes: 57,663 | Gross: $0.05M
+- Nosferatu
+- 392. Nosferatu (1922)
+- Not Rated | 94 min | Fantasy, Horror
+    - 7.9  Rate
+- Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.
+- Director: F.W. Murnau | Stars: Max Schreck, Alexander Granach, Gustav von Wangenheim, Greta Schröder
+- Votes: 96,726
+- Call Me by Your Name
+- 393. Call Me by Your Name (2017)
+- R | 132 min | Drama, Romance
+    - 7.8  Rate 93 Metascore
+- In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant.
+- Director: Luca Guadagnino | Stars: Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar
+- Votes: 266,190 | Gross: $18.10M
+- [[I, Daniel Blake]]
+- 394. [[I, Daniel Blake]] (2016)
+- R | 100 min | Drama
+    - 7.8  10 78 Metascore
+- After surviving a heart-attack, a 59-year-old carpenter must fight bureaucratic forces to receive Employment and Support Allowance.
+- Director: Ken Loach | Stars: Dave Johns, Hayley Squires, Sharon Percy, Briana Shann
+- Votes: 59,973 | Gross: $0.26M
+- Isle of Dogs
+- 395. Isle of Dogs (2018)
+- PG-13 | 101 min | Animation, Adventure, Comedy
+    - 7.8  Rate 82 Metascore
+- Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.
+- Director: Wes Anderson | Stars: Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban
+- Votes: 166,808 | Gross: $32.02M
+- Dunkirk
+- 396. [[Dunkirk]] (2017)
+- PG-13 | 106 min | Action, Drama, History
+    - 7.8  Rate 94 Metascore
+- Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.
+- Director: Christopher Nolan | Stars: Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy
+- Votes: 645,945 | Gross: $188.37M
+- Hunt for the Wilderpeople
+- 397. Hunt for the Wilderpeople (2016)
+- PG-13 | 101 min | Adventure, Comedy, Drama
+    - 7.8  Rate 81 Metascore
+- A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.
+- Director: Taika Waititi | Stars: Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House
+- Votes: 129,973 | Gross: $5.20M
+- Paddington 2
+- 398. [[Paddington 2]] (2017)
+- PG | 103 min | Adventure, Comedy, Family
+    - 7.8  Rate 88 Metascore
+- Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.
+- Director: Paul King | Stars: Ben Whishaw, Hugh Grant, Hugh Bonneville, Sally Hawkins
+- Votes: 77,092 | Gross: $40.44M
+- Captain Fantastic
+- 399. Captain Fantastic (2016)
+- R | 118 min | Comedy, Drama
+    - 7.8  Rate 72 Metascore
+- In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.
+- Director: Matt Ross | Stars: Viggo Mortensen, George MacKay, Samantha Isler, Annalise Basso
+- Votes: 217,434 | Gross: $5.88M
+    - Watch on Prime Video
+- included with Prime
+- Thor: Ragnarok
+- 400. Thor: Ragnarok (2017)
+- PG-13 | 130 min | Action, Adventure, Comedy
+    - 7.9  Rate 74 Metascore
+- Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.
+- Director: Taika Waititi | Stars: Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo
+- Votes: 733,762 | Gross: $315.06M
+- Nightcrawler
+- 401. Nightcrawler (2014)
+- R | 117 min | Crime, Drama, Thriller
+    - 7.8  Rate 76 Metascore
+- When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.
+- Director: Dan Gilroy | Stars: Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed
+- Votes: 536,950 | Gross: $32.38M
+    - Watch on Netflix
+- with subscription
+- Arrival
+- 402. [[Arrival]] (II) (2016)
+- PG-13 | 116 min | Drama, Mystery, Sci-Fi
+    - 7.9  8 81 Metascore
+- A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+- Director: Denis Villeneuve | Stars: Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg
+- Votes: 682,351 | Gross: $100.55M
+- Before Midnight
+- 403. Before Midnight (2013)
+- R | 109 min | Drama, Romance
+    - 7.9  Rate 94 Metascore
+- We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.
+- Director: Richard Linklater | Stars: Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick, Ariane Labed
+- Votes: 157,243 | Gross: $8.11M
+- The Artist
+- 404. The Artist (I) (2011)
+- PG-13 | 100 min | Comedy, Drama, Romance
+    - 7.9  Rate 89 Metascore
+- An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.
+- Director: Michel Hazanavicius | Stars: Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell
+- Votes: 240,966 | Gross: $44.67M
+- Edge of Tomorrow
+- 405. Edge of Tomorrow (2014)
+- PG-13 | 113 min | Action, Adventure, Sci-Fi
+    - 7.9  Rate 71 Metascore
+- A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
+- Director: Doug Liman | Stars: Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson
+- Votes: 668,881 | Gross: $100.21M
+- Amour
+- 406. [[Amour]] (2012)
+- PG-13 | 127 min | Drama
+    - 7.9  Rate 94 Metascore
+- Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.
+- Director: Michael Haneke | Stars: Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert, Alexandre Tharaud
+- Votes: 100,299 | Gross: $6.74M
+- Straight Outta Compton
+- 407. Straight Outta Compton (2015)
+- R | 147 min | Biography, Drama, History
+    - 7.8  Rate 72 Metascore
+- The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.
+- Director: F. Gary Gray | Stars: O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell, Neil Brown Jr.
+- Votes: 200,802 | Gross: $161.20M
+- A Prophet
+- 408. A Prophet (2009)
+- R | 155 min | Crime, Drama
+    - 7.8  Rate 90 Metascore
+- A young Algerian man is sent to a French prison.
+- Director: Jacques Audiard | Stars: Tahar Rahim, Niels Arestrup, Adel Bencherif, Reda Kateb
+- Votes: 98,503 | Gross: $2.08M
+- The Chaser
+- 409. The Chaser (2008)
+- Not Rated | 125 min | Action, Crime, Drama
+    - 7.8  Rate 64 Metascore
+- A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.
+- Director: Na Hong-jin | Stars: Kim Yoon-seok, Ha Jung-woo, Yeong-hie Seo, Kim Yoo-jeong
+- Votes: 66,161
+- Moon
+- 410. Moon (2009)
+- R | 97 min | Drama, Mystery, Sci-Fi
+    - 7.8  6 67 Metascore
+- Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+- Director: Duncan Jones | Stars: Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw
+- Votes: 357,470 | Gross: $5.01M
+- Let the Right One In
+- 411. Let the Right One In (2008)
+- R | 114 min | Drama, Fantasy, Horror
+    - 7.9  Rate 82 Metascore
+- Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.
+- Director: Tomas Alfredson | Stars: Kåre Hedebrant, Lina Leandersson, Per Ragnar, Henrik Dahl
+- Votes: 216,231 | Gross: $2.12M
+- District 9
+- 412. District 9 (2009)
+- R | 112 min | Action, Sci-Fi, Thriller
+    - 7.9  Rate 81 Metascore
+- Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.
+- Director: Neill Blomkamp | Stars: Sharlto Copley, David James, Jason Cope, Nathalie Boltt
+- Votes: 677,091 | Gross: $115.65M
+- The Wrestler
+- 413. The Wrestler (2008)
+- R | 109 min | Drama, Sport
+    - 7.9  Rate 80 Metascore
+- A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.
+- Director: Darren Aronofsky | Stars: Mickey Rourke, Marisa Tomei, Evan Rachel Wood, Mark Margolis
+- Votes: 304,865 | Gross: $26.24M
+- Boyhood
+- 414. Boyhood (I) (2014)
+- R | 165 min | Drama
+    - 7.9  Rate 100 Metascore
+- The life of Mason, from early childhood to his arrival at college.
+- Director: Richard Linklater | Stars: Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith
+- Votes: 353,420 | Gross: $25.38M
+- 4 Months, 3 Weeks and 2 Days
+- 415. 4 Months, 3 Weeks and 2 Days (2007)
+- Not Rated | 113 min | Drama
+    - 7.9  Rate 97 Metascore
+- A woman assists her friend in arranging an illegal abortion in 1980s Romania.
+- Director: Cristian Mungiu | Stars: Anamaria Marinca, Laura Vasiliu, Vlad Ivanov, Alexandru Potocean
+- Votes: 60,350 | Gross: $1.19M
+- Once
+- 416. [[Once]] (I) (2007)
+- R | 86 min | Drama, Music, Romance
+    - 7.8  Rate 88 Metascore
+- A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.
+- Director: John Carney | Stars: Glen Hansard, Markéta Irglová, Hugh Walsh, Gerard Hendrick
+- Votes: 116,576 | Gross: $9.44M
+- The Hobbit: An Unexpected Journey
+- 417. The Hobbit: An Unexpected Journey (2012)
+- PG-13 | 169 min | Adventure, Fantasy
+    - 7.8  Rate 58 Metascore
+- A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.
+- Director: Peter Jackson | Stars: Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis
+- Votes: 813,753 | Gross: $303.00M
+- In Bruges
+- 418. In Bruges (2008)
+- R | 107 min | Comedy, Crime, Drama
+    - 7.9  Rate 67 Metascore
+- Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.
+- Director: Martin McDonagh | Stars: Colin Farrell, Brendan Gleeson, Ciarán Hinds, Elizabeth Berrington
+- Votes: 420,085 | Gross: $7.76M
+- Letters from Iwo Jima
+- 419. Letters from Iwo Jima (2006)
+- R | 141 min | Action, Adventure, Drama
+    - 7.9  Rate 89 Metascore
+- The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.
+- Director: Clint Eastwood | Stars: Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryô Kase
+- Votes: 162,602 | Gross: $13.76M
+- Life of Pi
+- 420. Life of Pi (2012)
+- PG | 127 min | Adventure, Drama, Fantasy
+    - 7.9  Rate 79 Metascore
+- A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
+- Director: Ang Lee | Stars: Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu
+- Votes: 624,491 | Gross: $124.99M
+- Fantastic Mr. Fox
+- 421. Fantastic Mr. Fox (2009)
+- PG | 87 min | Animation, Adventure, Comedy
+    - 7.9  Rate 83 Metascore
+- An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.
+- Director: Wes Anderson | Stars: George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman
+- Votes: 229,301 | Gross: $21.00M
+- Hot Fuzz
+- 422. Hot Fuzz (2007)
+- R | 121 min | Action, Comedy, Mystery
+    - 7.8  Rate 81 Metascore
+- A skilled London police officer, after irritating superiors with his embarrassing effectiveness, is transferred to a village where the easygoing officers object to his fervor for regulations, as a string of grisly murders strikes the town.
+- Director: Edgar Wright | Stars: Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy
+- Votes: 502,036 | Gross: $23.64M
+- Serenity
+- 423. Serenity (2005)
+- PG-13 | 119 min | Action, Adventure, Sci-Fi
+    - 7.8  Rate 74 Metascore
+- The crew of the ship Serenity try to evade an assassin sent to recapture telepath River.
+- Director: Joss Whedon | Stars: Nathan Fillion, Gina Torres, Chiwetel Ejiofor, Alan Tudyk
+- Votes: 295,594 | Gross: $25.51M
+- The Chorus
+- 424. The Chorus (2004)
+- PG-13 | 97 min | Comedy, Drama, Music
+    - 7.8  Rate 56 Metascore
+- The new teacher at a severely administered boys' boarding school works to positively affect the students' lives through music.
+- Director: Christophe Barratier | Stars: Gérard Jugnot, François Berléand, Jean-Baptiste Maunier, Kad Merad
+- Votes: 62,158 | Gross: $3.64M
+- Iron Man
+- 425. Iron Man (2008)
+- PG-13 | 126 min | Action, Adventure, Sci-Fi
+    - 7.9  Rate 79 Metascore
+- After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+- Director: Jon Favreau | Stars: Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges
+- Votes: 1,044,759 | Gross: $318.41M
+- Shaun of the Dead
+- 426. Shaun of the Dead (2004)
+- R | 99 min | Comedy, Horror
+    - 7.9  Rate 76 Metascore
+- The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.
+- Director: Edgar Wright | Stars: Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis
+- Votes: 553,520 | Gross: $13.54M
+- Walk the Line
+- 427. Walk the Line (2005)
+- PG-13 | 136 min | Biography, Drama, Music
+    - 7.8  Rate 72 Metascore
+- A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.
+- Director: James Mangold | Stars: Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick
+- Votes: 250,259 | Gross: $119.52M
+- The Notebook
+- 428. The Notebook (2004)
+- PG-13 | 123 min | Drama, Romance
+    - 7.8  Rate 53 Metascore
+- A poor yet passionate young man (Ryan Gosling) falls in love with a rich young woman (Rachel McAdams), giving her a sense of freedom, but they are soon separated because of their social differences.
+- Director: Nick Cassavetes | Stars: Gena Rowlands, James Garner, Rachel McAdams, Ryan Gosling
+- Votes: 566,814 | Gross: $81.00M
+- Harry Potter and the Prisoner of Azkaban
+- 429. Harry Potter and the Prisoner of Azkaban (2004)
+- PG | 142 min | Adventure, Family, Fantasy
+    - 7.9  8 82 Metascore
+- Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.
+- Director: Alfonso Cuarón | Stars: Daniel Radcliffe, Emma Watson, Rupert Grint, Richard Griffiths
+- Votes: 624,524 | Gross: $249.36M
+- Hero
+- 430. [[Hero]] (2002)
+- PG-13 | 120 min | Action, Adventure, Drama
+    - 7.9  Rate 85 Metascore
+- A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.
+- Director: [[Yimou Zhang]] | Stars: Jet Li, Tony Chiu-Wai Leung, Maggie Cheung, Ziyi Zhang
+- Votes: 181,217 | Gross: $53.71M
+- The Bourne Identity
+- 431. The Bourne Identity (2002)
+- PG-13 | 119 min | Action, Mystery, Thriller
+    - 7.9  Rate 68 Metascore
+- A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.
+- Director: Doug Liman | Stars: Franka Potente, Matt Damon, Chris Cooper, Clive Owen
+- Votes: 543,819 | Gross: $121.66M
+- Children of Men
+- 432. Children of Men (2006)
+- R | 109 min | Action, Drama, Sci-Fi
+    - 7.9  Rate 84 Metascore
+- In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
+- Director: Alfonso Cuarón | Stars: Julianne Moore, Clive Owen, Chiwetel Ejiofor, Michael Caine
+- Votes: 497,090 | Gross: $35.55M
+- Crouching Tiger, Hidden Dragon
+- 433. [[Crouching Tiger, Hidden Dragon]] (2000)
+- PG-13 | 120 min | Action, Adventure, Drama
+    - 7.9  9 94 Metascore
+- A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.
+- Director: [[Ang Lee ]]| Stars: Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang, Chang Chen
+- Votes: 268,437 | Gross: $128.08M
+- All About My Mother
+- 434. All About My Mother (1999)
+- R | 101 min | Drama
+    - 7.8  Rate 87 Metascore
+- Young Esteban wants to become a writer and also to discover the identity of his second mother, a trans woman, carefully concealed by his mother Manuela.
+- Director: Pedro Almodóvar | Stars: Cecilia Roth, Marisa Paredes, Candela Peña, Antonia San Juan
+- Votes: 96,683 | Gross: $8.26M
+- Almost Famous
+- 435. Almost Famous (2000)
+- R | 122 min | Adventure, Comedy, Drama
+    - 7.9  Rate 90 Metascore
+- A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.
+- Director: Cameron Crowe | Stars: Billy Crudup, Patrick Fugit, Kate Hudson, Frances McDormand
+- Votes: 275,078 | Gross: $32.53M
+- The Insider
+- 436. The Insider (1999)
+- R | 157 min | Biography, Drama, Thriller
+    - 7.8  Rate 84 Metascore
+- A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.
+- Director: Michael Mann | Stars: Russell Crowe, Al Pacino, Christopher Plummer, Diane Venora
+- Votes: 171,013 | Gross: $28.97M
+- Toy Story 2
+- 437. Toy Story 2 (1999)
+- G | 92 min | Animation, Adventure, Comedy
+    - 7.9  Rate 88 Metascore
+- When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.
+- Directors: John Lasseter, Ash Brannon, Lee Unkrich | Stars: Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer
+- Votes: 575,429 | Gross: $245.85M
+- Boogie Nights
+- 438. Boogie Nights (1997)
+- R | 155 min | Drama
+    - 7.9  Rate 85 Metascore
+- Back when sex was safe, pleasure was a business and business was booming, an idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.
+- Director: Paul Thomas Anderson | Stars: Mark Wahlberg, Julianne Moore, Burt Reynolds, Luis Guzmán
+- Votes: 263,753 | Gross: $26.40M
+- Breaking the Waves
+- 439. Breaking the Waves (1996)
+- R | 159 min | Drama
+    - 7.8  Rate 76 Metascore
+- Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.
+- Director: Lars von Trier | Stars: Emily Watson, Stellan Skarsgård, Katrin Cartlidge, Jean-Marc Barr
+- Votes: 67,029 | Gross: $4.04M
+- Once Were Warriors
+- 440. Once Were Warriors (1994)
+- R | 102 min | Crime, Drama
+    - 7.9  Rate 77 Metascore
+- A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts.
+- Director: Lee Tamahori | Stars: Rena Owen, Temuera Morrison, Mamaengaroa Kerr-Bell, Julian Arahanga
+- Votes: 34,374 | Gross: $2.20M
+- Ed Wood
+- 441. Ed Wood (1994)
+- R | 127 min | Biography, Comedy, Drama
+    - 7.8  Rate 70 Metascore
+- Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams, despite his lack of talent.
+- Director: Tim Burton | Stars: Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette
+- Votes: 175,972 | Gross: $5.89M
+- True Romance
+- 442. True Romance (1993)
+- R | 119 min | Crime, Drama, Romance
+    - 7.9  Rate 59 Metascore
+- In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.
+- Director: Tony Scott | Stars: Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer
+- Votes: 225,877 | Gross: $12.28M
+- The Remains of the Day
+- 443. The Remains of the Day (1993)
+- PG | 134 min | Drama, Romance
+    - 7.8  Rate 86 Metascore
+- A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.
+- Director: James Ivory | Stars: Anthony Hopkins, Emma Thompson, John Haycraft, Christopher Reeve
+- Votes: 74,179 | Gross: $22.95M
+- Carlito's Way
+- 444. Carlito's Way (1993)
+- R | 144 min | Crime, Drama, Thriller
+    - 7.9  Rate 65 Metascore
+- A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.
+- Director: Brian De Palma | Stars: Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo
+- Votes: 217,173 | Gross: $36.95M
+- Batman: Mask of the Phantasm
+- 445. Batman: Mask of the Phantasm (1993)
+- PG | 76 min | Animation, Action, Adventure
+    - 7.8  Rate 65 Metascore
+- Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.
+- Directors: Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Eric Radomski, Bruce Timm | Stars: Kevin Conroy, Dana Delany, Hart Bochner, Stacy Keach
+- Votes: 50,887 | Gross: $5.62M
+- Edward Scissorhands
+- 446. Edward Scissorhands (1990)
+- PG-13 | 105 min | Drama, Fantasy, Romance
+    - 7.9  Rate 74 Metascore
+- An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.
+- Director: Tim Burton | Stars: Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall
+- Votes: 485,239 | Gross: $56.36M
+- My Left Foot
+- 447. My Left Foot (1989)
+- R | 103 min | Biography, Drama
+    - 7.9  Rate 97 Metascore
+- Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.
+- Director: Jim Sheridan | Stars: Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan
+- Votes: 74,328 | Gross: $14.74M
+- Kiki's Delivery Service
+- 448. Kiki's Delivery Service (1989)
+- G | 103 min | Animation, Adventure, Family
+    - 7.8  Rate 83 Metascore
+- A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.
+- Director: Hayao Miyazaki | Stars: Kirsten Dunst, Minami Takayama, Rei Sakuma, Kappei Yamaguchi
+- Votes: 143,262
+- Glory
+- 449. Glory (1989)
+- R | 122 min | Biography, Drama, History
+    - 7.8  Rate 78 Metascore
+- Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.
+- Director: Edward Zwick | Stars: Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman
+- Votes: 134,689 | Gross: $26.83M
+- Do the Right Thing
+- 450. Do the Right Thing (1989)
+- R | 120 min | Comedy, Drama
+    - 7.9  Rate 93 Metascore
+- On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.
+- Director: Spike Lee | Stars: Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson
+- Votes: 101,842 | Gross: $27.55M
+- The Untouchables
+- 451. The Untouchables (1987)
+- R | 119 min | Crime, Drama, Thriller
+    - 7.9  Rate 79 Metascore
+- During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.
+- Director: Brian De Palma | Stars: Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith
+- Votes: 307,833 | Gross: $76.27M
+- Hannah and Her Sisters
+- 452. Hannah and Her Sisters (1986)
+- PG-13 | 107 min | Comedy, Drama
+    - 7.9  Rate 90 Metascore
+- Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.
+- Director: Woody Allen | Stars: Mia Farrow, Dianne Wiest, Michael Caine, Barbara Hershey
+- Votes: 71,594 | Gross: $40.08M
+- The Breakfast Club
+- 453. The Breakfast Club (1985)
+- R | 97 min | Comedy, Drama
+    - 7.8  Rate 66 Metascore
+- Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+- Director: John Hughes | Stars: Emilio Estevez, Judd Nelson, Molly Ringwald, Ally Sheedy
+- Votes: 394,051 | Gross: $45.88M
+- The Killing Fields
+- 454. The Killing Fields (1984)
+- R | 141 min | Biography, Drama, History
+    - 7.8  Rate 76 Metascore
+- A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.
+- Director: Roland Joffé | Stars: Sam Waterston, Haing S. Ngor, John Malkovich, Julian Sands
+- Votes: 55,574 | Gross: $34.70M
+- The Right Stuff
+- 455. The Right Stuff (1983)
+- PG | 193 min | Adventure, Biography, Drama
+    - 7.8  Rate 91 Metascore
+- The U.S. space program's development from the breaking of the sound barrier to selection of the Mercury 7 astronauts, from a group of test pilots with a more seat-of-the-pants approach than the program's more cautious engineers preferred.
+- Director: Philip Kaufman | Stars: Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid
+- Votes: 61,542 | Gross: $21.50M
+- E.T. the Extra-Terrestrial
+- 456. E.T. the Extra-Terrestrial (1982)
+- PG | 115 min | Adventure, Family, Sci-Fi
+    - 7.9  Rate 91 Metascore
+- A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.
+- Director: Steven Spielberg | Stars: Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace
+- Votes: 404,980 | Gross: $435.11M
+- The Blues Brothers
+- 457. The Blues Brothers (1980)
+- R | 133 min | Action, Adventure, Comedy
+    - 7.9  Rate 60 Metascore
+- Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.
+- Director: John Landis | Stars: John Belushi, Dan Aykroyd, Cab Calloway, John Candy
+- Votes: 198,444 | Gross: $57.23M
+- Days of Heaven
+- 458. Days of Heaven (1978)
+    - PG | 94 min | Drama, Romance
+        - 7.8  Rate 93 Metascore
+    - A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.
+    - Director: Terrence Malick | Stars: Richard Gere, Brooke Adams, Sam Shepard, Linda Manz
+    - Votes: 58,107
+- Dawn of the Dead
+- 459. Dawn of the Dead (1978)
+- Unrated | 127 min | Horror, Thriller
+    - 7.8  Rate 71 Metascore
+- Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.
+- Director: George A. Romero | Stars: David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross
+- Votes: 120,154 | Gross: $5.10M
+- The Outlaw Josey Wales
+- 460. The Outlaw Josey Wales (1976)
+- PG | 135 min | Western
+    - 7.8  Rate 69 Metascore
+- Missouri farmer Josey Wales joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.
+- Director: Clint Eastwood | Stars: Clint Eastwood, Sondra Locke, Chief Dan George, Bill McKinney
+- Votes: 73,750 | Gross: $31.80M
+- The Man Who Would Be King
+- 461. The Man Who Would Be King (1975)
+- PG | 129 min | Adventure, History, War
+    - 7.8  Rate 91 Metascore
+- Two former British soldiers in 1880s India decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.
+- Director: John Huston | Stars: Sean Connery, Michael Caine, Christopher Plummer, Saeed Jaffrey
+- Votes: 49,089
+- The Holy Mountain
+- 462. The Holy Mountain (1973)
+- R | 114 min | Adventure, Drama, Fantasy
+    - 7.8  Rate 76 Metascore
+- In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.
+- Director: Alejandro Jodorowsky | Stars: Alejandro Jodorowsky, Horacio Salinas, Zamira Saunders, Juan Ferrara
+- Votes: 42,900 | Gross: $0.06M
+- The Conversation
+- 463. The Conversation (1974)
+    - PG | 113 min | Drama, Mystery, Thriller
+        - 7.8  Rate 87 Metascore
+    - A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.
+    - Director: Francis Ford Coppola | Stars: Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest
+    - Votes: 111,581 | Gross: $4.42M
+- I Remember
+- 464. I Remember (1973)
+- R | 123 min | Comedy, Drama
+    - 7.9  Rate
+- A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.
+- Director: Federico Fellini | Stars: Magali Noël, Bruno Zanin, Pupella Maggio, Armando Brancia
+- Votes: 43,641 | Gross: $0.58M
+- Badlands
+- 465. Badlands (1973)
+    - PG | 94 min | Action, Crime, Drama
+        - 7.7  Rate 93 Metascore
+    - An impressionable teenage girl from a dead-end town, and her older greaser boyfriend, embark on a killing spree in the South Dakota Badlands.
+    - Director: Terrence Malick | Stars: Martin Sheen, Sissy Spacek, Warren Oates, Ramon Bieri
+    - Votes: 72,917
+- The Discreet Charm of the Bourgeoisie
+- 466. The Discreet Charm of the Bourgeoisie (1972)
+    - PG | 102 min | Comedy
+        - 7.8  Rate 93 Metascore
+    - A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.
+    - Director: Luis Buñuel | Stars: Fernando Rey, Delphine Seyrig, Paul Frankeur, Bulle Ogier
+    - Votes: 43,068 | Gross: $0.20M
+- Midnight Cowboy
+    - 467. Midnight Cowboy (1969)
+    - R | 113 min | Drama
+        - 7.8  Rate 79 Metascore
+        - A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.
+        - Director: John Schlesinger | Stars: Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver
+        - Votes: 110,828 | Gross: $44.79M
+- Night of the Living Dead
+- 468. Night of the Living Dead (1968)
+    - Not Rated | 96 min | Horror, Thriller
+        - 7.8  Rate 89 Metascore
+    - A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.
+    - Director: George A. Romero | Stars: Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman
+    - Votes: 127,757 | Gross: $0.09M
+- Bonnie and Clyde
+- 469. Bonnie and Clyde (1967)
+    - R | 111 min | Action, Biography, Crime
+        - 7.7  Rate 86 Metascore
+    - Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.
+    - Director: Arthur Penn | Stars: Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman
+    - Votes: 112,825
+- Jules and Jim
+- 470. Jules and Jim (1962)
+    - Not Rated | 105 min | Drama, Romance
+        - 7.7  Rate 97 Metascore
+    - Decades of a love triangle concerning two friends and an impulsive woman.
+    - Director: François Truffaut | Stars: Jeanne Moreau, Oskar Werner, Henri Serre, Vanna Urbino
+    - Votes: 41,510
+- Spartacus
+- 471. Spartacus (1960)
+    - PG-13 | 197 min | Adventure, Biography, Drama
+        - 7.9  8 87 Metascore
+    - The slave Spartacus survives brutal training as a gladiator and leads a violent revolt against the decadent Roman Republic, as the ambitious Crassus seeks to gain power by crushing the uprising.
+    - Director: Stanley Kubrick | Stars: Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton
+    - Votes: 134,680 | Gross: $30.00M
+- Breathless
+- 472. [[Breathless]] (1960)
+    - Not Rated | 90 min | Crime, Drama
+        - 7.7  Rate
+    - A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.
+    - Director: Jean-Luc Godard | Stars: Jean-Paul Belmondo, Jean Seberg, Daniel Boulanger, Henri-Jacques Huet
+    - Votes: 80,934 | Gross: $0.34M
+- The Ten Commandments
+- 473. The Ten Commandments (1956)
+    - G | 220 min | Adventure, Drama, Family
+        - 7.9  Rate
+    - Moses, raised as a prince of Egypt in the Pharaoh's household, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people from slavery.
+    - Director: Cecil B. DeMille | Stars: Charlton Heston, Yul Brynner, Anne Baxter, Edward G. Robinson
+    - Votes: 71,009 | Gross: $93.74M
+- The African Queen
+- 474. The African Queen (1951)
+- PG | 105 min | Adventure, Drama, Romance
+    - 7.7  Rate 91 Metascore
+- In WWI East Africa, a gin-swilling Canadian riverboat captain is persuaded by a strait-laced English missionary to undertake a trip up a treacherous river and use his boat to attack a German gunship.
+- Director: John Huston | Stars: Humphrey Bogart, Katharine Hepburn, Robert Morley, Peter Bull
+- Votes: 78,756 | Gross: $0.54M
+- Key Largo
+- 475. Key Largo (1948)
+- Not Rated | 100 min | Action, Crime, Drama
+    - 7.7  Rate
+- A man visits his war buddy's family hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.
+- Director: John Huston | Stars: Humphrey Bogart, Edward G. Robinson, Lauren Bacall, Lionel Barrymore
+- Votes: 40,985
+- Miracle on 34th Street
+- 476. Miracle on 34th Street (1947)
+- Not Rated | 96 min | Comedy, Drama, Family
+    - 7.9  Rate 88 Metascore
+- After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article. When his sanity is questioned, a lawyer defends him in court by arguing that he's not mistaken.
+- Director: George Seaton | Stars: Edmund Gwenn, Maureen O'Hara, John Payne, Gene Lockhart
+- Votes: 47,691 | Gross: $2.65M
+- To Have and Have Not
+- 477. To Have and Have Not (1944)
+- Passed | 100 min | Adventure, Comedy, Film-Noir
+    - 7.8  Rate 90 Metascore
+- During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.
+- Director: Howard Hawks | Stars: Humphrey Bogart, Lauren Bacall, Walter Brennan, Dolores Moran
+- Votes: 34,763
+- Shadow of a Doubt
+- 478. Shadow of a Doubt (1943)
+- Passed | 108 min | Film-Noir, Thriller
+    - 7.8  9 94 Metascore
+- A teenage girl, overjoyed when her favorite uncle comes to visit the family in their quiet California town, slowly begins to suspect that he is in fact the "Merry Widow" killer sought by the authorities.
+- Director: Alfred Hitchcock | Stars: Teresa Wright, Joseph Cotten, Macdonald Carey, Henry Travers
+- Votes: 65,518
+- Stagecoach
+- 479. Stagecoach (1939)
+- Passed | 96 min | Adventure, Drama, Western
+    - 7.8  Rate 93 Metascore
+- A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.
+- Director: John Ford | Stars: John Wayne, Claire Trevor, Andy Devine, John Carradine
+- Votes: 49,012
+- The Lady Vanishes
+- 480. The Lady Vanishes (1938)
+- Not Rated | 96 min | Mystery, Thriller
+    - 7.8  8 98 Metascore
+- While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.
+- Director: Alfred Hitchcock | Stars: Margaret Lockwood, Michael Redgrave, Paul Lukas, May Whitty
+- Votes: 52,598
+- The Bride of Frankenstein
+- 481. The Bride of Frankenstein (1935)
+- Not Rated | 75 min | Drama, Horror, Sci-Fi
+    - 7.8  Rate 95 Metascore
+- Mary Shelley reveals the main characters of her novel survived: Dr. Frankenstein, goaded by an even madder scientist, builds his monster a mate.
+- Director: James Whale | Stars: Boris Karloff, Elsa Lanchester, Colin Clive, Valerie Hobson
+- Votes: 48,019 | Gross: $4.36M
+- King Kong
+- 482. King Kong (1933)
+- Passed | 100 min | Adventure, Horror, Sci-Fi
+    - 7.9  Rate 90 Metascore
+- A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.
+- Directors: Merian C. Cooper, Ernest B. Schoedsack | Stars: Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher
+- Votes: 85,390 | Gross: $10.00M
+- Freaks
+- 483. Freaks (1932)
+- Not Rated | 64 min | Drama, Horror
+    - 7.8  Rate 80 Metascore
+- A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.
+- Director: Tod Browning | Stars: Wallace Ford, Leila Hyams, Olga Baclanova, Roscoe Ates
+- Votes: 46,417 | Gross: $0.63M
+- Frankenstein
+- 484. Frankenstein (1931)
+- Passed | 70 min | Drama, Horror, Sci-Fi
+    - 7.8  Rate 91 Metascore
+- Dr. Frankenstein dares to tamper with life and death by creating a human monster out of lifeless body parts.
+- Director: James Whale | Stars: Colin Clive, Mae Clarke, Boris Karloff, John Boles
+- Votes: 72,035
+- Infernal Affairs
+- 485. [[Infernal Affairs]] (2002)
+    - R | 101 min | Action, Crime, Drama
+        - 8  Rate 75 Metascore
+    - A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.
+    - Directors: Andrew Lau, Alan Mak | Stars: Andy Lau, Tony Chiu-Wai Leung, Anthony Chau-Sang Wong, Eric Tsang
+    - Votes: 124,501 | Gross: $0.17M
+- The Manchurian Candidate
+- 486. The Manchurian Candidate (1962)
+    - PG-13 | 126 min | Drama, Thriller
+        - 7.9  Rate 94 Metascore
+    - An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.
+    - Director: John Frankenheimer | Stars: Frank Sinatra, Laurence Harvey, Janet Leigh, Angela Lansbury
+    - Votes: 75,578
+        - Watch on Pluto TV
+    - Go to pluto.tv
+- The Man from Earth
+- 487. [[The Man from Earth]] (2007)
+    - Not Rated | 87 min | Drama, Fantasy, Mystery
+        - 7.9  Rate
+    - An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.
+    - Director: Richard Schenkman | Stars: David Lee Smith, Tony Todd, John Billingsley, Ellen Crawford
+    - Votes: 186,977

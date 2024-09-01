@@ -1,0 +1,66 @@
+- [[Gratitude]]
+- 本杰明·富兰克林十三项美德原文及翻译 #[[13项美德]]
+    - {{[[TODO]]}} #[[节制]] 吃饭不要过饱，喝酒不要过量。
+        - 食不过饱，酒不过量。
+        - **Temperance**. Eat not to dullness; drink not to elevation.
+    - {{[[TODO]]}} #[[缄默]] 不说话/打字，除非对别人或对自己有益处。避免琐碎的谈话，不要八卦。
+        - 避免空谈，言必对己和对人有利。
+        - **Silence**. Speak not but what may benefit others or yourself; avoid trifling conversation.
+    - {{[[TODO]]}} #[[有序]] 让你所有的东西都有自己的位置，让你业务的每个部分都有自己的时间。
+        - 东西放置的地方，做事的时间，要心中有数。
+        - **Order**. Let all your things have their places; let each part of your business have its time.
+    - {{[[TODO]]}} #[[决心]] 决心做你该做的事；决心去做事要不折不扣地去执行。
+        - 决心去做该做之事，在完成之前不言放弃。
+        - **Resolution**. Resolve to perform what you ought; perform without fail what you resolve.
+    - {{[[TODO]]}} #[[简朴]] 除非对他人或对自己有益处，绝不花销；即不浪费任何财物。
+        - 对人对己有益才花钱，即绝不浪费。
+        - **Frugality**. Make no expense but to do good to others or yourself; i.e., waste nothing.
+    - {{[[TODO]]}} #[[勤奋]] 不浪费时间；永远从事有用的事情；砍掉一切不必要的行动。
+        - 珍惜时间，做有益之事，避无谓之举。
+        - **Industry**. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.
+    - {{[[TODO]]}} #[[真诚]] 不使用伤害性的欺骗；以纯真和公正的方式思考；如果要说话，也要说合宜的话。
+        - 不欺骗，有良知，为人厚道，说实在话。
+        - **Sincerity**. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.
+    - {{[[TODO]]}} #[[正义]] 不以伤害的方式枉待他人，也不忽视自己有义务享受的权益。
+        - 不做不利于他人的事，不逃避自己的责任。
+        - **Justice**. Wrong none by doing injuries, or omitting the benefits that are your duty.
+    - {{[[TODO]]}} #[[温和]] 避免极端的行为；忍耐怨恨伤害到一定地步，以至于你认为这些伤害本来是他们应得的。
+        - 避免走极端，能容他人对己之伤害。
+        - **Moderation**. Avoid extremes; forbear resenting injuries so much as you think they deserve.
+    - {{[[TODO]]}} #[[整洁]] 不容忍身体、衣着、居所的不洁。
+        - 保持身体、衣服、住所的整洁。
+        - **Cleanliness**. Tolerate no uncleanliness in body, cloaths, or habitation.
+    - {{[[TODO]]}} #[[宁静]] 不为琐事，或为常见或不可避免的事故所扰。
+        - 不因小事或者不可避免的平常事而心烦意乱。
+        - **Tranquillity**. Be not disturbed at trifles, or at accidents common or unavoidable.
+    - {{[[TODO]]}} #[[贞洁]] 除了为了健康或繁衍后代，很少使用房事，决不因情欲使自己或他人的安宁或名誉受到钝化、虚弱或伤害。
+        - 控制情欲，避免伤害身体或者损害自己或他人的安宁与名誉。
+        - **Chastity**. Rarely use venery but for health or offspring, never to dullness, weakness, or the injury of your own or another's peace or reputation.
+    - {{[[TODO]]}} #[[谦卑]] 效法耶稣和苏格拉底。
+        - 效法耶稣和苏格拉底。
+        - **Humility**. Imitate Jesus and Socrates.
+- [[Day Start]] 10:54
+- Daily Tasks
+    - {{[[TODO]]}} 高铁去杭州
+    - {{[[TODO]]}} 开车去杭州国大见[[月小刀]]
+    - {{[[TODO]]}} 车搭电
+        - {{[[TODO]]}} 去临平一院
+            - {{[[TODO]]}} 开药
+            - {{[[TODO]]}} pcr
+    - {{[[TODO]]}} 准备#[[元中文]]ppt 
+    - {{[[TODO]]}} 下午把明天参加平常山房讲座的名单统计后告诉[[叶骥]]
+    - {{[[TODO]]}} #[[Jonas]]篮球课
+        - {{[[TODO]]}} #[[Seven]]带他去
+    - {{[[TODO]]}} 走1万步
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - #[[Edit Later]]
+            - 写写高铁的选座，为何选D
+            - [[吴兆南]] 和 [[魏龙豪]] 的相声
+            - 
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

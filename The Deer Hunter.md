@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Michael Cimino]]
+        - Writer:: [[Michael Cimino]] [[Deric Washburn]] [[Louis Garfinkle]]
+        - Cast:: [[Robert De Niro]] [[Christopher Walken]] [[John Cazale]]
+        - Year:: [[1978]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0077416
+    - **Plot Summary:** An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FCYABTsO_ks.pdf?alt=media&token=36a2e19c-709a-4ad7-a33e-8bd08f5fdc77}}

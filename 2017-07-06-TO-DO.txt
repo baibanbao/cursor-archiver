@@ -1,0 +1,14 @@
+---
+title: 20170706 Todo
+app: tool/todo
+status: draft
+date:  2017-07-06 14:00
+---
+- [x] Write 3x 15m tomato clock
+- [x] Reading 10 pages
+- [x] Daily update
+- [x] update jianshu
+- [x] update wangpei.me
+- update baibanbao.org
+- [x] update wechat public 
+- [x] Drive to Shanghai safely

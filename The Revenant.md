@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alejandro G. Iñárritu]]
+        - Writer:: [[Mark L Smith]] [[Alejandro G Iñárritu]] [[Michael Punke]]
+        - Cast:: [[Leonardo DiCaprio]] [[Tom Hardy]] [[Will Poulter]]
+        - Year:: [[2015]]
+        - Genre:: #Action #Adventure #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1663202
+    - **Plot Summary:** A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F9_PPUnHnsV.pdf?alt=media&token=ed687371-f1d0-4676-88cf-9e804d5bed08}}

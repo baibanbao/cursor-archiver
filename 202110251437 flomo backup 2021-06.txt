@@ -1,0 +1,310 @@
+  #flomo
+ 
+  flomo · 浮墨笔记 body { background:#FAFAFA; } .memos { width:600px; margin:0 auto; } .memos h1 { margin-top:30px; } .memo { margin:20px 0; background:#FFF; padding:20px; border-radius:6px; } .memo:hover { box-shadow: 0px 2px 16px #DDDDDD; } .memo .time { color:#8D8D8D; font-size:12px; } .memo .content { color: #323232; font-size: 14px; } .memo .content p { line-height:1.8; min-height:20px; margin:0; } .memo .content ul, .memo .content ol { padding-inline-start: 20px; margin: 0; } .memo .content li { line-height: 1.8; } .memo .files img { width:100%; border:1px solid #E6E6E6; border-radius: 4px; margin:6px 0; } 
+
+202106 @ flomo
+==============
+
+2021-06-04 00:16:49
+
+我需要做的：
+
+祷告
+
+好好休息
+
+戒掉咖啡\\茶
+
+明天不看电影了，在家修正
+
+保持喜乐
+
+必要时就医
+
+如果是房颤，期待48小时内自行转窦
+
+2021-06-04 00:15:15
+
+https://www.medtronic.com/cn-zh/your-health/conditions/atrial-fibrillation-afib.html
+
+这个网站真棒
+
+2021-06-04 00:08:02
+
+心房颤动
+
+健康知识普及系列
+
+疾病知识
+
+健康心脏的工作方式
+
+心脏是一台泵血的“发动机”，它将血液输送到肺进行气体交换，然后再将充满氧气的血液“泵”向全身各器官以维持生命。它也是一台有节律的“精密的仪器”，由具有精确协调的“电路系统”来启动和维持心脏正常而有节律的跳动。
+
+心脏分为左、右心房和左、右心室。位于右心房上部的窦房结规律地发放脉冲指令。电信号在房室结发生短暂延搁后，通过传导系统到达整个心脏，使心脏产生同步协调的收缩。
+
+窦房结每发生一次冲动，心脏就跳动一次，在医学上称为“窦性心律”。它是人体正常心律，频率在每分钟60-100次。
+
+什么是心房颤动
+
+心房颤动简称房颤，是临床上最常见的一种持续性心律失常。
+
+房颤时，心房失去了正常有效的收缩功能，处于快速紊乱的颤动状态，频率可以快到300-600次/分钟，心室跳动快速而不规律，可达到100-200次/分钟。
+
+atrial fibrillation
+
+心房颤动的发病现状
+
+房颤是一种常见的心律失常，房颤的发病率随着年龄增加而增高。大约1%的患者年龄<60岁，而75-84岁年龄组的发病率高达12%1。
+
+房颤的实际发病率可能更高，因为部分患者症状不明显未接受诊治。如果没有得到适当的治疗，房颤可导致严重并发症，给家庭和社会带来沉重负担，房颤已成为日益严重的公众健康问题。
+
+房颤导致发生卒中的风险增加5倍,死亡率增高2倍2
+
+与房颤相关的卒中较非房颤相关的卒中更严重3，房颤导致发生心衰的风险增高3倍4-6,发生痴呆 的风险增高2倍7
+
+心房颤动的病因以及诱因
+
+常见病因：
+
+高血压病、心脏瓣膜病、甲状腺功能异常、心脏外科手术后、心肌病、冠心病等；
+
+随年龄增长患病率增高；
+
+长期大量饮酒会增加房颤的风险；
+
+其他诱因：劳累、情绪激动、长期精神紧张、咖啡因、缺氧、电解质或代谢失衡、严重感染及某些药物影响等。
+
+心房颤动的分类
+
+根据房颤的发作时间分类：
+
+阵发性房颤: 房颤发作持续在7天内，多数为48小时之内，可自行转复为窦性心律。
+
+持续性房颤: 房颤发作持续7天以上,需要药物或电击才能转复为窦性心律。
+
+永久性房颤: 不能自行终止或终止后又复发的。
+
+根据房颤的病因分类：
+
+瓣膜性房颤: 风湿性心脏瓣膜疾病、心脏瓣膜置换或成形术后的房颤。
+
+非瓣膜性房颤: 不合并风湿性心脏瓣膜病变、未接受机械或生物瓣膜置换以及未接受瓣膜成形术的房颤。其中，发病年龄小于60岁，临床或心脏超声显示未有心肺疾病证据的房颤为特发性或孤立性房颤。
+
+心房颤动有哪些症状？
+
+常见表现：心慌、心悸、胸闷、气短、头晕、乏力
+
+严重表现：血压下降、呼吸困难、端坐呼吸等急性心功能不全等症状部分患者房颤发作时，可以没有明显自觉症状。
+
+心房颤动的危害及对生活的影响
+
+房颤本身并不可怕，但房颤引起的脑卒中、心功能恶化却是病人致死、致残的重要原因。
+
+房颤造成患者心悸、胸闷、头晕，甚至晕倒等，导致体力、生活质量明显下降。
+
+房颤会诱发或加重并存心脏疾病，导致心衰、肺水肿、心绞痛、休克、猝死等。
+
+房颤最严重的问题是会导致血栓栓塞。房颤患者脑卒中发生率是健康人5倍2。房颤时心房丧失收缩功能，血液容易在心房内瘀滞而形成血栓。这些血栓随时可能掉下来随着血液循环到全身各处，一旦“卡”在某处就会引起血管堵塞，造成肢体动脉、肠系膜动脉，甚至脑动脉栓塞，轻者致残，重者导致死亡。
+
+需要频繁就医，开支显著增加。
+
+心房颤动的诊断
+
+房颤的诊断并不困难，根据患者发作时的心电图检查和临床表现即可确诊。房颤时，心电图表现为心脏不规律的跳动。
+
+为了了解房颤的病因或明确是否已有并发症及其危险因素，需要做一些相关检查：
+
+验血：查明可能造成房颤的其他病症，如甲状腺功能异常等；
+
+X光胸片：检查心脏是否增大或是否存在肺部疾病；
+
+超声心动图：检查心脏瓣膜结构和功能是否异常，以及心脏内有 无血栓；
+
+心脏CT：可以进一步明确心房内有无血栓；
+
+24小时动态心电图(Holter)：可以记录症状出现时的心律/心率情况，明确是否有房颤发作以及房颤发作持续时间。
+
+心房颤动患者的生活注意事项
+
+戒烟；
+
+限制饮酒；
+
+限制或不用含咖啡因的物质，如茶、咖啡、可乐及一些非处方药；
+
+树立健康的人生观，时刻保持愉悦的心情，心境平和，乐观开朗，避免情绪激动；
+
+生活作息有规律，避免熬夜；
+
+谨慎服用某些止咳药或感冒药，其中可能含有刺激物，这些物质可能促进不规则心律。服用前应当询问医生或阅读说明书看是否适合自己；
+
+房颤多由心脏病或其他因素所致，因此，防治心脏病和其他因素是预防房颤发生的关键。
+
+注释：
+
+Wolf PA,Benjiamin EJ, Belanger AJ, et al. Secular trends in the management of AF.: The Framingham Study. Am Heart J. 1996;131:790-5
+
+Kannel WB, Wolf PA, Benjiamin EJ, et al. Prevalence, incidence, prognosis, and predisposing conditions for AF.: population-based estimates. Am J Cardiol. 1998;82:2N-9N
+
+Miller PS,Andersson FL, Kalra L. Are cost benefits of anticoagulation for stroke prevention in AF. underestimated? Stroke.2005;36:360-6
+
+Wang TJ, Larson MG, Levy D, et al. Temporal relations of AF. and congestive heart failure and their joint influence on mortality: the Framingham Heart Study. Circulation.2003;107:2920-5
+
+Krahn AD Manfreda J, Tate RB, et al. The natural history of AF.: incidence, risk factors, and prognosis in the Manitoba Follow-Up Study. Am J Med. 1995;98:476-84.
+
+Sterward S, Hart CL, Hole DJ, et al. A population-based study of the long-term risks associated with AF.:20-year followup of the Renfrew/Paisley study. Am J Med. 2002;113:359-64
+
+Ott A, Breteler MM, de Bruyne MC, et al. AF. and dementia in a population-based study. The Rotterdam Study. Stroke.1997;28:316-21
+
+温馨提示
+
+本网站内容仅为相关疾病、疗法的健康科普，如若涉及具体疾病的诊断、治疗、康复、急救等，请务必前往专科医院就诊，以医务人员的专业意见为准。涉及医疗器械的具体功能、性能、注意事项等相关信息的，请以其注册文件等相关文件信息为准。
+
+2021-06-03 23:48:34
+
+房顫 (AFib) 小知識
+
+需要知道:
+
+4\. 中風的風險
+
+5\. 房顫的治療
+
+6\. 房顫患者如何更好地生活
+
+1\. 什麼是房顫?
+
+2\. 房顫有什麼症狀? 3. 誰會患上房顫?
+
+1\. 什麼是房顫?
+
+房顫(心房纖維性顫動， 英文 Atrial Fibrillation)讀作 A•tre•al fi•bril•LA•shun，簡稱 AFib。
+
+房顫是最常見的心跳(或稱為心律)異常類型。它讓你的心跳變得沒有規律或不齊。如果你有
+
+房顫病史，你的心跳通常比正常人要快。房顫可以是一過性的，也可以持續很長一段時間。不
+
+規律的心跳讓血液在心臟裡盤旋積聚，並形成血栓。
+
+2\. 房顫有什麼症狀?
+
+很多人根本不知道自己有房顫，因為他們沒有任何症狀。事實上，除非心跳過快或血壓速降，
+
+房顫很少需要緊急醫治。絕大多數患有房顫的病人都能保持正常生活。
+
+有些人會有症狀。最常見的症狀是能感覺自己的心臟在搏動或者劇烈跳動(通常叫做心悸)。 它也被人形容為好像胸部在抖動或著心跳漏了一拍這種感覺。這些感覺都是由快速或不規律的 心跳引起的。
+
+以下是其他常見的房顫症狀。你可以用 A-F-I-B 來記憶。
+
+焦慮 乏力 不規律的心跳
+
+呼吸問題
+
+ Anxious Fatigue Irregular heart beat (感到顫抖、出汗、頭暈)(感到疲倦、虛弱、暈厥) (劇烈心跳或心悸)
+
+Breathing problems (感到胸悶氣短)
+
+ Page 1 of 2
+
+3\. 誰會患上房顫?
+
+房顫在以下患者中容易發生:
+
+• 高血壓患者
+
+• 之前有過心肌梗死病史 • 患有心臟瓣膜疾病
+
+房顫增加中風的機率因為房顫導致血栓形成。不規律的心跳使血液在心臟裡積聚進而形成血栓
+
+。如果這些血栓脫落，它們會隨血液流到腦子裡導致中風。不過它引發中風的機率很低。讓健
+
+康顧問評估你個人的中風風險因素這點很重要。喜聞樂見的是現在有藥物可以降低房顫患者發
+
+生中風的風險。
+
+5\. 房顫的治療
+
+有很多藥物或非藥物手段可以治療房顫:
+
+• 有的藥物可以減慢心率(心率控制)或者使你的心跳節律回复到正常(心律控制)。
+
+• 有的藥物可以預防血栓的形成並且降低中風的風險。
+
+• 電復律是一種對心臟簡單且安全的“電擊”，能讓心臟回复正常節律。
+
+4\. 中風的風險
+
+6\. 房顫患者如何更好地生活
+
+• 嚴格遵照醫師指導吃藥。
+
+• 如果你有高血壓，請好好控制你的血壓狀況。
+
+• 如果你白天總想睡覺、或者很容易無意識地睡著、或者睡覺時經常打鼾且鼾聲很響，那你 要去檢查一下有沒有睡眠呼吸暫停症。如果發現並治療了睡眠呼吸暫停症，你的生活質量 會提高。
+
+• 每天運動30分鐘。
+
+• 多多了解房顫和房顫的治療⸺知識就是力量。更多資訊請參考我們的其它材料和該網站上 的信息www.afibinnovationprogram.com。
+
+2021-06-03 23:16:04
+
+domain names
+
+register banbao.org
+
+a hugo based baibanbao mirror
+
+delete all the names except
+
+banbao.org
+
+jonaswang.com
+
+kjv.life
+
+haozhongwen.com
+
+wangpei.net
+
+wangpei.me
+
+baibanbao.net
+
+huanglingyun.com
+
+peiseven.com
+
+or register
+
+pei7jo.com
+
+Delete the following
+
+movie.camp
+
+writing.camp
+
+write.to
+
+read.to
+
+act.to
+
+qiuy.in
+
+jonas.wang
+
+jo.camp
+
+gc.camp
+
+and others
+
+only register
+
+.com
+
+.net
+
+.me if it’t really me

@@ -1,0 +1,7 @@
+- Author:: [[ctext.org]]
+- Full Title:: 红楼梦 : 甄士隐梦幻识通灵　贾雨村风尘怀闺秀 - 中国哲学书电子化计划
+- URL:: https://ctext.org/hongloumeng/ch1/zhs
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 其中只不过几个异样女子，或情，或痴，或小才微善：我纵然抄去，也算不得一种奇书。

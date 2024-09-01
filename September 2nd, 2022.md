@@ -1,0 +1,197 @@
+- 编剧故事营170个伟大的电影剧本、
+    - [[Titanic]]
+    - [[The King's Speech]]
+    - [[Toy Story]]
+    - [[Toy Story 3]]
+    - [[Silence]]
+    - [[The Lion King]]
+    - [[Chinatown]]
+    - [[Alien]]
+    - [[The Lord of Rings]]
+    - [[Big Fish]]
+    - [[Terminator 2]]
+    - [[Pulp Fiction]]
+    - [[Zootopia]]
+    - [[Inception]]
+    - [[Annie Hall]]
+    - [[Gravity]]
+    - [[Saving Private Ryan]]
+    - [[Rear Window]]
+    - [[Little Miss Sunshine]]
+    - [[Groundhog Day]]
+    - [[The Sixth Sense]]
+    - [[The Departed]]
+    - [[Jurassic Park]]
+    - [[Memento]]
+    - [[Gone Girl]]
+    - [[Notting Hill]]
+    - [[The Room]]
+    - [[Dunkirk]]
+    - [[300]]
+    - [[The Big Short]]
+    - [[Steve Jobs]]
+    - [[Three Billboards]]
+    - [[Black Mirror]]
+    - [[When Harry Met Sally]]
+    - [[Roma]]
+    - [[Pretty Woman]]
+    - [[Gladiator]]
+    - [[L.A. Confidential]]
+    - [[Life of Pi]]
+    - [[Misery]]
+    - [[Children of Men]]
+    - [[Stagecoach]]
+    - [[Psycho]]
+    - [[Goodfellas]]
+    - [[First Blood]]
+    - [[The Deer Hunter]]]
+    - [[Kramer vs. Kramer]]
+    - [[All the President's Men]]
+    - [[Midnight Cowboy]]
+    - [[Broadcast News]]
+    - [[Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb]]
+    - [[Moonstruck]]
+    - [[A Beautiful Mind]]
+    - [[The Princess Bride]]
+    - [[Adaptation.]]
+    - [[Fargo]]
+    - [[The Usual Suspects]]
+    - [[A Clockwork Orange]]
+    - [[Chernobyl]]
+    - [[Requiem for A Dream]]
+    - [[Once Upon A Time in America]]
+    - [[Mr. and Mrs. Smith]]
+    - [[Terms of Endearment]]
+    - [[The Hangover]]
+    - [[A Separation]]
+    - [[The Big Lebowski]]
+    - [[Magnolia]]
+    - [[Pan's Labyrinth]]
+    - [[Avatar]]
+    - [[Strangers On A Train]]
+    - [[Monsters Inc.]]
+    - [[Joker]]
+    - [[Vertigo]]
+    - [[The Birds]]
+    - [[Vanilla Sky]]
+    - [[The Revenant]]
+    - [[The Color Purple]]
+    - [[Amistad]]
+    - [[Doubt]]
+    - [[King Kong]]
+    - [[Doctor Zhivago]]
+    - [[Les Miserables]]
+    - [[Soul]]
+    - [[Bad Lieutenant]]
+    - [[Saving Mr.Banks]]
+    - [[Barton Fink]]
+    - [[Touch of Evil]]
+    - [[Dune]]
+    - [[Don't Look Up]]
+    - [[West Side Story]]
+    - [[Coda]]
+    - [[Memoirs of A Geisha]]
+    - [[Schindler's List]]
+    - [[Catch Me If You Can]]
+    - [[Dances with Wolves]]
+    - [[Broken Arrow]]
+    - [[Air Force One]]
+    - [[The Curious Case of Benjamin Button]]
+    - [[The Shawshank Redemption]]
+    - [[It's a Wonderful Life]]
+    - [[Con Air]]
+    - [[Shakespeare in Love]]
+    - [[North by Northwest]]
+    - [[To Kill a Mockingbird]]
+    - [[On the Waterfront]]
+    - [[Tootsie]]
+    - [[Pulp Fiction]]
+    - [[The Apartment]]
+- [[Gratitude]]
+    - 感恩#[[Roam Research]]，新插件让我如虎添翼，尤其是IMDb Importer #编剧故事营
+        - https://github.com/mlava/imdb
+    - 感恩[[王树义]]老师的无私分享
+    - 感恩那些无私提供剧本下载的网站，比如：https://www.scriptslug.com/ #编剧故事营
+    - 感恩 #[[Seven]]对于家庭的付出
+    - 感恩 #[[Jonas]]的老师、同学们没有对他歧视
+    - 感恩上海这一轮没有疫情
+    - 感恩我现在可以恢复锻炼，并且每天走路1万步 #[[康健]]
+- [[Day Start]] 15:26
+    - 今天的任务记心间，不要乱跑乱动的
+    - 实现目标为第一原则
+    - Get Things Done 翻译成：**把事办了**
+- Daily Tasks
+    - {{[[DONE]]}} 送#[[Jonas]]上学和放学
+    - {{[[DONE]]}} 来办公室做核酸
+    - {{[[TODO]]}} 写一篇文章
+        - {{[[TODO]]}} 写父与子系列日更
+            - {{[[POMO]]: 15}}  {{word-count}}
+                - 为了让日更的主题相对聚焦，我准备写100天的父与子系列。就让我当那个秃顶的卜劳恩吧，只要是跟父与子有关的内容我都可以写，无关的内容不在这里写。
+                - 儿子的假期
+                    - 这是上海解封后第一个暑假，虽然从3月15日起，已经停课在家，但假期为孩子们带来放松和愉悦。
+                    - 由于各地防疫政策变来变去，我们没有回北方的老家。7-14天的隔离，不是正常人可以忍受的，况且我们去过方舱，如果到了外地，还不知怎样被揉搓。6月份，我就从返回杭州的朋友那里，看到了一张杭州社区要求填写的登记表，第一条就是问有没有被感染过。其实这个问题，主要是测试填表人的态度。我们在大数据面前早已无处遁形，有没有阳性过，在数据库里都可以查到。8月初，准备进京参加一个策划会，一看北京健康宝是红码，这证实了我的判断。
+                    - 正如我在六月份就作出一个断言：出舱人士呆在上海最安全。一来因为上海感染的人太多，官方数字就超过60万，歧视不过来；二来，毕竟上海是大城市，文明程度相对高一些，从上到下，略懂一点科学。这要是到了小县城到哪里说理去。
+                    - 于是，整个暑假，我们呆在上海。
+                    - 儿子参加了一个夏令营，地点在郊区，是当年知青们插队下乡的地方。
+                    - 这个夏令营的组织者，也是一位熟人，且有相同或相似的信仰背景。从去年的效果看，比较安全，内容丰富，且收费合理。但是，没想到，今年有一些捣浆糊。
+                    - 首先，孩子们吃得很差。难怪
+    - {{[[TODO]]}} 根据需要写好中文的招生贴
+    - {{[[TODO]]}} 晚上7点上TY老师的网课
+        - {{[[TODO]]}} 6:50PM 登录网站
+            - {{[[TODO]]}} 向#[[Seven]]要密码
+            - {{[[TODO]]}} 测试一切正常后，交到元宝手里
+            - {{[[TODO]]}} 7:30PM下课
+    - {{[[TODO]]}} 录制半小时的红楼梦
+    - {{[[TODO]]}} 今晚要电话问候楠楠，并且给出叮嘱
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+                - 好中文第八期招生大纲，每个字都是新鲜的
+                    - 他们说写作最好不要面对一张白纸，然而对我来说，白纸是我所需要的，因为我就是要在一张纸上，写最美的诗篇，画最美的图画。
+                    - 这是好中文第八期的招生贴，已经拖了很久很久，以至于我都怀疑我能否把它写出来。但是，要知道，所有的等待都是蓄力的过程，深渊不能分两次跨过，所以蓄力的过程要长一些。准备，更充分一些，再充分一些。
+                    - 我要准备的不仅仅是讲课的内容大纲，还有前面热情洋溢的话，一个倡导好中文的人，首先要写得一手好中文，这才合乎中道。如果是一个书法班，招生海报却用用歪歪扭扭的字，怎么能指望大家都来报名呢？
+                    - 你的一切都应当是自证明的，无论是文风，排版，风格，视觉效果。否则，只会砸自己的牌子而已。
+                    - 所以，从现在起，认认真真地写好每一个字，造好每一个句子，一篇文章没有多余的段落，一段文字没有多余的句子，一个句子没有多余的词语，这才是好中文的自我说明。
+                    - 其余一切的广告，名人和学员推荐，反倒是最不重要的。因为，没有人真的会看那玩意，人们只需要被一个点打动就足够了。
+                    - 好的文字是最好的推销广告，平庸的文字拒人千里之外，坏文字早就把潜在客户给吓跑了。
+                    - 还是那句话，要一个字一个字把自己救出来，一笔笔，一笔笔，把自己从深坑里挖出来。
+                    - 时间还站在我旁边，但机会并不总在那儿，如果不奋起，那么就只能看到自己的失败。
+                    - 结合 [[tb8]] 进行写作，你并没有任何特殊之处，你如果不努力，也会出局。初学者所犯的错误，你也在常犯。只是你能敏锐地意识到这个问题，可以快速解决。
+                    - 写在写先，这是万年不变的理。
+                    - 重器轻用，这次又将显出魅力。
+                    - 番茄钟25分钟太长，超过了我的工作节律时间，应该降为15分钟比较合适，慢慢再增加到20分钟
+                - {{[[POMO]]: 15}}  {{word-count}}
+                    - 好中文为什么重要，因为语言决定我们的思维。好的写作风格，可以让我们形成更好的思维，从而进入一个良性循环。相反，糟糕的风格，必然会带来混乱的思维。
+                    - 我们生活在一个封闭的空间里，但是我们并没有失去想象力。什么是想象力，想象力就是超越自己所生活的此时此地，而能够抵达另外一个时空。这是人类才有的一种能力。正因为想象力的存在，我们才能脱离自己的局限性，到达一片辽阔之地。
+                    - 好中文的作用之一就是恢复你的想象力，让你在一篇更广阔的天地里驰骋。
+                    - 好中文是长期主义的胜利，是第一性原则的应用，是心智文采的结合，是深渊前的蓄力一跳。
+                    - 
+- [[Daily Reading]]
+    - 今天读买的盗版书台湾译《复眼的映像》，感觉比大陆翻译得通顺雅正，那我就不退货了，但是也要记住以后坚决不在拼多多买书。 #教训
+- ---
+- 编剧故事营第六期课件整理  #编剧故事营
+    - 课程列表
+        - mc6e01 [[Forrest Gump]]
+        - mc6e02 [[In the Heat of the Sun]] 
+        - mc6e03 [[Itsuka dokusho suruhi]]
+        - mc6e04 [[About Her Brother]]
+        - mc6e05 [[Departures]]
+        - mc6e06 [[Ballad of a Soldier]]
+        - mc6e07 [[Hitchcock/Truffaut]]
+        - mc6e08 [[The Castle of Sand]]
+        - mc6e09 [[Ikiru]]
+        - mc6e10 [[Seven Samurai]]
+        - mc6e11 [[Five Easy Pieces]]
+        - mc6e12 [[I, Daniel Blake]]
+-  整理了[[101个伟大的电影剧本]] #mc7 #编剧故事营
+- [[September 2nd, 2022]] at 03:20
+    - 夜深还不想睡，到底在等待什么
+- [[September 2nd, 2022]] at 03:21
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FMGxNpJEfTt.jpeg?alt=media&token=73feede2-6769-4663-b009-637695cf5b9c)
+- [[September 2nd, 2022]] at 03:22
+    - 怎样把RR用好？重器轻用依然是第一原则
+- [[September 2nd, 2022]] at 03:23 #[[Jonas]]
+    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FCMGPXeWxsk.31607FE4-5024-4DBB-88F5-F5335FE3335F.MOV?alt=media&token=dd34340f-7ad5-40a4-b206-4df6df46c880}}

@@ -1,0 +1,973 @@
+﻿请把下面的内容总结成ppt的slides，列出条目，言简意赅。谢谢。
+
+- 上周四读完《复眼》，对黑泽明和桥本忍的关系有了基本的了解，这里总结一些桥本忍的工作特点：
+
+- 耐心与毅力。他的第一个电影剧本以自己亲身经历过的伤病军人疗养生活为主题，创作足足花了我三年多时间。疾病缠身的他可不像有些人靠灵感熬夜挥笔而就作品。
+
+- 2.爱用比A4纸略大的胶合板制的纸夹作为移动书房用具。它所有的作品都诞生在这个板子上，适合各种场合使用，尤其在使用交通工具的时候，他依然能让图板能发挥其巨大的威力。他是在图板里夹上各式各样的纸，先在上面打草稿，完稿后再才会将它誊写在稿纸上。这样能保证自己在有写作的意愿的时候不受场所和时间的限制。
+
+- 3.写作时在心流状态中忘记周遭的一切。
+
+- 4.不写日记，但对重要的事件，他能像照相机一样工作把当时的场景记在脑中。
+
+- 5.把剧本作为设计书来写作，将之作为一门手艺，永不停歇地修炼（避免只对剧本表面做些修饰装潢，雕词琢句，一味注重其作为读物的有趣性），形成自己的“直尺”与“圆规”。
+
+- 6.在闭关写作时极度忘我投入，比如能在客房里待一个月，连庭院都没去过。
+
+- 7.对细节几近疯狂的严苛。因误食自带中饭与否这一问题，宁可废掉三个月的辛劳作业，否定自己的剧本。
+
+- 8.善于学习。比如最初他觉得合作写稿过程中黑泽明总是优哉游哉，最幸苦的活都落到自己头上，但一旦看到黑泽明为每个角色所做的细致有份量很足的角色分析和定型画稿时，他迅速看到了同伴的投入、努力和天赋，生出要超越他的念头。所以在写完《七武士》，开始实践自己的“山手线方式”，也就是在自己每天要乘坐的交通线上，每次坐下后开始观察起对面坐着的人，进行彻底观察，将他的脸型特征连同体态动作都一并收入记忆。桥本还会设想这个人的种种情境和他的各种喜怒哀乐，会跟对方一起下车，尾随他到检票口。桥本自己不出站，但我会目送着此人的背影，在心底按下快门，把一个个人物形象和站台链接起来，收藏在大脑的材料库里。这个储备库花费的只不过是一些边角余料的时间，使用起来却是便利的至宝。
+
+- 9.看过别人的剧本，他就不会再去看电影，对时间的分配有他自己的原则。
+
+ChatGPT
+
+Slide 1: 桥本忍工作特点总结
+
+读完《复眼》
+
+黑泽明与桥本忍合作关系
+
+Slide 2: 耐心与毅力
+
+首个剧本：三年创作
+
+以亲身经历为主题
+
+无依靠灵感急就
+
+Slide 3: 创作工具
+
+A4纸略大的纸夹
+
+移动书房用具
+
+适合各种写作场景
+
+Slide 4: 心流状态写作
+
+忘记周遭一切
+
+全神贯注创作
+
+Slide 5: 记忆力如照相机
+
+不写日记
+
+重要事件记忆准确
+
+Slide 6: 剧本即设计书
+
+手艺般修炼
+
+形成个人“直尺”与“圆规”
+
+Slide 7: 投入闭关写作
+
+极度忘我
+
+客房闭关一个月
+
+Slide 8: 对细节严苛
+
+几近疯狂的完美主义
+
+废稿三个月
+
+Slide 9: 善于学习与观察
+
+黑泽明合作感悟
+
+“山手线方式”人物观察
+
+材料库的建立
+
+Slide 10: 时间管理
+
+不看已读剧本的电影
+
+有原则的时间分配
+
+[结束]
+
+请把下面的内容变成ppt的slide，言简意赅。
+
+ChatGPT
+
+Certainly, could you please provide the content you want to be turned into PowerPoint slides?
+
+20231108
+
+- 有一部西班牙的电影短片《火蝴蝶 》（**[MARIPOSAS DE FUEGO](http://www.youtube.com/watch?v=qatdyiQ47F8)**
+
+- 是我近期的最爱。今天我用了三个小时，边看片，边把它的剧本整理了出来。发给你，供你也参考一下。
+
+- 通过阅读这个剧本，你会发现，好的短片（微电影）剧本，具有以下特点：
+
+- 1、用影像说话。大电影也是主要用视觉说话，但中间的段落，可以是大段的对话。而微电影的容量决定了，它必须以视觉为中心。以对白为主的，那不叫微电影，那叫独幕剧。
+
+- 2、用象征手法。微电影多用象征、隐喻的手法，不像大电影那样必须走现实主义道路，说到底，微电影大都是寓言，超现实主义居多。比如《火蝴蝶》中关于火蝴蝶的画面和语言的隐喻。
+
+- 3、人物不能超过 4 个。以 1-3 人为最佳，超过 4 个主要人物的话，神仙来了也没法拍。
+
+- 4、注重留白。不能跟中国的电视剧那样，一点空隙都不留。微电影更注重弦外之音，跟中国画似的，注重留白。例如《火蝴蝶》中，男女之间怎么认识的，赛义德的父亲怎么死的，等等，都留有空白。最妙的是，爱丽丝问赛义德，面包牛奶是哪儿来的？赛义德没有傻乎乎地说：” 我从超市里偷的 “，而是耸耸肩，笑一笑。爱丽丝顿时明白了，也跟着开怀大笑起来。
+
+- 5、一页剧本约等于一分钟的画面。这是好莱坞的行规。我换算了一下，1 分钟的画面大概相当于 200 多个汉字，也就是说，15 分钟的微电影，剧本在 3000-4000 字左右就够了。
+
+ChatGPT
+
+Slide 1: 西班牙电影短片《火蝴蝶》剧本分析
+
+日期: 2023年11月8日
+
+链接: MARIPOSAS DE FUEGO
+
+Slide 2: 观看体验
+
+个人最爱短片
+
+三小时剧本整理
+
+Slide 3: 微电影剧本特点
+
+以视觉叙事为主
+
+对话次于影像
+
+Slide 4: 象征与隐喻
+
+象征手法运用
+
+超现实主义倾向
+
+Slide 5: 人物数量限制
+
+最佳人物数量：1-3人
+
+限制上限：4人
+
+Slide 6: 留白艺术
+
+弦外之音的重要性
+
+空隙留白的技巧
+
+Slide 7: 《火蝴蝶》案例分析
+
+人物之间的未述故事
+
+非言语的沟通展现
+
+Slide 8: 剧本与时间关系
+
+好莱坞行规：1页=1分钟
+
+15分钟微电影：3000-4000字剧本
+
+[结束]
+
+请把下面的内容整理成ppt的slide，要详细一点，谢谢。
+
+- 我们今天要谈的一种文体叫做“剧本”，英文叫Play，它涵盖了传统的戏剧剧本stage play，以及电影和电视剧剧本。我们今天主要讲的是传统意义上的戏剧剧本。
+
+- 我们今天主要谈的是电影剧本。剧本在英文里叫Play， 在舞台上演的叫stage play，在银幕上放的叫screenplay，有时也叫script, 电视剧有tv script，游戏叫game script。程序员界的script也是从这里借鉴的，javascript，就java语言编写的脚本。
+
+- 电影剧本和剧本的关系，就是一个球的表面积与球体之间的关系。但无论怎样，我们都必须先研究这个球。
+
+- 一个从没有给人看过牙的人，写一本关于牙医的术，恐怕是不能让人信服的。好在，我在剧本这个行业，还涉猎过一些。吃过猪肉，也见过猪跑。
+
+- 如果一位律师，声称自己从来不关心刚刚颁布实施的法律，也不关心最高法出台的司法解释，那么一家公司在聘请他做法律顾问的时候，就会犹豫；如果一位医生声称自己系出名门，但只接受医学院教材传授的内容，不去看最新的医学成果，也懒得跟同行去交流，那么病人对他的医术也不会那么放心。
+
+- 同样的道理，如果一个编剧，声称他不看这两年电影院上演的电影，一心沉浸在黑白片甚至默片的世界里，那么纵然他满腹经纶，头头是道，大家也会对他剧本的有效性心存疑虑。
+
+- 在讲剧本基础之前，我们要先澄清一些概念。
+
+- 作为一个为初学者（多半是零基础学习者）准备的课程，在课程结束时，一个合理的目标是你能用一两门流行的编程语言写一些实用的小程序，并以此技能作为打开软件行业大门的钥匙。
+
+- 作为一个剧本初学者，我想你们其中大部分应该是零基础学习者，在学习的时候，制定一个合理的、切实可行的目标是十分重要的。这个目标因人而异，但我想到的是，你可以编写一个微电影剧本，或者一个短剧剧本，并以此技能作为打开编剧行业大门的钥匙。
+
+- 也有的同学说，我并不想当编剧。我就是希望学会如何看电影，在跟别人讨论的时候，能够一语中的，说到点儿上。如果你是抱着这样的目的，我劝你不要学这门课。这好比，为了更好地欣赏烟花大会，上了一门火箭制造课。不是说不行，是带着这样的目的，你找不到真正的动力。
+
+- 什么是动力？
+
+- 动力就是为生活押上赌注，要么成功而活，要么失败而死。有很多人觉得在网络上跟人辩论老是输，不明白为什么，我平常也不是拙嘴笨腮，为什么说不过他们呢？
+
+- 那是因为跟你隔着屏幕对战的那个人，很可能比你具有更强大的动力。你只是为了逞口舌之快，他可能是在为了生命而战啊。
+
+- 这是监狱培养的网评员。
+
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fm-MLJ_uZ8P.jpeg?alt=media&token=7e93ea0d-03e4-4c93-ae92-4b322aa40534)
+
+- 还有一些网评员并不是监狱出来的，也不是为了要减刑，但他们要捍卫自己的利益，自己的阶级，所以，一点也不允许危险的种子飘向大地。
+
+- 所以，如果你要学习剧本写作，一定要给自己一定的动力。
+
+- {{[[POMO]]: 25}} {{word-count}}
+
+- 如果一位职业编剧故事营多具备的技能看作100分的话，那么编剧故事营基础课的知识含量大约3%，而知识在传导的过程中，难免会有损耗，所以，最终到你手上的知识只有大约1℅。所以，如果抱着上完这门课就可以转行做编剧，是不现实的。要知道，很多编剧专业(又叫戏剧文学)毕业的学生，都不见得一毕业就有剧本写。但如果你的最终你目标是成为一个编剧，无论是作为业余还好，还是作为养家糊口的专业，这门课可以帮你迈出第一步。
+
+-
+
+- 另一个比较切合实际的目标是，在完成学业之后，你可以根据自己的的情况来决定要不要继续在编剧这条路上走下去，走多远，探索多深，是不是真的可以走职业编剧这条路，还是把编剧作为一项工作之中的辅助技能，以及要不要继续参加更高级的培训，比如上罗伯特·麦基的培训班，或者赫尔佐格的恶棍电影学校，那就要看你的选择和造化了。如果你决定将来全靠自学，那么这门课中的思维方法将对你产生巨大帮助。还有一个很实际的作用，可以让你对一些华而不实的课程免疫，从而避免做别人的韭菜。
+
+-
+
+- 编剧的重要性
+
+- 编剧重要因为剧本重要
+
+- 我们常说，剧本剧本，乃一剧之本。无论电影的新技术如何发展，无论新的导演、新的明星如何层出不穷，无论新概念新理论怎样流行，甚至说出圈，在电影行业，有一点是永恒不变的。那就是剧本依然是一切成功电影的基础。一个好剧本可能会被拍坏，但是没有任何一部好电影是烂剧本拍成的。无论是好莱坞，还是横店，电影业界对于好剧本的渴求是一样的。
+
+- 编剧的工作很酷
+
+- 你们可能听说过编剧的生活很苦很累，但任何一个行业都是如此，从总体来说，编剧的行当是很酷的。她可以去很多地方，甚至可以在阿勒泰一边吹着山间的凉风一边工作，基本不受时间空间的限制，她还可以去采风，去片场，到外景地。还可以获得比写文字更高的待遇。更为重要的是，成为一个编剧意味着成为一个创造者，你可以在你创造的宇宙里让一切按照你的意志运转。要恐龙有恐龙，要夏尔郡有夏尔郡。你在现实生活中不能实现的梦想，无法满足的欲望，都可以在电影的光影中得到满足。
+
+-
+
+- If you want to be a screenwriter, you’ll still encounter lots of people who’ll try to discourage you from your dream, and who’ll tell you it’s dumb or impossible. And the only way to overcome that is still to ignore them, stay with your passion, and hit the keyboard.
+
+- 电影剧本的首要目标
+
+-
+
+- The screenwriter’s primary goal is even more specific: The screenwriter must elicit emotion in the person who reads the screenplay.
+
+- 电影剧本的定义
+
+-
+
+- Knowing what a screenplay needs to accomplish is simple; I can tell it to you in one sentence: Enable a sympathetic character to overcome a series of increasingly difficult, seemingly insurmountable obstacles to achieve a compelling desire.
+
+- 学习电影编剧的方法
+
+- 看电影
+
+- Just one more major step before diving into your screenplay: you’ve got to see movies.
+
+- You wouldn’t want to be represented by a lawyer who hadn’t been to law school or who didn’t keep abreast of recent legal decisions and statutes. Well, the film industry isn’t looking for screenwriters who don’t know what’s being produced or who don’t know which of those recent releases have been successful.
+
+- 不看电影的理由
+
+- 没有时间
+
+- 没有余钱
+
+- 有孩子
+
+- 解决方法
+
+- 与家人沟通
+
+- 把看电影当成一项投资
+
+- 每年至少看100部电影
+
+- 看电影的方法
+
+- 有的同学可能会说，看电影，这还用你教吗？谁不会。但你未必真的知道如何更有效地看电影。
+
+- 避免看影评、预告片、评分等等。
+
+- 为了娱乐看电影
+
+- 不要为了报酬看电影
+
+- 哪怕是看一部悲剧，也是大娱乐的一种。
+
+- 记住电影让你感动的节点
+
+- 剧本最后读
+
+- 没有乐趣的事是坚持不久的
+
+- 电影剧本的基本模型
+
+- what if ...
+
+- 如果......会怎样....
+
+-
+
+- {{presentation}}
+
+- 编剧基础1001
+
+- 不看电影的理由
+
+- 没有时间
+
+- 没有余钱
+
+- 有孩子
+
+- 解决方法
+
+- 与家人沟通
+
+- 把看电影当成一项投资
+
+- 每年至少看100部电影
+
+- 看电影的方法
+
+- 有的同学可能会说，看电影，这还用你教吗？谁不会。但你未必真的知道如何更有效地看电影。
+
+- 为了娱乐看电影
+
+- 不要为了报酬看电影
+
+- 哪怕是看一部悲剧，也是大娱乐的一种。
+
+- 记住电影让你感动的节点
+
+- 剧本最后读
+
+- 没有乐趣的事是坚持不久的
+
+- 避免看影评、预告片、评分等等。
+
+- 不忍卒读
+
+- 开场白
+
+- 剧本 play
+
+- 电影剧本
+
+- 戏剧剧本
+
+- 电视剧
+
+- 游戏脚本
+
+- 为什么需要了解现在的剧本
+
+- 给初学者的建议
+
+- 合理的目标
+
+- 充足的动力
+
+- 给自己以动力
+
+ChatGPT
+
+Slide 1: 剧本简介
+
+文体定义：“剧本”概述
+
+英文对应词汇：Play, stage play, screenplay, script
+
+今日焦点：电影剧本
+
+Slide 2: 剧本的种类与相关概念
+
+不同媒介的剧本分类：stage play, screenplay, tv script, game script
+
+编程界的“script”借鉴
+
+Java语言脚本：javascript
+
+Slide 3: 剧本与电影的关系
+
+类比理解：剧本是电影的基础
+
+深入研究“球体”的重要性
+
+Slide 4: 行业洞察与个人经验
+
+剧本写作的可信度
+
+行业洞察：法律与医学比喻
+
+Slide 5: 剧本学习的必要性与现实性
+
+剧本有效性的怀疑
+
+剧本基础概念澄清
+
+初学者的实际目标
+
+Slide 6: 剧本写作学习目标
+
+编写微电影/短剧剧本
+
+开启编剧行业之门
+
+个人兴趣与职业目标
+
+Slide 7: 动力与学习动机
+
+动力的定义与重要性
+
+网络辩论中的动力不对等
+
+学习剧本写作的动力
+
+Slide 8: 剧本课程的现实价值
+
+编剧故事营技能评估
+
+知识传导的损耗
+
+转行成为编剧的现实考量
+
+Slide 9: 学习之后的发展方向
+
+继续学习的决定因素
+
+探索编剧行业的可能性
+
+作为辅助技能或职业发展
+
+Slide 10: 编剧重要性的论证
+
+剧本：一切成功电影的基础
+
+编剧工作的魅力与创造力
+
+成为编剧的意义
+
+Slide 11: 编剧的职业挑战与满足
+
+人们对编剧梦想的质疑
+
+热情与坚持的必要性
+
+编剧作为创造者的满足感
+
+Slide 12: 电影剧本的首要目标
+
+引发读者情感的任务
+
+电影剧本的定义与使命
+
+Slide 13: 学习编剧的有效方法
+
+观看电影的重要性
+
+看电影的理由与挑战
+
+看电影的方法与目的
+
+Slide 14: 编剧基础概念
+
+“What if...”模型
+
+剧本构思与发展
+
+[结束]
+
+把下面的内容用中文总结成ppt的slide，谢谢。
+
+Of course, life being the way it is, some of the others have moved on—passed away or drifted away, so that we’re no longer connected the way we used to be. But for whatever it was that brought us together way back when, you have my thanks.
+
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+
+- I also chose a new screenplay—Avatar—to analyze in detail, along with new scripts to illustrate character categories, character growth, and theme, and charting your screenplay.
+
+- I’ve added an entire chapter on exceptions to the rules, to examine successful screenplays that don’t follow the traditional Hollywood model.
+
+- If you want to be a screenwriter, you’ll still encounter lots of people who’ll try to discourage you from your dream, and who’ll tell you it’s dumb or impossible. And the only way to overcome that is still to ignore them, stay with your passion, and hit the keyboard.
+
+- The wonderful thing about reading these acknowledgments from so long ago is the realization that most of these people are still an important part of my life.
+
+- Of course, life being the way it is, some of the others have moved on—passed away or drifted away, so that we’re no longer connected the way we used to be. But for whatever it was that brought us together way back when, you have my thanks.
+
+- ### New highlights added [[July 11th, 2022]] at 11:40 PM
+
+- 4.   No matter how much new technology can be thrown into a movie, and no matter what new stars or concepts or directors are hot, the foundation of any successful film will always be a good, well-written story. A bad movie can be made out of a good script but never the reverse. Hollywood will always need the screenwriter.
+
+- 7.   The screenwriting process can be broken down into a proven series of steps and stages, which will enable you to achieve a salable, emotionally involving screenplay.
+
+8.   You can be a working screenwriter and live anywhere in the world.
+
+- 9.   You can launch a career as a screenwriter even if you don’t know anyone within a thousand miles of southern California.
+
+And finally:
+
+10. You can make a bundle of money doing all of this.
+
+- ### New highlights added [[July 14th, 2022]] at 4:12 AM
+
+- The screenwriter’s primary goal is even more specific: The screenwriter must elicit emotion in the person who reads the screenplay.
+
+- Knowing what a screenplay needs to accomplish is simple; I can tell it to you in one sentence: Enable a sympathetic character to overcome a series of increasingly difficult, seemingly insurmountable obstacles to achieve a compelling desire.
+
+- Just one more major step before diving into your screenplay: you’ve got to see movies.
+
+- You wouldn’t want to be represented by a lawyer who hadn’t been to law school or who didn’t keep abreast of recent legal decisions and statutes. Well, the film industry isn’t looking for screenwriters who don’t know what’s being produced or who don’t know which of those recent releases have been successful.
+
+- 1.   You don’t have time.
+
+- 2.   You can’t afford it.
+
+- 3.   You have children.
+
+- I know that families can sometimes become obstacles to your screen-writing pursuits. You must sit down with them and explain how important this dream is to you, and that going to see movies isn’t just for fun and entertainment anymore; it’s as important as taking classes would be if you were a real estate appraiser or an architect. At first they’ll look skeptical and whine about being neglected. But the more seriously you take your career, the more seriously they will.
+
+- If you aren’t going to the movies or watching television because you don’t like what Hollywood’s producing these days (a comment I hear frequently), then why do you want to be a screenwriter?
+
+- 1.   Avoid reviews, trailers, and previews. The best way to see a film is with as little knowledge as possible about what will happen, so you can fully experience whatever surprises and emotional peaks the writer intended. Save any reviews or publicity articles until after you see the movie, so you can enter the theater as receptive as possible.
+
+- 3.   See it the first time for fun. Don’t take notes, don’t read along with the script, and don’t even think about the screenplay when you first view a film. Ride the roller coaster the filmmaker created. You can figure out how the movie worked after it’s over.
+
+- 5.   Analyze your emotional reaction. Whenever you become engrossed in a film, ask yourself why. What kept you on the edge of your seat? Fascinating characters? Hilarity? Suspense? Big action? Sex? Romance? Sadness?
+
+When you find yourself distanced from the story, determine the cause of that as well. Is it illogical? Too predictable? Repetitive? Boring? Why? And what would make it more emotionally involving?
+
+- Of the ninety-nine out of a hundred screenplays that can’t be recommended, ninety fall apart in one very basic way: the story concept sucks.
+
+- very story begins with the question What if . . . ?
+
+- What if everything we accept as real were actually a hallucination created by computers that have taken over the world? (The Matrix)
+
+What if a boy discovered he was actually a wizard? (Harry Potter and the Sorcerer’s Stone)
+
+What if a newspaper tycoon’s mysterious dying word was investigated after his death? (Citizen Kane)
+
+- In the vast majority of Hollywood movies, the heroes aren’t simply pursuing something they want: the desires that define their stories are visible.
+
+- So when we learn that the hero’s goal in Monsters vs. Aliens is to unite with a group of monsters to defeat an alien invasion, we can easily imagine what that will look like on the screen
+
+- This visible finish line is what I term the hero’s outer motivation, because achieving it will be outwardly apparent to the audience, as opposed to invisible desires such as acceptance, belonging, revenge, and fulfillment. If I tell you my script is about a hero who wants to fulfill his destiny, you have no idea what is actually going to happen on the screen, or what success for my hero will look like.
+
+- As a screenwriter, you must accept this fact: if you want a career in screenwriting, you have to write movies and TV shows that people want to see. Otherwise you’re writing only for your own personal satisfaction, with no realistic career goals in mind.
+
+ChatGPT
+
+Slide 1: 剧本写作与生活的变迁
+
+感谢过去将我们联系在一起的人和事
+
+生活的不确定性与变化
+
+Slide 2: 剧本分析更新
+
+分析新剧本：《阿凡达》
+
+新增章节：规则的例外
+
+成功非传统好莱坞模型剧本
+
+Slide 3: 成为编剧的挑战
+
+面对否定与挑战
+
+忽略负面影响，保持热情
+
+专注于写作
+
+Slide 4: 感谢与珍惜
+
+回顾旧日致谢人物
+
+珍惜仍在生活中的重要人物
+
+Slide 5: 电影成功的基础
+
+任何成功电影的基石：好故事
+
+电影产业永远需要编剧
+
+Slide 6: 剧本写作的步骤
+
+成功剧本的分阶段步骤
+
+营造情感投入的剧本
+
+Slide 7: 编剧的全球机会
+
+在世界任何地方成为编剧
+
+南加州以外的职业发展
+
+Slide 8: 编剧的财务前景
+
+通过剧本写作赚钱
+
+职业编剧的经济潜力
+
+Slide 9: 剧本的主要目标
+
+唤起读者情感
+
+让人物克服难关实现强烈愿望
+
+Slide 10: 剧本创作前的准备
+
+观看电影的重要性
+
+对所创作内容的了解
+
+Slide 11: 家庭与写作的平衡
+
+家庭可能是创作的障碍
+
+解释写作梦想的重要性
+
+Slide 12: 如何观看电影
+
+避免事先了解过多信息
+
+首次观影享受电影
+
+分析情感反应
+
+Slide 13: 故事概念的重要性
+
+电影成功的基本：故事概念
+
+“What if...”故事的开始
+
+Slide 14: 故事与可视化目标
+
+英雄的可视化外部动机
+
+电影屏幕上的成功展现
+
+Slide 15: 编剧的现实接受
+
+编写受观众欢迎的作品
+
+个人满足与职业目标的平衡
+
+[结束]
+
+请把下面的内容改成ppt的slide。言简意赅
+
+- 学习电影编剧的方法
+
+- 看电影
+
+- Just one more major step before diving into your screenplay: you’ve got to see movies.
+
+- You wouldn’t want to be represented by a lawyer who hadn’t been to law school or who didn’t keep abreast of recent legal decisions and statutes. Well, the film industry isn’t looking for screenwriters who don’t know what’s being produced or who don’t know which of those recent releases have been successful.
+
+- 不看电影的理由
+
+- 没有时间
+
+- 没有余钱
+
+- 有孩子
+
+- 解决方法
+
+- 与家人沟通
+
+- 把看电影当成一项投资
+
+- 每年至少看100部电影
+
+- 看电影的方法
+
+- 有的同学可能会说，看电影，这还用你教吗？谁不会。但你未必真的知道如何更有效地看电影。
+
+- 避免看影评、预告片、评分等等。
+
+- 为了娱乐看电影
+
+- 不要为了报酬看电影
+
+- 哪怕是看一部悲剧，也是大娱乐的一种。
+
+- 记住电影让你感动的节点
+
+- 剧本最后读
+
+- 没有乐趣的事是坚持不久的
+
+通往编剧成功的被遗忘的一步
+
+在潜心创作你的剧本之前，还有一个重要步骤：你必须要看电影。
+
+曾几何时，我认为编剧显然应该多看电影。但在我到世界各地的旅行中，我一再感到震惊的是，有多少追求这一职业的人几乎不屑于去电影院，甚至租一张DVD。当他们这样做的时候，是一些四十年代或五十年代的经典电影，与他们的孩子一起看的动画片，或者有字幕的东西。
+
+艺术片或动画片没有错，而且对电影史有广泛的了解当然也有帮助。但无论从事什么职业，了解市场是至关重要的。
+
+你不会希望由一个没有上过法律学校或不了解最近的法律决定和法规的律师代理。那么，电影业也不会找那些不知道正在制作什么的编剧，或者不知道最近发行的那些影片中哪些是成功的。
+
+作为一个严肃的编剧，你不能再把电影视为只有在周六晚上有约会时才会做的事情，或者是全家人必须一起享受的事情。你的最低电影配额应该是每年100部：每周至少去两次电影院或租两次录像带或下载。
+
+如果你对这个建议的直接反应是 "我不可能看那么多电影"，这通常是出于三个原因之一。
+
+1.   你没有时间。我这里说的是每周四个小时。如果你的生活真的如此充实和忙碌，你根本找不到任何空闲时间，那么你可能太忙了，无法从事第二职业--编剧，直到你的孩子上学了，你找到一份更容易的工作，或者你重新安排你的优先事项。
+
+2.   你负担不起。一部电影比一本新书、两包香烟或大多数餐馆的饭菜都要便宜。Netflix每个月的费用不到10美元。请记住：现在你是一个编剧，每张电影票都是一笔勾销。
+
+3.   你有孩子。告诉你的配偶或重要的另一半，每周三是他与孩子们共度美好时光的夜晚。或者，如果你是一个单亲家长，在你的作家小组、邻里或十二步计划中找到另一个单亲家长，交换看孩子的夜晚。
+
+我知道，家庭有时会成为你追求屏幕写作的障碍。你必须和他们坐下来，解释这个梦想对你有多重要，去看电影不再只是为了好玩和娱乐；它就像你是房地产评估师或建筑师时上课一样重要。起初，他们会显得很怀疑，抱怨被忽视。但你越是认真对待你的事业，他们就越是认真。
+
+他们也必须接受，有时你会自己看电影，而这些电影对你的家庭其他成员来说并不感兴趣，也不合适。他们会活下来的。
+
+关于你的观看规则的另一个问题：我刚刚允许你每星期看两部好莱坞电影。如果你对这一前景不感到兴奋，如果这听起来并不有趣，那么你是否确定这是你的正确道路？
+
+如果你不去看电影或看电视，是因为你不喜欢好莱坞最近制作的东西（这是我经常听到的评论），那么你为什么想成为一名编剧？如果你认为好莱坞制作的东西都是垃圾，那么在电影业中追求事业真的是明智的吗？如果这是你的信念，那么你的剧本很可能与目前的主流电影有很大的不同，以至于无法销售。
+
+这并不意味着你必须喜欢你所看到的一切。这个过程的一个好处是，你所看到的任何电影都不会是浪费时间，它仍然可以作为一个好的 "坏例子"。
+
+ChatGPT
+
+Slide 1: 电影编剧学习法
+
+重要步骤：观看电影
+
+法学院与电影市场了解的重要性
+
+Slide 2: 不看电影的理由
+
+缺乏时间
+
+预算有限
+
+育有孩子
+
+Slide 3: 解决观影难题
+
+与家人沟通重要性
+
+把看电影视为投资
+
+年度目标：至少观看100部电影
+
+Slide 4: 如何有效观看电影
+
+避免先入为主的影评和预告
+
+观影的娱乐性
+
+感受电影的情感触点
+
+Slide 5: 成功编剧的忽视步骤
+
+观影不只是娱乐，是编剧的必修课
+
+电影院和DVD的重要性
+
+Slide 6: 理解电影市场的必要性
+
+艺术片与动画片的价值
+
+对当代市场的洞察
+
+Slide 7: 重塑观影的家庭角色
+
+家庭支持的重要性
+
+家人理解职业追求的重要性
+
+Slide 8: 观影配额与职业规划
+
+每周观影次数
+
+观影作为职业发展的一部分
+
+Slide 9: 观影的现实挑战
+
+管理时间和职责
+
+确保负担得起观影成本
+
+Slide 10: 与家庭的和谐观影
+
+安排家庭成员的观影时间
+
+单亲家长的互助计划
+
+Slide 11: 电影观看的行业意义
+
+观看电影作为职业发展
+
+观影不仅仅是消遣
+
+Slide 12: 确定编剧道路的重要性
+
+你是否真的想成为编剧？
+
+对好莱坞作品的态度和事业选择
+
+Slide 13: 观影态度与职业定位
+
+你的作品与主流电影的差异
+
+接受不同观影体验的心态
+
+Slide 14: 观影的职业价值
+
+每部电影都是学习的机会
+
+从坏例子中学习
+
+[结束]
+
+请把下面的内容整理成ppt的slide，要求言简意赅。
+
+如何观看电影
+
+为了使看电影的过程尽可能的有信息量，可以用以下方式来处理。
+
+1.   1. 避免评论、预告片和预告。看电影的最好方式是尽可能不知道会发生什么，这样你就能充分体验到作者想要的任何惊喜和情感高峰。把任何评论或宣传文章留到看完电影之后，这样你就可以尽可能地进入影院接受。
+
+2.   不受干扰地看电影。无论是在影院还是在家里，关键是要能完全专注于你的观影体验。如果你可以，在一个认真的影院看电影，提供良好的图像和声音，尽量减少观众的谈话和短信以及不守规矩的孩子。如果你不能，蓝光播放器、优质有线电视系统和高清电视使你在家里看电影比在影院看电影更有优势。
+
+然而，如果你真的在家里看电影，你仍然要把它当作一部电影，而不是像一些电视谈话节目或当地新闻广播一样，在你打电话、与家人聊天、翻冰箱或打厕所时在背景中播放。
+
+3.   第一次看是为了好玩。不要做笔记，不要照着剧本读，甚至在第一次看电影时不要考虑剧本。乘坐电影制片人创造的过山车。你可以在电影结束后弄清楚它是如何运作的。(在一部真正的好电影中，这条规则是不必要的；尽管你想分析这部作品，但你会被卷入情感之中。）
+
+4.   好东西要看两遍。当一部电影深深地触动了你，就看第二或第三遍，彻底分析故事、人物、结构、对话和主题的所有细节。这对任何在情节、背景或体裁方面与你自己的剧本相似的电影尤其重要。你可以重新体验所有的高潮和低谷，现在可以更深入地欣赏编剧和电影制作人引起你的情感的方式。而且你总会发现你第一次没有发现的东西。
+
+5.   分析你的情绪反应。每当你沉浸在一部电影中时，问问自己为什么。是什么让你坐立不安？迷人的人物？欢笑？悬念？大动作？性爱？浪漫？悲伤？
+
+当你发现自己与故事有距离时，也要确定其原因。它是不合逻辑的吗？太容易预测？重复的？无聊？为什么？怎样才能使它在情感上更有吸引力？
+
+6.   它遵循了规则吗？你看的每部电影都应该加强本书中的编剧原则。这位编剧采用了哪些方法来创造角色的认同感、预期、惊喜、好奇心、可信度、冲突、角色成长和主题？故事的概念是否简单、新颖、商业化？结构上的转折点是否按预期发生？对话是否独特、多样、有趣？结局是否令人满意？
+
+这部电影是否有意以任何方式 "推倒重来"，违反了传统的结构或角色发展？如果是这样，影片是否因此而更加有效？这种偏离常规的做法是否可以复制（特别是由试图打入该行业的作家复制），还是这种做法只能有一次新的不同？
+
+7.   给电影做宣传。如果你要把这个故事卖给好莱坞主管，你会怎么做？你将如何用一句话来表达这个故事的概念？你会强调什么，以最大限度地提高出售剧本的机会？你会向哪些公司推荐这个故事？你会如何包装它？如果你是一个主管，你会给它开绿灯吗？为什么或为什么不？(要诚实；检查票房回报率是不公平的）。
+
+8.   研究制作。检查电影在国内和国际上的票房成功情况。阅读任何文章，观看任何采访，揭示电影是如何制作的。这种研究不仅能提高你的商业敏感度，还能让你对当权者有更多的了解，知道他们在寻找什么，以及推销自己的剧本的途径。
+
+9.   写一个场景。从你喜欢的电影中挑选一个场景，看两到三遍，然后试着自己写。你能如何生动而简洁地描述场景和人物？你将如何尽可能简单地描述动作而不失去其情感影响？你将如何传达屏幕上显示的内容而不求助于镜头指示？(跳过复制对话，除非你想尝试用不同的、更有效的语言来写这个场景）。当你完成后，将你的版本与原编剧的版本进行比较，当你 .. .
+
+10.  阅读剧本。如果不阅读大量成功完成你所要做的事情的剧本实例，你就不可能希望提高你的手艺，改善你自己的写作风格。
+
+大多数好莱坞电影的剧本现在都可以在网上找到（通常是免费的，如scriptstork.com、script-o-rama.com、simplyscripts.com、scriptcity.com和dailyyscript.com等网站）或以印刷或出版的形式（在thewritersstore.com和scriptshack.com和scriptcity.com等网站）。
+
+除了阅读你喜欢的电影的剧本外，还要尽可能多地阅读你正在创作的剧本的类型。并包括你还没有看过的电影的剧本，然后观看这些剧本的电影版本，看看它们是如何被转化为电影的。
+
+读完一个剧本后，问问自己，它在激发情感方面的效果如何，以及它对本书所提出的原则的遵循程度。电影的书面版本是否像电影那样有效地创造了一种情感体验？为什么或为什么不呢？剧本的风格如何与电影本身的基调相匹配--是动作片的快节奏，还是喜剧的幽默，等等。如果你是一个经纪人或主管，你是否愿意代表这位作家或根据剧本制作这个项目？
+
+如果你想为电视写作，这个过程（减去电影院的东西）也适用于你。尽可能多地观看戏剧系列或情景喜剧的至少一集。然后选择一个你要写样本集的系列，观看该剧的每一集，再看一到两集与你所选类型相似的系列。然后问自己同样的问题，并做上述同样的练习。
+
+一旦你掌握了观看电影和电视节目的艺术，你就可以进入编剧的其他重要方面了。如何磨笔；如何注视窗外；以及如何打盹。
+
+摘要
+
+1.   任何电影制片人的首要目标都是在观众中引起情感共鸣。
+
+2.   编剧的主要目标是激发阅读剧本的人的情感。
+
+3.   为了成功，你的剧本需要完成以下目标：使一个有同情心的人物能够克服一系列越来越困难、似乎无法克服的障碍，实现一个令人信服的愿望。
+
+4.   任何电影剧本的四个阶段是
+
+故事概念
+
+角色
+
+剧情结构
+
+个别场景
+
+5.   编剧的最大隐患是作家障碍，其根源在于对失败的恐惧和对完美的渴望。为了防止堵塞，要交替地进行头脑风暴，以获得一定数量的想法，并对这些想法进行质量编辑。
+
+6.   看电影或电视节目和阅读剧本是编剧成功的必要步骤。
+
+每周至少看两部最近的好莱坞电影--每年一百部电影
+
+见过两次或更多的好的人
+
+分析你的情绪反应，并将其与本书的原则联系起来
+
+购买或下载成功的电影和剧集的剧本--特别是那些属于你所写的类型的剧本--每周至少阅读其中一篇。
+
+观看并阅读你试图编写的任何电视系列的所有剧集
+
+- 电影剧本的基本模型
+
+- what if ...
+
+- 如果......会怎样....
+
+-
+
+ChatGPT
+
+Slide 1: 如何观看电影 — 提高信息获取
+
+避免事先了解剧情：不看评论和预告片
+
+专心观影：选择环境良好的影院或在家中集中注意力
+
+Slide 2: 观影体验
+
+第一次观影：享受过程，不作笔记
+
+多次观影：深入分析电影的各个方面
+
+Slide 3: 分析情感反应
+
+了解电影触动你的原因
+
+探究与故事距离感的成因
+
+Slide 4: 评估电影原则遵循情况
+
+每部电影强化编剧原则
+
+观察角色认同、冲突、成长和主题的构建
+
+Slide 5: 宣传与市场研究
+
+如何宣传电影
+
+研究电影的市场表现
+
+Slide 6: 从观影中学习
+
+写下你所欣赏的电影场景
+
+比较你的写作与原作者的区别
+
+Slide 7: 阅读并理解剧本
+
+阅读成功的剧本案例
+
+分析剧本与电影之间的情感共鸣
+
+Slide 8: 电视剧编剧指南
+
+观看和分析电视剧集
+
+针对电视剧集进行同样的练习
+
+Slide 9: 编剧的其他方面
+
+了解编剧的不同方面，如创意思考、窗外凝视和休息
+
+Slide 10: 编剧成功的摘要
+
+引起情感共鸣的重要性
+
+编剧的主要目标和剧本需要达成的目标
+
+Slide 11: 编剧工作的四个阶段
+
+故事概念
+
+角色
+
+剧情结构
+
+个别场景
+
+Slide 12: 编剧的挑战与解决方法
+
+理解作家障碍的根源
+
+通过头脑风暴和质量编辑防止创作阻塞
+
+Slide 13: 编剧成功的必要步骤
+
+每周观看两部最新的好莱坞电影
+
+读取和分析成功的剧本
+
+观看并研究电视剧集
+
+Slide 14: 电影剧本基本模型
+
+“What if...” — 探索故事的可能性

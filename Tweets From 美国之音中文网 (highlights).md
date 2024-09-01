@@ -1,0 +1,7 @@
+- Author:: [[@VOAChinese on Twitter]]
+- Full Title:: Tweets From 美国之音中文网
+- URL:: https://twitter.com/VOAChinese
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 北京两名知名记者感染病毒死亡，突然松绑引起死亡激增 https://t.co/Y1nkZy8zMk ([View Tweet](https://twitter.com/VOAChinese/status/1603829072593063936))

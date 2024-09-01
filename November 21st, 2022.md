@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 03:23
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+    - {{[[TODO]]}} 好中文第八期
+    - {{[[TODO]]}} 祷告至少3次
+    - {{[[TODO]]}} 走路
+    - {{[[DONE]]}} 低碳水饮食
+    - {{[[DONE]]}} 思无邪
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - ["Anna's Archive" Opens the Door to Z-Library and Other Pirate Libraries \* TorrentFreak](https://torrentfreak.com/annas-archive-opens-the-door-to-z-library-and-other-pirate-libraries-221118/)
+    - 剪映海量素材是一个亮点，应该可以下载下来使用
+    - 
+- ---

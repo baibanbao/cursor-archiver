@@ -1,0 +1,103 @@
+- Books
+    - Author::
+    - Reading Status::
+    - Recommended By:: 
+    - Tags:: #Books
+- Movies
+    - Director::
+    - Screenwriter::
+    - Viewing Status::
+    - Recommended By:: 
+    - IMDB Link::
+    - 豆瓣链接::
+    - Tags:: #movies
+- [[Synopsis]]
+    - Projects::
+    - Episode::
+    - Completed Date::
+    - Status::
+    - Due Date::
+    - Related Goals::
+    - Success Criteria:: 
+    - Tags:: #寻古中国 #[[玉石记]] #单集提要
+    - 一、本集主题
+        - 简介：
+        - 涉及遗址：
+        - 涉及古物：
+        - 涉及古人：
+        - 涉及考古专家：
+        - 涉及古籍：
+    - 二、本集结构和故事点：
+        - 第一部分 分主题1
+            - 故事一：
+                - 内容
+            - 故事二：
+                - 内容
+            - 故事三：
+                - 内容
+        - 第二部分 分主题2
+            - 故事一：
+                - 内容
+            - 故事二：
+                - 内容
+            - 故事三：
+                - 内容
+- Poems
+    - Author:: Neruda
+    - URL::
+    - Recommended By:: 
+    - Tags:: #Poems #Deepl #[[思无邪]]
+- Projects
+    - Completed Date::
+    - Status::
+    - Due Date::
+    - Related Goals::
+    - Success Criteria:: 
+    - Tags:: #Projects
+- Articles
+    - Author::
+    - URL::
+    - Recommended By:: 
+    - Tags:: #Articles
+- Podcasts
+    - Host::
+    - URL::
+    - Recommended By:: 
+    - Tags:: #Podcasts
+- Concepts
+    - Author::
+    - URL::
+    - Recommended By:: 
+    - Definition:: 
+    - Tags:: #Concepts #Idea
+- Videos
+    - Author:: 
+    - URL::
+    - Recommended By:: 
+    - Tags:: #Videos
+- Blog Posts
+    - Target Date::
+    - Tags::
+    - Status::
+    - Google Doc::
+- Goals
+    - Projects:: 
+    - Goal Status:: 
+    - Success Criteria:: 
+    - Completed Date::
+    - Tags:: #Goals
+- People
+    - Phone Number::
+    - Email::
+    - Company:: 
+    - Role:: 
+    - Location::
+    - How We Met::
+    - Birthday::
+    - Tags:: #People
+- Recipes
+    - Ingredients::
+    - Tools::
+    - URL:: 
+    - Tags:: #Recipes
+- Tags:: #Templates #PKM

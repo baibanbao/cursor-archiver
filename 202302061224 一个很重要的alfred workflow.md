@@ -1,0 +1,7 @@
+- --
+- ID: [[202302061224]]
+- Title: 一个很重要的alfred workflow
+- Tags: #Alfred
+- Date: Monday February 6, 2023 at 12:24:28 GMT+8
+- --
+- [Alfred Workflow for creating new Zettels including metadata — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/675/alfred-workflow-for-creating-new-zettels-including-metadata)

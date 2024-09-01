@@ -1,0 +1,17 @@
+- #[[Twitter Feed]]
+    - Cancelled
+- 下周翻译 #[[福音联盟]]
+    - 本周翻译
+        - - https://www.thegospelcoalition.org/article/hamilton-healing-balm-restless-immigrants/
+        - - https://www.thegospelcoalition.org/article/against-music/
+    - 周一：https://www.thegospelcoalition.org/article/meditation-apps-gospel-self-optimization/
+    - 周二：https://www.thegospelcoalition.org/article/covid-affected-friendships/
+    - 周三：https://www.thegospelcoalition.org/reviews/why-restless/
+    - 周四：https://www.thegospelcoalition.org/article/christianity-atheist-country/
+    - 周五：https://www.thegospelcoalition.org/article/supreme-court-blocks-biden-vaccine-mandate/
+- [[Inbox]]
+    - [[Pei]] at 09:36: 不可忘记弟兄在我危难时给予的帮助。昨天牧师看我翻译不完，帮我完成了三篇。实在是把我从水火中拯救了出来。
+    - [[Pei]] at 09:37: 《汉密尔顿》这篇，你可以先读读我先前翻译的另一篇： https://www.tgcchinese.org/article/hamilton-lewis-inner-ring
+    - [[Pei]] at 09:37: 我这篇后面天津还会再读一遍。我觉得你可能太精益求精了，其实你翻完后我会读一遍，天津会再读一遍，中文不通顺的地方（比如两个“的”之类的）都会改掉。你不必花80%的时间去追求那20%的改进，只要保证没有翻译错误就做到80%了。
+    - [[Pei]] at 09:37: 我调整的过程是一个大声朗读的过程
+    - [[Pei]] at 09:37: 如果还是没发现，还有天津，天津没发现还有发布后的读者反馈。要是读者也没发现，那就算了……

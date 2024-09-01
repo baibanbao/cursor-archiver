@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOWVkYWJiMDYtZTZjNS00NWYwLTlmMzAtOTZlZmNmZTU3YjU4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Mel Brooks]]
+        - Writer:: [[Mel Brooks]]
+        - Cast:: [[Zero Mostel]] [[Gene Wilder]] [[Dick Shawn]]
+        - Year:: [[1967]]
+        - Genre:: #Comedy #Music
+    - **IMDb:** https://www.imdb.com/title/tt0063462
+    - **Plot Summary:** A stage-play producer devises a plan to make money by producing a sure-fire flop.

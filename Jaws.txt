@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Peter Benchley]] [[Carl Gottlieb]]
+        - Cast:: [[Roy Scheider]] [[Robert Shaw]] [[Richard Dreyfuss]]
+        - Year:: [[1975]]
+        - Genre:: #Adventure #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0073195
+    - **Plot Summary:** When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.

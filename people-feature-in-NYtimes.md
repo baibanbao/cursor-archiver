@@ -1,0 +1,7 @@
+- --
+- title: 转载纽约时报的一篇报道
+- date: 2017-05-31 22:24
+- status: draft
+- tag: 媒体
+- --
+- [逼迫中国做出让步的流亡者 - 纽约时报中文网 国际纵览](https://d2tw5djyacg82s.cloudfront.net/china/20170531/china-guo-wengui/?utm_source=news-list&utm_medium=email&utm_campaign=newsletter)

@@ -1,0 +1,9 @@
+- Author:: [[​]]
+- Full Title:: [LFR] Letters From a Roaman - Letter XXIII
+- URL:: https://roam.elaptics.co.uk/posts/lfr-letters-from-a-roaman-letter-xxiii
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 12th, 2022]]
+    - My aim is to not only deliver high-quality writing, but still fit them round my day job of running a small business and still having quality time to spend with my family. ([View Highlight](https://instapaper.com/read/1520879867/20034866))
+- ### New highlights added [[July 12th, 2022]] at 1:43 AM
+    - Back in Letter XVIII I mentioned how I’d been enjoying Jesse J Anderson’s Lost in Roam series, however his most recent video really resonated with me. His metaphor of the backwards bike really describes well for me just how Roam changes how you think by “breaking your brain”. ([View Highlight](https://instapaper.com/read/1520879867/20035460))

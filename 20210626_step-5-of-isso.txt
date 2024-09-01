@@ -1,0 +1,45 @@
+﻿mkdir ~/Isso/config && cd ~/Isso/config
+sudo nano isso.conf
+
+# config/isso.conf
+# copy and paste below and ctl + x save
+
+[general]
+dbpath = /db/comments.db
+host = https://haozhongwen.com/
+            http://haozhongwen.com/
+max-age = 1m
+notify = smtp
+reply-notifications = true
+gravatar = false
+[moderation]
+enabled = false
+purge-after = 30d
+[guard]
+enabled = true
+ratelimit = 2
+require-email = false
+require-author = true
+[server]
+listen = http://0.0.0.0:8080
+reload = off
+profile = off
+[markup]
+options = strikethrough, superscript, autolink
+allowed-elements =
+allowed-attributes =
+[hash]
+salt = MAMAQUMAICAIyuanbaozijiwan1215
+algorithm = pbkdf2
+[smtp]
+username = redredpei@gmail.com
+password = otvgvantpnoisnrt
+host = smtp.gmail.com
+port = 587
+security = starttls
+to = redredpei@gmail.com
+from = 'Isso comments system'<redredpei@gmail.com>
+timeout = 10
+[admin]
+enabled = true
+password = MAMAQUMAICAIyuanbaozijiwan1215

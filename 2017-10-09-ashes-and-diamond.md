@@ -1,0 +1,22 @@
+- 翻译了《灰烬与钻石》这首诗
+- 灰烬与钻石v0.4
+- 经常，太经常，
+- 你的存在如炽热的火把，
+- 带着燃烧的麻绳的碎片，
+- 纷纷烫向你
+- 火焰，你不知道，火焰带来自由，
+- 还是死亡把你心爱的都烧完，
+- 混乱打着漩进入空虚，
+- 或者灰烬将擎起星汉一样钻石的灿烂
+- 一颗永远得胜的晨星
+- 英文原文
+- Ashes and Diamonds
+- So often
+- are you as a blazing torch
+- with flakes of burning hemp falling about you
+- Flaming, you know not if flames freedom bring or death
+- consuming all that you most cherish, will only ashes remain, and chaos
+- whirling into the void
+- or will the ashes 
+- hold the glory of a star-like diamond
+- the morning star of everlasting triumph

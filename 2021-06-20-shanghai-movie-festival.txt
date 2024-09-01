@@ -1,0 +1,11 @@
+﻿我的电影节
+
+第24届上海国际电影节结束了。
+
+set guifont=Monaco:h32
+colorscheme elflord
+
+
+/Users/ding/Documents/the_archive/2021-06-20-2127-title.txt
+
+Herr Bachmann und seine Klasse‎

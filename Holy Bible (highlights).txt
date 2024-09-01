@@ -1,0 +1,18 @@
+- Author:: [[The Lockman Foundation]]
+- Full Title:: Holy Bible
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41gALF50FoL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Psalm_21 ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00136D39U&location=299))
+    - Galatians [Books] Galatians_1 ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00136D39U&location=608))
+- Author:: [[Anonymous]]
+- Full Title:: Holy Bible
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51F3uoHSa5L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 1 ([Location 28](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=28))
+    - Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life. ([Location 30220](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=30220))
+    - Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent. ([Location 30264](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=30264))
+    - I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. ([Location 30269](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=30269))
+    - All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out. For I came down from heaven, not to do mine own will, but the will of him that sent me. And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day. And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day. The Jews then murmured at him, because he said, I am the bread ([Location 30270](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=30270))
+    - Murmur not among yourselves. No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day. It is written in the prophets, And they shall be all taught of God. ([Location 30276](https://readwise.io/to_kindle?action=open&asin=B0032JSL84&location=30276))

@@ -1,0 +1,20 @@
+- [[Gratitude]]
+    - 感恩ada妈妈开放家庭，让孩子们到她家里玩耍
+    - 感恩[[Totoro]]能来上课
+    - 感恩[[李小丹]]也来
+    - 感恩#[[Jonas]]在编程和音乐方面的小天赋
+- [[Day Start]] 13:34
+- Daily Tasks
+    - 备课
+        - 学习希区柯克好榜样
+            - 特吕弗访问希区柯克
+            - 希胖的节奏感
+            - 精选片段
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

@@ -1,0 +1,3 @@
+- 学习[[Nat Eliason]]的教程
+    - [Full live recording | Nat Eliason's School](https://learn.nateliason.com/courses/1362000/lectures/31431458)
+    - 进度::35%

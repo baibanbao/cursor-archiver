@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Byron Howard, Rich Moore, Jared Bush]]
+        - Writer:: [[Byron Howard]] [[Rich Moore]] [[Jared Bush]]
+        - Cast:: [[Ginnifer Goodwin]] [[Jason Bateman]] [[Idris Elba]]
+        - Year:: [[2016]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt2948356
+    - **Plot Summary:** In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Ff5e-8BW8yy.pdf?alt=media&token=cf445664-f4ca-428d-b4d2-ccf6b7bd89a3}}

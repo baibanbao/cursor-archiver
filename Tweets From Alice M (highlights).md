@@ -1,0 +1,7 @@
+- Author:: [[@AliceM0404 on Twitter]]
+- Full Title:: Tweets From Alice M
+- URL:: https://twitter.com/AliceM0404
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - @baibanbaonet 没有！南京话也拉垮吗？（诶我咋这么开心呢🤣） ([View Tweet](https://twitter.com/AliceM0404/status/1729271915972546589))

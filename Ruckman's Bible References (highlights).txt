@@ -1,0 +1,8 @@
+- Author:: [[Dr. Peter S. Ruckman]]
+- Full Title:: Ruckman's Bible References
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - The ass who produced The Last Temptation of Christ naturally missed the verse; it was salient. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B005HZIWD0&location=194))
+    - Observe that “newly discovered ancient manuscripts,” “better knowledge of the original languages,” or “recent archaeological discoveries,” etc., have nothing to do with the preservation or promotion of the Scriptures. The heart attitude determines what is produced, what survives, and what is made available to a population. ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B005HZIWD0&location=2120))
+    - The “bridle” which will “cause the people to err” (Isa. 30:28) comes in the form of electronic, computerized control over all individuals, via Social Security cards and “implants.” The “binding into bundles” (see Matt. 13:30) will be the job of an international police and law enforcement system, directed ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B005HZIWD0&location=2442))
+    - There will be no preaching on this verse in the next three years. It states that integration is for the purpose of annihilation. ([Location 2445](https://readwise.io/to_kindle?action=open&asin=B005HZIWD0&location=2445))

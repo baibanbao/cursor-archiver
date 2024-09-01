@@ -1,0 +1,4 @@
+- 原则问题
+    - Don't tell sisters about internal affairs. 
+    - It will change you mindset which will lead to larger destructions. 
+    - Hold back and keep silence. 

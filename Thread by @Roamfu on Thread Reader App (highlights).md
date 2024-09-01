@@ -1,0 +1,11 @@
+- Author:: [[@soenke_ahrens]]
+- Full Title:: Thread by @Roamfu on Thread Reader App
+- URL:: https://threadreaderapp.com/thread/1322913058142920706.html
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 17th, 2022]]
+    - I. Why is Roam so hard to explain? (The key) ([View Highlight](https://instapaper.com/read/1522238796/20081825))
+    - II. Using computing power to aid biological thinking ([View Highlight](https://instapaper.com/read/1522238796/20081826))
+    - Who do you see in #roamcult? I see academics, people of The Book, productivity nerds, inner-work people & mushroom folk.
+What do we have in common? We have all have made the journey with the mind, and we have sought tools to aid in this journey: Zettelkasten, BASB, journaling, memex, SRS, mind palaces, psilocybin. Roam made sense to us because we knew the problem and cared enough to seek solutions. ([View Highlight](https://instapaper.com/read/1522238796/20081836))
+    - Most don't seem to see first-brain-only thinking as a problem. ([View Highlight](https://instapaper.com/read/1522238796/20081885))

@@ -1,0 +1,15 @@
+### 鼠须管输入法部署
+
+
+
+安装
+
+[鼠须管，“神级”输入法 | 爱范儿](https://www.ifanr.com/156409)
+
+[rime/squirrel: 【鼠鬚管】Rime for macOS](https://github.com/rime/squirrel)
+
+
+字库
+
+[luna_pinyin.dict](https://bintray.com/rime-aca/dictionaries/luna_pinyin.dict#read)_
+

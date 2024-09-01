@@ -1,0 +1,7 @@
+- #[[Four Seasons]] 
+    - 趁着精读红楼梦，何不把四季青青给写了。这才是活学活用，也是对付瘟疫隔离的最好办法。
+- [[Work]] #[[可供性]] #样板戏 #[[好中文]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FDqXEpxxJPL.png?alt=media&token=3a4be522-c1a7-4d18-9198-261bc6459346)
+        - 原来，红灯记里鸠山的台词出处在此。
+            - 好中文真是无边无际
+                - 可供性太重要了

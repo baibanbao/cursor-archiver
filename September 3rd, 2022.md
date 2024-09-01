@@ -1,0 +1,27 @@
+- [[IMDB Top250]]
+- [[IMDB Top500]]
+- [[Gratitude]]
+    - 
+- [[Day Start]] 01:05
+- Daily Tasks
+    - {{[[TODO]]}} Go to Little Journalist Class #[[Jonas]]
+        - {{[[TODO]]}} Give a Lecture
+    - {{[[TODO]]}} 全家参观上海博物馆
+        - 参观计划，看看别的没有去过的馆，听#[[Seven]]讲解
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [处理情欲的罪 | 林格尼尔福音事工](https://zh.ligonier.org/articles/dealing-with-lust/)
+    - New Roam Depot Extension
+        - Wikipedia Import
+            - [[Ken Loach]]
+            - [[Woody Allen]]
+            - [[Dustin Hoffman]]
+            - [[Kevin Spacey]]
+            - [[Sam Mendes]]
+            - [[William Goldman]]
+- ---

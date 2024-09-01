@@ -1,0 +1,48 @@
+- Description:
+- Tags: #[[📍Scaffolding Tools Hub]]
+- Status: #[[New]]
+- ---
+- WHO: The graph owner
+- WHAT: A planning & scheduling session within Roam
+- WHY: To improve productivity & management
+- WHEN: Fixed day every week
+- ---
+- Smart Blocks
+    - Week Open #42SmartBlock
+        - Overdue Tasks to Schedule
+            - <%TODOOVERDUE:20%>
+            - <%TODOUNDATED:20%>
+        - [[Weekly Goals]]
+        - [[Daily Tasks]]
+            - Sunday <%DATE:Tomorrow%>
+            - Monday <%DATE:Next Monday%>
+            - Tuesday <%DATE:Next Tuesday%>
+            - Wednesday <%DATE:Next Wednesday%>
+            - Thursday <%DATE:Next Thursday%>
+            - Friday <%DATE:Next Friday%>
+            - Saturday <%DATE:Next Saturday%>
+    - Week Close #42SmartBlock
+        - [[Weekly Summary]]
+            - [[What went right]]
+            - [[What went wrong]]
+            - [[What could I do differently]]
+        - [[Weekly Accomplishments]]
+- Insights
+    - [[Weekly Goals]]
+    - [[Daily Tasks]]
+    - [[Weekly Summary]]
+    - [[What went right]]
+    - [[What went wrong]]
+    - [[What could I do differently]]
+    - [[Weekly Accomplishments]]
+- ---
+- Process Steps:
+    - 1: Create a weekly planning page
+        - Ex: WP: DATE to DATE (YR)
+    - 2: Run the Week Open Smart Block
+    - 3: Review outdated tasks
+    - 4: Document Weekly Goals
+    - 5: Schedule and activate tasks
+        - One project
+        - Many projects
+    - 6: Drag tasks to nest under due date

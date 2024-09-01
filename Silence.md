@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Martin Scorsese]]
+        - Writer:: [[Jay Cocks]] [[Martin Scorsese]] [[Shûsaku Endô]]
+        - Cast:: [[Andrew Garfield]] [[Adam Driver]] [[Liam Neeson]]
+        - Year:: [[2016]]
+        - Genre:: #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0490215
+    - **Plot Summary:** In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FH6iOYk3gv_.pdf?alt=media&token=50197c03-2805-4393-8574-e7aa0265871f}}

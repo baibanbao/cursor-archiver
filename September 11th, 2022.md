@@ -1,0 +1,80 @@
+- [[Gratitude]]
+- [[Day Start]] 18:27
+- Daily Tasks
+    - {{[[TODO]]}} 本周坚持看完这部絮絮叨叨的片子
+    - {{[[TODO]]}} #[[Jonas]]篮球课
+        - 已缴费 2020元 #[[Finance]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 杜普蕾演奏德沃夏克
+        - [(8) Jacqueline du Pré - Dvořák Cello Concerto – London Symphony Orchestra cond. Daniel Barenboim - YouTube](https://www.youtube.com/watch?v=U_yxtaeFuEQ)
+            - [[Jacqueline du Pré]]
+            - [杰奎琳·杜·普蕾 - 维基百科，自由的百科全书](https://zh.m.wikipedia.org/zh-hans/%E6%9D%B0%E5%A5%8E%E7%90%B3%C2%B7%E6%9D%9C%C2%B7%E6%99%AE%E8%95%BE)
+- ---
+- Overdue Tasks to Schedule
+    - {{[[DONE]]}} 下单买一本[[腔词关系研究]] [[January 26th, 2021]]
+    - {{[[DONE]]}} 用[[方言]]祷告，虽然不明白其中的意思，但对自己有益。一个[[见证]]是[[July 16th, 2022]]灵性低落，但用了[[方言]]祷告，次日上午依然低迷，连[[第七诫]]都没有敢听，但是下午却有感动，赶到#[[SLBC]]实体聚会，并通过控制[[Zoom]]而做了一点小小的服事。结论，就是千万不要轻忽，方言表示圣灵的充满，是上帝用数不清的叹息在为我们祷告。
+    - {{[[DONE]]}} 制作好幻灯片模板 [[July 29th, 2022]]
+    - {{[[DONE]]}} iPad Air [[August 9th, 2022]]才能到货 
+        - 不买
+    - {{[[DONE]]}} 1. 卡萨布兰卡 [[Casablanca]]
+    - {{[[DONE]]}} 1. 卡萨布兰卡 Casablanca
+    - {{[[DONE]]}} 10. 教父2 [[The Godfather Part 2]] Part 2
+    - {{[[DONE]]}} 10. 教父2 The Godfather: Part Ⅱ
+    - {{[[DONE]]}} 2. 教父 [[The Godfather]]
+    - {{[[DONE]]}} 2. 教父 The Godfather
+    - {{[[DONE]]}} 3. 唐人街 [[Chinatown]]
+    - {{[[DONE]]}} 3. 唐人街 Chinatown
+    - {{[[DONE]]}} 4. 公民凯恩 [[Citizen Kane]]
+    - {{[[DONE]]}} 4. 公民凯恩 Citizen Kane
+    - {{[[DONE]]}} 5. 彗星美人 [[All About Eve]]
+    - {{[[DONE]]}} 5. 彗星美人 All About Eve
+    - {{[[DONE]]}} 6. 安妮·霍尔 [[Annie Hall]]
+    - {{[[DONE]]}} 6. 安妮·霍尔 Annie Hall
+    - {{[[DONE]]}} 7. 日落大道 [[Sunset Blvd]]
+    - {{[[DONE]]}} 7. 日落大道 Sunset Blvd
+    - {{[[DONE]]}} 8. 社交网络 [[The Social Network]]
+        - {{[[TODO]]}} 本周坚持看完这部絮絮叨叨的片子
+    - {{[[DONE]]}} 8. 社交网络 The Social Network
+    - {{[[DONE]]}} 9. [[热情如火 ]]Some Like It Hot
+    - {{[[DONE]]}} 9. 热情如火 [[Some Like It Hot]]
+- [[Weekly Goals]]
+- [[Daily Tasks]]
+    - Sunday [[September 12th, 2022]]
+        - 早晨社区大筛
+    - Monday [[September 19th, 2022]]
+    - Tuesday [[September 20th, 2022]]
+    - Wednesday [[September 21st, 2022]]
+    - Thursday [[September 22nd, 2022]]
+    - Friday [[September 23rd, 2022]]
+        - {{[[TODO]]}} #[[Jonas]]篮球课
+    - Saturday [[September 24th, 2022]]
+        - 在杭州有次演讲
+        - 比较可行的办法是，周六到杭州
+            - Sunday [[September 25th, 2022]] 一早去体检
+                - 下午挂号去开药
+                - 晚上赶回上海
+- [[Weekly Summary]]
+    - [[What went right]]
+        - 学习vim
+            - 设置好了vim，可以用来写作了
+        - 坚持双拼
+        - 认真锻炼，除非身体不适
+        - 勇于尝试新事物
+        - 带领#[[Jonas]]打篮球
+        - 去西渡过中秋
+    - [[What went wrong]]
+        - 陷入[[Blue Jade]]之中
+        - 没有好好休息，身体差点拉垮
+        - 没有坚持日更
+        - 没有写好中文
+    - [[What could I do differently]]
+        - 可以写点东西
+- [[Weekly Accomplishments]]
+    - 买了后视镜，更加安全了
+    - 克制自己，逐渐恢复了健康

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMWQ5NGQ3ZjEtNThkOS00ZWQ1LWE0YjMtYjJmZmJkNzFhZDQ4XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ermek Tursynov]]
+        - Writer:: [[Ermek Tursynov]]
+        - Cast:: [[Alibek Danabai]] [[Murat Mukazhanov]] [[Kuat Tleubaev]]
+        - Year:: [[2018]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt9889934
+    - **Plot Summary:** The end of the World War II. Soviet soldiers come to a small town in Germany. A lot of buildings are ruined and there are still sounds of bomb explosions and whistling bullets. Young kazakh soldier saves an old civil German man from 

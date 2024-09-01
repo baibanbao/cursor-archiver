@@ -1,0 +1,6 @@
+- 如何让Storage Management回来 #[[Tech]]
+    - Steps to Install Storage Managment on macOS Ventura:
+        - Install macOS Catalina/Big Sur/Monterey
+        - Go to ./System/Library/Core Services
+        - Copy Storage Managment
+        - Paste it to Ventura through USB or else.

@@ -1,0 +1,15 @@
+- [[Gratitude]]
+- [[Day Start]] 14:12
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 听 [[Sally老师]]
+        - [52 教会历史 法国大革命对世界的影响 - YouTube](https://www.youtube.com/watch?v=ZRISbTM_hcE&list=PLfChJ-aSv3VBxetzGHkRscoXnRmfbI01_&index=5)
+            - 柏克对于法国大革命的反思
+- ---

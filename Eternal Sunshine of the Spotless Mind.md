@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Michel Gondry]]
+        - Writer:: [[Charlie Kaufman]] [[Michel Gondry]] [[Pierre Bismuth]]
+        - Cast:: [[Jim Carrey]] [[Kate Winslet]] [[Tom Wilkinson]]
+        - Year:: [[2004]]
+        - Genre:: #Drama #Romance #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0338013
+    - **Plot Summary:** When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.

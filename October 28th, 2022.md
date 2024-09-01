@@ -1,0 +1,28 @@
+- [[Gratitude]]
+- [[Day Start]] 02:14
+- Daily Tasks
+    - {{[[TODO]]}} 岳父手术
+        - 16:00进入手术室
+        - 19:00
+    - {{[[DONE]]}} #[[Jonas]]篮球班
+        - {{[[DONE]]}} 已请假
+    - {{[[TODO]]}} 中午12点给[[何滔滔]]
+        - {{[[TODO]]}} 完成[[中文风格的要素]]策划
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [What are you creating?](https://app.gumroad.com/products/new)
+    - https://twitter.com/shl
+    - [No Meetings, No Deadlines, No Full-Time Employees](https://sahillavingia.com/work)
+    - [事工哲学（136）｜盼望不至于羞愧 – Eddy & Emma's Blog](https://eddyemma.com/blog/2022/10/27/mph136-wax-no-shame/)
+    - [逐帧分解胡锦涛在二十大闭幕会上的中途离场 - 华尔街日报](https://cn.wsj.com/articles/%E9%80%90%E5%B8%A7%E5%88%86%E8%A7%A3%E8%83%A1%E9%94%A6%E6%B6%9B%E5%9C%A8%E4%BA%8C%E5%8D%81%E5%A4%A7%E9%97%AD%E5%B9%95%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA-11666947907?tesla=y)
+        - 今日订阅了华尔街日报的数字版，前两个月1美元，随后28.8美元每个月，到那时准备取消。
+    - [Elon Musk and Twitter - WSJ](https://www.wsj.com/articles/elon-musk-and-twitter-11666898927?mod=opinion_lead_pos11)
+    - [马斯克完成对Twitter的收购，解雇CEO和CFO - 华尔街日报](https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B7%B2%E5%AE%8C%E6%88%90%E5%AF%B9twitter%E7%9A%84%E6%94%B6%E8%B4%AD-11666918806)
+        - [马斯克必须向三名被解雇的Twitter高管支付逾2亿美元 - 华尔街日报](https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BF%85%E9%A1%BB%E5%90%91%E4%B8%89%E5%90%8D%E8%A2%AB%E8%A7%A3%E9%9B%87%E7%9A%84twitter%E9%AB%98%E7%AE%A1%E6%94%AF%E4%BB%98%E9%80%BE2%E4%BA%BF%E7%BE%8E%E5%85%83-11666930506)
+        - [Elon Musk and Twitter - WSJ](https://www.wsj.com/articles/elon-musk-and-twitter-11666898927?mod=opinion_lead_pos11)
+- ---

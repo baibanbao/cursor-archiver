@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Oliver Stone]]
+        - Writer:: [[Oliver Stone]]
+        - Cast:: [[Charlie Sheen]] [[Tom Berenger]] [[Willem Dafoe]]
+        - Year:: [[1986]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0091763
+    - **Plot Summary:** Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.

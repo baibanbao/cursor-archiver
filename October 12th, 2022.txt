@@ -1,0 +1,49 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - {{[[DONE]]}} 为了走出自己的坏情绪
+        - {{[[DONE]]}} 认罪祷告
+        - {{[[TODO]]}} 为中国祷告，求助惩恶扬善，让人民走出封控的痛苦
+        - {{[[DONE]]}} 为[[尹慧娟]]姊妹祷告
+        - {{[[DONE]]}} 为[[林绍南]]祷告
+        - {{[[DONE]]}} 方言祷告
+            - {{[[POMO]]: 5}}
+- [[Day Start]] 00:19
+- Daily Tasks
+    - {{[[DONE]]}} 买水
+        - [[饱醉豚]]说不用屯
+            - 目前不缺水。只是由于干旱，海水倒流，氯化钠多了一点。
+            - 上海局部停水属于例行检修。
+            - 但是存点水也有必要。万一自来水厂某人核酸阳性，全厂人员都是密接，都关到方舱医院，岂不是麻烦。
+            - 上海自来水水库水不够，可能补充一点黄浦江和长江的水，所以水质略有变差。但是不至于差到不能吃的程度。即便再差十倍，也比三十年前好。
+    - {{[[DONE]]}} 做PCR
+    - {{[[DONE]]}} 陪伴网课
+    - {{[[DONE]]}} 带#[[Jonas]]出去活动
+    - {{[[TODO]]}} 写好中文第八期招生简章
+        - [[重新学习写作]]
+        - [[重新学习编剧]]
+        - {{[[TODO]]}} 写出自己的特色即可
+        - {{[[TODO]]}} 不需要那么玄乎
+    - {{[[DONE]]}} #[[Finance]]
+        - [[October 12th, 2022]]
+            - [[招联金融]]
+                - 15886.54
+    - {{[[DONE]]}} 走路1万步
+    - {{[[DONE]]}} 收MIDI键盘
+        - {{[[DONE]]}} 退货
+        - {{[[TODO]]}} 收拾好桌面，预备迎接MIDI
+        - {{[[TODO]]}} 制定MIDI键盘学习计划
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - [Actions · baibanbao/roam-to-git](https://github.com/baibanbao/roam-to-git/actions)
+            - #[[Roam Research]]备份成功率，大约50%
+            - 既然已经备份好了，那么就开始好好用吧。
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [任学锋 - 维基百科，自由的百科全书](https://zh.m.wikipedia.org/zh-hans/%E4%BB%BB%E5%AD%A6%E9%94%8B)
+    - [(47) jdh - YouTube](https://www.youtube.com/c/jdhvideo)
+    - [计算机教育中缺失的一课 · the missing semester of your cs education](https://missing-semester-cn.github.io/)
+    - [重新开始学习计算机 | JPlay](https://jplay.github.io/2022/02/04/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E8%AE%A1%E7%AE%97%E6%9C%BA/)
+- ---

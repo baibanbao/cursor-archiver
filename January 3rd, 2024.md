@@ -1,0 +1,19 @@
+- [[Gratitude]]
+- [[Day Start]] 11:25
+- Daily Tasks
+    - {{[[DONE]]}} [[门训]]
+    - {{[[DONE]]}} 上课
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [陈小鲁 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%99%88%E5%B0%8F%E9%B2%81)
+    - [Amazon.com: Customer reviews: Writing Instruction That Works: Proven Methods for Middle and High School Classrooms (Language and Literacy Series)](https://www.amazon.com/Writing-Instruction-That-Works-Classrooms-ebook/product-reviews/B00DCCAY0E/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews)
+    - [为人民立新功-红色中国网](http://redchinacn.net/portal.php?mod=view&aid=33360)
+    - [为人民立新功 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%AB%8B%E6%96%B0%E5%8A%9F)
+    - 
+- ---

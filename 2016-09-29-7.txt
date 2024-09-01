@@ -1,0 +1,31 @@
+---
+date: 2016-09-29 20:41
+status: public
+tag: 技术
+title: 'An email to Googleplay'
+url: 2016-09-29-how-can-a-chinese-credit-card-be-used-on-googleplay
+---
+
+我的Gmail邮箱用了10来年，16G的免费空间已经快用完了，如果扩容，需要付费。
+
+我看上了一个很有用的Chrome扩展程序Clippings.io for Kindle and Evernote, 想买。
+
+但是Google在支付方式里，没有给中国信用卡留下入口。
+
+于是，有很多人琢磨出一些国人常用的办法，办理一张虚拟信用卡，或者伪造一个美国地址等等。
+
+难道就没有正大光明的解决方法吗？
+
+我准备用正大光明的方法来解决。于是给GOOGLE WALLET客服写了这封e-mail。
+
+Dear sirs:
+
+I am a google service users in China. Every time when I add my visa card on google wallet, some errors occurs. My payment method was denied by Google. First, I want to prove I am a real person instead of a robot. Second, I want to prove that the visa card I use is an valid card belonging to an honesty man instead of a fraud one. Would you please check it and enable me to use my own credit card? I admit there are two problematic issues . One is the address I input is Hongkong instead of my real address, mainland of China. The other is the IP I use is through a VPN, as my real IP is blocked to visit google as you may understand. Please help me, if you could. 
+
+Thank you.
+
+My gmail is : 
+
+I have been using gmail and google for 13 years. 
+
+WANG PEI

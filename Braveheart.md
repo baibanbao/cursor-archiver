@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Mel Gibson]]
+        - Writer:: [[Randall Wallace]]
+        - Cast:: [[Mel Gibson]] [[Sophie Marceau]] [[Patrick McGoohan]]
+        - Year:: [[1995]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0112573
+    - **Plot Summary:** Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.

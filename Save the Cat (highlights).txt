@@ -1,0 +1,10 @@
+- Author:: [[Blake Snyder]]
+- Full Title:: Save the Cat
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41ZA7OUXCQL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - We always come back to that Golden Fleece truism that can be found in The Odyssey, Gulliver’s Travels, and any number of successful road stories through the ages: It’s not the incidents, it’s what the hero learns about himself from those incidents that makes the story work. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B00340ESIS&location=626))
+    - Jodie ([Location 655](https://readwise.io/to_kindle?action=open&asin=B00340ESIS&location=655))
+    - surrogate ([Location 744](https://readwise.io/to_kindle?action=open&asin=B00340ESIS&location=744))
+    - So the opening image does a lot. It sets the tone, mood, and style of the movie, and very often introduces the main character and shows us a “before” snapshot of him or her. But mostly what it does is get us to scrunch down in our seats in the movie theater and say: “This is gonna be good!” ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B00340ESIS&location=1239))
+    - I like the catalyst moment because — it’s life. Those moments happen to all of us. And life-changing events often come disguised as bad news. Like many of the beats in the BS2, the catalyst is not what it seems. It’s the opposite of good news, and yet, by the time the adventure is over, it’s what leads the hero to happiness. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B00340ESIS&location=1295))

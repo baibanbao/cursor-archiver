@@ -1,0 +1,19 @@
+- [[Gratitude]]
+- [[Day Start]] 04:03
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Frooodle/Stirling-PDF: locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Frooodle/Stirling-PDF)
+    - [学堂在线 - 精品在线课程学习平台](https://www.xuetangx.com/purchase/XT0701010753230101?product_id=2574691)
+    - [Apple 推出手记 app，这是一款用于反思日常生活的新 app - Apple (中国大陆)](https://www.apple.com.cn/newsroom/2023/12/apple-launches-journal-app-a-new-app-for-reflecting-on-everyday-moments/)
+    - [2023国大AI戏剧节收官：在想象之外，戏剧自由地发生\_腾讯新闻](https://new.qq.com/rain/a/20231108A04F8H00)
+    - [寻迹狮城 (豆瓣)](https://book.douban.com/subject/35114099/)
+    - [《历代教会信条精选》](https://www.godoor.net/text/shenxue/sxyd11.htm)
+    - 
+- ---

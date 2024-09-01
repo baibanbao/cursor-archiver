@@ -1,0 +1,24 @@
+- [[September 6th, 2023]]
+    - 与[[Iris]]咖啡
+- #[[Prayers&Answers]]
+    - Date: [[September 5th, 2023]] 23:19
+        - 赞美感谢
+            - 感谢主让#[[Jonas]]爱上了学校和学习
+            - 感谢主让我的头部不适缓解
+            - 赞美主恩
+        - 认罪悔改
+            - 为了自己的浪费光阴
+            - 为了自己没有写出作品
+        - 祈求
+            - 求主帮助我实现[[gc9]]的招生
+            - 求主让我度过这个月的财政困难
+            - 求主医治#[[Jonas]]
+            - 求主take care of #[[Seven]]
+            - 求主让我好好写作
+            - 为[[邓俊霞]]的出院感恩
+        - Tongues
+            - Set a Pomodoro
+- 永载史册的报道
+    - [Hu Jintao’s Removal From China’s Party Congress, a Frame-by-Frame Breakdown - WSJ](https://www.wsj.com/story/hu-jintaos-removal-from-chinas-party-congress-a-frame-by-frame-breakdown-63d154cb)
+- [[截屏都是宝]]整理中
+    - 从中找到写作灵感

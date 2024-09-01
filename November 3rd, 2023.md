@@ -1,0 +1,15 @@
+- [[Gratitude]]
+- [[Day Start]] 12:19
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Prompt逆向工程：让ChatGPT模仿任何作家，完美续写红楼梦](https://mp.weixin.qq.com/s/YybF9r-BoYn4NNpsBzKhAw)
+    - [040.荣耀归神 Glory to God.mp3 | SLBC Public Sharing](https://file.slbc.app:63443/slbc_worship_resources/MP3/%E7%9F%AD%E6%AD%8C/040.%E8%8D%A3%E8%80%80%E5%BD%92%E7%A5%9E%20Glory%20to%20God.mp3)
+    - 
+- ---

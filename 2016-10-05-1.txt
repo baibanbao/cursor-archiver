@@ -1,0 +1,9 @@
+---
+date: 2016-10-05 11:53
+status: public
+title: testing
+status: draft
+---
+
+testing 
+Why I can't see what I have posted.

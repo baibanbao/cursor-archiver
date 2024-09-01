@@ -1,0 +1,28 @@
+- --
+- title: Welcome to Markdown.app
+- --
+- ## 概览
+- [Markdown.app](https://markdown.app) 是免费软件，基于 [MarkEditor](https://www.markeditor.com)。
+- 从某种角度来看，`Markdown.app` 是 **MarkEditor** 的一个**简化版**。
+- 如果你想获得一个更加强大的工具，可以尝试 **MarkEditor**。但如果只需要一个 App 进行 Markdown 文档的书写，`Markdown.app` 就足够了。
+- ## 与 MarkEditor 的区别
+- *MarkEditor** 强于 `Markdown.app` 10+ 倍。
+- `Markdown.app` 关注 `使用 Markdown 书写`, 而 **MarkEditor** 关注 `书写 & 效率`。
+- 另外，为了保持 **MarkEditor**  与 `Markdown.app` 之间的兼容，它们的 **App 偏好设置** 中使用了相同的 UI。有些 `Markdown.app` 可见的设置，其实仅仅在 **MarkEditor** 生效。
+- ## Markdown.app 功能
+- Markdown 语法的自动高亮
+- Markdown 语法标记栏syntax marker bar
+- 行数栏
+- 预览栏 (实时)
+- 独立的预览窗口
+- 在浏览器中预览 (实时)
+- 写作统计
+- 自动的主题创建器
+- 禅模式
+- 聚焦模式
+- 写作时保持居中
+- 文档的历史版本
+- 插图的多种方式
+- 从移动设备中直接插图
+- ## 注意
+- 作为 **免费软件**,  `Markdown.app` 并不接收任何的 feature requests，也无任何意义上的保证。

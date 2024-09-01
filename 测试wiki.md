@@ -1,0 +1,3 @@
+- Edward Yang was a Taiwanese filmmaker. Yang, along with fellow auteurs Hou Hsiao-hsien and Tsai Ming-liang, was one of the leading film-makers of the Taiwanese New Wave and Taiwanese cinema. He won the Best Director Award at Cannes for his 2000 film Yi Yi.
+- Zhang Yimou is a Chinese film director, producer, writer and actor, and former cinematographer. He is part of the Fifth Generation of Chinese filmmakers, having made his directorial debut in 1987 with Red Sorghum.
+- 

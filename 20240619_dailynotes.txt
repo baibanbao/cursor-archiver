@@ -1,0 +1,98 @@
+## 2024-06-19 Dailynotes
+
+## 回归最简操作
+
+由于我自己把事情搞得过度复杂，现在需要做减法，就是回归最基本的操作。把markdown写作工具变回CloverTextEdit ，因为这是人无我有的东西。而不是随大流，乱花钱。
+
+## 目前拥有的AI学习工具
+
+- ChatGPT
+- Globe Engineer
+- Github copilot 
+- Kagi搜索引擎
+- poe
+- Luma
+
+## 目前已经确立不变的软件使用法则
+
+### 输入法
+
+全拼输入法
+
+不要再在电脑上去尝试双拼，纯粹浪费时间。
+
+为追求速度和效率，在Mac上改用官方输入法
+
+### 笔记软件
+
+- CloverTextEdit 
+- The Archive
+- Marked 2
+- Notion
+
+### GitHub同步软件
+
+Github for mac
+
+### 文本处理/编程软件
+
+- Sublime Text
+
+### Markdown软件
+
+- IA Writer
+- Byword
+- Metion
+
+### Terminal
+
+官方Terminal
+
+### 浏览器
+
+- Chrome
+
+可信任的插件
+
+- copy as markdown
+- bilibili downloader
+- douban book+
+- expand URL 
+
+图片上传
+
+- upic
+
+截屏OCR
+
+- bob
+
+### 整体效率软件
+
+- Alfred
+- Raycast
+
+### 音视频剪辑软件
+
+- Adobe Audition
+- Adobe Premiere
+- Recut
+- 剪映
+
+### 语音转文本/字幕软件
+
+- Memo
+
+### 番茄钟
+
+- 使用物理沙漏
+- take a break
+
+### 硬写工具
+
+- flowstate 个人在线版
+
+
+
+
+

@@ -1,0 +1,11 @@
+- [[webclips]]
+    - {{[[TODO]]}} 宝宝移动办公桌
+        - 
+    - 宝宝移动办公桌
+-  今天又是蒙福的一天
+    - 解决了[[chatGPT]] plus缴费的问题
+    - 开通了[[chatGPT]] API
+    - 开启了新旅程
+    - {{[[DONE]]}} 晚上回家收到了宝宝移动办公桌
+- 今日阅读
+    - [ChatGPT vs. Notion AI: Side-by-Side Prompt Comparisons - YouTube](https://www.youtube.com/watch?v=2p-ezfaYCFA)

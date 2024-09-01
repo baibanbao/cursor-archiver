@@ -1,0 +1,36 @@
+- #[[Prayers&Answers]]
+    - Date: [[December 25th, 2023]] 04:31
+        - 赞美感谢
+            - 赞美救主降生
+            - 赞美天父护理
+            - 赞美圣灵保惠师，始终没有离弃我
+        - 认罪悔改
+            - 为自己内心残存盈余的罪
+            - 为自己小信不听从主
+            - 为自己没有做好榜样
+            - 为自己的焦虑
+        - 祈求代求
+            - 求主立即止住#[[Jonas]]同学在他身上施加的恶
+                - 感谢神让#[[Seven]]警告了他
+            - 求主给我和#[[Seven]]智慧处理这件事
+            - 求主保护jo
+            - 求主让这件事顺利解决
+            - 求主让我借着这件事学到功课
+            - 求主加增我的信心
+            - 让我发怒但不犯罪
+            - 求主让我们家得到平安，而不是被恶所摧毁
+            - 求主坚固#[[Jonas]]的信心，安慰他，擦干他的眼泪
+- [[Gratitude]]
+- [[Day Start]] 19:52
+- Daily Tasks
+    - {{[[TODO]]}} 瑞金为[[我的父亲]]开药
+    - {{[[TODO]]}} 接#[[Jonas]]，顺便警告他的同学
+    - {{[[TODO]]}} 写一篇关于[[朱令]]信主的短文
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

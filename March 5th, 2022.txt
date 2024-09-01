@@ -1,0 +1,25 @@
+- 我对自己的惫懒感到不安
+- 测试Youtube笔记
+    - {{[[video]]:https://www.youtube.com/watch?v=zBv37KNvsWw&t=294s }}
+        - 视频笔记
+        - https://youtu.be/zBv37KNvsWw?t=587
+            - 他在这里提到了一部意大利电影
+                - 圣洛伦佐之夜 La notte di San Lorenzo (1982)
+                - 里面有枪杀儿子父亲崩溃的镜头
+                - Dune失控的那一幕就是从这里学到的。
+                    - 可见多看电影，尤其是小众电影是多么重要。
+                    - 
+- [[webclips]]
+    - [Building a Digital Brand from $0 — $3,000/day - YouTube](https://www.youtube.com/watch?v=nsuULV4XtTs)
+    - {{[[TODO]]}} 
+    - [Stop Being Average — World Class Market Creation - YouTube](https://www.youtube.com/watch?v=1jqaJ88gCu8)
+        - 思考 [[视觉好中文]]的可行性
+    - [(1) Interviewing Michael Arndt Academy, Award-winning writer of "Little Miss Sunshine". [0:27:19] - YouTube](https://www.youtube.com/watch?v=zBv37KNvsWw&t=294s)
+    - {{[[TODO]]}} 
+    - [(1) Endings: The Good, the Bad, and the Insanely Great - YouTube](https://www.youtube.com/watch?v=gWHfsEJ5JJo)
+    - {{[[TODO]]}} 
+    - [(1) 空中神学讲座 - 新约希腊文[02]认识名词 - YouTube](https://www.youtube.com/watch?v=9NQH5BPgNLg)
+    - {{[[TODO]]}} 
+    - [(1) Could Putin really start a nuclear war? | The Economist - YouTube](https://www.youtube.com/watch?v=9UWUz_hxSk4)
+    - {{[[TODO]]}} [圣洛伦佐之夜 (豆瓣)](https://movie.douban.com/subject/1299163/)
+    - [Taking Notes on a Video: my YiNote to Roam Research Workflow | Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20201215-yinote-to-roam/)

@@ -1,0 +1,43 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[June 8th, 2021]]
+- I had last week off with a somewhat enforced break from technology as we welcomed a new puppy into our family so my finger has been slightly less on the pulse of Roam than usual, however there’s still plenty to cover so let’s get going.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffoxsoft%2FtQbHBOys4v.jpg?alt=media&token=87e82009-42b7-4ed4-bb1b-124d4b8ca043)
+        - Gratuitous picture of my new puppy, Nelli, sleeping under my chair
+- # Around the Roaman Empire
+    - [[Alix Lahuec]] continues to improve her stellar must-have Zotero extension for academic Roamans with the addition of a new on-page menu, which includes being able to search citations within a paper amongst many other enhancements and improvements. You can get all the details from her amazingly detailed [help documentation](https://alix-lahuec.gitbook.io/zotero-roam/).
+        - https://twitter.com/alixlahuec/status/1402091512851271691?s=21 #[[LFR/Letter XX]]
+    - ## Tick-TOC
+        - One thing that's been missing from Roam is an easy way to have some kind of automatic table of contents for pages. It can be a quite laborious process to build them manually. Fortunately, that time is now over, [Luis Thiam-Nye has built a nice custom component](https://github.com/LuisThiamNye/roam-toc/blob/main/toc.cljs) which makes it really easy. Custom components are still a fairly new feature to Roam so there are a few steps to getting this set up. Fortunately, [[Ramses Oudt]] at [[RoamStack]] has you covered and has written a [comprehensive tutorial](https://roamstack.com/kb/extensions/roam-toc/) which explains all the steps necessary.
+            - https://twitter.com/roamstack/status/1400784357414117385?s=21 #[[LFR/Letter XX]]
+    - ## A workflow for drafts using [[roam/comments]]
+        - This is a cool little video from Ken Veerman, showing how he's using the new [[roam/comments]] feature in his writing workflow as he goes from outline to first draft, keeping the references and a history.
+            - {{[[video]]: https://www.loom.com/share/140fdf08f3c7432b937aecd504d6f3bb}}
+                - https://twitter.com/kenveerman/status/1397870825252982790?s=12 #[[LFR/Letter XX]]
+    - ## Super-powered daily template
+        - Bardia, on the Roam team, demonstrated his own daily routine templates which are powered by Roam42's SmartBlocks. His Loom video walks through what everything does, so if you're in need of any inspiration or want to see what's possible, it's well-worth watching.
+            - {{[[video]]: https://www.loom.com/share/68c8378775654d4b95ff7d61f83c4ca4}}
+                - https://twitter.com/thepericulum/status/1400207747870871555?s=21 #[[LFR/Letter XX]]
+    - ## Sending up the bat-signal
+        - Speaking of SmartBlocks, [[David Vargas]] is looking for more RoamJS developers to help him work on the queue of requests. If you're not a developer and there are features you want to see in Roam that would help you, then reach out to David, or to RoamBounties and sponsor development with others to bring them to reality!
+            - https://twitter.com/dvargas92495/status/1397734875717898240?s=12 #[[LFR/Letter XX]]
+    - ## Super-powered sidebar
+        - Not to be outdone by Bardia I guess, [[Stian Håklev]] [demonstrated a nifty piece of [[roam/js]] code](https://gist.github.com/houshuang/93a320a5b3d447d13613735be2d68bec) which lets you easily and dynamically add more functionality to your sidebar!
+            - {{[[video]]: https://www.loom.com/share/fa0780c0933d4b3eabb1c223dd01687d}}
+                - https://twitter.com/houshuang/status/1401776106877997060?s=21 #[[LFR/Letter XX]]
+    - ## Roam Book Club Newsletter 📚📰
+        - Finally, I'm also excited to announce that I'll be taking over [[Roam Book Club]] newsletter duties from [[Matt McKinlay]] for Roam Book Club 5 which is starting in July. We have a few ideas brewing that we hope adds to the already amazing experiences, highlight more of the magic of the Roam community and continue to push the frontiers of what's possible with Roam and the reinvention of a modern book club.
+- # [[Thinking Out Loud]]
+    - Following my noodlings in [[LFR/Letter XIX]] about whether Markdown is an appropriate format for notes, I read a recent seedling note from [[Maggie Appleton]] about [the linear oppression of note-taking apps](https://maggieappleton.com/note-oppression), which is well worth reading.
+    - In it, Maggie argues that the major note-taking apps, including Roam, are centred around linear text that's read left-to-right, and from the top to the bottom.
+        - I've previously noted that Roam has affected how I think in very positive ways, in large part to its block-based unit of thought.
+        - However, it raises the question that if we're prioritising textual notes over visual notes then are we again at risk of subtly altering how we think, and potentially missing out on richer insights that we might otherwise be making? It's certainly true that we are naturally visual and spatial thinkers--we have been thinking visually and spatially far longer than we have been capable of the written word.
+            - In [[book/Braiding Sweetgrass]], a passage by [[Robin Wall Kimmerer]] stuck out to me:
+                - > This is the grammar of animacy. Imagine seeing your grandmother standing at the stove in her apron and then saying of her, “Look, it is making soup. It has gray hair.” We might snicker at such a mistake, but we also recoil from it. In English, we never refer to a member of our family, or indeed to any person, as it. That would be a profound act of disrespect. It robs a person of selfhood and kinship, reducing a person to a mere thing. So it is that in Potawatomi and most other indigenous languages, we use the same words to address the living world as we use for our family. Because they are our family. ([Location 1101](https://readwise.io/to_kindle?action=open&asin=B07Z1DZC9D&location=1101)) [*](((1M1TOSaI4)))
+                - This blindspot in how we use language and are shaped by it culturally hit me quite hard, we rarely, if ever, think about this. Are we in danger of doing the same thing with our thinking tools?
+                    - If these tools of thought are supposed to help us to think better then perhaps we need to keep our minds open to whether we're introducing blindspots in our zeal for new, short term fixes and accepting them as natural without question, accidentally welding ourselves to certain ways of working in the process.
+                        - It took a tool like Roam to shake us loose from the prose-like thinking to thinking with blocks as the fundamental unit of thought. But we must also be mindful that our tools enable, and ideally improve upon our ability to think more visually.
+                            - Sure, Roam has some nods to more visual notes like the basic drawing and diagram features, and there is also [[Zsolt Viczián]]’s more comprehensive integration with Excalidraw that hints towards a more equitable future of combining text with visuals. However, none of these are remotely substitutable for the more freeform layouts, annotations and overlays that visual and spatial notes enable.
+                            - There are tools like [Codex](https://www.patreon.com/codexeditor) and the Mac/iOS only [Kosmik app](https://kosmik.app/) which do promise more visual and spatial thinking with your note-taking.
+                                - But what does this mean for necessary import/export abilities? In my view, it is essential that any serious note-taking app must be able to export your notes without loss when moving tools without losing potentially years or decades of knowledge if your needs change, or the tool becomes unsustainable or abandoned.
+                                    - We are still struggling with the question of interoperability at the text level let alone the additional complexity required to support first-class visual and spatial notes too. Perhaps [atJSON](https://talk.fission.codes/t/tools-for-thought-atjson-as-a-potential-format-for-interchange/1880) could begin to offer a solution?

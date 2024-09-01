@@ -1,0 +1,21 @@
+- [[Gratitude]]
+- [[Day Start]] 02:32
+- Daily Tasks
+    - #dfree
+        - {{[[DONE]]}} 给[[父亲]]打电话
+        - {{[[DONE]]}} 下午单独与#[[Seven]]谈
+        - {{[[DONE]]}} 招联好期贷 15000.69
+        - {{[[DONE]]}} 360平台 943.33
+        - {{[[TODO]]}} 招行最低 25549.22
+        - {{[[DONE]]}} 招行信用卡全部
+            - 
+    - {{[[DONE]]}} [[岳父]]住院
+    - {{[[DONE]]}} 与[[陈浩初]]相约
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

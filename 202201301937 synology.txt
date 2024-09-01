@@ -1,0 +1,20 @@
+群晖本地网址
+
+http://192.168.1.12:5000/
+
+如果不行，就查找：
+
+find.synology.com
+
+记得要关闭vpn
+
+[What can I do if one of my volumes crashed? - Synology Knowledge Center](https://kb.synology.com/en-us/DSM/tutorial/What_do_I_do_when_a_volume_crashes)
+
+虽好的办法就是冲洗奥吉亚斯牛圈的办法，取出crashed的旧硬盘，换上刚买的大硬盘，一切都解决了。虽不完美，但是奏效。
+
+22022-01-31 05:55 换12T硬盘于群晖服务器上，一切完美解决。
+
+群晖对我的作用就是备份清理笔记本电脑上的内容，让自己轻装前进，不断创造，它本身不创造价值，因为充当了蓄水池，排水沟的作用，而拥有了价值。
+
+#synology  #群晖 #qunhui
+

@@ -1,0 +1,23 @@
+- [[Gratitude]]
+- [[Day Start]] 13:58
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **13:58** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - 
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[卡片笔记]]
+    - 关于笔记的思考
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F1nLhVfzP3Q.JPG?alt=media&token=e99bd588-7c7e-4640-a5f3-2f5710dfc842)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Ff77kEu96LO.JPG?alt=media&token=9df8e954-30ee-4687-907b-fa6742c0f32f)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FBSCIbZYsR7.JPG?alt=media&token=ecb7483c-a332-47ca-97cd-c1491ac00da4)
+- [[Edit Later]]
+- [[写书]]
+- ---

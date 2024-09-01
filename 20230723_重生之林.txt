@@ -1,0 +1,159 @@
+ChatGPT编辑作文，转化为分镜头脚本。 用Midjourney根据分镜脚本作图。用Leiapix让画面有一些动感。剪映专业版中输入文本全自动断句，剪辑，配音，配乐。然后我用ai作的视频替换掉剪映专业版中的视频素材，稍作些微调。最后在剪映里加上片头片尾
+
+“你是一个优秀的虚构文学作家。请为我编辑一段我写的故事。要求不能改变故事的原始内容。并且如果将原文和你编辑后的文字对照显示。并且用括号解释你这样编辑的原因。 原文如下：”
+
+“请你再重新编辑一下，让辞藻更为优美，符合优秀中文小说的文风”
+
+作文原文：
+
+这一天，森林里刮起了台风。台风连续刮了三天。
+
+小动物们全躲了起来。连小黄鹂都藏到山洞里避难。往哪里走都看不见动物们的踪影。
+
+突然，台风停下了。小黄鹂蹦蹦跳跳地飞了出来。可是刚飞出来它就惊呆了！因为它看见树都倒了，有好多树被连根拔起。
+
+“哎呀！”小黄鹂大叫到，“这是怎么回事呀？没地方做窝啦！”
+
+于是它跟小动物们开了一个会。小动物们决定再种一些树。
+
+于是它们采集了很多树种子，然后开始种树。
+
+小黄鹂种得很努力。它左边撒撒种子，右边撒撒种子。
+
+小动物们努力地干活，因为它们知道马上会有新的森林长出来。
+
+————CHATGPT编辑的（我只把“众动物”改为了“动物们”，“深知”改为了“深信”，让语句显得更简单。“齐心协力”一行里出现了两次，我删掉了一次。）：
+
+这天，森林里刮起了狂风暴雨，台风肆虐了整整三昼夜。
+
+小动物们纷纷躲避不见，就连小黄鹂也紧闭翅膀躲进山洞，寻求庇护。风暴过后，四野间再无它们的身影。
+
+终于，台风息了。小黄鹂欢快地飞出洞口，却被眼前的景象惊呆了！众树倾覆凋零，连同根顷刻被拔起，一片狼藉。
+
+“天哪！”小黄鹂惊叫道，“这是怎么回事？我的家……我的窝哪儿去了？”
+
+于是，它与动物们商议着，决定重建森林。
+
+动物们采集了满满一篮篮树种，齐心协力开始播种。
+
+小黄鹂卖力地撒播，左一点儿，右一点儿，从容不迫。
+
+动物们尽心尽力，深信新的森林即将蓬勃生长。
+
+Title: Rebirth of the Forest: Little Oriole's Enchanted Adventure
+
+Scene 1:
+
+INT. FOREST - DAY
+
+The forest is shrouded in dark clouds, and strong winds whip through the trees. Rain pours down relentlessly, soaking the lush foliage.
+
+Text: On this day, a violent storm with strong winds and torrential rain swept through the forest.
+
+Scene 2:
+
+EXT. FOREST - STORM
+
+The raging storm intensifies, branches sway wildly, and the forest floor becomes a muddy mess.
+
+Text: The small animals all sought shelter, and even the yellow oriole closed its wings and took refuge in a cave.
+
+Scene 3:
+
+INT. CAVE - DAY
+
+Inside the dark cave, the little yellow oriole trembles in fear as thunder roars outside.
+
+Text: After the storm, there was no trace of them in the surroundings.
+
+Scene 4:
+
+EXT. FOREST - AFTER THE STORM
+
+The storm gradually subsides, and the rain starts to ease up.
+
+Text: Finally, the typhoon subsided.
+
+Scene 5:
+
+EXT. FOREST CLEARING - SURPRISE
+
+The little yellow oriole flies out of the cave, but its excitement turns into shock as it witnesses the devastation around.
+
+Text: The yellow oriole flew out of the cave with joy, only to be stunned by the scene before its eyes!
+
+Scene 6:
+
+EXT. FOREST - DESTRUCTION
+
+Trees lie uprooted and fallen, creating a chaotic and devastated landscape.
+
+Text: The trees were overturned and withered, uprooted in an instant, leaving a mess behind.
+
+Scene 7:
+
+EXT. FOREST - WORRY
+
+The little yellow oriole looks worried and distressed as it realizes its home is gone.
+
+Text: "Oh my goodness!" the yellow oriole exclaimed, "What happened? My home... Where did my nest go?"
+
+Scene 8:
+
+EXT. FOREST - DISCUSSION
+
+The yellow oriole gathers with other small animals to discuss their plan to rebuild the forest.
+
+Text: So, it discussed with the other small animals and decided to rebuild the forest.
+
+Scene 9:
+
+EXT. FOREST - COLLECTING SEEDS
+
+The animals work together, collecting baskets full of tree seeds amidst the debris.
+
+Text: All the animals worked together and collected baskets full of tree seeds.
+
+Scene 10:
+
+EXT. FOREST - SEED PLANTING
+
+The little yellow oriole energetically scatters seeds, determined to bring life back to the forest.
+
+Text: The yellow oriole diligently scattered the seeds, here and there, with ease and composure.
+
+Scene 11:
+
+EXT. FOREST - NEW BEGINNINGS
+
+The animals join forces to plant the seeds, symbolizing the hope of a new beginning for the forest.
+
+Text: The animals worked wholeheartedly, firmly believing that a new forest would soon flourish.
+
+Scene 12:
+
+EXT. FOREST - TIME LAPSE
+
+Time flies by, and the tiny saplings start to sprout from the soil, bringing a ray of hope to the desolate landscape.
+
+Text: Time flies by, showing the growth of new life in the forest.
+
+文字：时光飞逝，森林里新生命的成长。
+
+Scene 13:
+
+EXT. FOREST - FOREST REVIVAL
+
+The forest gradually rejuvenates, as the young trees grow taller and the greenery returns.
+
+Text:
+
+Scene 14:
+
+EXT. FOREST - HAPPY REUNION
+
+The little yellow oriole joyfully flits around its new home, surrounded by other animals, embracing their success in rebuilding the forest.
+
+Text: Finally, the yellow oriole and the other animals happily celebrate their success, surrounded by the flourishing forest.
+
+The story concludes with a heartwarming tale of resilience and unity, showing how the little yellow oriole and its forest friends overcome adversity to create a vibrant new forest together. The short film is about 42 seconds long, adhering to the requirement of three seconds per shot.

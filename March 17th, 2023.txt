@@ -1,0 +1,51 @@
+- [[Gratitude]]
+- #Prayers&Answers
+    - 16:42 
+        - 手术五个小时候，护士找#[[Seven]]去谈话，求主保护我的[[岳父]]，保护他的性命，使他手术顺利，使他能够恢复健康，使他听到福音，悔改得救，在今生来世都有盼望。奉耶稣的名祷告。阿门。
+- #[[Prayers&Answers]]
+    - Date: [[March 17th, 2023]] 06:49
+        - 赞美感谢
+            - 赞美造天地万物的主
+            - 感谢主的护理
+            - 感谢主一路带领
+            - 感谢主让我的[[岳父]]住院手术
+            - 感谢主让#[[Jonas]]的流感得到控制和医治
+            - 感谢主赐下[[GPT-4]]等AI
+        - 认罪悔改
+            - 为自己的冷淡冷漠
+            - 为自己信心软弱
+            - 为自己骨子里的自私
+            - 为自己没有爱弟兄
+            - 为自己没有勇敢地传福音
+            - 为自己没有为孩子的未来着想，包括[[入团问题]]
+            - 为自己不守承诺，让主名蒙羞
+        - 祈求
+            - 为[[岳父]]今天上午的手术祷告
+            - 为辛劳的#[[Seven]]祷告
+            - 为#[[Jonas]]的流感
+            - 为今晚开始的[[gc8]]祷告
+            - 为下周要交出的[[四季青青]]而祷告
+            - 为下个月的财务 #Finance 
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 3}}
+- [[Day Start]] 06:48
+- Daily Tasks
+    - 
+    - 
+    - 
+- ---
+- [[Daily Journal]] 
+    - [[GPT-4]]
+        - 今天revoke了之前所有的[[OpenAI]]
+            - 只保留了一个 `sk-jb...KhLO`
+            - 这样便于控制费用
+            - 另外GPT-4的API还没有审批下来
+    - 本地安装了GPT-2，能够运行通，已经很开心了
+        - `/Users/ding/Downloads/gpt_local`
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

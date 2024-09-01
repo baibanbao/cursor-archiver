@@ -1,0 +1,60 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[July 27th, 2021]]
+- Hello again fellow Roamans,
+    - As we hit the end of July, my frenzied newsletter writing period has begun. It will be the true test of my habits and the systems that I have developed in Roam, and honed over the past several months. My aim is to not only deliver high-quality writing, but still fit them round my day job of running a small business and still having quality time to spend with my family.
+    - So let's get on with this edition.
+- # Around the Roaman Empire
+    - I seem to have come across a lot of Roam-related videos in the last few weeks so here's a quick round-up for your viewing pleasure.
+    - ## 119 minutes of Roam game-film!
+        - [[Akiff Premjee]] has created a great YouTube video tutorial based on the [Roam Fundamentals I tweeted about back in January](https://twitter.com/elaptics/status/1353335275842367490).
+            - {{[[video]]: https://www.youtube.com/watch?v=3-o327PyLBg}} #[[LFR/Letter XXIII]]
+        - A short Loom from Juan, demonstrating how effortlessly he can use Roam to track his work and quickly "fix" up his entries over time.
+            - {{[[video]]: https://www.loom.com/share/8f56855e55fd486f896881cb8f79145f}}
+                - https://twitter.com/z9sx7wox/status/1415674480496726016?s=12 #[[LFR/Letter XXIII]]
+        - [[Ryan Muller]] demonstrates [a little roam/js extension he's created called incanto](https://gist.github.com/hungriesthippo/a79cfe61f44d1c0d2f54f64dffe58671) which allows him to easily program his attention to work his way through his TODO backlog without feeling intimidated or overwhelmed.
+            - {{[[video]]: https://www.youtube.com/watch?v=USVd-9cQf20}} #[[LFR/Letter XXIII]]
+        - If you missed the live session, the replay of [[Ramses Oudt]] (Roamstack) and [[Beau Haan]]'s Keyboard Maestro team-up is now available and well worth your time. Even veteran Roam users like Ramses and I learned a thing or two!
+            - Beau demonstrates how he uses Keyboard Maestro to create a frictionless workflow in Roam. They go deep, and they also secured a discount code for Keyboard Maestro too.
+                - {{[[video]]: https://youtu.be/DJ4BA2Fj5NA}} #[[LFR/Letter XXIII]]
+        - In this 12 minute Loom video [[Conor White-Sullivan]] demonstrates some of his workflows and how he views [[Interstitial Journaling]] as a form of active meditation.
+            - {{[[video]]: https://www.loom.com/embed/37ab37d1d403478ba1089a6bf417ce6d}} #[[LFR/Letter XXIII]]
+        - An [in-progress article and video](https://maggieappleton.com/roam-garden) all rolled into one from [[Maggie Appleton]] where she describes how she tends her evergreen notes system including a video walkthrough.
+            - It's a great pairing with both Beau and Joel Chan's roam tour sessions. As Ramses said in his recent newsletter, we need more "game film for knowledge work".
+            - What I really like is how she has taken ideas from both [[Andy Matuschak]] and [[Beau Haan]] and molded them together into her own interpretation of a zettelkasten which works the way her brain does to help her produce meaningful output.
+                - [Tending Evergreen Notes in Roam Research](https://maggieappleton.com/roam-garden) #[[LFR/Letter XXIII]]
+    - ## Just Do It
+        - As a nice juxtaposition, this is a great atomic essay from [[Tracy Winchell]] reminding us that while watching and learning from others is great, at some point we do need to get started and discover things for ourselves.
+            - https://twitter.com/tracyplaces/status/1418293749537509379?s=12 #[[LFR/Letter XXIII]]
+    - ## Tree Query
+        - [[Robert Haisfield]] has worked with [James Lu](https://twitter.com/jamest_lu) to create [a command-line tool which replicates the Roam query syntax](https://github.com/CrazyPython/tree-query) to search through markdown files. It's helpful for those who want to query their Roam data that's been exported as Markdown.
+            - https://twitter.com/roberthaisfield/status/1418620847950991361?s=12 #[[LFR/Letter XXIII]]
+    - ## Roam In Context
+        - [[Lukas Kawerau (@cortexfutura)]] has __finally__ released his [free __Roam in Context__ email course](https://signup.cortexfutura.com/roam-in-context). In the style of "choose-your-own-adventure", you select your particular use-case for Roam and get a customised tutorial complete with example data to upload into your own graph to learn how best to structure your graph.
+            - https://twitter.com/cortexfutura/status/1417517176634937348?s=12 #[[LFR/Letter XXIII]]
+    - ## Lost in Roam
+        - Back in [[LFR/Letter XVIII]] I mentioned how I'd been enjoying Jesse's Lost in Roam series, however his most recent video really resonated with me. His metaphor of the backwards bike really describes well for me just how Roam changes how you think by "breaking your brain".
+            - {{[[video]]: https://www.youtube.com/watch?v=uQVwcCNLCPA}}
+                - https://twitter.com/jessejanderson/status/1414807359747104774?s=12 #[[LFR/Letter XXIII]]
+    - ## Roam Book Club 5
+        - In case you've been hiding under a rock, Roam Book Club 5 started this past Sunday; we're reading the classic "How to Read a Book". This round is being led by Mike Kramer and the introduction call lasted almost 6 hours from start to finish, in part because [[Conor White-Sullivan]] showed up and the office hours session after the main call turned into an amazing discussion.
+            - [It's not too late to get signed up and join us](https://roamresearch.typeform.com/to/KgqpWjTI). It promises to be epic, we will be experimenting together to use [Barbara Minto's Pyramid Principle](https://tettra.com/article/minto-pyramid-principle/) in Roam to help us more quickly extract and understand information and structure our writing and thinking as we read __the__ book on how to read books. ((Meta, right))
+- # [[Thinking Out Loud]]
+    - I had planned to publish something else this week, but as I was curating the collection of "game film" videos for this week, I was struck by the common thread in all of these videos.
+        - In their own ways they are all removing micro-frictions from their workflows to keep them in their flow state and make their work more effortless.
+        - It reminded me of the recent atomic essay by [[Lukas Kawerau (@cortexfutura)]] about fiddling with your note-taking system.
+            - https://twitter.com/cortexfutura/status/1412767668562767873
+        - Removing these micro-frictions is a great example of its application, to become aware of your processes and what gets in the way of acheiving your goals.
+            - As Lukas says, incrementally improving your system can only come when you have a clear understanding of what you want out of it.
+            - There are a few things I would add to his list:
+                - Use the idea of the [[1% Rule]] to improve a little every day, whether that's working at your craft and discipline itself or improving your tool to remove a friction.
+                - Time-box your "fiddle-time".
+                    - As a successful procrastinator, I know it is very easy to find new "optimisations" so if you are not clear on the goals of your session you can burn through your time and not achieve what you set out to discover.
+                        - Add the new potential improvements to your running list for a later session.
+                - Be clear on what you anticipate gaining and weigh the time it needs to implement against it.
+                    - I refer to this [XKCD comic](https://xkcd.com/1205/) regularly as it provides a very useful frame of reference for how much time you can afford to spend fiddling vs how much time you expect to gain from its implementation into your system.
+                        - ![is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+                    - Remember though, it's not just about the raw time saved from the optimisation.
+                        - A great example here is Beau's Keyboard Maestro demo with Ramses.
+                            - He has spent time to make it as frictionless as possible to keep his head in the right focus mode to make the most of his sessions
+                                - They are tiny improvements but they are very real and the compounding effect of those tweaks can be massive when the goal is to make the path between the thought in your head and your long-term thinking system as short and direct as possible.

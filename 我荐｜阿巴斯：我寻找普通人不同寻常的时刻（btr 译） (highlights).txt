@@ -1,0 +1,18 @@
+- Author:: [[我荐｜[[阿巴斯]]：我寻找普通人不同寻常的时刻（btr 译）]]
+- Full Title:: 我荐｜[[阿巴斯]]：我寻找普通人不同寻常的时刻（btr 译）
+- URL:: http://mp.weixin.qq.com/s?__biz=MjM5ODc1Mzg2NQ==&mid=2707541767&idx=1&sn=6d4efb4a0af9bbdbf62c582c0fcaa93b&chksm=82508c21b5270537499584042ed1dc4694f13c0c785dbde325c744afc1410e541bbb4a90b3e0#rd
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 16th, 2022]]
+    - 包含好想法的电影总是有价值的，哪怕它们拍得并不好。一个没意思的想法就像一块碎玻璃或不流动的水。它只是不动，什么也给不了。 ([View Highlight](https://instapaper.com/read/1522194960/20079551))
+    - 一部有意思的电影包含审查者不确定是否应该移除的内容。 ([View Highlight](https://instapaper.com/read/1522194960/20079556))
+    - 我的车一直对我很忠诚，像马一样耐心。我照料它，就像照料一个动物。 ([View Highlight](https://instapaper.com/read/1522194960/20079559))
+    - 懒是一种罪。 ([View Highlight](https://instapaper.com/read/1522194960/20079560))
+    - 我有个朋友过来吃晚饭，想要些香烟，于是我的儿子出门为她去买。我们等了很久他也没回来，结果发现他走了三英里去城里买一盒烟。那种责任感、那种坚持是应该受到某种奖励的，而这就是我想在《何处是我朋友的家》里传达的东西。 ([View Highlight](https://instapaper.com/read/1522194960/20079565))
+    - 艺术家反思悲惨的经历时并不愤世嫉俗，因此我们才能够从痛苦中得到愉悦，在逆境与灾难中受到启迪。鲁米告诉我们，如果我们决定优雅地凝视可怕的东西，我们便可察觉它的美。一切取决于我们如何看。 ([View Highlight](https://instapaper.com/read/1522194960/20079570))
+    - 如果有人看我的电影20分钟后离场，我能理解。如果有人在结束后又待了20分钟，我也能理解。 ([View Highlight](https://instapaper.com/read/1522194960/20079573))
+    - 如果你没有狮子的胆量，就别追求爱情。 ([View Highlight](https://instapaper.com/read/1522194960/20079579))
+    - 要不是能够记录人脸的细微之处和变化，电影将无力描绘人的孤独和美。 ([View Highlight](https://instapaper.com/read/1522194960/20079583))
+    - 坚持做下去吧。开头总是最难的。 ([View Highlight](https://instapaper.com/read/1522194960/20079585))
+    - 没有做的项目就像我只读了十页的书。它们放在那儿，夹着突出的、召唤般的书签，提醒我还必须做多少工作。 ([View Highlight](https://instapaper.com/read/1522194960/20079587))
+    - 摘自《樱桃的滋味：[[阿巴斯]]谈电影》，[[阿巴斯]]·基阿鲁斯达米著，btr译，雅众文化/中信出版社，2017 ([View Highlight](https://instapaper.com/read/1522194960/20079595))

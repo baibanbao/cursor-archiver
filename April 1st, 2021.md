@@ -1,0 +1,5 @@
+- [[四季青青]]小说交稿
+- #[[Finance]] 
+    - 在#[[借呗]]上又借了10000元，期限一年，用于偿还招行的贷款。
+- #[[Quick Capture]]
+    - [维族男子因在狱中偷偷做宗教仪式，并辱骂举报者，被法院判刑13年（裁判文书网快照） : China_irl](https://www.reddit.com/r/China_irl/comments/mhqpsb/%E7%BB%B4%E6%97%8F%E7%94%B7%E5%AD%90%E5%9B%A0%E5%9C%A8%E7%8B%B1%E4%B8%AD%E5%81%B7%E5%81%B7%E5%81%9A%E5%AE%97%E6%95%99%E4%BB%AA%E5%BC%8F%E5%B9%B6%E8%BE%B1%E9%AA%82%E4%B8%BE%E6%8A%A5%E8%80%85%E8%A2%AB%E6%B3%95%E9%99%A2%E5%88%A4%E5%88%9113%E5%B9%B4%E8%A3%81%E5%88%A4%E6%96%87%E4%B9%A6%E7%BD%91%E5%BF%AB%E7%85%A7/) #[[F-Note]]

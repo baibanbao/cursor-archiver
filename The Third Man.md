@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Carol Reed]]
+        - Writer:: [[Graham Greene]] [[Orson Welles]] [[Alexander Korda]]
+        - Cast:: [[Orson Welles]] [[Joseph Cotten]] [[Alida Valli]]
+        - Year:: [[1949]]
+        - Genre:: #Film-Noir #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0041959
+    - **Plot Summary:** Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.

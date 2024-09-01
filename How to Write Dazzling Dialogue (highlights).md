@@ -1,0 +1,8 @@
+- Author:: [[James Scott Bell]]
+- Full Title:: How to Write Dazzling Dialogue
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51FAHNOKGDL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Here's one of my axioms: Act first, explain later. Readers will wait a long time for explanatory material if there is solid action going on. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00KN0JEYA&location=223))
+    - In other words, hide the exposition within confrontation. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00KN0JEYA&location=226))
+    - This may sound silly or crazy, but guess what? You're a writer. You're already crazy. Go ahead and grease that wheel. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00KN0JEYA&location=449))

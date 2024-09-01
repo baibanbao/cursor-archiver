@@ -1,0 +1,4 @@
+- minipomo是我所发明的一种新的写作利器，就是10分钟一个小番茄钟，每天完成33个番茄钟，从而写出2万字。
+- 在使用minipomo的过程中，配合危险的写作工具或者插件，强迫自己持续输出10分钟，然后休息。
+    - [Flowstate - Product Information, Latest Updates, and Reviews 2023 | Product Hunt](https://www.producthunt.com/products/flowstate-2)
+    - [akaalias/dangerzone-writing-plugin: A plugin that forces you to write for X seconds. If you pause for more than 5 seconds, everything you've written in this note is DELETED.](https://github.com/akaalias/dangerzone-writing-plugin)

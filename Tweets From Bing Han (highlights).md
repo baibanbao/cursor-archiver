@@ -1,0 +1,7 @@
+- Author:: [[@icefish76 on Twitter]]
+- Full Title:: Tweets From Bing Han
+- URL:: https://twitter.com/icefish76
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 这几天看到不少人在质疑厉国疫情的诡异 认为奥密克戎应该比流感还轻 怎么会造成如此惨烈的爆发。我很久之前就在推上和马先生的节目里提过 在无疫苗保护的厉国 情况跟自由世界是完全不同的。不是奥密克戎变弱了 而是疫苗使我们对新冠的抵抗力增强了。墙内正在向我们展示 裸奔情况下奥密克戎的真面目…… ([View Tweet](https://twitter.com/icefish76/status/1605030062088081409))

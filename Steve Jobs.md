@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Danny Boyle]]
+        - Writer:: [[Aaron Sorkin]] [[Walter Isaacson]]
+        - Cast:: [[Michael Fassbender]] [[Kate Winslet]] [[Seth Rogen]]
+        - Year:: [[2015]]
+        - Genre:: #Biography #Drama
+    - **IMDb:** https://www.imdb.com/title/tt2080374
+    - **Plot Summary:** Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FtGUnuYzPk0.pdf?alt=media&token=031d593e-0a6e-4162-8177-7c1429edc247}}

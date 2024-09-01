@@ -1,0 +1,7 @@
+- Author:: [[@ThomasZ93077836 on Twitter]]
+- Full Title:: Tweets From Thomas Doubting
+- URL:: https://twitter.com/ThomasZ93077836
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 5th, 2023]]
+    - 乐友Sylvia希望看看里卡多·穆蒂的指挥风采，俺就分享穆蒂大师指挥罗马歌剧院合唱团、乐团演出威尔第歌剧《纳布科》中，著名希伯来奴隶的合唱“飞翔，让思想插上金色的翅膀”。 <video controls><source src="https://video.twimg.com/amplify_video/1731055171512532993/vid/avc1/1280x720/NMQtv5dPn9bwQS3w.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1731055171512532993/vid/avc1/480x270/kzhAZ5xY5IpcVhck.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1731055171512532993/pl/AbgzwGGSu4wSgZrJ.m3u8?tag=14&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1731055171512532993/vid/avc1/640x360/r2zCbitVZGxVoV9p.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> ([View Tweet](https://twitter.com/ThomasZ93077836/status/1731055330505916668))

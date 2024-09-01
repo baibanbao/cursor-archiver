@@ -1,0 +1,10 @@
+﻿我们使用电脑的原因就是利用它完成许多重复劳动，也就是自动化。
+
+比如，我需要把一个文件夹备份到网盘，但又不想每次手动拷贝，我就可以做一个automator来帮我实现。
+
+[How to Create an Automator Script to Back Up to Dropbox - Podfeet Podcasts](https://www.podfeet.com/blog/tutorials-5/how-to-create-an-automator-script-to-back-up-to-dropbox/)
+
+操作起来应该没什么困难，因为电脑最擅长的就是无脑的重复劳动了。
+
+一旦把电脑的自动化用起来，才能把更多精力用在创意上，用在写作上，而不是分心去弄这些劳什子。
+

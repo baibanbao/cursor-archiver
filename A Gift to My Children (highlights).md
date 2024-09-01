@@ -1,0 +1,9 @@
+- Author:: [[Jim Rogers]]
+- Full Title:: A Gift to My Children
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51nbLmKcdnL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Black market exchange rates exist only when the government is imposing artificial controls. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B001NLL92I&location=213))
+    - Eventually I realized that my dream was to seek adventure and learn about the world by seeing as much of it as I could. So, ([Location 230](https://readwise.io/to_kindle?action=open&asin=B001NLL92I&location=230))
+    - You see, when you begin something, you may not always have a concrete picture or vision of the future. But if you continue to be passionate and work hard at what you truly love to do, then you will eventually find that dream. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B001NLL92I&location=232))
+    - Be wary: Learn that many men who look old enough to be your father or grandfather do not think of you as their daughter or granddaughter. ([Location 832](https://readwise.io/to_kindle?action=open&asin=B001NLL92I&location=832))

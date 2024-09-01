@@ -1,0 +1,39 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[November 22nd, 2023]] 14:09
+        - 赞美感谢
+            - 赞美神的创造，护理，拯救
+            - 感谢神使我[[dfree]]完成了第一步
+            - 感谢神所赐予的一切
+        - 认罪悔改
+            - 为自己的冷漠
+            - 为自己不够勤奋
+            - 为自己没有使用好talent
+            - 为自己没有传福音，尤其是整全的福音
+        - 祈求
+            - 求主帮助我完成今天的工作
+            - 求主使我晚上能讲得合宜
+            - 求主让主的计划在我身上实现
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 13:55
+- Daily Tasks
+    - {{[[TODO]]}} 准备晚上[[编剧故事营]]讲稿
+    - {{[[TODO]]}} 晚上[[编剧故事营]]
+        - {{[[TODO]]}} 硬件准备，录音笔充电
+        - {{[[TODO]]}} 硬件准备，云台充电
+        - {{[[TODO]]}} 文件准备，打印讲义
+        - {{[[TODO]]}} 内容准备，讲解什么
+    - {{[[TODO]]}} [[编剧故事营]]剪辑视频
+    - {{[[TODO]]}} 写第一篇[[小红书]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [新的 Obsidian 同步计划：更大、更好、更快、更流畅 - 火米社区](https://huo.me/public/d/76-xin-de-obsidian-tong-bu-ji-hua-geng-da-geng-hao-geng-kuai-geng-liu-chang)
+    - [Introducing GPT Crawler](https://www.builder.io/blog/custom-gpt)
+    - 
+- ---

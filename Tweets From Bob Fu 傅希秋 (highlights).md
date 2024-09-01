@@ -1,0 +1,7 @@
+- Author:: [[@BobFu4China on Twitter]]
+- Full Title:: Tweets From Bob Fu 傅希秋
+- URL:: https://twitter.com/BobFu4China
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 建议善良的旅行者尤其是在东南亚一带旅行的朋友都要好好仔细读读这篇最新关于网信诈骗集团的报道：https://t.co/RKlAEs33tA ([View Tweet](https://twitter.com/BobFu4China/status/1609937409822572544))

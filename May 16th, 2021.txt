@@ -1,0 +1,8 @@
+- #[[vim]]
+    - vim带给我的改变是革命性的。
+    - 这里是几点感悟。
+    - Import
+        - [[2021-05-16-my-working-plan]]
+            - From: 2021-05-16-my-working-plan.txt
+        - [[2021-05-16-vim-is-a-gift]]
+            - From: 2021-05-16-vim-is-a-gift.txt

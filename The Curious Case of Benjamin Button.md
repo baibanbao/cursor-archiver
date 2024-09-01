@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzI4M2I1MTItYjdiYi00YTZhLTg0NDgtZWIzOGU5ZmM3NWZlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Fincher]]
+        - Writer:: [[Eric Roth]] [[Robin Swicord]] [[F Scott Fitzgerald]]
+        - Cast:: [[Brad Pitt]] [[Cate Blanchett]] [[Tilda Swinton]]
+        - Year:: [[2008]]
+        - Genre:: #Drama #Fantasy #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0421715
+    - **Plot Summary:** Tells the story of Benjamin Button, a man who starts aging backwards with consequences.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FfxQvpBPtg7.pdf?alt=media&token=07fd57ac-106c-48f3-a16e-c1445e3d36d7}}

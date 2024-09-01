@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Spike Lee]]
+        - Writer:: [[Spike Lee]]
+        - Cast:: [[Danny Aiello]] [[Ossie Davis]] [[Ruby Dee]]
+        - Year:: [[1989]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0097216
+    - **Plot Summary:** On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.

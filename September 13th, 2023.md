@@ -1,0 +1,38 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[September 13th, 2023]] 10:23
+        - 赞美感谢
+            - 主的伟大拯救和创造
+            - 主在我生命中的奇妙安排
+            - 信靠顺服
+        - 认罪悔改
+            - 为自己不是总能谈论福音，以福音为耻而忏悔
+            - 为自己不能勤勉工作写作
+            - 为自己的虚荣心要强心
+        - 祈求
+            - 求主让我更加鉴定
+            - 求主让我以主为乐
+            - 求主让我信心像芥菜籽的一半那么大
+            - 求主让#[[Jonas]]恢复健康，并且学到必要的功课
+            - 求主让#[[Seven]]一天顺利
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 10:20
+- Daily Tasks
+    - 照顾小宁 #[[Jonas]]
+        - 下午带他去瑞金医院[[吴群]]医生那里看呼吸系统
+    - 今天开始写剧本
+    - 开始规划下个月咋办
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 圣经
+    - 世说新语
+    - 红楼梦中的一段儿
+    - 古人笔法
+        - 要想办法攻克古文关
+- ---

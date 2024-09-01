@@ -1,0 +1,24 @@
+- [[SmartBlock]]
+- [[Gratitude]]
+    - 感激之人是[[飞飞]]
+    - [[赖俊]]同学饭局想到我，已经很感动了，但是我不想去，不想让同学看到我的潦倒。
+    - [[大妈]]非常可爱的大妈，在我需要的时候，支持我的好中文事业。
+- [[Day Start]] 15:06
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **15:06** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [游戏设计艺术（第2版） (豆瓣)](https://book.douban.com/subject/26791007/)
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[Youtuber]]
+- [[Edit Later]]
+- [[写书]]
+- [[每天翻译一首诗]]
+- ---

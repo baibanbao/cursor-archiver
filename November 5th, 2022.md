@@ -1,0 +1,52 @@
+- #[[Prayers&Answers]]
+    - Date: [[November 5th, 2022]] 09:13
+        - 赞美感谢
+            - 赞美主的拯救，在大水汪洋中，让海浪平息，让我们获救
+            - 感谢神的赐予，供应，保护
+        - 认罪悔改
+            - 为小信认罪
+            - 为怀疑认罪
+        - 祈求
+            - 求主医治[[岳父]]
+            - 求主保护#[[Jonas]]，使他这些天不出状况，不生病
+            - 求主怜悯[[岳母]]
+            - 为#[[Jonas]]刚强壮胆而祷告
+                - 为他的学业，智慧，聪明
+                - 为他学习主的话
+            - 求主帮助#[[Seven]]，使她得到休息，心灵得到安慰，身体也蒙主保护
+            - 求主帮助坚固信心，学到必要的功课
+                - 找回了丢失的AirPod Pro，感谢主答应我们的祷告 #哈里路亚
+            - 为#[[SLBC]]的众弟兄姊妹祷告
+                - 特别为[[刘作谦]]弟兄祷告
+                - 为#[[JFX]]祷告，现在完全理解他的愤怒和抗争，因为跟他一样的处境。
+                - 为[[王正波]]一家祷告
+                - 为[[田光荣]]弟兄一家祷告
+                - 为[[林绍南]]弟兄一家祷告
+                - 为[[郭联秦]]姊妹一家祷告
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 2}}
+- [[Gratitude]]
+    - 感恩教会
+    - 感恩可以使用#[[Roam Research]]
+    - 感恩可以翻墙，了解最新的资讯，得到最全的信息
+    - 感恩[[平安]]给的外文杂志电子版
+    - 感恩[[居家隔离]]七天可以带来休息，能够改变自己混乱的作息
+    - 感恩
+- [[Day Start]] 00:14
+- Daily Tasks
+    - [[居家隔离]]
+        - 申请开门
+            - 9:52 做核酸
+            - 10:52 拿快递
+            - 14:43 拿外卖
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [事工哲学（137）｜万圣节的宣教意义（Hollowen as Mission） – Eddy & Emma's Blog](https://eddyemma.com/blog/2022/11/04/mph137-hollowen-as-mission/)
+    - [Runaway🌖 on Twitter: "Z-library 目前可以用的方式：（两种方式亲测有效） 1. 下载Tor浏览器 2. 打开下面这两个链接 https://t.co/5SXSZjMQi8 https://t.co/6xHltRp4fz 3. 登录账号 4. 点击发送到邮箱 邮箱就会收到书本的附件 - 另外也可以用Library Genesis，和 z-lib 数据应该是同步的 https://t.co/LvftVCgbha" / Twitter](https://twitter.com/Runaway_Finland/status/1588427975137325057)
+- ---

@@ -1,0 +1,58 @@
+- --
+- title: 孩子，我祝你旅途漫长，发现真相
+- date: 2017-07-11 03:43
+- tag: 教育
+- --
+- 夜晚照例睡不着，照例去刷子月的博客，看到了她刚刚的更新。约翰罗伯茨大法官在儿子毕业典礼上不合时宜的致辞，眼泪刷地流出来。
+- 视频在此：[John Roberts's speech at the Cardigan Mountain School's commencement wished graduates bad luck and trouble — Quartz](https://qz.com/1022336/john-robertss-speech-at-the-cardigan-mountain-schools-commencement-wished-graduates-bad-luck-and-trouble/)
+- 全文如下：
+- 约翰·罗伯茨领养了一儿一女，在儿子的初中毕业典礼上致辞，同时赠送每个毕业生由大法官签名的宪法，令人回味！
+- 正文（中英文翻译）：
+- "通常，毕业典礼的演讲嘉宾都会祝你们好运并送上祝福。
+- 但我不会这样做
+- 让我来告诉你为什么。”
+- Now the commencement speakers will typically also wish you good luck and extend good wishes to you. I will not do that, and I’ll tell you why.
+- “在未来的很多年中，
+- 我希望你被不公正地对待过，
+- 唯有如此
+- 你才真正懂得公正的价值。”
+- From time to time in the years to come, I hope you will be treated unfairly, so that you will come to know the value of justice.
+- “我希望你遭受背叛，
+- 唯有如此
+- 你才领悟到忠诚之重要。”
+- I hope that you will suffer betrayal because that will teach you the importance of loyalty.
+- “抱歉的说，
+- 我会祝福你时常感到孤独，
+- 唯有如此
+- 你才不会把良朋益友视为人生中的理所当然。"
+- Sorry to say, but I hope you will be lonely from time to time so that you don’t take friends for granted.
+- “我祝福你人生旅途中时常运气不佳，
+- 唯有如此
+- 你才意识到概率和机遇在人生中扮演的角色，
+- 进而理解你的成功并不完全是命中注定，
+- 而别人的失败也不是天经地义。"
+- I wish you bad luck, again, from time to time so that you will be conscious of the role of chance in life and understand that your success is not completely deserved and that the failure of others is not completely deserved either.
+- “当你失败的时候，
+- 时不时地，
+- 我希望你的对手会因为你的失败而幸灾乐祸，
+- 唯有如此
+- 才能让你意识到有风度的竞争精神之重要。”
+- And when you lose, as you will from time to time, I hope every now and then, your opponent will gloat over your failure. It is a way for you to understand the importance of sportsmanship.
+- “我祝福你会被忽视，
+- 唯有如此
+- 你才会意识到倾听他人的重要性。”
+- I hope you’ll be ignored so you know the importance of listening to others,
+- “我祝福你遭受切肤之痛，
+- 唯有如此
+- 才能让你感同身受，从而对别人有同情的理解。”
+- and I hope you will have just enough pain to learn compassion.
+- “无论我怎么想，
+- 这些都将在生命中必然发生。
+- 而你能否从中获益，
+- 取决于你是否能从你的不幸中领悟到想要传递给你的信息。”
+- Whether I wish these things or not, they’re going to happen.And whether you benefit from them or not will depend upon your ability to see the message in your misfortunes.
+- 读罢，我要写一篇文章了。
+- 但这不是全部，毁三观的评论来了，推特上美国人说：
+- cool speech.
+- john roberts re-wrote the aca medicaid expansion and took health insurance away from millions of poor people.
+- https://twitter.com/seanmcelwee/status/884494546968641536

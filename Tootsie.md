@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY4MGJjMTktNGM4Ni00ODliLWJlYjQtNjc4NmY2NjQ3NzEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sydney Pollack]]
+        - Writer:: [[Don McGuire]] [[Larry Gelbart]] [[Murray Schisgal]]
+        - Cast:: [[Dustin Hoffman]] [[Jessica Lange]] [[Teri Garr]]
+        - Year:: [[1982]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0084805
+    - **Plot Summary:** Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FyuomudOAUi.pdf?alt=media&token=abfdb81d-9e45-4cd9-86e6-046e247d4bdf}}

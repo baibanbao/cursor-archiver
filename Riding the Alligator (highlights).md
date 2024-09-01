@@ -1,0 +1,7 @@
+- Author:: [[Pen Densham and Jay Roach]]
+- Full Title:: Riding the Alligator
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41IyKeSZGSL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - TO STRUCTURE A STORY THE ([Location 143](https://readwise.io/to_kindle?action=open&asin=B0053VLUD2&location=143))
+    - Every day, if ideas are flowing, I write. If not, I go shopping. I have two mottos I live by: Any decision made in fear is a reaction rather than an action. And you're never too fat for a new purse. ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B0053VLUD2&location=1975))

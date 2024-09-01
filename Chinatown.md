@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Roman Polanski]]
+        - Writer:: [[Robert Towne]] [[Roman Polanski]]
+        - Cast:: [[Jack Nicholson]] [[Faye Dunaway]] [[John Huston]]
+        - Year:: [[1974]]
+        - Genre:: #Drama #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0071315
+    - **Plot Summary:** A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FeaVaRuSr8J.pdf?alt=media&token=1668589a-0da1-48f3-bcb4-6dd50fbc5278}}

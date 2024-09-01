@@ -1,0 +1,58 @@
+- [[Daily Thoughts]]
+    - 走路实时MV，发给了[[蓝风]]
+- [[Daily Accomplishments]]
+    - 与#[[Jonas]]去了滑板公园，玩耍半小时，并且到江边看了月亮
+    - 走路15000步，创下新纪录
+    - 一边看乐谱，一边听[[哥德堡变奏]]
+    - 下单买了MIDI键盘 #[[Finance]] 
+    - 拆东墙补西墙 #[[Finance]]
+    - 预测到要停课，果然晚上十点钟下达了停课令。 #[[Jonas]]
+    - 完成了两个15分钟的番茄钟，用的是[[PomoNow 2]]
+    - 给[[高宏铭]]顺丰快递了KJV新约，鼓励他继续抄经
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - {{[[DONE]]}} 为卷土而来的疫情祷告
+        - {{[[DONE]]}} 为在上执政掌权的祷告
+        - {{[[DONE]]}} 为昨天的不专心聚会而认罪
+        - {{[[DONE]]}} 为[[高宏铭]] [[小山]]的抄经而祷告
+        - {{[[DONE]]}} 为#[[Seven]]的勤勉持家而祷告
+        - {{[[DONE]]}} 为#[[Jonas]]的健康祷告
+        - {{[[DONE]]}} 为台湾祷告
+        - {{[[DONE]]}} [[方言]]祷告
+    - 感谢[[倪老师]]对科技节后续的关心，能够与专家进行交流
+    - 感谢[[高宏铭]]完成了和合本的抄经
+        - 把新约KJV对照本快递给他
+    - 感恩#[[Jonas]]还能去上学
+    - 感恩小区和楼栋没有被封
+    - 感恩[[秀秀]]赠送[[Moleskine]]新本子
+- [[Day Start]] 14:41
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+    - {{[[DONE]]}} 做pcr
+    - {{[[TODO]]}} 为 #No2Tue 201 备课
+    - {{[[DONE]]}} 走路1万步
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - 手机安装了[[PomoNow 2]]
+            - 增加了趣味性
+            - 希望能比电子版更加好用
+            - 一个额外的好处是，手机被pomo占用，就不会玩手机了
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [如何掌握所有的程序语言](https://www.yinwang.org/blog-cn/2017/07/06/master-pl)
+    - [解谜计算机科学](https://www.yinwang.org/blog-cn/2018/04/13/computer-science)
+    - [微博](https://m.weibo.cn/status/M9kxScZPn?jumpfrom=weibocom) #iPhone
+    - [jxxghp/nas-tools: NAS媒体库资源归集、整理自动化工具](https://github.com/jxxghp/nas-tools)
+    - [Welcome to Kiwix Server](https://library.kiwix.org/?lang=eng&category=wikipedia)
+    - [(45) Goldberg Variations Complete (J.S. Bach BWV 988), with score, Kimiko Ishizaka piano - YouTube](https://www.youtube.com/watch?v=15ezpwCHtJs)
+    - [关于用MIDI键盘练钢琴的问题？-键盘中国 - Powered by Discuz!](https://www.cnkeyboard.com/bbs/thread-137112-1-1.html)
+    - [Temp Mail - Disposable Temporary Email](https://temp-mail.org/)
+    - 
+- ---

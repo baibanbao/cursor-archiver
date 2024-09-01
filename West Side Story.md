@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Jerome Robbins, Robert Wise]]
+        - Writer:: [[Ernest Lehman]] [[Arthur Laurents]] [[Jerome Robbins]]
+        - Cast:: [[Natalie Wood]] [[George Chakiris]] [[Richard Beymer]]
+        - Year:: [[1961]]
+        - Genre:: #Crime #Drama #Musical
+    - **IMDb:** https://www.imdb.com/title/tt0055614
+    - **Plot Summary:** Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FMLj5UDNcAy.pdf?alt=media&token=1c0ef6ae-854d-412b-a07e-d5cc1c822399}}

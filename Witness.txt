@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZWQzYmM5OGYtMDJlOC00M2RlLThhYzgtNjZiOWYxNjlhMDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Peter Weir]]
+        - Writer:: [[William Kelley]] [[Pamela Wallace]] [[Earl W Wallace]]
+        - Cast:: [[Harrison Ford]] [[Kelly McGillis]] [[Lukas Haas]]
+        - Year:: [[1985]]
+        - Genre:: #Drama #Romance #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0090329
+    - **Plot Summary:** When a young Amish boy is sole witness to a murder while visiting Philadelphia with his mother, police detective John Book tries to protect the boy until an attempt on Book's life forces him into hiding in Amish country.

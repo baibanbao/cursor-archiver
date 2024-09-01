@@ -1,0 +1,40 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 15th, 2023]] 06:13
+        - 赞美感谢
+            - 赞美主对我的保护，对我全家的保护
+            - 赞美主使我保住了临平的房子
+            - 感谢神的护理
+            - 感谢神让弟兄相爱相亲
+        - 认罪悔改
+            - 为自己不断找夸奖满足自己的ego的罪
+            - 为自己不够爱主亲近主
+            - 为自己的不自信
+            - 为自己的自私自利
+            - 为自己在一些小事上的不忠心
+            - 为自己疏于身材管理
+        - 祈求
+            - 求主让我和[[叶振]]的见面顺利，交通，彼此勉励
+            - 求主让我能改变自己的作息，控制自己的ego，开始节食，适当锻炼，在身材上不能再胖了
+            - 求主提高我工作的效率
+            - 求主让我学会熟练使用[[Heptabase]]
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 05:56
+- Daily Tasks
+    - {{[[DONE]]}} 与[[叶振]]见面
+    - {{[[TODO]]}} 返回上海
+    - {{[[TODO]]}} 根据情况决定是否录制[[两句半]]
+    - {{[[TODO]]}} 演讲复盘
+    - {{[[TODO]]}} 红楼梦学写作最后一课
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [bleedline/aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。](https://github.com/bleedline/aimoneyhunter)
+    - [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering/tactic-instruct-the-model-to-work-out-its-own-solution-before-rushing-to-a-conclusion)
+    - 
+- ---

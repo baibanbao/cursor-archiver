@@ -1,0 +1,37 @@
+- [[Gratitude]]
+- [[Day Start]] 08:51
+- Daily Tasks
+    - {{[[DONE]]}} [[跟红楼梦学写作]]最后一课
+    - {{[[DONE]]}} 接元宝，买礼物
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - https://zh.wikipedia.org/zh-hans/%E6%B2%B3%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6
+    - [河北工业大学 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%B2%B3%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
+    - [黎智英案｜黎崇恩撰文促辛偉誠介入：他是真正自由楷模　憶父雨傘上街「他回家時滿身催淚彈味」 - 追新聞](https://thechasernews.co.uk/%e9%bb%8e%e6%99%ba%e8%8b%b1%e6%a1%88-%e9%bb%8e%e5%b4%87%e6%81%a9%e6%92%b0%e6%96%87%e4%bf%83%e8%be%9b%e5%81%89%e8%aa%a0%e4%bb%8b%e5%85%a5-%e7%a8%b1%e7%9c%9f%e6%ad%a3%e8%87%aa%e7%94%b1%e6%a5%b7%e6%a8%a1/)
+    - [南中国海问题难以平息？中国对菲发出迄今为止最强烈警告](https://www.voachinese.com/a/china-issues-strongest-warning-at-the-philippines-20231221/7406803.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it)
+- [[Weekly Summary]]
+    - [[What went right]]
+        - [[两句半]]持续录制，并且实验成功了远程录制模式。保住了这个频道，也保住了我和[[刘淼]]的友谊。这一点要感激已经互相block的[[Mina]]
+        - 在关键问题上听#[[Seven]]的，例如#[[Jonas]]不想上学，但是还是督促他去。
+        - 最冷的上海冬天，没有外出轻举妄动，除了接送儿子之外，基本都在家里。
+        - 睡眠多了起来。
+    - [[What went wrong]]
+        - [[编剧故事营]]过于慷慨，邀请免费听众太多，从而破坏了学员的体验。 #kyc
+        - 写作没有跟上，原因是痴迷于[[双拼输入法]]，对于写作毫无益处，至少在电脑上写作毫无帮助。
+        - 试图用[[Heptabase]]，其实门槛很高，并不适合。能把#[[Roam Research]]用好就足够了。
+    - [[What could I do differently]]
+        - 使用[[全拼输入法]]，不用[[双拼输入法]]
+        - 使用#[[Roam Research]] + [[CloverTextEdit]] + [[The Archive]]
+        - [[编剧故事营]]免费课挪到周四来，保证周三课程的质量
+        - 对#[[Jonas]]好，就要帮助他解决学业负担，而不是一味宠溺。
+        - [[门训]]之前，先熟悉课程和教材
+- [[Weekly Accomplishments]]
+    - 完成了[[跟红楼梦学写作]]
+    - 完成了每天录制 [[两句半]]
+    - 完成了和[[胡天津]]弟兄的[[门训]]
+- ---

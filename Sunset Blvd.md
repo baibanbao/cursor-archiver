@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Billy Wilder]]
+        - Writer:: [[Charles Brackett]] [[Billy Wilder]] [[DM Marshman Jr]]
+        - Cast:: [[William Holden]] [[Gloria Swanson]] [[Erich von Stroheim]]
+        - Year:: [[1950]]
+        - Genre:: #Drama #Film-Noir
+    - **IMDb:** https://www.imdb.com/title/tt0043014
+    - **Plot Summary:** A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FNjUbWhDk_z.pdf?alt=media&token=8f16f81d-2b5f-4092-ace8-4987d626b1f7}}

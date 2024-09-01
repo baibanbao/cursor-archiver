@@ -1,0 +1,6 @@
+- Author:: [[Zhongjing Liu | 劉仲敬]]
+- Full Title:: 正典與負典
+- Category:: #articles
+- URL:: https://medium.com/p/1ca768a8c6a0
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 我所謂的西方正典就是基督教的傳統和日耳曼自由的傳統。日耳曼自由的傳統就主要體現於英國的封建自由。這兩種傳統產生了我們現在的西方文明的主流。

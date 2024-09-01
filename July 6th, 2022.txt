@@ -1,0 +1,35 @@
+- 今日事
+    - 给充电宝充电
+        - 先找出type-c充电线
+- 今日学
+    - [[Roam Research]] 终极学习指南
+        - 自己要学会
+        - 也能把别人教会
+        - 一些学习资源
+            - [A beginner's guide to [[Roam Research]]: gettings started in 5 easy steps](https://nesslabs.com/roam-research-beginner-guide)
+            - [Your Beginner Guide to [[Roam Research]] — Keep Productive](https://www.keepproductive.com/blog/roam-research-guide)
+                - [A beginner's guide to [[Roam Research]]: gettings started in 5 easy steps](https://nesslabs.com/roam-research-beginner-guide)
+                - [How to use Roam Research: a tool for metacognition - Ness Labs](https://nesslabs.com/roam-research)
+                - [Roam Research: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
+                - [A Thorough Beginner's Guide to Roam Research – The Sweet Setup](https://thesweetsetup.com/a-thorough-beginners-guide-to-roam-research/)
+- 今日读
+    - 读Roam Research大师的文章
+        - [Roam Research: Why I Love It and How I Use It - Nat Eliason](https://www.nateliason.com/blog/roam)
+            - 建立一个page不需要任何理由
+                - 比如我可以建立一个 [[正版语文]]
+    - 网络安全
+        - [Thread by @cyukang on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1544159890775674880.html)
+- 今日听
+    - 奉贤疾控中心工作人员文云被pua案
+        - 文云固然有错，这个男的也不是好东西
+        - 教训
+            - 要多反思自己
+            - 对于有妻儿的人出轨是不道德的也是对两个女性的同时不负责任
+            - 女孩要富养，不要变成任人pua的乖乖女
+            - 体制是一整套把人异化的工具，要跳出去
+- #[[康健]]
+    - 新冠后遗症
+        - [研究：脑雾等长期冠病症状 或因免疫反应损脑血管 | 早报](https://www.zaobao.com.sg/realtime/world/story20220706-1290233)
+- [[Inbox]]
+    - [[Pei]] at 14:37: 在手机上最靠谱的输入RR的方式依然是TG机器人
+    - [[Pei]] at 14:37: 这样至少确保信息不会丢失

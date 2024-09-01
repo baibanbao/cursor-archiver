@@ -1,0 +1,46 @@
+- Description: The daily process used to manage work within Roam
+Tags: #[[📍Scaffolding Tools Hub]]
+- Status: #[[New]]
+- ---
+- WHO: The graph owner
+- WHAT: A planning & scheduling session within Roam
+- WHY: To improve productivity & management
+- WHEN: Every day
+- ---
+- Smart Blocks
+    - Day Open #42SmartBlock
+        - [[Gratitude]]
+        - [[Day Start]] <%TIME%>
+        - Daily Tasks
+            - <%TODOTODAY:20%>
+        - ---
+        - [[Daily Journal]] 
+            - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+                - Ex: [[X - Curate]]
+                    - **16:35** - {{[[POMO]]: 25}}
+                        -  Completed a review of 10 journal articles
+        - [[Daily Reading]]
+        - ---
+    - Day Close #42SmartBlock
+        - [[Daily Thoughts]]
+        - [[Daily Accomplishments]]
+        - Productivity
+            - {{[[slider]]}}
+        - Mood {{[[slider]]}}
+        - [[X - Curate]]  - Organizing/Staging
+    - Pom #42SmartBlock
+        - **<%TIME%>** - {{[[POMO]]: 25}}
+            - 
+- Insights
+    - [[Gratitude]]
+    - [[Daily Journal]]
+    - [[Daily Thoughts]]
+    - [[Daily Summary]]
+- ---
+- Process Steps
+    - First thing you do... open Daily Notes page and paste in Day Open Smart Block
+    - Track your daily activities under the journal as per the suggestion.
+    - At the end of the day you MUST close out. Paste in Day Close Smart Block
+        - Review Inbox and follow Task Management process
+        - Complete Daily Thoughts and Daily Accomplishments
+        - Open the Weekly Plan in the sidebar and TIME BLOCK the following day

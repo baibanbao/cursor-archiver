@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjE5NTU3YWYtOWIxNi00YWZhLTg2NzktYzVjZWY5MDQ4NzVlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alexander Mackendrick]]
+        - Writer:: [[Clifford Odets]] [[Ernest Lehman]] [[Alexander Mackendrick]]
+        - Cast:: [[Burt Lancaster]] [[Tony Curtis]] [[Susan Harrison]]
+        - Year:: [[1957]]
+        - Genre:: #Drama #Film-Noir
+    - **IMDb:** https://www.imdb.com/title/tt0051036
+    - **Plot Summary:** Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister's romance with a jazz musician.

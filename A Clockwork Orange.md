@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Stanley Kubrick]]
+        - Writer:: [[Stanley Kubrick]] [[Anthony Burgess]]
+        - Cast:: [[Malcolm McDowell]] [[Patrick Magee]] [[Michael Bates]]
+        - Year:: [[1971]]
+        - Genre:: #Crime #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0066921
+    - **Plot Summary:** In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FNgs3PIYk6R.pdf?alt=media&token=9ca8f8cb-8276-411e-8429-451767d9a72f}}

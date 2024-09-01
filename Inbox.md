@@ -1,0 +1,21 @@
+- [[Inbox Bak]]
+- 庆父不死，鲁难不已。
+- 这个国家诸多苦难，都与一个人有关。
+- 还能说什么呢，唯有依靠慈爱的天父。
+- jie #Finance #dfree
+    - meituan 16000
+        - 一旦#[[ChatGPT故事营]]收入到位，立即提前还清
+    - jiebei 1469.4
+    - haoqidai 17370.74
+        - 一旦#[[ChatGPT故事营]]资金到位，还清
+    - weilidai 9301.42
+        - 已还
+    - duxiaoman 2826.58
+        - 已还
+    - credit card 42394.89
+        - 一旦#[[ChatGPT故事营]]资金到位，还清
+    - loan 3281.76
+    - total 76644.79
+- 7月份
+    - jiebei 21422
+    - 

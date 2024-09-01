@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Bryan Singer]]
+        - Writer:: [[Christopher McQuarrie]]
+        - Cast:: [[Kevin Spacey]] [[Gabriel Byrne]] [[Chazz Palminteri]]
+        - Year:: [[1995]]
+        - Genre:: #Crime #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0114814
+    - **Plot Summary:** A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FFqzh5jAreg.pdf?alt=media&token=5e794d84-4545-42f4-a201-89fd742b2b59}}

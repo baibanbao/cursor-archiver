@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Tom Hooper]]
+        - Writer:: [[William Nicholson]] [[Alain Boublil]] [[Claude-Michel Schönberg]]
+        - Cast:: [[Hugh Jackman]] [[Russell Crowe]] [[Anne Hathaway]]
+        - Year:: [[2012]]
+        - Genre:: #Drama #Musical #Romance
+    - **IMDb:** https://www.imdb.com/title/tt1707386
+    - **Plot Summary:** In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLoPbiIFgau.pdf?alt=media&token=7abd2841-55aa-4d58-a619-b43ceb7f29da}}

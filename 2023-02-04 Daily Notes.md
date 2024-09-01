@@ -1,0 +1,15 @@
+- tags: #DailyNotes #2023-02-04  #DPRH
+- ## 晨祷
+- 亲爱的天父，感谢你丰盛的恩典，让我既敬畏，又赞叹。感谢你拯救了我的灵魂和身体，成为我在暗夜中唯一的亮光。主啊，求你与我同行，用你的爱遮蔽我，求你在天上保护我。我把今天的青少年团契交到你的手中，求你让天气也协力，让每个孩子和家长度过蒙恩的一天。求你帮助seven，使她平安地从学校来回。求你帮助jo，使他从小就明白主的恩典。我这样祷告，奉我主耶稣基督的名，阿门。
+- ## 新知阅读
+- [Chinese Spy Balloon: US to Postpone Blinken's China Visit Over Balloon - Bloomberg](https://www.bloomberg.com/news/articles/2023-02-03/us-to-postpone-blinken-s-visit-to-china-over-its-spy-balloon?leadSource=uverify%20wall)
+- 雨夜漫步大祭司
+- @renfanzi
+- 还记得佩洛西访台时嘻嘻屁军演有五颗导弹落入日本专属经济区吗？
+- 此次间谍气球进美国领空，是事态明显升级的强烈信号。
+- 很多人对此事的严重性一无所知。
+- ll be downgraded on Mar 4, 2023.
+- wsj
+- mmhmm取消订阅
+- 非续订订阅
+- 您的订阅到期日为：February 23, 2023

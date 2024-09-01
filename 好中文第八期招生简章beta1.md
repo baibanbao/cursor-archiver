@@ -1,0 +1,7 @@
+- Projects
+    - Completed Date:: [[July 19th, 2022]]
+    - Status::IN-PROGRESS
+    - Due Date::[[July 18th, 2022]]
+    - Related Goals::
+    - Success Criteria:: 公众号推送，[[July 19th, 2022]] 8:00 a.m.
+    - Tags:: #Projects #[[好中文]] #背水一战 #知耻后勇 #芦笋 #[[gc8]] #[[haozhongwen]]

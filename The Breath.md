@@ -1,0 +1,22 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjE2NjEyMDg0M15BMl5BanBnXkFtZTcwODYyODg5Mg@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Levent Semerci, Erdem Can]]
+        - Writer:: [[Mehmet Ilker Altinay]] [[Hakan Evrensel]] [[Levent Semerci]]
+        - Cast:: [[Mete Horozoglu]] [[Ilker Kizmaz]] [[Baris Bagci]]
+        - Year:: [[2009]]
+        - Genre:: #Action #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt1171701
+    - **Plot Summary:** Story of 40-man Turkish task force who must defend a relay station.
+- [更新描述或海报](https://movie.douban.com/subject/4118863/edit)
+- 导演: [莱文特.塞梅尔吉](https://movie.douban.com/celebrity/1315619/)
+- 编剧: [Hakan Evrensel](https://movie.douban.com/subject_search?search_text=Hakan%20Evrensel) / [Mehmet İlker Altınay](https://movie.douban.com/subject_search?search_text=Mehmet%20%C4%B0lker%20Alt%C4%B1nay)
+- 主演: [比尔婕·阿卡蕾](https://movie.douban.com/celebrity/1337295/) / [Ibrahim Akoz](https://movie.douban.com/subject_search?search_text=Ibrahim%20Akoz) / [Serkan Altintas](https://movie.douban.com/subject_search?search_text=Serkan%20Altintas) / [Muharrem Bayrak](https://movie.douban.com/subject_search?search_text=Muharrem%20Bayrak)
+- 类型: 剧情 / 动作 / 战争 / 冒险
+- 制片国家/地区: 土耳其
+- 语言: 土耳其语
+- 上映日期: 2009-10-16
+- 片长: Turkey: 128 分钟
+- 又名: The Breath
+    - [[Nefes]]
+- IMDb: tt1171701

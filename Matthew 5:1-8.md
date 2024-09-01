@@ -1,0 +1,12 @@
+- Matthew 5:1-8
+    - Matthew 5:1–8
+    - The Sermon on the Mount
+    - **Matthew 5:1:** Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
+    - The Beatitudes
+    - **Matthew 5:2:** And he opened his mouth and taught them, saying:
+    - **Matthew 5:3:** “Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+    - **Matthew 5:4:** “Blessed are those who mourn, for they shall be comforted.
+    - **Matthew 5:5:** “Blessed are the meek, for they shall inherit the earth.
+    - **Matthew 5:6:** “Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.
+    - **Matthew 5:7:** “Blessed are the merciful, for they shall receive mercy.
+    - **Matthew 5:8:** “Blessed are the pure in heart, for they shall see God.

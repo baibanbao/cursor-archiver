@@ -1,0 +1,27 @@
+﻿Yao Fu
+
+@Francis_YAO_
+
+I've been asked by few first year PhD about how to start LLM research on X, say long context modeling. My number one suggestion -- though it seems a bit of unconventional -- is *not* to read any papers related to long-context, but to talk to the model
+
+- Talk to the model about a text book, course slides, financial reports, novels, nonfictions, any long document you could find
+
+- Talk to the model for two whole weeks, from the morning first thing after opening up the laptop, to the evening last thing before going to the bed.
+
+- Ask every single question you could imagine, what is PCA? How does it compare to SVD? Which part of the book describes the two? What the book says exactly?
+
+- Talk to all the models you could access, GPT, Gemini, Claude, Llama ...
+
+- Keep talking to the model for two whole weeks, no research, no paper, no arxiv, just talk to the model.
+
+- During the above process, continuously observe how the model behave, discover their problems, and think about why models could behave that way
+
+I found people who have gone through the above process have a fundamentally different level of understanding than people who just read papers 😉
+
+
+刘江/LIU Jiang
+@turingbook
+·
+5h
+这也是我对所有人的建议：多用大模型产品，去感受未来。大模型颠覆性极强，不多用，不换一个新的世界观，很难真正地理解。
+另外，不要总是与ta交流自己比较擅长的领域，然后就走开了。多问自己不那么擅长的问题，你会发现ta远远超过你身边能找到的人类老师。

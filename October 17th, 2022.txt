@@ -1,0 +1,11 @@
+- [[Daily Thoughts]]
+    - 我想思考的问题，都已经思考过了，现在需要的是把它们变成作品。
+- [[Daily Accomplishments]]
+    - {{[[TODO]]}} 带儿子去了滑板公园
+    - {{[[TODO]]}} 整理纸质笔记
+    - {{[[TODO]]}} 开始每天走8k
+    - {{[[TODO]]}} 家庭气氛其乐融融
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging

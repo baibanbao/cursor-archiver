@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Denis Villeneuve]]
+        - Writer:: [[Jon Spaihts]] [[Denis Villeneuve]] [[Eric Roth]]
+        - Cast:: [[Timothée Chalamet]] [[Rebecca Ferguson]] [[Zendaya]]
+        - Year:: [[2021]]
+        - Genre:: #Action #Adventure #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1160419
+    - **Plot Summary:** A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FPiOa6a7kmJ.pdf?alt=media&token=7d6555f7-f3c6-4b19-82f3-2fbf71d8de2c}}

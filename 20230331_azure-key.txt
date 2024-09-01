@@ -1,0 +1,16 @@
+﻿密钥1
+
+d2aba7c2c0464f4f89e67e53c06867e6
+
+密钥2
+
+f0fd65ad541f42f8a180c68ab080bc5d
+
+位置 
+
+eastasia
+
+终结点
+
+https://baibanbao.cognitiveservices.azure.com/
+

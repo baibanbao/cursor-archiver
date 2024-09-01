@@ -1,0 +1,47 @@
+- #[[Prayers&Answers]]
+    - Date: [[April 7th, 2023]] 19:32
+        - 赞美感谢
+            - 赞美主的创造
+            - 赞美主的护理
+            - 赞美主的救恩
+            - 感谢主医治我的岳父
+            - 感谢主使我眼底和黄斑没有异常
+            - 感谢主使我注意到了角膜的病变，引起足够警惕
+            - 感谢主与我同在，帮助我，引导我，没有把我丢下为孤儿
+            - 感谢主赐给我美好的家庭，使我我可以疗伤
+            - 感谢主赐给我好友[[yining]]
+        - 认罪悔改
+            - 为自己的小信灰心
+            - 为自己的敷衍
+            - 为自己不够爱人
+            - 为自己的偷懒
+            - 为自己没有善用在耶稣基督里的自由
+            - 为自己没有自由意志
+        - 祈求
+            - 求主赐给信心
+            - 求主赐给平安
+            - 求主赐下喜乐
+            - 求主医治我的疾病
+                - 心脏的
+                - 眼睛的
+                - 肥胖的
+            - 求主医治儿子的扁桃体发言 #[[Jonas]]
+            - 求主保护#[[Seven]]
+            - 求主保护教会
+                - 求主保护明天的聚会和团契
+            - 求主供应
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 3}}
+- [[Gratitude]]
+- [[Day Start]] 19:31
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

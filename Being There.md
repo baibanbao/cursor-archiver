@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjAzNzJjYzQtMGFmNS00ZjAzLTkwMjgtMWIzYzFkMzM4Njg3XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Hal Ashby]]
+        - Writer:: [[Jerzy Kosinski]] [[Robert C Jones]]
+        - Cast:: [[Peter Sellers]] [[Shirley MacLaine]] [[Melvyn Douglas]]
+        - Year:: [[1979]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0078841
+    - **Plot Summary:** After the death of his employer forces him out of the only home he's ever known, a simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful tycoon and an insider in Washington politics.

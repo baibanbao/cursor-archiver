@@ -1,0 +1,64 @@
+- Projects
+    - Completed Date:: 
+    - Status:: 计划中
+    - Due Date:: [[July 13th, 2022]]
+    - Related Goals:: [[Debt-free]]
+    - Success Criteria::  100 members / gross income: 88k
+    - Tags:: #Projects #Personal #active #[[好中文]] #[[Finance]] #写作 
+- Met with [[Totoro]] on  [[June 23rd, 2022]]
+    - Her analysis of my situation
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FxfgNDVqzS_.jpg?alt=media&token=e58045b5-6159-4d1c-a5c1-490dbc5a5813)
+- Outstanding questions
+- [[gc8招生简章]]
+    - [[gc8]]的资料，找到有用的内容，放到招生简章里来，如果还不够，那就补充。
+    - 背景介绍
+        - 好中文是王佩创办的写作社区，在这里大家可以交流写作话题，探讨写作技巧，研读好中文经典，养成浅白易明高雅简洁的写作风格，养成21世纪写作所需的风格感觉，打破知识的诅咒，培养心智与文采，让生命丰盈起来。
+    - 学员和名人推荐
+    - 学习材料大家并不感兴趣
+    - 基础培训大纲，则是大家所需要的
+    - 成果如何验证是不好说的，但是要让学员们快速掌握这些工具集，可以迅速地产生成果至少有产生成果的感觉。
+    - 收费
+    - 如何报名
+    - 活动
+    - 直播
+    - 上课形态
+    - 大家都盼望着新的变革
+    - 退费政策
+    - 开课时间
+    - 建群规则
+- [[Project Plan]]
+    - GC8 Entry posts need too be DONE by [[July 14th, 2022]]
+    - {{[[DONE]]}}  发布公众号文章 [[July 14th, 2022]]  #[[Important]]
+    - {{[[DONE]]}} 写出公众号文章初稿 [[July 13th, 2022]] 
+    - {{[[DONE]]}} 完成这个项目计划 [[July 15th, 2022]] #[[Top Priorities]] #[[Important]]
+    - {{[[DONE]]}} 接受建议作出改进 
+        - {{[[DONE]]}} 接受 [[Totoro]] 的建议。
+            - 虽然现在世道艰难，但难不至此，一些有条件的白领还是会来学习。所以，不用担心在经济萧条条件下的招生问题。
+        - {{[[DONE]]}} 接受老蒋建议
+            - 不要乱提价
+            - 现在的价格就应该满足
+        - {{[[DONE]]}} 学习[[老路]]的脱口秀培训班，从最基础的教起
+        - {{[[DONE]]}} 学习[[Nat Eliason]]的课程模式，进行系统的设计，不漏过一样基础课程
+    - {{[[DONE]]}} 制作好幻灯片模板 [[July 29th, 2022]]
+    - {{[[TODO]]}} 建立起email list 
+        - {{[[TODO]]}} email营销将是一个长远的更为宏大的计划
+    - {{[[TODO]]}} 在[[Teachable]] 上建立一个英文版的操作页面，作为demo也好，认真也好，都是一个很重要的尝试。
+    - {{[[TODO]]}} 编辑制作发布页
+        - {{[[DONE]]}} 增加曝光度，你应该有多个发布页面而不是只有一个
+            - {{[[DONE]]}} 微信公众号
+                - {{[[TODO]]}} 白板报公众号
+                - {{[[DONE]]}} 好中文公众号
+                - {{[[TODO]]}} 编剧故事营公众号
+            - {{[[DONE]]}} 微博也是一个很好的阵地，便于他人转发
+            - {{[[DONE]]}} 推特也是一个阵地
+            - {{[[DONE]]}} 博客wangpei.net当然不能忘记
+        - {{[[TODO]]}} 录制独立课程视频
+        - {{[[DONE]]}} 为直播写出逐字稿
+- 发布页面
+- 独立课件
+- 核心指导
+    - 介绍好中文
+        - 好中文为什么厉害
+        - 什么让好中文如此不同
+        - 你能做什么
+        - 你从课程中可以学到什么

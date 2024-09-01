@@ -1,0 +1,21 @@
+- 先看一首诗
+- Chinese Girl
+- Surrounded by each other Jackie Chan.
+- We only wanna major biddy koo,
+- Too many ladies looking at Japan!
+- They even need no Easter bunny woo.
+- Are you not ever loving any sailor,
+- Human being flying over yu!
+- So busy having such a mischief maker,
+- Who likes to see a pretty little poo.
+- This world is really very handsome young!
+- The love of lovely people like Chinese!
+- And never sing about an English kung,
+- Maybe something from the Japanese.
+- I paint a picture on the handy mai,
+- Offer me a bowl of chocolate thai.
+- 这是电脑程序生成的。
+- 参与开发程序的是一个中国人Shixing，这是一个写英文诗的程序，其论文获了奖。
+- 论文的demo： [ACL2017demo.pdf](http://xingshi.me/data/pdf/ACL2017demo.pdf)
+- 程序代码：[shixing/poem: Generate Topical Poems](https://github.com/shixing/poem)
+- 写诗程序在线测试版：[Hafez]（http://52.24.230.241/poem/）

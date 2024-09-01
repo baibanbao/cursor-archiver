@@ -1,0 +1,14 @@
+- 17天学法语
+    - ---
+    - layout: note
+    - title: 如何在17天之内学会法语
+    - categories: notes
+    - ---
+    - 这是Quora上的一个回答。一位CEO用了17天时间从0基础学会了法语。原帖：[The Secret to Learning a Foreign Language as an Adult](http://time.com/3453841/secret-learn-foreign-language-adult/?xid=tcoshare)
+    - 1. 每天抄写单词。抄写是最好的记忆方式。
+    - 2. 找一套靠谱的教程，比如：[The Michel Thomas Method - The Natural Way to Learn a New Language](http://www.michelthomas.com/)
+    - 3. 听法语歌，感受其语气语调。
+    - 4. 阅读法语儿童读物，既简单，又具有娱乐性。
+    - 5. 每天用法语写1小时，可以把常见问题的答案写下来，这样跟法国人对话，就不用做长考。
+    - 6. 学会使用停顿词，为思维争取时间。
+    - 7. 身处法语环境，只跟朋友说法语。

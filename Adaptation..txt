@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2JjNzVhOTMtNTc3Yi00NGNjLWI3YjgtYjkyZTYzY2FmMmIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Spike Jonze]]
+        - Writer:: [[Susan Orlean]] [[Charlie Kaufman]]
+        - Cast:: [[Nicolas Cage]] [[Meryl Streep]] [[Chris Cooper]]
+        - Year:: [[2002]]
+        - Genre:: #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0268126
+    - **Plot Summary:** A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FbohzU1g9Do.pdf?alt=media&token=87826dc5-b6d8-4e13-bda7-52ac04e9d1db}}

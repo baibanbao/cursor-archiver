@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Juan José Campanella]]
+        - Writer:: [[Eduardo Sacheri]] [[Juan José Campanella]]
+        - Cast:: [[Ricardo Darín]] [[Soledad Villamil]] [[Pablo Rago]]
+        - Year:: [[2009]]
+        - Genre:: #Drama #Mystery #Romance
+    - **IMDb:** https://www.imdb.com/title/tt1305806
+    - **Plot Summary:** A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.

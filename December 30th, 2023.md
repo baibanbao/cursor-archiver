@@ -1,0 +1,22 @@
+- [[Gratitude]]
+    - [[海波]]赠送[[Planist]]，试用中
+        - 恢复更新[[wangpei.co]]
+- [[Day Start]] 04:44
+- Daily Tasks
+    - {{[[DONE]]}} 洗碗
+    - {{[[DONE]]}} 继续用自己的经验医治#[[Jonas]]
+    - {{[[DONE]]}} 恢复写[[wangpei.co]]
+        - {{[[DONE]]}} 制定了新的快捷键 `Option + CMD + z`
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [7 Free And Fast Ways To Share Videos Privately](https://filestage.io/blog/share-videos-privately/)
+    - [Simple Notebook | List view](https://www.notion.so/baibanbao/bb8c7e8724eb4521980e0bc2da881796?v=622a14de15d542c4ba9855b28f7a8d61&p=5708b5b597ae420c83cc07085cef4b86&pm=s)
+    - [neruda Q](http://faculty.ndhu.edu.tw/~chenli/neruda%20Q.htm)
+    - [neruda Q](http://faculty.ndhu.edu.tw/~chenli/neruda%20Q.htm)
+    - [jaywcjlove/awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories.](https://github.com/jaywcjlove/awesome-mac)
+- ---

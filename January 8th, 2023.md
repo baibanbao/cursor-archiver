@@ -1,0 +1,7 @@
+- Antinet的批判
+    - [(11) 卡片笔记法终极形态是纸笔吗？"Antinet Zettelkasten" 阅读感悟与批评 - YouTube](https://www.youtube.com/watch?v=fEv9_4EsyMQ&t=9s)
+    - [Kindle](https://read.amazon.com/?asin=B0BPN3W6RP&ref_=dbs_t_r_kcr)
+    - #[[Jonas]]作文
+        - 素材
+            - 老高视频
+                - [(11) 世界首富為我們設計的未來世界，馬斯克2021 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=3mBLjHxwwmo)

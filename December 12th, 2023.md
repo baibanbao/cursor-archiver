@@ -1,0 +1,15 @@
+- [[Gratitude]]
+- [[Day Start]] 12:50
+- Daily Tasks
+    - {{[[TODO]]}}  见狐狸老师
+    - {{[[TODO]]}} 接#[[Jonas]]放学
+- #[[Edit Later]]
+    - 写一写我的家乡沾化的词条，为[[维基百科]]做准备。
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

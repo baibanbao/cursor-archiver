@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Elia Kazan]]
+        - Writer:: [[Budd Schulberg]] [[Malcolm Johnson]] [[Robert Siodmak]]
+        - Cast:: [[Marlon Brando]] [[Karl Malden]] [[Lee J. Cobb]]
+        - Year:: [[1954]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0047296
+    - **Plot Summary:** An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaqQCffvIsh.pdf?alt=media&token=b2cedef2-0aff-42d5-8725-d561ee09102b}}

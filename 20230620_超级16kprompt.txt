@@ -1,0 +1,13 @@
+﻿Step 1 - List 10 popular questions about [topic].
+Step 2 - take the 1st question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 3 - take the 2nd question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable, lists and tables where applicable.
+Step 4 - take the 3rd question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 5 - take the 4th question from the list from Step 1 and write a 1000 word article using markdown formatting.
+Step 6 - take the 5th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 7 - take the 6th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+
+Step 8 - take the 7th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 9 - take the 8th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 10 - take the 9th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+Step 11 - take the 10th question from the list from Step 1 and write a 1000 word article using markdown formatting, lists and tables where applicable.
+

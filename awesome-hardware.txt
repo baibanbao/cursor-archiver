@@ -1,0 +1,28 @@
+---
+title: Awesome Hardware
+tags: 
+  - Awesome
+  - Hardware
+---
+
+Awesome is awesome.
+
+I will build this wiki based on this word.
+
+# Awesome Hardware
+
+- Macbook Pro M1 
+    - 生产力工具，剪片神器，待机之王
+- Synology DS418
+    - 数据比一切精金都宝贵
+- iPhone 12
+    - The best camera I have had
+- Typewriter
+    - 打字能够让自己安静下来
+- Xiaomi tripod
+    - Cheap but useful.
+- Power bank
+    - 金老师赠送的3万毫安充电宝
+- Moleskine pocket notebook
+- 9-yo Toyota Car
+    - 虽然不常用，但有它特别心安

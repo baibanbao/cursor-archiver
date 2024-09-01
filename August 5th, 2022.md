@@ -1,0 +1,18 @@
+- [[Gratitude]]
+    - 还是要感谢一些人，一些事，一些情况
+    - 感谢[[Blue Jade]]
+- [[Day Start]] 13:30
+- Daily Tasks
+    - {{[[TODO]]}} 写新版的玉石记大纲
+    - {{[[TODO]]}} 完善[[Blue Jade]]网站
+    - {{[[TODO]]}} 与洪一鸣见面、 #[[JFX]]烧烤
+    - {{[[TODO]]}} 认识了挖矿的[[老洪]]
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

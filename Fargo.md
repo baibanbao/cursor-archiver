@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Joel Coen, Ethan Coen]]
+        - Writer:: [[Ethan Coen]] [[Joel Coen]]
+        - Cast:: [[William H. Macy]] [[Frances McDormand]] [[Steve Buscemi]]
+        - Year:: [[1996]]
+        - Genre:: #Crime #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0116282
+    - **Plot Summary:** Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FFhTaH0CkFX.pdf?alt=media&token=bc0bacc5-3c95-47e3-9e77-7ee9a6364ba5}}

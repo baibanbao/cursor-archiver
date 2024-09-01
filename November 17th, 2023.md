@@ -1,0 +1,39 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[November 17th, 2023]] 18:37
+        - 赞美感谢
+            - 赞美主的护理
+            - 赞美主的拯救
+            - 赞美主亘古不变的恩典
+            - 感谢神让我今天得到休息
+        - 认罪悔改
+            - 为自己体贴肉体的罪
+            - 为自己爱主不深
+            - 为自己爱弟兄不深
+            - 为自己缺乏智慧，没有做好的见证
+            - 为自己沉溺于自媒体
+            - 不够勤勉，没有做主的忠仆
+        - 祈求
+            - 求主祝福今晚的课程，希望能讲得生动有趣，包含福音的内容，包括好中文的看家本领。
+            - 求主让我常常纪念主恩主爱
+            - 求主祝福[[sally老师]]
+            - 求主归正[[Mina]]，使她的心谦卑下来
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 18:29
+- Daily Tasks
+    - {{[[TODO]]}} [[跟红楼梦学写作 E10]] #[[好中文]]
+        - {{[[TODO]]}} 备课
+    - {{[[TODO]]}} 四季青青完成2000字 #[[Four Seasons]]
+        - 进度
+            - [XBC写不出写不出记录表](https://shimo.im/sheets/2wAld5yxggub9JAP/NilTb)
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [会见、会谈 — 中华人民共和国外交部](https://www.mfa.gov.cn/web/ziliao_674904/lbzs_674975/200705/t20070524_7949249.shtml)
+    - [爽文短剧到底有多赚 到了横店我差点想入伙--快科技--科技改变未来](https://news.mydrivers.com/1/946/946371.htm)
+- ---

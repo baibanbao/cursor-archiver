@@ -1,0 +1,8 @@
+- Author:: [[Anne Applebaum]]
+- Full Title:: Gulag
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41VH0XHJGJL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - houses of cards. ([Location 628](https://readwise.io/to_kindle?action=open&asin=B0012SCJ9Y&location=628))
+    - ad hoc, ([Location 655](https://readwise.io/to_kindle?action=open&asin=B0012SCJ9Y&location=655))
+    - It had no traditions of legality, no obligation to obey the rule of law, no need to consult with the police or the courts or the Commissar of Justice. Its very name spoke of its special status: the All-Russian Extraordinary Commission for Combating Counter-Revolution and Sabotage—or, using the Russian abbreviation for “Extraordinary Commission”—the Ch-K, or Cheka. It was “extraordinary” precisely because it existed outside of “ordinary” legality. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B0012SCJ9Y&location=732))

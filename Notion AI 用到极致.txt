@@ -1,0 +1,20 @@
+
+8 / 我在读完一本书后，会把读书的摘记和笔记都存到一篇Notion文档里。刚刚试了一下，对于文学类的书，我让Notion把《失落的卫星》里我做了摘记的段落，选出最有故事感的五条，它选出来的还真不错！这也可以举一反三。
+
+![Image](https://pbs.twimg.com/media/Fq6dtjNaYAEssmB?format=jpg&name=small)
+
+9 / 真正厉害的，是运用AI对于非虚构类书的操作。比如这本《数字极简主义》Digital Minimalism，我读的是英文有声书，读完后简单记了几条摘记，也没啥条理。我选中这些文字，然后让AI帮忙，以选中内容写了一篇Youtube视频的脚本。注意，笔记是英文的，脚本直接是中文的！
+
+![Image](https://pbs.twimg.com/media/Fq6f7IWacAEHIyh?format=jpg&name=small)
+
+10 / 更厉害的来了：我的原始摘记里有一个原书里关于阿米什人的例子，我觉得很有意思，值得深入聊聊，于是我让AI帮忙以“阿米什人”为主题，写一个视频的中文脚本，于是得到了这样的结果。很有价值。 但还是要注意，需要真人进行验证和校对，因为现在AI的尿性，会有可能在输出内容中渗出瞎编的成份。
+
+![Image](https://pbs.twimg.com/media/Fq7OE6SaQAAEKrh?format=jpg&name=small)
+
+11 / 继续拓展刚刚那个主题：让AI对比一下Amish人和程序员（或者是设计师，可以换成你的目标读者）的生活与工作方式，并生成一个表格，于是就有了这个。 这个对于科技博客做产品比较，简直不要太好用。 （上述这些功能，在ChatGPT里都有）
+
+![Image](https://pbs.twimg.com/media/Fq7OnWLakAAEVh5?format=jpg&name=small)
+
+12 / 给同事写评语。这属于扩写内容的范畴，也是运用AI语言能力的长项。你可以写几行基本的描述，然后让Notion AI帮忙加上一些修饰，成为一篇通顺的文字发出。 图上这个例子，我是先随便写了一些具体这位同事的事件，然后让AI整理成语气通顺的内容，再改写成bullet points便于查看。
+
+![Image](https://pbs.twimg.com/media/Fq7eesiaIAIj3JR?format=png&name=small)

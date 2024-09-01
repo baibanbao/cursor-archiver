@@ -1,0 +1,21 @@
+- [[Gratitude]]
+- [[Day Start]] 04:20
+- Daily Tasks
+    - {{[[DONE]]}} 与王树义老师相约
+    - {{[[TODO]]}} 带#[[Jonas]]去医院看病
+    - {{[[TODO]]}} 上[[跟红楼梦学写作]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [独立开发者之路 - 一起赚美刀: 个人开发者靠《西班牙语版圣经》月赚5万块](https://zhuanmeidao.blogspot.com/2022/04/5.html)
+    - [AddyOsmani.com - Write about what you learn. It pushes you to understand topics better.](https://addyosmani.com/blog/write-learn/)
+    - [独立开发者之路 - 一起赚美刀](https://zhuanmeidao.blogspot.com/)
+    - [LP (singer) - Wikipedia](https://en.wikipedia.org/wiki/LP_(singer))
+    - [嚴復譯 馬可福音 - 聖經 中文 翻譯](https://www.translatebible.com/blog/c25)
+    - [The Project Gutenberg eBook of A Christmas Carol, by Charles Dickens](https://www.gutenberg.org/files/46/46-h/46-h.htm)
+    - 
+- ---

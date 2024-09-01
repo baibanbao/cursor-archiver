@@ -1,0 +1,1 @@
+﻿export $GROQ_API_KEY = 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

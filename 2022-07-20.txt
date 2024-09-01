@@ -1,0 +1,47 @@
+今天居然没有写daily note?
+---
+我为什么要从[[Roam Research]]切换到obsidian?
+---
+
+对于别人来说，要考虑到数据安全的原因。对我来说，数据放到国外肯定比国内安全。我worry的是Roam Research的加载速度问题。
+---
+不是电脑的原因，而是rr本身算法的原因，使得万条记录的graph打开时很慢，到了几乎无法正常工作的地步。
+
+详细请见：
+
+[Why and How to Switch From RoamResearch to Obsidian](https://learntrepreneurs.com/books-reading-better-learning-more/why-and-how-to-switch-from-roamresearch-to-obsidian/)
+
+相信这些人跟我一样，都曾经是Roam Research的忠实粉丝，但是到后来，也难以忍受load速度比乌龟还慢，最后都忍痛切换。
+
+---
+
+[Why I Switched: A deep dive into Roam vs. Obsidian | by Niles Wyler | Medium](https://nileswyler.medium.com/why-i-switched-a-deep-dive-into-roam-vs-obsidian-df1a394971ff#3275)
+
+---
+
+这篇评价很客观，Obsidian确实有很多地方比不上Roam Research，最本质的区别是，Roam Research是block级别的细粒度笔记，Obsidian是以文章为单位的粗粒度笔记。
+
+tags: [[obsidian]] [[roamresearch]] 
+
+---
+
+**10:43:48**  在颗粒度上，Obsidian无法跟Roam Research相提并论，毕竟，rr 的主要卖点就是它的block级别的信息组织方式。你可以把Obsidian理解成一个Markdown书写器。
+
+今天终于多管齐下，首先弃用Roam Research的新的graph： FreeAtLast
+
+[Roam2Github Backup Guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
+
+按照这个教程做了一系列的操作，稍晚时候，应该可以看到结果。
+
+Public库actions的查看
+
+[Actions · gccamp/Roam-FreeAtLast-Public-Action](https://github.com/gccamp/Roam-FreeAtLast-Public-Action/actions)
+
+Private库（实际备份所在地）
+
+[gccamp/Roam-FreeAtLast-Private-Bak: 主要承载好中文、编剧故事营的任务，争取用来完成五本书的写作，实现Free at Last.](https://github.com/gccamp/Roam-FreeAtLast-Private-Bak)
+
+在Roam Research上，迁Graph如迁都
+
+[Migrating from Roam to Obsidian - Fork My Brain](https://notes.nicolevanderhoeven.com/Migrating+from+Roam+to+Obsidian)
+

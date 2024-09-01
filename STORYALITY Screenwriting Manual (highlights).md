@@ -1,0 +1,6 @@
+- Author:: [[JT Velikovsky]]
+- Full Title:: STORYALITY Screenwriting Manual
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - “An intellectual problem is not restricted to a particular domain. Indeed, some of the most creative breakthroughs occur when an idea that works well in one domain gets grafted to another and revitalizes it.” (Csikszentmihalyi, CREATIVITY, 1996, p. 88) ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B00CZB6R2W&location=1620))
+    - `Max Planck, surveying his own career in his Scientific Autobiography sadly remarked that “a new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.”’ (Kuhn and hacking, 2021, p150) ([Location 2060](https://readwise.io/to_kindle?action=open&asin=B00CZB6R2W&location=2060))

@@ -1,0 +1,10 @@
+- Author:: [[Charles F. Stanley]]
+- Full Title:: Eternal Security
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Eternal Security ([Location 51](https://readwise.io/to_kindle?action=open&asin=B004SQ4LLQ&location=51))
+- Author:: [[Arthur W. Pink]]
+- Full Title:: Eternal Security
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - We prefer the latter because rightly understood it includes the former, while at the same time pressing the believer’s responsibility. Moreover, we believe, it to be more in accord with the general tenor of Scripture. The saints are "kept by the power of God through faith" (1 Pet. 1:5). ([Location 124](https://readwise.io/to_kindle?action=open&asin=B008CFK1PY&location=124))

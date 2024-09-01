@@ -1,0 +1,30 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[January 6th, 2024]] 21:24
+        - 赞美感谢
+            - 赞美主的护理
+            - 感谢神的托住
+            - 感谢教会肢体相通
+        - 认罪悔改
+            - 为自己的懈怠
+            - 为自己竟然有退后的想法
+            - 为自己的不忠心于主
+            - 为自己不为其他肢体祷告
+        - 祈求代求
+            - 为自己的[[糖尿病]]祷告
+            - 为自己的[[高血压]]祷告，求主让我得医治
+            - 为[[张晓波]]的姐姐祷告，求主医治
+            - 为[[陆向恩]]的婆婆祷告
+- 
+- [[Day Start]] 21:24
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
+- ---

@@ -1,0 +1,57 @@
+- [[编剧故事营]]
+    - [How to Set a Scene in Writing | Craft the Perfect Scene for Your Story - bibisco blog](https://bibisco.com/blog/how-to-set-a-scene-in-writing-for-your-story/)
+    - 剩余六课的上课时间
+        - 每一课的具体时间如下：
+            - 第一课：2024年1月3日 [[January 3rd, 2024]]
+            - 第二课：2024年1月10日 [[January 10th, 2024]]
+            - 第三课：2024年1月17日 [[January 17th, 2024]]
+            - 第四课：2024年1月24日 [[January 24th, 2024]]
+            - 第五课：2024年1月31日 [[January 25th, 2024]]
+            - 第六课：2024年2月7日 [[January 31st, 2024]]​
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 28th, 2023]] 01:36
+        - 赞美感谢
+            - 赞美神的护理拯救
+            - 感谢神让#[[Jonas]]没有得fei yan
+        - 认罪悔改
+            - 为自己课程完成后的不知所做
+            - 为自己爱主不深
+        - 祈求代求
+            - 为天津一家祈求
+            - 为[[小山]]的新计划代求
+            - 为[[谢瑾]]姊妹纯粹的心灵
+            - 为#[[Jonas]]的咳嗽
+            - 为#[[Seven]]的偏头疼
+            - 为自己的牧师#[[jfx]]一家
+- [[Day Start]] 01:36
+- Daily Tasks
+    - {{[[DONE]]}} 补第六课，制作ppt,认真录制课件
+    - {{[[DONE]]}} 两句半剪辑
+    - {{[[TODO]]}} 写日更文章
+    - {{[[DONE]]}} 按时祷告
+    - {{[[TODO]]}} 送#[[Jonas]]上学
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [How to Set a Scene in Writing | Craft the Perfect Scene for Your Story - bibisco blog](https://bibisco.com/blog/how-to-set-a-scene-in-writing-for-your-story/)
+    - [丁胖子金牌讲师的个人空间-丁胖子金牌讲师个人主页-哔哩哔哩视频](https://space.bilibili.com/3461581943867502?spm_id_from=333.337.0.0)
+    - [Mark24Code/rime-auto-deploy: Rime输入法安装脚本，让一切更轻松。Make using Rime easy.](https://github.com/Mark24Code/rime-auto-deploy/tree/main)
+    - [mrdoing/book-searcher: Easy and blazing-fast book searcher, create and search your private library.](https://github.com/mrdoing/book-searcher/tree/master)
+    - 
+- ---
+- [[Daily Thoughts]]
+- [[Daily Accomplishments]]
+    - 补觉
+    - 重新订阅adobe家族 #Finance #两句半
+        - 因为[[董小毛]]赞扬了两句半
+    - 录制了一期[[两句半]]，音质提升
+    - 专门为[[王立彬]]姊妹和[[嘉艺]]办了一期 #编剧故事营 并且录制了课件
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging

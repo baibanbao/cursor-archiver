@@ -1,0 +1,11 @@
+一种思考方法，用图表解决
+
+|  空 |雨   |伞   |
+|---|---|---|
+|  分析问题 |  找到问题 |  找到方案 |
+| gc6e04  |未备课   |专心备课   |
+|  查经作业 |专心查经   |完成作业   |
+
+markdown图表生成器
+
+[Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables#)

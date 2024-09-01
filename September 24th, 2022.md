@@ -1,0 +1,18 @@
+- 今日事
+    - 早上7:00-9:30 临平一院验血
+        - 推迟到 [[September 25th, 2022]]
+    - 下午15:30 与[[包晓东]]喝茶
+    - 晚上19:15 平常山房讲座 #[[元中文]]
+        - [[元中文的世界]]
+- [[Gratitude]]
+- [[Day Start]] 02:02
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 5}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

@@ -1,0 +1,3 @@
+- 因为这个封面买了这本书。
+- ![](http://www.baibanbao.org/wp-content/uploads/2017/07/deeplearning-cover.jpg)
+- 封面采用了艺术家Daniel Ambrosi提供的中央公园杜鹃花步道梦幻景观。该图片是在艺术家的亿级像素全景图上，应用Joseph Smarr（就职于Google）和Chirs Lamb（就职于NVIDIA）修改后的Google DeepDream开源程序，创造了亦真亦幻、艳丽夺目的梦幻景观。封面图的细节很多，包括花的细节、树枝的细节，枝枝杈杈的，表达的就是深度学习的“深度”、不断迭代的意思。

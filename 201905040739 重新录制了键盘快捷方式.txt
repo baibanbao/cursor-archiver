@@ -1,0 +1,11 @@
+# 重新录制了键盘快捷方式
+tags = #how2  #爱技术
+
+曾经被mac的键盘输入法搞的欲仙欲死，现在找到了一个快捷解决方式，安装了一个神奇的软件kawa
+
+[utatti/kawa: A better input source switcher for OS X](https://github.com/utatti/kawa)
+
+现在同时安装四种输入法也毫无压力。写作变得更为便捷快速。
+
+科技让生活更美好，当然也会更没有隐私，Jonas这一代孩子最重要的是学会如何保护自己的隐私吧。
+

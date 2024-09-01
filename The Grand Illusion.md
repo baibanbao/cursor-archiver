@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Jean Renoir]]
+        - Writer:: [[Charles Spaak]] [[Jean Renoir]]
+        - Cast:: [[Jean Gabin]] [[Dita Parlo]] [[Pierre Fresnay]]
+        - Year:: [[1937]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0028950
+    - **Plot Summary:** During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.

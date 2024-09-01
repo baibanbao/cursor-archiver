@@ -1,0 +1,52 @@
+- Overdue Tasks to Schedule
+    - 
+    - {{[[DONE]]}} email营销将是一个长远的更为宏大的计划
+    - {{[[DONE]]}} 在[[Teachable]] 上建立一个英文版的操作页面，作为demo也好，认真也好，都是一个很重要的尝试。
+    - {{[[DONE]]}} 建立起email list 
+    - {{[[DONE]]}} 录制独立课程视频
+    - {{[[DONE]]}} 白板报公众号
+    - {{[[DONE]]}} 给老婆的书带了吗
+    - {{[[DONE]]}} 编剧故事营公众号
+    - {{[[DONE]]}} 编辑制作发布页
+    - {{[[DONE]]}} 药带了吗？
+    - {{[[DONE]]}} 车停好了吗
+    - {{[[DONE]]}} 车钥匙交托了吗
+- [[Weekly Goals]]
+    - 好中文第八期的策划
+    - 躲过病毒 #[[康健]]
+    - 每天祈祷
+    - 整理好中文风格书
+        - 与[[白滔滔]]老师商讨
+    - 至少做饭5次
+    - 承包洗衣服
+    - {{[[TODO]]}} 读完全部福音书
+- [[Daily Tasks]]
+    - Sunday [[December 20th, 2022]]
+    - Monday [[December 26th, 2022]]
+    - Tuesday [[December 27th, 2022]]
+    - Wednesday [[December 28th, 2022]]
+    - Thursday [[December 29th, 2022]]
+    - Friday [[December 30th, 2022]]
+    - Saturday [[December 31st, 2022]]
+- [[Gratitude]]
+    - 感谢主的保守
+    - 感谢[[四楼江大伯]]关心邻里，安装了电梯，提高了生活质量。
+    - 感谢#[[Seven]]的聪明睿智
+    - 感谢#[[Jonas]]的善解人意
+- [[Day Start]] 03:13
+- #[[Prayers&Answers]]
+    - 感谢与赞美
+    - 认罪与悔改
+    - 为自己和家人祈求
+    - 为他人代求
+- Daily Tasks
+    - {{[[TODO]]}} 读完全部福音书
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [黃瑽寧：兒童染疫別恐慌，居家常備藥可症狀治療！｜親子天下](https://www.parenting.com.tw/article/5092751)
+- ---

@@ -1,0 +1,19 @@
+- [[Prayers & Answers]]
+    - 赞美感谢
+    - 认罪悔改
+        - 要认真地认罪悔改
+    - 祈求代求
+- [[Gratitude]]
+- [[Day Start]] 08:44
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **08:44** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- [[两句半]]
+- [[Edit Later]]
+- ---

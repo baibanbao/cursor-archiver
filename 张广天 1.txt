@@ -1,0 +1,11 @@
+- People
+    - Phone Number::
+    - Email::
+    - Company:: 
+    - Role:: 先锋戏剧导演，我的老师
+    - Location::
+    - How We Met::via [[孟京辉]]
+    - Birthday::
+    - Tags:: [[People]] [[Family Friends]] #[[艺术家]]
+- [[北城]]
+- [[回答好中文的问题]]

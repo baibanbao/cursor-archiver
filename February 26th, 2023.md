@@ -1,0 +1,46 @@
+- #[[Prayers&Answers]]
+    - Date: [[February 26th, 2023]] 08:15
+        - 赞美感谢
+            - 感谢神的拯救
+            - 感谢神对我全家的看顾
+            - 感谢神保守教会
+            - 感谢神保守我们一家三口的健康
+            - 感谢神让[[岳父]]病情减缓
+        - 认罪悔改
+            - 为对#[[Seven]]的冷淡认罪
+            - 为自己不追求属灵的事
+            - 为自己陷入情欲的罪
+            - 为自己没有按照圣经教养儿女
+            - 为自己没有爱兄弟如己
+            - 为自己的懒惰
+            - 为自己的贪心
+            - 为自己不守承诺
+        - 祈求
+            - 求主保守今天的聚会
+            - 求主保护教会 #[[SLBC]]
+            - 求主赐力量给牧师长老执事们
+            - 求主医治[[岳父]]的疾病，使他下一个手术能够成功，请保护他的性命，并且可以减轻他病情的痛苦，求主使他听到福音，悔改得救。
+            - 求主安慰和加力量给#[[Seven]]
+            - 求主供给所需
+            - 求主帮助我完成承诺
+            - 求主帮助我先[[吃青蛙]]
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 4}}
+- 今日事
+    - {{[[DONE]]}} 去#[[SLBC]]service
+        - {{[[DONE]]}} 读经
+- [[Gratitude]]
+- [[Day Start]] 08:15
+- Daily Tasks
+    - {{[[DONE]]}} 去#[[SLBC]]service
+    - {{[[DONE]]}} 读经
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 
+- ---

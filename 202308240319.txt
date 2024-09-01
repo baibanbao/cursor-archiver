@@ -1,0 +1,9 @@
+please polish the following prompt in Midjourney, an application generating AI pictures. 
+
+The rabbit year of China, a postcard celebrating the Chinese new year. The cartoon figure is cute and enthusiastic, without any characters or words. 
+ChatGPT
+Certainly, I can help refine your prompt. Here it is:
+
+"Generate a delightful postcard in honor of the Chinese Year of the Rabbit. The design should incorporate a charming and spirited cartoon figure, embodying the joviality of the occasion. This cartoon rabbit should encapsulate an aura of enthusiasm, accentuated by its cute characteristics. The layout must be clean and minimalist, devoid of any textual elements or characters, allowing the playful cartoon figure to be the central focus of this celebratory image."
+
+This refashioned prompt should articulate your needs more specifically to Midjourney's AI image generator.

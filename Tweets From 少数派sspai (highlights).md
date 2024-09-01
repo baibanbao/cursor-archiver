@@ -1,0 +1,7 @@
+- Author:: [[@sspai_com on Twitter]]
+- Full Title:: Tweets From 少数派sspai
+- URL:: https://twitter.com/sspai_com
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 评论有奖 | 用 Keynote 入门动画制作，简单的工具也能发挥无限创意 https://t.co/oWNsvRa7Is ([View Tweet](https://twitter.com/sspai_com/status/1602993195092246528))

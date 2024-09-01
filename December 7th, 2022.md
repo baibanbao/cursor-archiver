@@ -1,0 +1,19 @@
+- [[Gratitude]]
+- [[Day Start]] 16:10
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - 怎样理解概率
+        - 理解概率的关键：概率指的并非系统本身，而是指我对这个系统所拥有的知识。——换言之，概率是一件事对于观察者本身会发生的几率。
+        - 具体到新冠说，千分之一的死亡率，意味着对于我来说，如果我染上了，有千分之一的概率是死掉。
+        - 然后每个人根据自己的情况，决定怎样对待这个小概率事件。
+        - 正如我在美国的朋友说：
+            - 个人认为对个人而言当前最好的防疫是立即出国，下飞机就打一针二价mRNA疫苗，随便哪个CVS、沃尔玛都有。然后名山大川人烟稀少的地方玩两周，回家。
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- 
+- [[Daily Reading]]
+- ---

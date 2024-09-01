@@ -1,0 +1,21 @@
+- [[Gratitude]]
+    - 感谢所有人
+    - 感谢曹师傅，让我打开会议室的空调
+        - 感谢会议室有电
+    - 感谢[[小山]]进步神速，让我又有了教学的力量
+- [[Day Start]] 15:12
+- Daily Tasks
+    - {{[[TODO]]}} 写玉石记提要
+    - {{[[TODO]]}} confession
+    - {{[[TODO]]}} 来办公室，pcr
+    - {{[[TODO]]}} 好中文第八期招生贴，不等了
+    - {{[[TODO]]}} 写四季青青吧，不等了
+    - {{[[TODO]]}} 每个人的遗憾和痛苦都会贯穿他的生命始终，总也忘不掉
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

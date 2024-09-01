@@ -1,0 +1,27 @@
+﻿一个非常好的习惯，为每一个应用单独生成一个api，并且记下它们
+
+revoke以前所有的api
+
+bob api
+
+用途：mac全站翻译polish插件，用在bob之中
+
+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
+
+生成时间：2023-03-10 09:22 
+
+open cat 
+
+用途：ios上最好用的ChatGPT应用，目前还是testflight 阶段，但以后可能会上架
+
+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
+
+生成时间：2023-03-10 09:26 
+
+revoke 一个api
+
+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
+
+防止被滥用
+
+

@@ -1,0 +1,18 @@
+[vim删除操作大全](https://gist.github.com/seveniu/5392752)
+
+[03Linux文本编辑器vim常用命令和快捷键_一点先森-CSDN博客](https://blog.csdn.net/u010014090/article/details/108270058?depth_1-utm_source=distribute.pc_relevant_bbs_down.none-task-blog-2~default~OPENSEARCH~Rate-2.nonecase)
+
+按q之后，你按的第一个字母或者数字就是这个按键宏的快捷键。 使用的时候按@和你记录时的第一个字母或数字，就可以执行刚才编辑的按键宏了。 进入了记录状态（recording）不要慌，按esc，然后按q，就可以退出recording了。
+
+[希望增加"开启 Emoji 表情" 和 "关闭 Emoji 表情" 切换的状态指示。 · Issue #535 · rime/squirrel](https://github.com/rime/squirrel/issues/535)
+
+[Rime 输入法 中州韻輸入法 如何删除某个自造词 - V2EX](https://www.v2ex.com/t/182094)
+
+[请问鼠须管如何删除自定义词组？ · Issue #248 · rime/squirrel](https://github.com/rime/squirrel/issues/248)
+
+[ssnhd/rime: Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）](https://github.com/ssnhd/rime)
+
+
+
+
+

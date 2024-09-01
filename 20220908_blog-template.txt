@@ -1,0 +1,12 @@
+"=========== Meta ============
+"StrID : 
+"Title : 
+"Slug  : 
+"Cats  : 
+"Tags  : 
+"=============================
+"EditType   : post
+"EditFormat : HTML
+"BlogAddr   : https://wangpei.net/
+"========== Content ==========
+ 

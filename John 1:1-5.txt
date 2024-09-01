@@ -1,0 +1,23 @@
+- John 1:1-5
+    - John 1:1–5
+    - The Word Became Flesh
+    - **John 1:1:** In the beginning was the Word, and the Word was with God, and the Word was God. 
+    - **John 1:2:** He was in the beginning with God. 
+    - **John 1:3:** All things were made through him, and without him was not any thing made that was made. 
+    - **John 1:4:** In him was life,(1) and the life was the light of men. 
+    - **John 1:5:** The light shines in the darkness, and the darkness has not overcome it.
+    - Footnotes
+    - (1) 1:4 Or *was not any thing made. That which has been made was life in him*
+
+- [[Jude 1:1-18]]
+    - John 1:1-5
+        - John 1:1–5
+        - The Word Became Flesh
+        - **John 1:1:** In the beginning was the Word, and the Word was with God, and the Word was God. 
+        - **John 1:2:** He was in the beginning with God. 
+        - **John 1:3:** All things were made through him, and without him was not any thing made that was made. 
+        - **John 1:4:** In him was life,(1) and the life was the light of men. 
+        - **John 1:5:** The light shines in the darkness, and the darkness has not overcome it.
+        - Footnotes
+        - (1) 1:4 Or *was not any thing made. That which has been made was life in him*
+

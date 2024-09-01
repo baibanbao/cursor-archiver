@@ -1,0 +1,35 @@
+- 学习网络安全
+    - [[eddy]]的网络安全系列
+    - 学习笔记
+        - 若有web版软件，就不要用桌面软件和手机软件。浏览器等于虚拟机，比较容易控制。
+        - 我的所有重要数据用veracrypt加密，同时存储在两个加密移动硬盘上。veracrypt也是开源软件。
+            - 安装veracrypt并不顺利，因为m1的芯片的缘故，首先要安装fuse
+                - [Release macFUSE 4.2.0 · osxfuse/osxfuse](https://github.com/osxfuse/osxfuse/releases/tag/macfuse-4.2.0)
+            - 要求修改系统安全选项，系统级别的重启，勾选system extension
+            - 再在设定-隐私里设置
+        - 所有email全部采用web端访问，不下载到本地保存。
+            - 重要邮件，加密保存后，删除。
+            - 通知教会更换email
+                - haozhongwen@protonmail.com
+        - 就像有人请您喝茶，以后您应当更换工作手机以及手机号码，是一个道理。
+        - 一台服务器作为云盘、邮件服务器和在线图书馆，一台服务器做独立博客网站和备份服务器，分别部署在不同的国家，采用不同的网络服务和主机服务；在家里也采用两块加密的硬盘来保存本地数据，随时上传手机图片并删除手机上的图片。
+    - 俺的措施
+        - 没有必要全盘照抄[[eddy]]，情况不同，所处环境不同，安全策略也不同
+        - 密码管理软件主密码换成30位左右
+            - 在原先的基础上增加了两部作品，首字母大写
+            - The Master Password for your 1Password account has been changed.
+            - If you didn’t change your Master Password, [contact 1Password Support](http://support@1password.com/) right away.
+        - dropbox重新用起来
+            - 修改验证方法
+                - The two-step verification settings for your personal Dropbox account were recently changed.
+                - Two-step verification was set to use a mobile app and +1 4046206878 was added as a backup phone number.
+        - 移动端加密 veracrypt
+            - 财务信息存储在加密移动硬盘上
+            - 重要邮件阅后存盘删除
+        - 群晖加密共享文件夹
+        - 把所有二步验证中需要短信验证的换成app验证
+        - 启用一个加密邮箱
+            - wangpei@protonmail.com
+        - 
+- #[[Quick Capture]]
+    - 出来看脱口秀。应刘淼邀请，散散心也好。

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2ZiYTM5MDgtNWVkNy00OGM2LThkOWMtODI1MTJjODE1YTk0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Wen Jiang]]
+        - Writer:: [[Wen Jiang]] [[Shuo Wang]]
+        - Cast:: [[Yu Xia]] [[Wei Chen]] [[Shaobo Dai]]
+        - Year:: [[1994]]
+        - Genre:: #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0111786
+    - **Plot Summary:** The story of four teenagers in Beijing during the Cultural Revolution.

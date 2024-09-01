@@ -1,0 +1,19 @@
+- Author:: [[Anonymous]]
+- Full Title:: Holy Bible, NASB 1995
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41gALF50FoL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - doubtful. ([Location 36535](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=36535))
+    - “All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.” ([Location 36535](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=36535))
+    - It was at this time that He went off to the mountain to pray, and He spent the whole night in prayer to God. ([Location 37429](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37429))
+    - Be merciful, just as your Father is merciful. ([Location 37448](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37448))
+    - for his mouth speaks from that which fills his heart. ([Location 37458](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37458))
+    - “Go and report to John what you have seen and heard: the BLIND RECEIVE SIGHT, the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, the POOR HAVE THE GOSPEL PREACHED TO THEM. ([Location 37482](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37482))
+    - her sins, which are many, have been forgiven, for she loved much; but he who is forgiven little, loves little.” ([Location 37509](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37509))
+    - But the seed in the good soil, these are the ones who have heard the word in an honest and good heart, and hold it fast, and bear fruit with perseverance. ([Location 37527](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37527))
+    - “Return to your house and describe what great things God has done for you.” So he went away, proclaiming throughout the whole city what great things Jesus had done for him. ([Location 37552](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=37552))
+    - But the Scripture has shut up everyone under sin, so that the promise by faith in Jesus Christ might be given to those who believe. ([Location 41147](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=41147))
+    - Because you are sons, God has sent forth the Spirit of His Son into our hearts, crying, “Abba! Father!” ([Location 41156](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=41156))
+    - It was for freedom that Christ set us free; therefore keep standing firm and do not be subject again to a yoke of slavery. ([Location 41181](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=41181))
+    - For you were called to freedom, brethren; only do not turn your freedom into an opportunity for the flesh, but through love serve one another. For the whole Law is fulfilled in one word, in the statement, “YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF.” ([Location 41189](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=41189))
+    - I can do all things through Him who strengthens me. ([Location 41423](https://readwise.io/to_kindle?action=open&asin=B00L6HXFSU&location=41423))

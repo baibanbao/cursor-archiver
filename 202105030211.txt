@@ -1,0 +1,42 @@
+#回归Ulysses
+
+## 不重视Ulysses的误区与后果
+
+以前对于Ulysses不够重视，没有发现它的简洁之美，走了不少弯路。现在重新梳理我的数字应用，有下面的弯路可以不必再走。
+
+- Roam Research 或相似产品。
+	- 双向链接并不重要
+	- 翻墙用的笔记软件直接忽略
+	- rr缺乏笔记最需要的稳定性
+	- 其可共性不足，不能打开即用，用完即走
+- workflowy，dynalist这类bullets产品
+	- bullet打散了文章之美
+	- bullet不符合直觉
+- metion等markdown工具
+	- 管理不直观
+	- 操作太complicated
+	- 熟人的产品不用能不用则不用
+	- 跟Ulysses的易用性没法比
+- byword作为过渡产品
+	- byword仅仅作为一个发布工具，不如直接使用Ulysses的发布功能
+	- 我不需要那么多花里胡哨的功能，什么focus，什么zen模式，我只需要一个能一览无余写字的地方，这一点byword无法满足我
+	
+### 今后的创作流程
+
+- 文本整理
+	- CloverTextEdit
+	- Ulysses
+	- Publishing
+		- wangpei.net
+		- medium.com
+	-写书
+	- Ulysses倒入
+	- Ulysses的目录管理
+	- Ulysses中直接写作
+
+### 一元化笔记
+- 一元化笔记的电子实现就是Ulysses
+- 在同一个平台上写作、发布，做到人剑合一，身土不二，是非常美好的状态
+- 边写作边整理，不需要花费时间去专门倒入文本
+- 让Ulysses变成一个长期的可以稳定积累创作素材的宝库
+- 让一切回归电子，不要迷信笔和纸（除非为了采访的需要）

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Roger Michell]]
+        - Writer:: [[Richard Curtis]]
+        - Cast:: [[Hugh Grant]] [[Julia Roberts]] [[Richard McCabe]]
+        - Year:: [[1999]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0125439
+    - **Plot Summary:** The life of a simple bookshop owner changes when he meets the most famous film star in the world.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FYjyxcdgFFf.pdf?alt=media&token=42e6fd54-7060-4c8b-bb51-f61ef19fe6c1}}

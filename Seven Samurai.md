@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Akira Kurosawa]]
+        - Writer:: [[Akira Kurosawa]] [[Shinobu Hashimoto]] [[Hideo Oguni]]
+        - Cast:: [[Toshirô Mifune]] [[Takashi Shimura]] [[Keiko Tsushima]]
+        - Year:: [[1954]]
+        - Genre:: #Action #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0047478
+    - **Plot Summary:** Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.

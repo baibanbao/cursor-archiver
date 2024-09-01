@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTgxMDMxMTctNDY0Zi00ZmNlLWFlYmQtODA2YjY4MDk4MjU1XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Joel Coen, Ethan Coen]]
+        - Writer:: [[Joel Coen]] [[Ethan Coen]]
+        - Cast:: [[John Turturro]] [[John Goodman]] [[Judy Davis]]
+        - Year:: [[1991]]
+        - Genre:: #Comedy #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0101410
+    - **Plot Summary:** A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F9qRBQFiGnL.pdf?alt=media&token=509be314-8782-42d8-8689-598570632ec4}}

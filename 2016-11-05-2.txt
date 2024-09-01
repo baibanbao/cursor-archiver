@@ -1,0 +1,34 @@
+---
+url: 2016-11-05-knowledge-is-boundless
+tag: 数理化
+date: 2016-11-05 20:03
+status: public
+title: 2016-11-05-第一次听说最小作用量原理
+---
+
+阅读杨建邺《费曼传》，看到了最小作用量原理。
+
+知乎了一下，喜欢这个答案：
+
+[如何理解最小作用量原理？ - 知乎用户的回答 - 知乎](https://www.zhihu.com/question/26435474/answer/115096370)
+
+这个PDF也值得一看。
+
+[最小作用量原理](http://web.math.sinica.edu.tw/math_media/d351/35102.pdf)
+
+这个解释最清楚
+
+[科学网—[转载]最小作用量原理与物理之美 - 柯江的博文](http://blog.sciencenet.cn/blog-727616-666272.html)
+
+还有一篇论文
+[最小作用量原理及其意义.pdf](file:///Volumes/My%20Book/Chrome%20New%20Downloads/%E6%9C%80%E5%B0%8F%E4%BD%9C%E7%94%A8%E9%87%8F%E5%8E%9F%E7%90%86%E5%8F%8A%E5%85%B6%E6%84%8F%E4%B9%89.pdf)
+
+这里又涉及到哥德尔不完备定理。
+
+[如何简单清晰地解释哥德尔不完备定理？ - 数学 - 知乎](https://www.zhihu.com/question/27528796)
+
+又去知乎了哥德尔不完备定理，一个小时就过去了。
+
+唉，我生有涯，欲知无涯，可乎？
+
+还是继续读我的《费曼传》

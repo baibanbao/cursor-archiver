@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[James Cameron]]
+        - Writer:: [[James Cameron]] [[William Wisher]]
+        - Cast:: [[Arnold Schwarzenegger]] [[Linda Hamilton]] [[Edward Furlong]]
+        - Year:: [[1991]]
+        - Genre:: #Action #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0103064
+    - **Plot Summary:** A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FzNr0dTuxz8.pdf?alt=media&token=1724e739-cddd-4319-8626-29c2f8e4b3a9}}

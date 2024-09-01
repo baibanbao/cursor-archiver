@@ -1,0 +1,7 @@
+---
+Title: [[{zettel_id}]] {title}
+Index: [[200615130000]] Application support
+Keywords: #support {tags} #template
+---
+
+{content}

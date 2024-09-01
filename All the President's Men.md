@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alan J. Pakula]]
+        - Writer:: [[Carl Bernstein]] [[Bob Woodward]] [[William Goldman]]
+        - Cast:: [[Dustin Hoffman]] [[Robert Redford]] [[Jack Warden]]
+        - Year:: [[1976]]
+        - Genre:: #Drama #History #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0074119
+    - **Plot Summary:** "The Washington Post" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FP7X2sCEWEh.pdf?alt=media&token=b570630a-6960-4ec5-91eb-8f891b405544}}

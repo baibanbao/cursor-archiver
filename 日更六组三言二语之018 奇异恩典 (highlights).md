@@ -1,0 +1,7 @@
+- Author:: [[haozhongwen.app]]
+- Full Title:: 日更六组三言二语之018 奇异恩典
+- URL:: https://haozhongwen.app/post/up/oz454jlwv21tbo_zebtsncbuwtzs/2023-12-09
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 这是一个窒息的社会。一切都被主旋律裹挟、卷起、扫荡每一个角落。很多城市的教堂聚会(主日敬拜)竟需要报备，参加者均需扫码登记入场。仿佛当初犹太聚会一样。就在这样严密如铁板的时刻，"一个裂缝、一道光从完全意料不到的地方侵蚀进来。象是一个嘲讽的笑容把水池搅起一道春波。歌星，一个通俗歌手棋士，意然把自己的演唱工作、人生的主体放到大使命中去照亮影响更多的人。她为之感恩、为之改变、为之行动。愿主保守她。 ([View Highlight](https://read.readwise.io/read/01hh99jaepbcgyqyxe63yen7pw))

@@ -1,0 +1,70 @@
+---
+title: Awesome Series
+tags: 
+  - Awesome
+  - Hardware
+  - Software
+---
+
+Awesome is awesome.
+
+I will build this wiki based on this word.
+
+# Awesome Hardware
+
+- Macbook Pro M1 
+    - 生产力工具，剪片神器，待机之王
+- Synology DS418
+    - 数据比一切精金都宝贵
+- iPhone 12
+    - The best camera I have had
+- Typewriter
+    - 打字能够让自己安静下来
+
+# Awesome Apps
+
+## Mac Os
+
+- 1Password
+    - The core to restore backups.
+    - 时间机器里的时间机器
+- MarkEditor
+    - 海波的这个软件可帮了大忙，整理课件，生成PDF的不二之选。
+- Chrome
+    - 最核心的平台
+- CloverTextEdit
+    - 小胖给我的最好的礼物
+    - 整理文本文件的利器
+- 鼠须管输入法
+    - 花了很长时间打造
+    - 功夫没有白费
+    - 使用最多的输入法
+- VPN.AC
+    - Windscribe
+        - 不可一日无此君
+- VScode+Foam+Gatsby wiki
+    - 希望今后全力打造
+    - 成为个人知识管理平台
+- Terminal
+    - Git 
+    - Tools
+    - Youtube-dl 
+- FinalCutPro X
+    - 强大的创作工具
+    - 今后赚钱养家全靠它
+- Wechat
+    - Classroom
+- TextExpander
+    - 节约散碎时间
+
+## iOS for iPhone
+
+- Byword
+    - 移动写作
+    - 打通全系统的最后一块隔板
+- Wechat
+- Telegraph
+- VPN.AC
+- Gboard输入法
+- Camera
+- Dropbox

@@ -1,0 +1,80 @@
+- books
+    - author::
+    - reading status::
+    - recommended by:: 
+    - tags:: #books
+- articles
+    - author::
+    - url::
+    - recommended by:: 
+    - tags:: #articles
+- software & app
+    - author::
+    - url::
+    - recommended by:: 
+    - price::
+    - tags:: #software
+- concepts
+    - author::
+    - url::
+    - recommended by:: 
+    - definition:: 
+    - tags:: #concepts #idea
+- movies
+    - director::
+    - screenwriter::
+    - viewing status::
+    - recommended by:: 
+    - imdb link::
+    - douban link::
+    - tags:: #movies
+- podcasts
+    - host::
+    - url::
+    - recommended by:: 
+    - tags:: #podcasts
+- videos
+    - author:: 
+    - url::
+    - recommended by:: 
+    - tags:: #videos
+- blog posts
+    - target date::
+    - tags::
+    - status::
+    - google doc::
+- projects
+    - completed date::
+    - status::
+    - due date::
+    - related goals::
+    - success criteria:: 
+    - tags:: #projects
+- goals
+    - projects:: 
+    - goal status:: 
+    - success criteria:: 
+    - completed date::
+    - tags:: #goals
+- people
+    - phone number::
+    - email::
+    - company:: 
+    - role:: 
+    - location::
+    - how we met::
+    - birthday::
+    - tags:: #people
+- recipes
+    - ingredients::
+    - tools::
+    - url:: 
+    - tags:: #recipes
+- weekly plan
+    - review
+- 	[[2020 mid-year review]]
+- 	[[projects]]
+- 	[[$1000 per hour work]]
+    - [[tp]]
+- 	
+- tags:: #templates #pkm

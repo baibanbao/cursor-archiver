@@ -1,0 +1,9 @@
+Please write a prompt for runway gen-2, webpilot
+
+make the animation girl turn her head from left to right, and hair should be moved by wind
+ChatGPT
+Sure, I can help you craft a prompt for Runway Gen-2. Here's a suggestion:
+
+"Generate an animation of a girl with her hair being moved by the wind. She should be turning her head from left to right."
+
+For the WebPilot tool, it's not designed to interact with animations or generate them. It's primarily used for interacting with web content, extracting specific information, or performing actions on a webpage. If you need assistance with a specific webpage or online tool related to animations, please provide more details.

@@ -1,0 +1,7 @@
+- Author:: [[Marcel Proust and Lydia Davis]]
+- Full Title:: Swann's Way
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51Wrlbko5QL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - À la recherche du temps perdu ([Location 134](https://readwise.io/to_kindle?action=open&asin=B004GUTMJK&location=134))
+    - Proust felt, however, that a long sentence contained a whole, complex thought, a thought that should not be fragmented or broken. The shape of the sentence was the shape of the thought, and every word was necessary to the thought: “I really have to weave these long silks as I spin them,” he said. “If I shortened my sentences, it would make little pieces of sentences, not sentences.” He wished to “encircle the truth with a single—even if long and sinuous—stroke.” ([Location 223](https://readwise.io/to_kindle?action=open&asin=B004GUTMJK&location=223))

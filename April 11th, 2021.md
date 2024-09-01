@@ -1,0 +1,22 @@
+- 今日要事
+    - {{[[DONE]]}} 聚会 
+    - {{[[DONE]]}} 还款 
+- 今日修行
+    - {{[[DONE]]}} #[[节制]] 
+    - {{[[DONE]]}} #[[缄默]] 
+    - {{[[TODO]]}} #[[有序]] 
+    - {{[[DONE]]}} #[[决心]] 
+    - {{[[TODO]]}} #[[简朴]] 
+    - {{[[DONE]]}} #[[勤奋]] 
+    - {{[[DONE]]}} #[[真诚]] 
+    - {{[[DONE]]}} #[[正义]] 
+    - {{[[TODO]]}} #[[宽和]] 
+    - {{[[TODO]]}} #[[整洁]] 
+    - {{[[DONE]]}} #[[冷静]] 
+    - {{[[DONE]]}} #[[寡欲]] 
+    - {{[[DONE]]}} #[[谦卑]] 
+- 今日阅读，全世界观鸟最多的人Poebe Snetsinger
+    - [Phoebe Snetsinger’s 85th birthday](https://www.google.com/doodles/phoebe-snetsingers-85th-birthday)
+    - [Phoebe Snetsinger - Wikipedia](https://en.wikipedia.org/wiki/Phoebe_Snetsinger)
+    - An inheritance paid the bills; she supplied the boundless energy.
+    - [菲比·施奈辛格：“用向癌症借来的时间观鸟”_网易订阅](https://www.163.com/dy/article/F780RRTR0512RQI0.html) #[[Articles]]

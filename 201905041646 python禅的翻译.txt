@@ -1,0 +1,72 @@
+# python禅的翻译
+tags = #python #gc4 #moviecamp #sc4 #编剧故事营
+
+PEP 20 -- The Zen of Python
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+翻译
+
+美 优于 丑
+
+明确 优于 隐晦 （1）
+
+简单 优于 复杂
+
+复杂 也好过 繁复 （2）
+
+扁平 优于 嵌套
+
+稀疏 优于 拥挤
+
+可读性很重要（3）
+
+固然代码实用与否 比洁癖更重要，
+
+我们以为的特例也往往没有特殊到必须打破上述规则的程度
+
+除非刻意地静默，
+
+否则不要无故忽视异常（4）
+
+如果遇到模棱两可的逻辑，请不要自作聪明地瞎猜。
+
+应该提供一种，且最好只提供一种，一目了然的解决方案
+
+当然这是没法一蹴而就的，除非你是荷兰人（5）
+
+固然，立刻着手 好过 永远不做。
+
+然而，永远不做 也好过 不审慎思考一撸袖子就莽着干
+
+如果你的实现很难解释，它就一定不是个好主意
+
+即使你的实现简单到爆，它也有可能是个好办法
+
+命名空间大法好，不搞不是地球人！
+
+
+
+注释
+
+该引入的包一个一个列出来不要合并；不要用星号；不要在方法里藏意想不到的的副作用，等等等等。还一个例子，另外一种著名的软件设计原则 Convention over Configuration（约定优于配置）如果做得不谨慎就会违背这条
+SO: 必要的复杂逻辑是难免的，而繁复啰嗦的代码是不可接受的
+Readability counts 不能翻译成可读性计数啊喂😂
+实操中很多人不注意 catch 完就 log 一下 就不管了，这样不好。软件界一般都讲 Let it fail，学名为 Fail-fast 法则。简而言之就是整个项目周期中越早暴露的问题，其修复成本越低
+本文作者 Tim peters 解释说这里的荷兰人指的是 Python 的作者 Guido van Rossum

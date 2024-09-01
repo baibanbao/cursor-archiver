@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Francis Ford Coppola]]
+        - Writer:: [[Mario Puzo]] [[Francis Ford Coppola]]
+        - Cast:: [[Marlon Brando]] [[Al Pacino]] [[James Caan]]
+        - Year:: [[1972]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0068646
+    - **Plot Summary:** The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FHY_k2KcYdG.pdf?alt=media&token=0f6cbcb5-4d05-4dc3-96dd-28bad3e41866}}

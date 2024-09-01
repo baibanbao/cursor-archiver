@@ -1,0 +1,14 @@
+- [[Gratitude]]
+- [[Day Start]] 21:58
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [wipe/aps.md at main · reconsidera/wipe · GitHub](https://github.com/reconsidera/wipe/blob/main/docs/aps.md) #网络安全
+    - 
+- ---

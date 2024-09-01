@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTE0ZGE4YTItZTE2NC00MzZjLTkyMWUtMTZiODAwNTRlNDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ken Loach]]
+        - Writer:: [[Paul Laverty]]
+        - Cast:: [[Cillian Murphy]] [[Pádraic Delaney]] [[Liam Cunningham]]
+        - Year:: [[2006]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0460989
+    - **Plot Summary:** Against the backdrop of the Irish War of Independence, two brothers fight a guerrilla war against British forces.

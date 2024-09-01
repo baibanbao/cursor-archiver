@@ -1,0 +1,156 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - 对于我父母和岳父母的眷顾，使得他们身体保持健康。
+        - 赐下足够用的恩典，每日面对世界的纷纷扰扰。
+        - 让[[乌克兰]]在战场上取得胜利，打击了侵略者
+        - 赐下#[[SLBC]]和众弟兄姊妹，带来安慰和力量
+        - 没有因我的罪把我消灭，相反用忍耐恩慈的心等待我悔改。
+    - [[王树义]]带来新技术的应用
+    - [[蓝风]]带来鼓励
+    - #[[Seven]]辛劳忘我的工作
+    - #[[Jonas]]安心上学
+    - [[霍炬]]在一些具体事物上的指导，他虽然有些偏执，但人不是坏人，有着热心肠，想说就说，绝不藏着掖着。这样的朋友实属难得。
+        - 买车
+        - 虚拟货币
+        - vim
+        - 电子消费
+        - 减肥
+    - [[小山]]问我如何学剪辑
+        - 推荐他看[[阿巴斯]]的[[五]]
+            - [[Five Dedicated to Ozu]]
+    - [[叶淑君]]跟我探讨纪录片一事。给了我信心和鼓励。
+        - 叶子纪录片概况
+            - 叶子的纪录片
+            - 农场，服事自闭症的孩子，给他们工作机会，神一直在开路。
+            - 一个连接点，华盛顿州
+            - 俄勒冈州，默默无闻地做一些事情，帮助培训trouble kids具有工作能力。
+            - 自闭症，工作背景，全身心投入农场来帮助别人，在过去两年开始，中国的自闭症社群发现这个地方，西雅图地区，知道他们的农场。
+            - 完全基于圣经的教导，政府也不喜欢。
+            - 坚持反复去，从绝望中一点点被建造起来。他的教导方式是有根有据的，他的人生有很多经历，要自杀的孩子，被社会抛弃的孩子，全副的经历的。
+            - miss date胆子很大，警察都来了。家长告他，问题孩子送过来之后，不允许他的，趴在地上，家长去告他。深深的链接，没有任何经验跟这些孩子们相处，最好的mental，无论从资金上，需要support，这里的神迹，只有去过的人才知道。
+            - 西雅图的教会，愿意帮助他们。拍他们农场的故事。他再服事几年，就服事不动的。这种爱，只有好好读圣经的基督徒才能理解他。就这样消失了。他的思想能够影响别人，那些人就会去找他。
+            - 整理他的课程，变成教材，有可能继续分享出去。小的机构，都不知道，怎么让这些孩子，教会不知道怎么处理他，很需要一些技巧。
+            - 萌生了这个想法，最有用的是把他的思想传承下来，可以做interview。
+            - 俄勒冈州，有没有合适的人和团队做掉，可以cover促成这个事情。
+            - 有多么困难。
+            - 那些家庭，不愿意暴露自己，不愿意深度全程地暴露自己。
+            - 浓缩出这个故事。
+            - jesus camp
+        - 给她的建议
+            - 学习[[赫尔佐格]]大师课
+            - 学习[[宋占涛]]真实电影的拍摄手法
+            - 大致的时间与预算
+    - [[叶振]]关心我的健康，问有什么可以为我祷告的，我请他为我祷告，使我可以战胜罪。他说这可够难的。
+- [[Day Start]] 00:02
+- Daily Tasks
+    - {{[[TODO]]}} 接送#[[Jonas]]
+    - {{[[TODO]]}} 完成#[[gc8]]招生草稿
+    - {{[[DONE]]}} 信用卡还款
+    - {{[[DONE]]}} 来办公室
+    - {{[[TODO]]}} 走路一万步
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - #vim 学习
+        - 
+        - [soywod/iris.vim: 📫 Simple mail client for Vim.](https://github.com/soywod/iris.vim)
+            - 这个插件设置起来复杂，等空了时候再琢磨。
+        - [Sharing My VIM Configuration With You! | by João Paulo M Sant’ana | Dev Genius](https://blog.devgenius.io/sharing-my-vim-configuration-with-you-cc3202db08d4)
+        - 修改MacVim的字体
+            - 根目录下找到文件 `.gvimrc`
+                - ```javascript
+set guifont=LXGW_WenKai:h32
+colorscheme elflord```
+        - [hook obsidian - Google Search](https://www.google.com/search?q=hook+obsidian&sxsrf=ALiCzsZ2bO-XjZgrRlsJbmgv7qCEQPzLRg:1662912145274&ei=kQYeY46VEImiptQPk6uNmA4&start=10&sa=N&ved=2ahUKEwjOodi9jo36AhUJkYkEHZNVA-MQ8NMDegQIARBE&biw=1918&bih=996&dpr=1)
+        - [Using Hook with Obsidian – Hook](https://hookproductivity.com/help/integration/using-hook-with-obsidian/)
+        - [Automation Documentation: Hooking Automations with Obsidian | ThoughtAsylum](https://www.thoughtasylum.com/2022/05/30/automation-documentation-hooking-automations-with-obsidian/)
+        - [Hook & Obsidian - Newbie question - Help - Obsidian Forum](https://forum.obsidian.md/t/hook-obsidian-newbie-question/22123)
+        - [【集锦】西甲-莱万1射2传德容法蒂登贝莱建功 巴萨4-0加的斯4连胜-直播吧](https://www.zhibo8.cc/zuqiu/2022/0911-91954ef-svideo.htm)
+        - [Posts - Blue Jade](https://bluejade.ghost.io/ghost/#/posts?type=published)
+        - [Dashboard](https://farbox.org/admin)
+        - [Rigeng Net](https://rigeng.net/)
+        - [Settings for Wechat Account](https://farbox.org/__site_json_settings?path=wechat)
+        - [obsidian-ghost-publish/README.md at master · jaynguyens/obsidian-ghost-publish](https://github.com/jaynguyens/obsidian-ghost-publish/blob/master/README.md)
+        - [Official Ghost + Custom Integrations Integration](https://ghost.org/integrations/custom-integrations/)
+        - [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://www.worldtimebuddy.com/)
+        - [好中文](https://haozhongwen.com/)
+        - [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=page42.page)
+        - [【转载】作为Ob玩家，不得不知的24个Obsidian使用技巧 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/9957)
+        - [(9) queen live - YouTube](https://www.youtube.com/results?search_query=queen+live)
+        - [白板报](https://wangpei.net/)
+        - [使用ob发布服务的站点 - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/%E4%BD%BF%E7%94%A8ob%E5%8F%91%E5%B8%83%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%AB%99%E7%82%B9)
+        - [note - Roget's Thesaurus 3rd Edition - Obsidian Publish](https://publish.obsidian.md/rogets/Vocabulary/note)
+        - [https://publish.obsidian.md/oldwinter/README](https://publish.obsidian.md/oldwinter/README)
+        - [Welcome to my digital garden - Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden)
+        - [Agora - Agora RPG System Reference Wiki - Obsidian Publish](https://publish.obsidian.md/agora/Agora)
+        - [obsidian garden（演示库）by tanepiper - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/obsidian+garden%EF%BC%88%E6%BC%94%E7%A4%BA%E5%BA%93%EF%BC%89by+tanepiper)
+        - [Welcome to my digital garden - Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden)
+        - [Fork My Brain - Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+        - [小人物](https://rigeng100.com/post/up/ooawr51crttpj3h0jj_y7t62w_7a/2022-09-12)
+        - [https://publish.obsidian.md/maolaoda](https://publish.obsidian.md/maolaoda)
+        - [https://publish.obsidian.md/maolaoda](https://publish.obsidian.md/maolaoda)
+        - [法政西南 - 法政西南 - Obsidian Publish](https://publish.obsidian.md/wanyulawyer/%E6%B3%95%E6%94%BF%E8%A5%BF%E5%8D%97)
+        - [README - 善用佳软 2022 - Obsidian Publish](https://publish.obsidian.md/xbeta/docsify/README)
+        - [使用 vim 开始 markdown 之旅 - 少数派](https://sspai.com/post/60305)
+        - [https://publish.obsidian.md/fred-lai](https://publish.obsidian.md/fred-lai)
+        - [https://publish.obsidian.md/oldwinter/README](https://publish.obsidian.md/oldwinter/README)
+        - [chi's memory - chi's memory - Obsidian Publish](https://publish.obsidian.md/chiux/chi's+memory)
+        - [长文设计 · 找与读的研究](https://mp.weixin.qq.com/s/76ytTeiqdnTaZl4ZF2qxKA)
+        - [Figma](https://www.figma.com/file/NjXnW5vLeVaQzyUA1ueCSE/Untitled?fuid=859287821754761438)
+        - [Live: Crowds gather to pay respects as Queen Elizabeth II's coffin enters St Giles' Cathedral - YouTube](https://www.youtube.com/watch?v=n7WzlStgxpg)
+        - [Sign up on ReClipped | ReClipped | Annotate and Analyse Videos](https://reclipped.com/signup)
+        - [Log in | ReClipped | Annotate and Analyse Videos](https://reclipped.com/login#)
+        - [https://video.twimg.com/ext\_tw\_video/1569146119367831553/pu/vid/720x840/\_z5EoljaV9yr6Z4k.mp4?tag=12](https://video.twimg.com/ext_tw_video/1569146119367831553/pu/vid/720x840/_z5EoljaV9yr6Z4k.mp4?tag=12)
+        - [New Tab](chrome://newtab/)
+        - [Git Better with Vim](https://nimbleind.gumroad.com/l/hsOVI)
+        - [Move the Active Vim Split | Revue](https://www.getrevue.co/profile/vim_tricks/issues/move-the-active-vim-split-1343906?via=twitter-card&client=DesktopWeb&element=issue-card)
+        - [THE 2022 OPPENHEIMER LECTURE: THE QUANTUM ORIGINS OF GRAVITY - YouTube](https://www.youtube.com/watch?v=-OkwGDKoY0o)
+        - [plugins Archives - VimTricks](https://vimtricks.com/p/tag/plugins/)
+        - [Edit multiple lines at once in Vim - VimTricks](https://vimtricks.com/p/edit-multiple-lines-at-once-in-vim/)
+        - [Bookmark frequent locations - VimTricks](https://vimtricks.com/p/bookmark-frequent-locations/)
+        - [Highlight syntax inside Markdown - VimTricks](https://vimtricks.com/p/highlight-syntax-inside-markdown/)
+        - [Preview Markdown files - VimTricks](https://vimtricks.com/p/preview-markdown-files/)
+        - [Quickly access project notes - VimTricks](https://vimtricks.com/p/quickly-access-project-notes/)
+        - [Copying and pasting lines - VimTricks](https://vimtricks.com/p/copying-and-pasting-lines/)
+        - [Highlight specific lines - VimTricks](https://vimtricks.com/p/highlight-specific-lines/)
+        - [Creating files and directories - VimTricks](https://vimtricks.com/p/creating-files-and-directories/)
+        - [Open URL under cursor - VimTricks](https://vimtricks.com/p/open-url-under-cursor/)
+        - [Navigating splits - VimTricks](https://vimtricks.com/p/navigating-splits/)
+        - [Autocomplete filenames - VimTricks](https://vimtricks.com/p/autocomplete-filenames/)
+        - [Word wrapping - VimTricks](https://vimtricks.com/p/word-wrapping/)
+        - [Open Vim and split files - VimTricks](https://vimtricks.com/p/open-vim-and-split-files/)
+        - [Open file in a split - VimTricks](https://vimtricks.com/p/open-file-in-a-split/)
+        - [Local .vimrc files - VimTricks](https://vimtricks.com/p/local-vimrc-files/)
+        - [Git Better with Vim - VimTricks](https://vimtricks.com/p/git-better-with-vim/)
+        - [Undo from Insert Mode - VimTricks](https://vimtricks.com/p/undo-from-insert-mode/)
+        - [Moving Lines - VimTricks](https://vimtricks.com/p/vimtrick-moving-lines/)
+        - [Time travel in Vim - VimTricks](https://vimtricks.com/p/vimtrick-time-travel-in-vim/)
+        - [Type less with abbreviations - VimTricks](https://vimtricks.com/p/vimtrick-type-less-with-abbreviations/)
+        - [Add a line above or below - VimTricks](https://vimtricks.com/p/vimtrick-add-a-line-above-or-below/)
+        - [Scroll two splits simultaneously - VimTricks](https://vimtricks.com/p/vimtrick-scroll-two-splits-simultaneously/)
+        - [divamgupta/diffusionbee-stable-diffusion-ui: Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+        - [在家教育（9）｜“五月花”的误解 – Eddy & Emma's Blog](https://eddyemma.com/blog/2022/09/11/homeschool-9-misunderstanding/)
+        - [shime/vim-livedown: Vim plugin for Livedown.](https://github.com/shime/vim-livedown)
+        - [Node.js](https://nodejs.org/en/)
+        - [vim browser let - Google Search](https://www.google.com/search?q=vim+browser+let&oq=vim+browser+let&aqs=chrome..69i57j0i512l2j0i22i30l7.9916j0j7&sourceid=chrome&ie=UTF-8)
+        - [localhost](http://localhost:1337/)
+        - [localhost](http://localhost:1337/)
+        - [Rigeng Net](https://rigeng.net/archive)
+        - [queen consort meaning - Google Search](https://www.google.com/search?q=queen+consort+meaning&sxsrf=ALiCzsaljvMz4c4_H8XBPtG44ayGtRglrw%3A1663004453228&ei=JW8fY-iaDearqtsPj6if0Ag&ved=0ahUKEwiowcat5o_6AhXmlWoFHQ_UB4oQ4dUDCA4&uact=5&oq=queen+consort+meaning&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEMQCEEYQ-QEyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjoKCAAQHhCiBBCwAzoICAAQogQQsAM6BQguEIAESgQIQRgBSgQIRhgAUKUSWIshYKwiaAFwAHgAgAGeA4gBpg6SAQcyLTQuMS4xmAEAoAEByAEDwAEB&sclient=gws-wiz)
+        - [vim plug email - Google Search](https://www.google.com/search?q=vim+plug+email&oq=vim+plug+email&aqs=chrome..69i57j0i22i30j0i390l2.6716j0j7&sourceid=chrome&ie=UTF-8)
+        - [Using Git from Vim | Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/Using_Git_from_Vim)
+        - [tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)
+        - [Creating a personal access token - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+        - [Personal access tokens](https://github.com/settings/tokens)
+        - [Latest Tweets / Twitter](https://twitter.com/home)
+        - [www.bbc.co.uk](https://www.bbc.co.uk/news/live/uk-62866826?at_custom2=twitter&at_medium=custom7&at_custom3=%40BBCBreaking&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=6314E74E-32CC-11ED-BD71-EB5C16F31EAE)
+    - [中共紅歌推手喬羽的秘密：《讓我們蕩起雙槳》的好聽是例外嗎？｜風物｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20220908-culture-qiao-yu-lyrics-and-the-nation/invite_token/EkKGZyQbnh/)
+    - [伍 (豆瓣)](https://movie.douban.com/subject/1401919/)
+        - 作为初学电影摄影者的练习，还是不错的。
+        - 固定机位，中远景构图。
+        - 非常小津安二郎
+- ---

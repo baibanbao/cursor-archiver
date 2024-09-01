@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 11:26
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **11:26** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[Youtuber]]
+    - [(1) 一个人怎么拍视频，需要专业团队吗？今天给大家分享一下我的视频如何创作 - YouTube](https://www.youtube.com/watch?v=1oVx7OyZ12Y)
+- [[Edit Later]]
+- [[写书]]
+- [[每天翻译一首诗]]
+- ---

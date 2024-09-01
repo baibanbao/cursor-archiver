@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWQ3YWJiMDEtMDBhNS00YjY1LTkzNmEtY2U4Njg4MjQ3YWE3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Ford]]
+        - Writer:: [[Frank S Nugent]] [[Alan Le May]]
+        - Cast:: [[John Wayne]] [[Jeffrey Hunter]] [[Vera Miles]]
+        - Year:: [[1956]]
+        - Genre:: #Adventure #Drama #Western
+    - **IMDb:** https://www.imdb.com/title/tt0049730
+    - **Plot Summary:** An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.

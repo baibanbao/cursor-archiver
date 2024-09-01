@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Jonathan Demme]]
+        - Writer:: [[Thomas Harris]] [[Ted Tally]]
+        - Cast:: [[Jodie Foster]] [[Anthony Hopkins]] [[Lawrence A. Bonney]]
+        - Year:: [[1991]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0102926
+    - **Plot Summary:** A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.

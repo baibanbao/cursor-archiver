@@ -1,0 +1,13 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Woody Allen]]
+        - Writer:: [[Woody Allen]] [[Marshall Brickman]]
+        - Cast:: [[Woody Allen]] [[Diane Keaton]] [[Tony Roberts]]
+        - Year:: [[1977]]
+        - Genre:: #Comedy #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0075686
+    - **Plot Summary:** Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.
+    - **Screenplay:**
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Foo65xEaRKC.pdf?alt=media&token=96c6e434-8523-41b3-b543-c222775444eb}}
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FAv_Q42y9zp.pdf?alt=media&token=30bc922c-650f-4a8c-8b2b-f8ff444b41ef}}

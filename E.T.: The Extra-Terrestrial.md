@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Melissa Mathison]]
+        - Cast:: [[Henry Thomas]] [[Drew Barrymore]] [[Peter Coyote]]
+        - Year:: [[1982]]
+        - Genre:: #Adventure #Family #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0083866
+    - **Plot Summary:** A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.

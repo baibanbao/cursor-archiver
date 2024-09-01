@@ -1,0 +1,18 @@
+- **Hilary Mantel**
+    - The Reith Lecture
+        - 要点摘录
+            - 小说由一个接一个小选择组成
+                - Every page in a novel is a result of hundreds of tiny choices, both linguistic and imaginative, made word by word, syllable by syllable. The historical novel requires an extra set of choices – what sources to consult, what shape to cut from the big picture -what to do when the evidence is missing or ambiguous or plain contradictory.
+            - 你不做就不知道自己的动机为何
+                - Intention evolves as a result of capacity. You don’t know what you’re doing, till you try to do it. As capacity increases, so does ambition. But when it comes getting the words on the page, you can only work breath by breath, line by line. And the line-by-line is what I will talk about in my fourth lecture.
+            - 要项目还是要命
+                - Susan Sontag said: ‘Somewhere along the line one has to choose between the Life and the Project.’ Stasia chose the Project. It killed her. Multiple causes of death were recorded, but actually she died of Robespierre. You don’t want to work like that, be like that. You hope your art will save you, not destroy you. But it’s a sad fact that bad art and good art feel remarkably the same, while they’re in process.
+            - 写作就是不断地成功与失败
+                - But: if you pinpoint any moment in an artist’s career, you will see the unfinished. Who is ready for completion? Who is ready for death? It takes us all by surprise - the pen poised, the potential unrealized, explanations wanting, an evaporation of effort into white space. With each line, each sentence, you succeed and fail, succeed and fail. A
+            - 完美主义要不得
+                - She was crippled by perfectionism. She lost the distance that enabled her to judge her work, and she didn’t have that pragmatic streak that says that compromise is not always dishonor. Detail matters. But there are other things that matter more: pace, grip, shape. An unperformable play or a half-finished novel is no use except as a stepping stone to a genuine communication.
+            - 写作并不疗伤
+                - She is also an awful warning. If anyone thinks writing is therapy - I beg them to look at this life.
+        - BBC Radio 4 - The Reith Lectures, Hilary Mantel, Adaptation
+        - 
+http://www.bbc.co.uk/programmes/b08x9947

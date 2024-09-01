@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Stuart Rosenberg]]
+        - Writer:: [[Donn Pearce]] [[Frank Pierson]] [[Hal Dresner]]
+        - Cast:: [[Paul Newman]] [[George Kennedy]] [[Strother Martin]]
+        - Year:: [[1967]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0061512
+    - **Plot Summary:** A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.

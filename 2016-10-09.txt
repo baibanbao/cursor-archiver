@@ -1,0 +1,15 @@
+---
+date: 2016-10-09 01:29
+status: public
+tag: 天下,地理,中国
+title: 耶鲁经济地图
+url: 2016-10-09-yale-g-econ
+---
+
+![](~/屏幕快照 2016-10-09 上午1.28.09.png)
+
+Yale大学有个很有趣的地理经济学（GEcon）的数据库：http://gecon.yale.edu  ，展示了一个国家每个地区经济水平分布图。
+
+可见世界上大多数国家发展都是不平等的。
+
+可以来这里看这个地图，非常有趣。[China | Geographically based Economic data (G-Econ)](http://gecon.yale.edu/china)

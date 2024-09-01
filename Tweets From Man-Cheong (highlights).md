@@ -1,0 +1,8 @@
+- Author:: [[@mctalkpe on Twitter]]
+- Full Title:: Tweets From Man-Cheong
+- URL:: https://twitter.com/mctalkpe
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 【新聞點評】中國打噴嚏 世界難退燒 https://t.co/dpJ6DGC4AL 身處首都的《環球時報》前總編輯胡錫進形容：「現在北京是震中，陽的速度真是驚人，我相信這裏見證的，肯定是新冠疫情爆發以來，全世界呈現的最猛烈的病毒傳播速度之一。」根據不同研究，發達國家國民平均每年服用約70至100粒撲熱息痛。 ([View Tweet](https://twitter.com/mctalkpe/status/1603492307831246848))
+    - 綜合而言，100-200萬是一般估算。 https://t.co/kR1ouHOQ3W ([View Tweet](https://twitter.com/mctalkpe/status/1603792346424172544))

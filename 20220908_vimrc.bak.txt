@@ -1,0 +1,284 @@
+﻿let g:smartim_default = 'com.apple.keylayout.ABC'
+set guifont=Menlo:h32
+
+
+let g:wiki_root = '~/Dropbox/wiki' 
+"为wiki.vim建立一个目录
+
+set nocompatible
+filetype plugin on
+syntax on
+
+call plug#begin('~/.vim/plugged')
+
+
+ Plug 'ybian/smartim'
+"这个插件是为了解决中文输入法输入状态下，esc进入normal模式
+"由于我的设置，只需要按ctrl+c，就可以达到esc一样的效果
+
+ 
+Plug 'mrpeterlee/VimWordpress'
+" 这个插件是发博客用的，发到wangpei.net
+" wordpress blogging 插件
+" 使用方法
+" Create a ~/.vimpressrc file, and put the following in it
+" [Blog0]
+" blog_url = https://yoursite.com/ 
+" username = your_user_name
+" password = your_password
+
+Plug 'kblin/vim-fountain'
+" 这个是fountain格式剧本编辑插件
+" 从今后可以用vim写剧本吧
+
+Plug 'twitvim/twitvim'
+" twitter插件，设置起来挺复杂的，
+" 亲测有效，我又喜欢上发推了，当然是经过protected的
+
+Plug 'swordguin/vim-veil'
+" 一键遮挡正在写的内容
+" 需要设置快捷键
+" 只对特定scheme有效，对于我现在的主题来说，不适用
+" nmap <F12> <Plug>Veil
+
+" 如果有问题，把下面的注释掉，从这条线开始
+" ——————————————————————————
+
+  Plug 'reedes/vim-pencil' " Super-powered writing things
+  Plug 'tpope/vim-abolish' " Fancy abbreviation replacements
+  Plug 'junegunn/limelight.vim' " Highlights only active paragraph
+  Plug 'junegunn/goyo.vim' " Full screen writing mode
+  Plug 'reedes/vim-lexical' " Better spellcheck mappings
+  Plug 'reedes/vim-litecorrect' " Better autocorrections
+  Plug 'reedes/vim-textobj-sentence' " Treat sentences as text objects  
+  Plug 'reedes/vim-wordy' " Weasel words and passive voice
+
+ 
+" 到下面这条线结束
+" ——————————————————————————
+
+Plug 'lervag/wiki.vim'
+" 建立wiki
+" 安装是为了配合wiki roam插件
+" 没试成功
+
+Plug 'skywind3000/asyncrun.vim'
+Plug 'samgriesemer/vim-roam'
+" 不要紧张，不要不认识，这两个插件都是为了模仿Roam Research的wiki roam
+
+" Plug 'itspriddle/vim-marked'
+" 改善读写文档的视觉效果
+" 源文件修改过
+" 不更新
+
+" Plug 'junegunn/goyo.vim', {'frozen': 1}
+" 提供折叠,快速跳转,代码高亮
+
+" Plug 'preservim/vim-markdown', {'for': ['md', 'markdown']}
+" 忘记做什么用的了
+
+"Plug 'hotoo/pangu.vim', {'for': ['txt', 'markdown'], 'frozen': 1}
+Plug 'hotoo/pangu.vim'
+" 中文重排
+" 对于在Vim中使用英文符号写东西很有用
+" 有时需要运行两次才能排好
+" 源文件修改过
+" 不更新
+
+Plug 'jiangmiao/auto-pairs'
+" 成对符号自动匹配
+" 输入右侧符号即可跳出
+
+Plug 'powerline/powerline', {'rtp': 'powerline/bindings/vim/', 'frozen': 1}
+" Powerline,提供状态栏的视觉效果
+" 因为在下文中设置了字符宽度=double,右下角的显示会有断裂
+" 源文件修改过
+" 不更新
+
+Plug 'godlygeek/tabular'
+" 使用:Tab来对齐文本
+
+Plug 'preservim/vim-markdown', {'for': ['md', 'markdown']}
+" 提供折叠,快速跳转,代码高亮
+
+
+" Plug 'preservim/nerdtree'"
+"  { 'on':  'NERDTreeToggle' }
+" Plug 'Xuyuanp/nerdtree-git-plugin'" 添加左侧窗口
+" 显示目录树
+" 显示git信息
+
+
+" 为NERDTree提供devicons支持
+Plug 'ryanoasis/vim-devicons'
+" 显示纵向线条
+" 帮助python之类语言对齐
+" 也能帮助排版
+
+" Plug 'Yggdroot/indentLine'
+" 检验当前文件和git库中的差异状况
+" 在左侧的SignColumn中显示
+
+" Plug 'mhinz/vim-signify'
+
+" 快速移动
+" 类似Chrome上的Vimium插件
+
+Plug 'easymotion/vim-easymotion'
+
+call plug#end()        
+
+
+map <Left> <Nop>
+map <Right> <Nop>
+map <Up> <Nop>
+map <Down> <Nop>
+
+imap <Left> <Nop>
+imap <Right> <Nop>
+imap <Up> <Nop>
+imap <Down> <Nop>
+
+" ctrl-c 映射到 esc
+inoremap <C-c> <esc>
+
+" 设置<leader>为空格<SPACE>
+let mapleader = "\<SPACE>"
+
+" 设置使用BACKSPACE删除内容
+"set backspace=indent,eol,start
+
+" 中文折行时不自动添加空格
+set formatoptions+=mM
+
+
+" 记录历史
+set history=1000
+
+" 设置Tab为4个字符长度
+set tabstop=4
+set shiftwidth=4
+
+" 使系统剪贴板寄存器*和Vim默认匿名寄存器""同值
+" 即Vim和系统共用剪贴板
+set clipboard^=unnamed
+
+" 在Normal模式下
+" 使用oo在下方插入一行
+" 使用OO在上方插入一行
+" 使用ss分割当前行
+nnoremap oo o<ESC>j
+nnoremap OO O<ESC>j
+nnoremap ss i<CR><ESC>0
+
+" Normal模式下用BACKSPACE替代gg
+" 不要用<CR>代替G
+" 会影响使用command-mode
+"nnoremap <BS> gg
+
+" 方便写比较长的中文
+" 没有行号时光标按虚拟行移动
+" 有行号的行光标按物理行移动
+noremap <expr> j (v:count == 0 ? 'gj' : 'j')
+noremap <expr> k (v:count == 0 ? 'gk' : 'k')
+nnoremap ^ g^
+" 记录修改历史
+" 重新打开文件后依然可以undo
+" 偶而看看这个文件夹的体积
+" 也许可以用undotree插件来管理undo历史
+" 结尾的//表示生成的文件名带有绝对路径
+" 路径中用%替换目录分隔符
+" 以防止文件重名
+set undofile
+set undodir=$VIMFILES/undo//
+set undolevels=1000
+" 显示CursorLine
+" 让当前行的行号可以Highlight
+"set cursorline
+
+"  显示行号
+"  当前行显示绝对行号
+"  其他行显示相对行号
+"  对于跳转选择很好用
+set number
+"set relativenumber
+" 设置使用BACKSPACE删除内容
+"set backspace=indent,eol,start
+
+" 滚动时当前行与底边的距离
+set scrolloff=5
+" 更聪明的大小写判断
+" 小写字母会匹配小写和大写
+" 大写字母只匹配大写
+set ignorecase
+set smartcase
+
+" 处理文本中的乱码
+" encoding是Vim内部使用的字符编码
+" fileencoding是Vim中当前编辑的文件的字符编码
+" Vim保存也采用fileencoding
+" fileencodings是Vim启动时探测文件的字符编码
+" 并将fileencoding设置为最终探测到的字符编码
+set encoding=utf-8
+set fileencodings=utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
+set fileencoding=utf-8
+
+" 背景使用深色
+" 现有的配色全在此基础上
+set background=dark
+
+" 语法高亮
+syntax enable
+syntax on
+
+" easymotion ----------------------------------------------------------------------
+" Define a shortcut key for easymotion
+" I have learnt this from a youtuber
+" https://youtu.be/oYatICcvW8Y?t=233
+" Let me immitate him
+" nmap m <Plug>(easymotion-s2)
+" 查找一个字符
+"map  <Leader>i <Plug>(easymotion-bd-f)
+"nmap <Leader>i <Plug>(easymotion-overwin-f)
+
+" 查找任意长度字符串
+" 好像比默认的"/"还方便
+"nmap <leader>s <Plug>(easymotion-sn)
+
+" 跳到任意行
+"omap <C-L> <Plug>(easymotion-bd-jk)
+"nmap <C-L> <Plug>(easymotion-overwin-line)
+
+" 2022-09-08这一行是新加的
+" 快速遮蔽屏幕内容
+" 配合插件'swordguin/vim-veil'
+nmap <F12> <Plug>Veil
+
+" 跳到任意单词
+"omap <Leader>w <Plug>(easymotion-bd-w)
+"nmap <Leader>w <Plug>(easymotion-overwin-w)
+
+" 单方向标记可以跳转的位置
+"map <Leader>l <Plug>(easymotion-lineforward)
+"map <Leader>j <Plug>(easymotion-j)
+"map <Leader>k <Plug>(easymotion-k)
+"map <Leader>h <Plug>(easymotion-linebackward)
+
+" 以当前光标所在列为标记基准
+"let g:EasyMotion_startofline = 0
+
+" 更聪明的大小写判断
+" 小写字母会匹配小写和大写
+" 大写字母只匹配大写
+"let g:EasyMotion_smartcase = 1
+
+" 格式对齐
+set smartindent
+
+" 自动跳转到上次退出的位置
+" 方便继续编辑
+if has("autocmd")
+    au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+endif
+
+

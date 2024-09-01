@@ -1,0 +1,66 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[March 9th, 2021]]
+- Welcome to Letter XIV fellow Roamans,
+Well another two weeks have flown by, and the pace of innovation in the world of Roam just seems to be getting faster, and faster!
+- It's almost an academic special, but even if you're not using Roam in an academic setting, you should still get a lot out of this letter.
+- # Around the Roaman Empire
+    - ## Zotero + Roam
+        - For academically-oriented Roamans, rejoice because Alix Lahuec should be publicly releasing her amazing extension to integrate Zotero with Roam very shortly. You can [check out this thread](https://twitter.com/AlixLahuec/status/1364040205381099524?s=20) explaining the features, and hopefully where she'll announce the final release.
+        - https://twitter.com/alixlahuec/status/1364040205381099524?s=12 #LFR #[[LFR/Letter XIV]]
+    - ## Enhanced PDF Highlighter
+        - If working with annotated PDFs is a big part of your workflow, then you should take a look at [C3Founder](https://twitter.com/cococ_rr) and the [HungriestHippo's](https://twitter.com/hungriesthippo1) PDF extension for Roam to make it easy to highlight and extract the text from PDFs within Roam.
+
+Check out the comprehensive YouTube video showing the workflow and how to get started installing it into your own graph.
+            - https://twitter.com/cococ_rr/status/1366654227506991105?s=12 #LFR #[[LFR/Letter XIV]]
+    - ## Pyroam
+        - [[Adam Křivka]] is another Roaman on fire at the moment. Not content with continued improvements to his spaced repetition extension, he's also knocking out killer extensions like this. You can now have Python notebooks within Roam! This means you can write python code in the code blocks in Roam, and execute it, returning results in Roam itself.
+            - https://twitter.com/adam_krivka/status/1367876937025286145?s=20 #LFR #[[LFR/Letter XIV]]
+    - ## #[[Roam Games]]
+        - ### Fanout
+            - [An awesome submission](https://www.loom.com/share/b26a984000da43cca1fff16c840ad204) for [[Roam Games]] from [[David Vargas]] for tracking who inspired or built off who and making the management of the payment system simple.
+                - https://twitter.com/dvargas92495/status/1365396510259744769?s=12 #LFR
+        - ### Excalidraw Integration
+            - [[Zsolt Viczián]] is beginning to make quite a name for himself, but now he has really outdone himself by creating a mind-blowing integration of [Excalidraw](https://excalidraw.com/) into Roam. [Check out this teaser video](https://www.youtube.com/watch?v=dkaGta_exSU) while we wait for the release later this week.
+                - https://twitter.com/zsviczian/status/1368270914471813120?s=12 #LFR #[[LFR/Letter XIV]]
+            - It's also safe to say that [[Conor White-Sullivan]] was also blown away by this, he has awarded Zsolt $6000 as a prize from the first Roam Games challenge, with another $2000 to distribute to ancestors and $2000 to distribute to any others who build on this further!
+                - https://twitter.com/conaw/status/1368625081438498817?s=12 #LFR #[[LFR/Letter XIV]]
+        - You may recall from [[LFR/Letter XII]] [[Stian Håklev]]'s Roam/Inter winning submission, in a bombshell today [[Conor White-Sullivan]] [announced he'll be working at Roam from Monday](https://twitter.com/Conaw/status/1369265514820767751?s=20). Congratulations to both Stian and the Roam team. I, for one, am really excited to see this. I hope it means that Roam/Inter will be coming as a Roam primitive soon and bring us one step closer to Roam's ultimate vision.
+    - ## Hangman in Roam Portal
+        - Not one to rest on his laurels either, [[Dharam Kapila]] continues to improve Roam Portal, adding support to look at the reaction emojis, which is especially useful in multiplayer Roam graphs like [[Roam Book Club]] and for the real power-users, the ability to search using regular-expressions is super-helpful!
+            - https://twitter.com/dharamkapila/status/1360339708077875202?s=12 #LFR #[[LFR/Letter XIV]]
+            - But it's not all about work! Sometimes you just need to kick back from your graph. When you need a break, why not try a game of hangman. That's right, [Dharam has added hangman to turn your blocks and pages into clues for the game](https://twitter.com/dharamkapila/status/1365770303285125121).
+                - https://twitter.com/dharamkapila/status/1365770303285125121?s=12 #LFR #[[LFR/Letter XIV]]
+- # Roaman Spotlight
+    - I'm delighted to put [[Abhay Prasanna]] in the Roaman Spotlight this week. I've mentioned him several times in previous newsletters for his amazing contributions to the Roam eco-system but he's often found quietly helping others get to grips with Roam. He was nominated by several Roamans, but I think [[Beau Haan]] [articulated it best in his tweet](https://twitter.com/beauhaan/status/1356689010673000448):
+        - > Abhay's consistent presence and generous spirit always has a hand out for anyone that needs help with Roam, CSS or anything really!
+            - https://twitter.com/beauhaan/status/1356689010673000448?s=20 [[LFR]] [[Roaman Spotlight]] on [[Abhay Prasanna]]
+        - And if that's not worth celebrating, I don't know what is!
+    - [[What do you use Roam for?]]
+        - I use Roam as a daily note-taking app, but also more fundamentally as a platform on which to learn how to use CSS and Javascript to take workflows from my imagination to reality (e.g., Rainbow indents, Kanban Daily agenda, An "I'm feeling lucky" button roam/js, etc. - you can find all of these on [my Github page](https://github.com/abhayprasanna/abhayprasanna.github.io/)
+        - As my second brain, Roam has notes and insights from things I've read, watched and listened to, and also my own writing whether through journaling or through conversations.
+    - [[What has Roam taught you?]]
+        - To value and be grateful for effortlessness - the fact that salience emerges so naturally around using Roam and the "Why" of investing time in tending to my graph is something unprecedented for me.
+        - That I have much more to offer than I previously thought - Roam has broadened the horizons of what I am capable of and where my interests might go.
+    - [[What attracted you to Roam?]]
+        - I was intrigued by a particular sphere of Twitter showing interest in Roam and checked it out - I loved the simplicity combined with the extensibility. And when I grokked how it approaches transclusion, I was sold.
+    - [[What’s your favourite feature of Roam?]]
+        - Definitely Unlinked References - makes me so much more relaxed about how I name stuff or whether or not I should tag something. I know I can always get to it later.
+    - [[What do you hope to see in the future?]]
+        - I'd like to see much more integration with the rest of the web - to see insights in relation to the contents of my graph but mapping to external knowledge sources and current events.
+    - [[Tell us one interesting thing about you]]
+        - My first job out of university was an oil field engineer and I spent a year of my life in the Thar desert of India running completions on oil rigs - fun times!
+    - You can follow Abhay on Twitter [@AbhayPrasanna](https://twitter.com/AbhayPrasanna), or find him hanging out in the Roam Slack group helping others and you can find his work on [Github](https://github.com/abhayprasanna/abhayprasanna.github.io/)
+- # Thinking Out Loud
+    - The first [[Roam Summit]] was well worth attending. If you missed it, you can watch the replay on [YouTube](https://www.youtube.com/watch?v=47A0gK7Vo8E) and read the notes in the [Roam Summit graph](https://roamresearch.com/#/app/roam-summit/page/R9k3mhVbY).
+        - {{[[video]]: https://www.youtube.com/watch?v=47A0gK7Vo8E}}
+            - There was a lot of great information shared and discussed, and I learned a new trick from [[Robert Haisfield]] who showed everyone a workflow for how you can [promote a block to a page](https://www.youtube.com/watch?v=47A0gK7Vo8E&t=3145s).
+    - The next session will be a live Q&A with [[Luca Dellanna]] about Roam Books on [[March 13th, 2021]] at 2pm ET. Find out more at [roamsummit.com](https://roamsummit.com).
+    - On Twitter and Clubhouse, there have been some interesting discussions of late, and in particular, a [thread](https://twitter.com/roamhacker/status/1364296274468614151) by [[Roamhacker]] thinking about the metaphor of graphs as cities.
+        - [[Lisa-Marie Cabrelli]] has released a [four-part videos series](https://www.youtube.com/watch?v=hGzTuIPXv7I) on it as well as one about [how to build processes for output in Roam](https://www.youtube.com/watch?v=I6JDoGqbY78).
+            - https://twitter.com/laptoplifelisa/status/1368523822777909268?s=12 #LFR #[[LFR/Letter XIV]]
+            - Somehow, she also found time to release her first Roam for Results course, [Magical Academic Note-taking](https://roam-for-results.teachable.com/p/magical-academic-note-taking?affcode=758261_iy-rxe5y). She gave me a sneak peek into the shared graph when we chatted a few weeks ago (which you can read more about in [[LFR/Letter XIII]]) and I was seriously impressed.
+                - Note that [[Lisa-Marie Cabrelli]] kindly set me up with an affiliate link, so should you buy the course I will get a small commission which will go towards supporting the costs of providing this newsletter.
+                    - I didn't set out with any goals to monetise this newsletter, I started out using it as a vehicle to learn more about email automation for my day job and learning to write more clearly.
+                        - It's also my way of giving something back to the community and helps to bring more like-minded people together. It takes up quite a lot of time to keep up to date, curate and write them, and now with its growing popularity, it costs me real money each month in ConvertKit fees.
+                            - If you find my work valuable and would like to help support me with the running costs, I've also signed up to [BuyMeaCoffee](https://www.buymeacoffee.com/elaptics).

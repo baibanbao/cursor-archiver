@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Peter Jackson]]
+        - Writer:: [[Fran Walsh]] [[Philippa Boyens]] [[Peter Jackson]]
+        - Cast:: [[Naomi Watts]] [[Jack Black]] [[Adrien Brody]]
+        - Year:: [[2005]]
+        - Genre:: #Action #Adventure #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0360717
+    - **Plot Summary:** A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FOJIJeNZ6oO.pdf?alt=media&token=5d4bad27-8ee3-4c84-9c17-ad93536f390e}}

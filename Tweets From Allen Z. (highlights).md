@@ -1,0 +1,9 @@
+- Author:: [[@allen9574 on Twitter]]
+- Full Title:: Tweets From Allen Z.
+- URL:: https://twitter.com/allen9574
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - @baibanbaonet @supercali2023 刚看了Mina的分享，有很多我深有同感。比如都是在美国、都是被疫情冲击了三观改变了生活，有机会我也想把我的见证写成文字。可能这就是神的安排吧，把我呼唤到他身边！ ([View Tweet](https://twitter.com/allen9574/status/1730124569086718343))
+- ### New highlights added [[December 2nd, 2023]] at 6:33 PM
+    - @baibanbaonet 第一本书的内容有点像“成功神学”或者叫prosperity gospel，完全是对神的话语的误读。美国和韩国有很多所谓的牧师都信奉这一套，“祈祷能让你变的有钱” ([View Tweet](https://twitter.com/allen9574/status/1730894336135446681))

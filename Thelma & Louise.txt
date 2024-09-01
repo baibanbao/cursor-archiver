@@ -1,0 +1,11 @@
+- 
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ridley Scott]]
+        - Writer:: [[Callie Khouri]]
+        - Cast:: [[Susan Sarandon]] [[Geena Davis]] [[Harvey Keitel]]
+        - Year:: [[1991]]
+        - Genre:: #Adventure #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0103074
+    - **Plot Summary:** Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two girls escape for the crimes they committed.

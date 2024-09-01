@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ted Kotcheff]]
+        - Writer:: [[David Morrell]] [[Michael Kozoll]] [[William Sackheim]]
+        - Cast:: [[Sylvester Stallone]] [[Brian Dennehy]] [[Richard Crenna]]
+        - Year:: [[1982]]
+        - Genre:: #Action #Adventure #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0083944
+    - **Plot Summary:** A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FE8d6vVU4W4.pdf?alt=media&token=9a0e0f19-9b0c-46f4-b2d3-d0e550199b03}}

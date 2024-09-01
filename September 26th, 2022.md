@@ -1,0 +1,166 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - commendation
+        - thanksgiving
+        - 为[[叶振]]祷告
+        - 为[[May]]祷告，感恩她寄来陕北南瓜
+        - 为[[蓝风]]祷告，祈求主让她看到真理，就信了。
+        - 为#[[SLBC]]祷告
+        - 为#[[haozhongwen]]祷告
+            - 为学员祷告
+                - [[飞飞]]
+                - [[密码]]
+                - [[小山]]
+        - 为[[寻常山房]]里的几位朋友祷告
+            - [[叶骥]]、[[长安]]、[[洪帮主]]
+        - 为中国的掌权者祷告
+        - 为伊朗人民祷告
+        - 为乌克兰人民祷告
+        - 方言祷告
+            - {{[[POMO]]: 5}}
+- [[Day Start]] 08:58
+- Daily Tasks
+    - {{[[DONE]]}} 做核酸
+        - {{[[DONE]]}} 接娃早到半小时，在学校旁核酸亭做
+    - {{[[DONE]]}} 接送 #[[Jonas]]
+    - {{[[TODO]]}} 写一篇blog
+    - {{[[DONE]]}} 按时吃药
+        - {{[[DONE]]}} 早
+        - {{[[DONE]]}} 晚
+        - {{[[TODO]]}} 睡前
+    - {{[[DONE]]}} 走路10000步 #[[康健]]
+        - {{[[DONE]]}} 节制饮食
+    - {{[[DONE]]}} 带领[[长安]]恢复 [[rigeng100.com]] #日更
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - [[科技节]]参赛事宜  #[[Jonas]] #[[倪老师]]
+            - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FqGU2YUUgkN.bcm4.zip?alt=media&token=d74c8238-fb50-4e2d-b45e-3c74e7f1cf39
+            - 元澄妈妈，周一早。特别不好意思，周一上班时间打扰您。有个好消息通知您，元澄的小博士学习系统进入了上海市赛复杯的复赛，需要参加10月7日的线上答辩。我等下把元澄的市级编号告诉您，您先按要求在9月28日的20点前加一下qq群，验证内容就是市级编号+姓名，进群后修改群昵称：评审场次+市级编号+姓名+手机号码。手机号码用于活动当日联系
+                - [[September 28th, 2022]] 20点前加qq群
+                    - 群公告
+                        - 同学你好！
+                        - 你已进入第十三届创意设计评选活动C组QQ群。请在此核验以下注意事项：
+                        - 1、QQ群昵称为评审场次+市级编号+姓名+手机号码（例如：第一场 A001 张三 12345678912）。
+                        - 2、10月6日13:30-15:30为腾讯会议软件测试时间，腾讯会议号为******。请关注群内提示，在指定时间进入对应腾讯会议等候室候场（进入前请修改入会姓名为：市级编号+姓名，例如：C001 张三。若集体项目共用一个账号加入会议，则可修改入会姓名为：市级编号+所有作者姓名，例如：C001 张三李四）。
+                        - 3、进场后请直接开启摄像头、音频和麦克风，清晰展示身份证件（学籍卡或户口本等均可），姓名+照片的一面面对摄像头，进行身份核验。
+                        - 4、核验无误后，可通过屏幕共享的形式展示PPT或演示文件，各位同学可测试是否能顺利播放文件。
+                        - 收起
+                    - 验证内容就是市级编号+姓名
+                        - C039王元澄
+                    - 进群后修改群昵称：评审场次+市级编号+姓名+手机号码。
+                        - 第3场 C039 王元澄 18658168807
+            - 正式答辩这天是在腾讯会议室，10月6日的下午还需要参加一个腾讯会议软件的测试环节，具体顺序安排会有老师在qq群通知你们
+                - [[October 6th, 2022]] 下午测试腾讯会议
+                - [[October 7th, 2022]] 线上答辩
+            - 关于元澄的这个项目，我也有了一些新的想法，今晚和您联系，咱们详细说一下。您看几点方便呢？
+                - [[September 26th, 2022]]今晚电话会议详细谈
+                    - {{[[TODO]]}} 19:30以后
+            - 今年黄浦区共11个项目进入了赛复杯的上海市复赛
+            - 元澄的市编号是C039，组别C组第3场，qq群报道时间是12:30 #[[Jonas]] #[[Important]]
+                - 这个qq群报道时间，等你们加入qq群后，可以问一下老师是指哪一天的报道时间
+            - 复评形式
+                - 文本版
+                    - 4、复评形式：分组进行创意作品展示和互动答辦。
+                    - 1）报到：请评审当天提前半小时至QQ群内报到，并关注群内公告提示，进入对应腾讯会议等候室候场(进入前请修改入会姓名为：市級編号＋姓名，例如：A001 张三。若集体项目共用一个账号加入会议，则可修饮入会姓名为：市
+                    - 級編号＋所有作者姓名，例如：4001 张三李四）。进场后请直接开启摄像头，清晰展示身份证件（学籍卡或户口本等均可)，姓名＋照片的一面面对摄像头，进行身份核验。
+                    - （2） 展示：介绍自己的创意项目，展示时间在 5 分钟以内。展示过程中可以通过“共享屏幕” 展示 PPT 或演示文件，也可以通过摄像头展示实物模型或进行现场演示。
+                    - （3）答辩：项目介绍后，专家评委将进行提问或对项目提出修改建议，项目作者可与专家评委进行充分互动，时间在3-5分钟以内。该环节要求学生职消屏幕共享，露脸互动。
+                    - 5、复评结果：
+                    - 复评结果将于 10 月12日之前在上海学生活动网(www.seesa.Cn）上公布。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F-MZOpSJlYt.png?alt=media&token=dd7878cc-f3b6-48f4-bae5-05d8771e58cb)
+            - 参赛名单
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FDuAm0X29j_.png?alt=media&token=57309760-6ebf-49fe-933c-e30d4bd9ab3e)
+        - [[王汉朋]]驻村第一书记寄语
+            - 我的建议
+                - 改事迹
+                - 弄寄语
+            - 《山东第一书记寄语党的二十大》画册照片征集通知
+            - 目前省委宣传部正在制作《山东第一书记寄语党的二十大》画册，请各区派第一书记按要求提供工作照片（4张以上）和文字材料。
+            - 工作照片要求如下：
+            - 1.尺寸要求：横版图片整体宽度要≥3000像素，竖版图片整体高度要≥3000像素，整体分辨率不低于300像素为最佳。
+            - 2.图片格式：图片要求为JPG、JPEG、BMP、PNG格式。
+            - 3.图片大小：不小于2MB，不大于20MB。
+            - 4.画面要求：要求为彩色，画面清晰，颜色亮丽，构图简单。避免出现主角只有后脑勺或者只有侧脸，一张照片内人物不要过多；背景尽量避免出现杂乱堆放物品、政治人物形象等。
+            - 文字材料要求如下：
+            - 1.	照片描述（时间、地点、人物、事件）。
+            - 2.	您的寄语。例句如下（请勿直接使用）：
+            - ①在党的二十大即将召开之际，我将践行帮扶到村初心，为群众中过上幸福生活动起来、做好事，为推动乡村振兴做出贡献，向党的二十大献礼。
+            - ②在党的二十大召开之际，我一定时刻牢记习近平总书记的嘱托，扎根土地、心向人民，不惧风雨、同舟共行，在农村广阔土地上挥洒青春汗水，以优异成绩迎接党的二十大胜利召开！
+            - ③坚持问需、问计、问效于民，自觉以人民为镜、拜群众为师，始终和群众想在一起、干在一起。努力打造乡村振兴齐鲁样板，以优异成绩迎接党的二十大胜利召开！
+            - ④用脚步丈量农村大地，用实干书写奋斗人生，献礼二十大，勇当追梦人！
+            - ⑤把青春献给乡村，让梦想扎根土地，我将始终践行初心使命，为乡村振兴添砖加瓦，向党的二十大献礼。
+            - ⑥在党的二十大即将召开之际，我将“不忘初心、牢记使命”；扎根基层，奉献青春；为打造乡村振兴齐鲁样板贡献力量，向党的二十大献礼！
+            - 3.	200-300字个人主要工作事迹、案例。
+            - 
+        - Ex: [[X - Curate]]
+            - **13:50** - {{[[POMO]]: 10}}
+                -  Completed a review of 10 journal articles
+                - 梳理我现在的域名花费
+                    - 目前最有价值的域名
+                        - haozhongwen.com
+                        - rigeng100.com
+                        - jonaswang.com
+                        - storywritingcamp.com
+                        - peiseven.com
+                        - zhengbanyuwen.com
+                        - wangpei.net
+                        - rigeng.net
+                        - movie.camp
+                        - kjv.life
+                    - 又贵又没用的域名
+                        - mc.camp
+                        - 元中文的相关域名
+                        - 一时冲动注册的域名
+                            - 例如： onepager
+                        - 非常小众，别人不可能记得住的域名
+                            - `.camp` `.xyz` `.life`
+                                - ‘kjv.life’ 不如 `kjvlife.com`
+                    - 待开发利用的域名
+                        - wangpei.org
+                        - baibanbao.org
+                        - jonas.wang
+                            - 目前指向他的youtube频道
+                            - 不如指向一个精致一点的网站
+- [[Daily Reading]]
+    - [[[[Inkdrop]]]]的高级使用技巧，需要日后研究
+        - [How to integrate an Astro site with Inkdrop | by Takuya Matsuyama | Sep, 2022 | Dev as Life](https://blog.inkdrop.app/how-to-create-a-blog-and-write-articles-in-inkdrop-d9b8388f12e3)
+    - [[Hugo]]自动发布的问题
+        - [Install Hugo | Hugo](https://gohugo.io/getting-started/installing/#macos)
+        - [Quick Start | Hugo](https://gohugo.io/getting-started/quick-start/)
+        - [localhost](http://localhost:1313/)
+        - [Hugo Documentation | Hugo](https://gohugo.io/documentation/)
+        - [peaceiris/actions-hugo: GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.](https://github.com/peaceiris/actions-hugo)
+        - [Host on GitHub | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+        - [A Github Actions Workflow to Generate & Publish your Hugo Website | by Pete Smith | Zendesk Engineering](https://zendesk.engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7)
+        - [Create a Hugo Website with GitHub Pages, GitHub Actions, and Cloudflare](https://schnerring.net/blog/create-a-hugo-website-with-github-pages-github-actions-and-cloudflare/)
+        - [Hugo: Deploy Static Site using GitHub Actions](https://ruddra.com/hugo-deploy-static-page-using-github-actions/)
+    - [[最远最绕的路常常是回家最近的那条路]] #[[haozhongwen]]
+        - 不要再折腾了，就用现在的办法更新 [[haozhongwen.com]] #Tech
+            - 在[[InkDrop]]里写 #[[Important]]
+            - 导出Markdown到 `~/quickstart/content/posts/`
+            - 启动 `hugo server` 
+                - 访问 `localhost:1313` 实时查看
+                    - 启动 `hugo` 生成静态网站
+            - 本地copy
+                - 把 `~/quickstart/public/` 中所有都 copy 到 `~/Documents/hugo/` 覆盖
+            - 启动app `GitHub Desktop`，完成git commit
+                - 也可以用`terminal`，但是没有必要
+            - 最难的是写作，发布不难。 #[[Edit Later]]
+                - meta翻译成元，对不对 #[[Translate]]
+                    - 元宇宙，其实应该是 表宇宙
+- ---
+- [[Daily Thoughts]]
+    - 遇到很难的问题，先休息，不要急于下结论，也不要急于采取行动，出去走一圈，回来也许就有灵感。
+    - 如果不是借助威敏信条，我真的不知道神的恩典临到我了。
+        - 我越来越喜欢[[林慈信]]的改革宗讲道，也许几年后我会转会到一间[[长老会]]的教会
+- [[Daily Accomplishments]]
+    - [[haozhongwen.com]]后台[[Hugo]]的更新方法，固定了流程。
+    - 帮助[[长安]]完成了日更的准备
+    - 虽然晚上有事，但22:00出门，依然在细雨中完成了13000步。
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+    - #[[Jonas]]的[[科技节]]参赛
+    - [[rigeng100.com]]的准备

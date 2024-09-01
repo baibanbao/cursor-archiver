@@ -1,0 +1,6 @@
+- Author:: [[Jeff Bezos]]
+- Full Title:: No Thank You, Mr. Pecker
+- Category:: #articles
+- URL:: https://medium.com/p/146e3922310f
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - (Even though The Post is a complexifier for me, I do not at all regret my investment. The Post is a critical institution with a critical mission. My stewardship of The Post and my support of its mission, which will remain unswerving, is something I will be most proud of when I’m 90 and reviewing my life, if I’m lucky enough to live that long, regardless of any complexities it creates for me.)

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[James Cameron]]
+        - Writer:: [[James Cameron]]
+        - Cast:: [[Leonardo DiCaprio]] [[Kate Winslet]] [[Billy Zane]]
+        - Year:: [[1997]]
+        - Genre:: #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0120338
+    - **Plot Summary:** A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F8ltc7AFlf0.pdf?alt=media&token=5c6572f8-049d-42cb-88e9-4393740945a9}}

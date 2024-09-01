@@ -1,0 +1,147 @@
+# The ONE ChatGPT Prompt to Rule Them All 👑
+
+Summary
+
+1. Craft perfect prompts for GPT with chat help
+2. Iteratively improve prompts with assistance
+3. Prompts: "Learn the basics of SEO for beginners with this informative article", "Learn SEO basics to boost your coaching business", "Improve website SEO for health coaches"
+4. Plus version of Chat GPT writes articles quickly and reliably with H1 and H2 titles for easier SEO
+5. Join free community and subscribe for more helpful prompts
+6. Check out Chat GPT School
+7. Master chat GPT for max productivity and get 50% off before 3/13.
+
+<iframe id="player" class="flex-none hidden sm:block sm:h-[128px] sm:w-[288px]" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="The ONE ChatGPT Prompt to Rule Them All 👑" width="288" height="128" src="https://www.youtube.com/embed/OgYQAS9LY3o?playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Freccap.it&amp;widgetid=1" style="--tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:#3b82f680; --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: border-box; border: 0px solid rgb(229, 231, 235); display: block; vertical-align: middle; flex: 0 0 auto; height: 128px; width: 288px;"></iframe>
+
+1 x
+
+
+
+
+
+
+
+
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/00-00.webp)
+
+←→
+
+Main point
+
+Great prompts = amazing chat GPT output 🚀💡
+
+Full script
+
+Hi, Jason, here now, using chat GPT is all about the prompts. The power is in the prompts. The better the prompt, the better the output the chat GPT can give you. So what about having chat GPT make your prompts for you so that they're absolutely brilliant and give you an outstanding output? Well, this prompt that I'm going to show you now I have to get full credit for to this gentleman here, Brett Littlefield, who is in my chat GPT users community, and there's a link underneath this video.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/00-32.webp)
+
+←→
+
+Main point
+
+Craft perfect prompt for GPT with chat help 🤖💬
+
+Full script
+
+If you would like to join that Community, it's totally free and you get cool stuff like this: people putting in really good recommendations for proms. Now what? What is it? Well, basically, it's a prompt that will get chat GPT to ask you the right questions to create a prompt for you that is then perfect for it to produce good results. So here it is. I want you to to become my prompt engineer. I'll zoom in a little bit here. There you go. Your goal is to help me craft the best possible prompt for my needs.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/01-07.webp)
+
+←→
+
+Main point
+
+Iteratively craft the best possible prompt with my help 🤝📝.
+
+Full script
+
+The problems will be used by you, chat gbt. You'll follow the following process: one: your first response will be to ask me what the prompt should be about. I'll provide my answer, but you will need to improve it through continual iterations by going through the next steps. Then the second thing: based on my input, you'll generate two sections: a revised prompt- so this is like its first attempt at the prompt, based on what you've said- and then it should be clear, concise and easily understood. B questions: ask any relevant questions pertaining to what additional information is needed for me to improve the prompt. And then, thirdly, we'll continue this iterative process, with me providing additional information to you and you updating the prompts in the revised prompt section until I say we're done. So there you go. We're working with chat GPT to develop an incredible prompt, so let's try it out right now and if you're finding this useful, please do like the video and subscribe to my channel for more stuff like this. So great, I'm ready to help you craft the best possible prompt.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/02-14.webp)
+
+←→
+
+Main point
+
+"Learn the basics of SEO for beginners with this informative article 📈🔍"
+
+Full script
+
+What would you like the prompt to be about? Okay? Well, I'm gonna have it. Write me an article about SEO, okay. So here we go. I want you to create a prompt to help me write an article, using chat GPT, about SEO for beginners. All right, let's just change that, because it put a c in there, and then we'll just also get rid of that little space that it put in there and go. So, revised prompt: write an informative article using chat gbt on the basics of search engine optimization, SEO and brackets for beginners questions. Now this is where it starts to refine that prompt to give you such a better article. So the first thing it's asking there is: who is your target audience? And you can respond to this just on a new line: one, two, three, four. So I'm gonna say I'm gonna say, let's say, Consultants, okay, I'm gonna put coaches and Consultants. Actually, coaches and Consultants is my target audience. What level of knowledge do they have about SEO? I'm going to put very little. And then a three: is there any specific aspect of SEO that you want to focus on? I'm gonna put that on keywords. And then what is the word count requirement of the article? I'm just going to do one for 500 Words. So 500 Words. There we go and off we go again.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/03-45.webp)
+
+←→
+
+Main point
+
+"Learn SEO basics to boost your coaching business 🚀"
+
+Full script
+
+Revised prompts getting better all the time. Use chat gbt to write a 500 word article for coaches and Consultants who are beginners in SEO, providing an overview of the basics of SEO and how it can benefit their business. And now it's asking me some more questions, three questions here. Can you specify what kind of coaches and Consultants you're targeting: IE life coaches. That's really good. Actually. Let's say, let's go with health coaches, so we'll do those. And then two: would you like me to provide any examples or case studies to illustrate how SEO has benefited other coaches and Consultants? I'm gonna put no because they will likely be made up by chat, GPT and I don't think that's particularly ethical. Where three: are there any specific keywords or topics related to SEO you want me to cover in the article? Yeah, let's just go with SEO for beginners. There you go. So that's the keyword that I would like to Target with the article. And here it goes again. So now it's just improved that prompt just a little bit more.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/04-51.webp)
+
+←→
+
+Main point
+
+Improve website SEO for health coaches. 💻🔍
+
+Full script
+
+Why is it important for health coaches and provide tips on how to improve the website, their website's SEO? So there we go, and now it's. It's gone into another deeper, a deeper way here. Is there a particular angle or Focus you would like me to take in regards to how SEO can benefit them?
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/05-13.webp)
+
+←→
+
+Main point
+
+Plus version of Chat GPT writes articles quickly and reliably, with H1 and H2 titles, making SEO easier. 🚀
+
+Full script
+
+Yeah, I reckon it would be a good one to say about attracting new clients. So we go, attracting new clients. Then we'll say: are there any common misconceptions or myths about SEO that you'd like me to dress in this article. Let's put that that SEO does not work anymore, because there was a stage when SEO was pretty hard, but it's, it's back again. I think would you like me to provide any tips on how to track the effectiveness of SEO efforts? I'll just put yes, and there we are, and and it will. It will just keep going until we get this unbelievable prompt right there, and so you can keep going and going like this, and I won't. I won't do it now, but you know you can see it will go on forever. I'm gonna say: now we are done and I am happy, happy with the prompt and let's see what it says there. Now, great, I'm, I'm glad to have been of help. There you go. What a wonderful assistant this is. So now let's take this prompt. Here is the prompt, and I'm going to start a new chat. Let's go up to the top new chat, paste in the prompt that it has given, and I'm also going to add something else to it as well and I'm going to put: please format the article. Well, actually, what do we call it here? Do we call it like: yeah, we please format the article with H1 and H2 titles? And there we are. That's it. I'm just gonna let it do its magic now and here it goes. So it's got. It's got the H1 title at the top there, H2, what is SEO, and so on, and and you can see how quick it writes. I'm using the plus version of chat GPT, but you know it, it does work pretty well, obviously on the free as well. I mean, they're actually functioning in exactly the same way. It's really just the speed and reliability that you're gaining with Plus. And there we are, we have got our awesome article that has been written exactly the way that we want it.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/07-25.webp)
+
+←→
+
+Main point
+
+Join our free community and subscribe for more helpful prompts! 🤝💻
+
+Full script
+
+It's been improved from our initial prompt by using chat GPT- the expert at prompting- to refine it. And, of course, you can use this technique for anything. It doesn't have to be to write an article, you know. It could be to create a mid-journey prompt. You know, if you want to have a brilliant prompt to create some artificial intelligence images, it could be used for creating tables, anything that you would normally do with chat GPT. You can use this one prompt, this one amazing prompt, to create the ultimate prompt to give you the best output. So I hope that helped. If it did, like I say, please do subscribe to the channel for more stuff like this, and we've got a free community, which I mentioned earlier. You can see it right here, and there is Brett who gave me the idea for this video, and you can just join for free.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/08-16.webp)
+
+←→
+
+Main point
+
+Check out Chat GPT School 👨‍🎓👩‍🎓📚
+
+Full script
+
+Just just head on over. There'll be a link right underneath and if you're ready to really Master the whole of chat GPT, then you need to check out my latest product, which is a chat GPT School. Let's just show you that right now this is opening up. Very, very shortly.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/08-40.webp)
+
+←→
+
+Main point
+
+Master chat GPT for max productivity 🚀💻 Get 50% off before 3/13.
+
+Full script
+
+You can actually get 50 pre-launch discount before Monday, the 13th of March. And here it is, and we are going to cover absolutely everything about chat GPT so that you can Master it and use it in both your business and personal life to maximeffect and become a real productivity Beast. So there you go. Thanks again for watching this video and I'll see you again in another one very soon.
+
+![img](https://pub-0f997439dd78484db3d008ff62ecf55b.r2.dev/snapshots/OgYQAS9LY3o/09-09.webp)
+
+←→

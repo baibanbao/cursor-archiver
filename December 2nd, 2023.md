@@ -1,0 +1,49 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 2nd, 2023]] 14:04
+        - 赞美感谢
+            - 
+        - 认罪悔改
+            - 
+        - 祈求
+            - 
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 04:07
+- Daily Tasks
+    - {{[[TODO]]}} transfer kjv.life
+    - {{[[TODO]]}} 见[[王树义]]、[[张玉新]]
+    - {{[[TODO]]}} 更新两句半
+    - {{[[TODO]]}} 整理红楼梦课件
+    - /Overdue Tasks to Schedule
+        - {{[[DONE]]}} [[四季青青]]交稿截止日期 [[March 1st, 2023]]
+        - {{[[DONE]]}} #[[Jonas]]说：小人书不就是ppt嘛#[[Inbox]] #[[随想]] #[[Edit Later]]
+        - {{[[DONE]]}} zoom安装使用教程，询问[[黄超]]
+        - {{[[DONE]]}} 为什么不用RR，造成很多问题考虑不周，例如去舅舅家没有给暖暖带礼物。如果以前规划，不至于这样。#[[Inbox]] #[[随想]] #[[Roam Research]] #[[Edit Later]]
+        - {{[[DONE]]}} 努力做#[[Four Seasons]]的策划 #[[Edit Later]] 
+        - {{[[DONE]]}} 在[[Teachable]] 上建立一个英文版的操作页面，作为demo也好，认真也好，都是一个很重要的尝试。
+        - {{[[DONE]]}} 录制独立课程视频
+        - {{[[DONE]]}} 白板报公众号
+        - {{[[DONE]]}} 编辑制作发布页
+        - {{[[DONE]]}} 药带了吗？
+        - {{[[DONE]]}} 记得问问推特上，有哪些可以免翻墙使用的ChatGPT工具，付费也可。
+        - {{[[DONE]]}} 车停好了吗
+        - {{[[DONE]]}} 车钥匙交托了吗
+        - Serendipity Page:: [[TODO]]
+    - [[Weekly Goals]]
+    - [[Daily Tasks]]
+        - Sunday [[December 3rd, 2023]]
+        - Monday [[December 4th, 2023]]
+        - Tuesday [[December 5th, 2023]]
+        - Wednesday [[December 6th, 2023]]
+        - Thursday [[December 7th, 2023]]
+        - Friday [[December 8th, 2023]]
+        - Saturday [[December 9th, 2023]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

@@ -1,0 +1,23 @@
+- [[Gratitude]]
+    - 感恩[[叶骥]]，提供了演讲的机会
+        - [[September 24th, 2022]] 下午，分享《元中文是一剂药》
+    - 感恩#[[Seven]]的宽容与爱
+    - 感恩#[[Jonas]]的听话与懂事，他总是带来希望
+    - 感恩抢到了满意的域名
+        - [[mc.camp]]
+            - 现在一个像样的CAMP域名有多难抢，已经都被机构抢走了。
+                - 现在gc.camp的售价是 ¥24,454.19
+            - 能抢到这个域名，令人喜悦非常
+- [[Day Start]] 08:49
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [吳兆南 - 維基百科，自由的百科全書](https://zh.m.wikipedia.org/zh-hant/%E5%90%B3%E5%85%86%E5%8D%97)
+    - [Queen's funeral Order of Service in full - sweet nod to childhood and poignant details - Mirror Online](https://www.mirror.co.uk/news/royals/queens-funeral-order-service-full-28022587)
+- ---

@@ -1,0 +1,20 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Confession
+        - Asking for forgiveness and blessings
+        - 
+- [[Day Start]] 14:25
+- Daily Tasks
+    - {{[[TODO]]}} 到办公室
+    - {{[[TODO]]}} 写技术博客
+    - {{[[TODO]]}} 做核酸
+    - {{[[TODO]]}} 建立剧本数据库
+    - {{[[TODO]]}} 继续研究#vim
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

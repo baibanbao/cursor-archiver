@@ -1,0 +1,24 @@
+- 今日事
+    - {{[[DONE]]}} 9 AM红宝石取蛋糕
+    - {{[[DONE]]}} 8:30 AM PCR
+    - {{[[DONE]]}} 上午打车去西渡
+    - {{[[DONE]]}} 10:30 参加网络聚会
+    - {{[[DONE]]}} 下午回打浦路
+- [[Gratitude]]  
+- [[Day Start]] 00:15
+- Daily Tasks
+    - {{[[DONE]]}} 9 AM红宝石取蛋糕
+    - {{[[DONE]]}} 8:30 AM PCR
+    - {{[[DONE]]}} 上午打车去西渡
+    - {{[[DONE]]}} 10:30 参加网络聚会
+    - {{[[DONE]]}} 下午回打浦路
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- [胡锦涛“被离场”引发诸多猜测 新华社英文推特回应原因 - BBC News 中文](https://www.bbc.com/zhongwen/simp/chinese-news-63164916?at_campaign=64&at_custom2=twitter&at_custom4=E5FD9610-5225-11ED-9DDE-C817933C408C&at_medium=custom7&at_custom3=BBC+Chinese&at_custom1=%5Bpost+type%5D)
+- [[外交政策杂志的文章]]
+- ---

@@ -1,0 +1,10 @@
+# Wednesday, August 4, 2021
+
+[[2021-08-03]]
+今天的dailynote 有所不同
+
+我准备做的事包括
+
+[[todo]]
+做一个空wiki链接，指向 [[placeholder]]
+

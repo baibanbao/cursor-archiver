@@ -1,0 +1,106 @@
+- 今日封控 2+ 5
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FeX-qfHEVWP.jpg?alt=media&token=d113469e-f247-4e39-ad51-cbdbb9d15267)
+    - 解封时间
+        - [[October 22nd, 2022]] 1:00 am
+    - 健康观察解除时间
+        - [[October 27th, 2022]] 1:00 am
+- #[[Prayers&Answers]]
+    - Date: [[October 20th, 2022]] 15:39
+        - Praise
+            - Praise the Lord
+        - Thanks
+            - Giving us rest
+            - Giving us peace
+            - Providing us food and water and necessities
+        - Confession
+            - For the remaining corruption of flesh
+        - Ask
+            - For others
+                - neighbours
+                - community
+                - #[[SLBC]]
+                    - [[王正波]]
+            - For my family
+                - life as captives 
+                - #[[Seven]]
+                - #[[Jonas]]
+                - #[[haozhongwen]]
+                    - [[好中文纸质笔记整理]]
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 2}}
+- [[Gratitude]]
+    - [[蓝风]]的问候
+    - [[大林]]的关心
+    - [[王树义]]老师赠送lex邀请
+        - [How to Use Lex: The Basics](https://lex.page/d/8488b946-21a8-4de0-b5b9-54e597996be3)
+            - 试写了一段
+                - [My son entered the final round of technology contest. ]
+                - He was very excited. He placed first in his age group. I was very happy for him.
+                - [His invention is a new system of online class. It’s quite exciting. ]
+                - He has been invited to present his invention in front of the board of education. He was very nervous, but he did a great job.
+                - I am so proud of my son. He has come a long way.
+- [[Day Start]] 16:04
+- Daily Tasks
+    - {{[[TODO]]}} #[[Seven]]要上班
+    - {{[[TODO]]}} 要早起，准备早饭
+    - {{[[TODO]]}} 上物理闹钟
+    - {{[[TODO]]}} 白天就买好早饭
+    - {{[[TODO]]}} 早点休息，以免早晨起不来
+    - {{[[TODO]]}} 我想不到还有什么重要的事，想起来再补充吧
+    - {{[[TODO]]}} 封控在家，进行[[好中文纸质笔记整理]]
+        - [[青少年团契]]
+- ---
+- [[Daily Journal]] 
+    - #[[Jonas]]语文测验得了[[须努力]]
+        - #[[Prayers&Answers]]
+            - Date: [[October 20th, 2022]] 18:39
+                - Praise
+                    - 赞美主的护理
+                - Thanks
+                    - 感谢上帝在艰难之时依然使我们的坚固保障
+                - Confession
+                    - 为没有好好教养他而认罪
+                    - 为了自己对自己和对孩子放松要求而祷告
+                - Ask
+                    - For my family
+                        - 把它当成教训
+                        - 进步的阶梯
+                        - 蒙恩的管道
+                - Tongues
+                    - Set a Pomodoro
+                        - {{[[POMO]]: 1}}
+            - 
+        - 成绩令人堪忧
+            - https://vip2.loli.io/2022/10/20/QUIcDpNM6PmClLw.jpg
+            - https://vip2.loli.io/2022/10/20/hJUdLnECgx6AQGq.jpg
+            - https://vip2.loli.io/2022/10/20/fKan6wLcjPBRkIT.jpg
+        - 解决方法
+            - 语文错题本
+                - 认真审视每一道题
+                - 分析出错原因
+                - 检讨学习中的偏差
+                - 重新站起来
+    - 淘宝网购了拜安康血糖仪
+        - 50次
+        - 作为寿礼送给[[岳父母]]
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [rush e | Sheet Music Boss](https://sheetmusicboss.com/tag/rush-e/)
+        - 
+    - 关于金税4期的消息，对于税务规划早做准备 #Tax
+        - [Petrichor on Twitter: "一切监视手段都是对准百姓而不是官员的。以前认识中国某省一个县委书记，他说他去省城开会，高速路上他的驾驶员从来就是超速驾驶，即使超速被摄像头拍照，也不会被罚款。处级官员的车牌都在当地交警电脑系统里，名单上的官员都可以法外超速驾驶。 https://t.co/L32MlkdcPL" / Twitter](https://twitter.com/Jam79922967/status/1582908082375446528)
+    - 刘老师说红楼值得借鉴 #[[红楼梦]]
+        - [【红楼梦】贾宝玉的丫鬟袭人为什么反对贾宝玉和林黛玉结婚？ - YouTube](https://www.youtube.com/watch?v=V6KBjDgdQn0)
+            - [刘老师聊历史 - YouTube](https://www.youtube.com/channel/UCXGx5G5ewCLKXK-gg2oO0dQ)
+- ---
+- 今日提醒
+    - {{[[TODO]]}} #[[Seven]]要上班
+    - {{[[TODO]]}} 要早起，准备早饭
+        - {{[[TODO]]}} 上物理闹钟
+        - {{[[TODO]]}} 白天就买好早饭
+        - {{[[TODO]]}} 早点休息，以免早晨起不来
+    - {{[[TODO]]}} 我想不到还有什么重要的事，想起来再补充吧

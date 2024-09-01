@@ -1,0 +1,3 @@
+﻿20230921
+
+We have not been able to verify your authority to this domain. On your domain registrar's website, locate your Domain Name System (DNS) settings and enter the following two CNAMEs: (Name: www, Destination: ghs.google.com) and (Name: 3geu7otovsgq, Destination: gv-igksogffthqvr7.dv.googlehosted.com). See https://support.google.com/blogger/answer/1233387 for detailed instructions. Support page link

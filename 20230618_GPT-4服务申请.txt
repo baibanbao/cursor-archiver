@@ -1,0 +1,23 @@
+﻿I want to use GPT-4 to build a new product which will integrate to my business. 
+
+Now I am the founder of AI Story Writing Camp. 
+
+AI Story Writing Camp is an online and offline training to improve writing efficiency by using GPT technology, and the main speaker is Wang Pei, a screenwriter contracted by Beijing Ren Yi.
+
+Objective: To use ChatGPT and other AI technologies as writing assistants to improve writing efficiency and inspire creativity.
+
+Elements.
+
+Mastering the use of GPT operation
+Provide various story writing cases and guidance
+Improve writing speed up to 5000 words/hour
+
+If I could get gpt-4 api, I will use it to set up a service to enable my students to experience the powerful Chatgpt in a new way. 
+
+I will learn the code of https://github.com/Yidadaa/ChatGPT-Next-Web 
+
+and build up my own ChatGPT services in compliance with the TOS of OpenAI API. 
+
+Please help me to fulfill this dream.
+
+Thank you.

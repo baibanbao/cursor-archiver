@@ -1,0 +1,27 @@
+- [[Gratitude]]
+    - 叶子带来的热忱和希望
+        - 把叶子拍纪录片的事放进祷告里 #[[Prayers&Answers]]
+    - 晨恩日新
+- [[Day Start]] 03:08
+- Daily Tasks
+    - {{[[DONE]]}} 到办公室
+    - {{[[DONE]]}} 从办公室回家
+    - {{[[TODO]]}} 走路1万步
+    - {{[[TODO]]}} 开始整理obsidian publish #[[Obsidian]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [日本移居指南 — 郭宇](https://guoyu.mirror.xyz/bPaDKAcrhJGUbaXu9BWDcdD-F46gBFATTvf_qwZ9Bso)
+    - [[Obsidian]] Publish 网站
+        - [chi's memory - chi's memory - Obsidian Publish](https://publish.obsidian.md/chiux/chi's+memory)
+        - [README - 善用佳软 2022 - Obsidian Publish](https://publish.obsidian.md/xbeta/docsify/README)
+        - [法政西南 - 法政西南 - Obsidian Publish](https://publish.obsidian.md/wanyulawyer/%E6%B3%95%E6%94%BF%E8%A5%BF%E5%8D%97)
+        - [Welcome! - Joschua's Garden](https://joschuasgarden.com/50+Slipbox/Welcome!)
+        - [Welcome to my digital garden - Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden)
+        - [Agora - Agora RPG System Reference Wiki - Obsidian Publish](https://publish.obsidian.md/agora/Agora)
+        - 
+- ---

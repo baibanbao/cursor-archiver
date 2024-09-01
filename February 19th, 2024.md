@@ -1,0 +1,52 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 10:34
+- Daily Tasks
+    - {{[[TODO]]}} 剪辑两句半 翻译篇
+    - {{[[TODO]]}} 发布两句半
+    - {{[[TODO]]}}走路1万步
+    - {{[[TODO]]}} 早晨全麦，全天低碳水饮食
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **10:34** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - 
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+    - [[February 23rd, 2024]] 第三课 古诗十九首
+    - [[March 1st, 2024]] 第四课 
+    - [[March 8th, 2024]] 第五课
+    - [[March 15th, 2024]]第六课
+    - [[March 22nd, 2024]]第七课
+    - [[March 29th, 2024]]第八课
+    - [[April 5th, 2024]]. 第九课
+    - [[April 12th, 2024]] 第十课
+        - [[张远帆]]来，课程暂停一次
+    - [[April 19th, 2024]] 第十一课
+    - [[April 26th, 2024]] 第十二课
+    - [[May 10th, 2024]] 第十三课
+    - [[May 17th, 2024]] 第十四课
+- [[编剧故事营]]
+    - 课程安排
+        - [[February 21st, 2024]]第十一课
+            - 回到源头：亚里士多德《诗学》
+        - [[February 28th, 2024]]第十二课
+            - 做一个讲故事的人《故事》里的故事
+    - {{[[TODO]]}} 准备课件
+- [[四季青青]]
+    - {{[[TODO]]}} 开始写吧，对#[[jfx]]有个交代
+- [[Heptabase]]
+- [[Sora Camp]]
+    - {{[[TODO]]}} 综合视频剪辑
+- [[写书]]
+    - {{[[TODO]]}} 规划一下今年要写的书
+- #Finance
+- ---

@@ -1,0 +1,32 @@
+  #flomo
+ 
+ flomo · 浮墨笔记 body { background:#FAFAFA; } .memos { width:600px; margin:0 auto; } .memos h1 { margin-top:30px; } .memo { margin:20px 0; background:#FFF; padding:20px; border-radius:6px; } .memo:hover { box-shadow: 0px 2px 16px #DDDDDD; } .memo .time { color:#8D8D8D; font-size:12px; } .memo .content { color: #323232; font-size: 14px; } .memo .content p { line-height:1.8; min-height:20px; margin:0; } .memo .content ul, .memo .content ol { padding-inline-start: 20px; margin: 0; } .memo .content li { line-height: 1.8; } .memo .files img { width:100%; border:1px solid #E6E6E6; border-radius: 4px; margin:6px 0; } 
+
+202105 @ flomo
+==============
+
+2021-05-26 03:29:00
+
+Play time绝对是一部伟大的电影，可惜太超前了，即使今天的观众也还跟不上它的审美和思路。
+
+2021-05-25 22:28:50
+
+桂迎老师：昨晚史依弘老师讲了一个创作中的故事很是触动我，她说在创作现代京剧（圣母院）的时候，请来的话剧导演苏乐慈先生让演员用自己的方式完成角色“出来”的动作，结果演员们在京剧先生们的带领下用京剧的程式动作完美演绎了人物的出场/:rose/:strong。第二天，苏导宣布自愿退出剧组，她说，京剧有自己的方式表现，不需要话剧导演/::D。
+
+史依弘老师说，只有扎实的戏曲基础，才会有广阔的创作前景。
+
+深以为然/::D/:rose
+
+2021-05-25 21:57:11
+
+Life is hard. Therefore go to love your neighbors as yourself.
+
+2021-05-25 21:20:11
+
+邪恶国
+
+![](file/2021-05-25/747/1621948799_5e50f56dd6166085b12d1a5e7f03b419.jpg)
+
+2021-05-25 21:16:12
+
+flomo一直在进步，也许可以考虑用起来。

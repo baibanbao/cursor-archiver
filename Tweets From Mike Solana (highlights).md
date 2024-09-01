@@ -1,0 +1,7 @@
+- Author:: [[@micsolana on Twitter]]
+- Full Title:: Tweets From Mike Solana
+- URL:: https://twitter.com/micsolana
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - ngl i killed this one https://t.co/7YD3N12ZsY ([View Tweet](https://twitter.com/micsolana/status/1602854983330074624))

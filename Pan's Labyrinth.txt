@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Guillermo del Toro]]
+        - Writer:: [[Guillermo del Toro]]
+        - Cast:: [[Ivana Baquero]] [[Ariadna Gil]] [[Sergi López]]
+        - Year:: [[2006]]
+        - Genre:: #Drama #Fantasy #War
+    - **IMDb:** https://www.imdb.com/title/tt0457430
+    - **Plot Summary:** In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FRvAZhP1CSQ.pdf?alt=media&token=d4047c16-ebe5-4eae-a1b5-a18aae2b50ca}}

@@ -1,0 +1,12 @@
+- Author:: [[L,.G.]]
+- Full Title:: 【译制】Ness Labs 专访 Heptabase 联合创始人 Alan Chan
+- URL:: https://justgoidea.com/posts/2023-064/
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括[《增强人类智力》报告](https://www.dougengelbart.org/pubs/augment-3906.html)。我读了很多 Alan Kay 的文章、Ted Nelson 的[《文学机器》](https://cs.brown.edu/people/nmeyrowi/LiteraryMachinesChapter2.pdf)和 Seymour Papert 的[《头脑风暴》](https://dl.acm.org/doi/pdf/10.5555/1095592)。然后，我读了一本令人震撼的书[《梦想机器》（The Dream Machine）](https://press.stripe.com/the-dream-machine)，我至今仍认为这是计算机史上最好的一本书。 ([View Highlight](https://read.readwise.io/read/01hh9ajb4hj65baz07paxgsath))
+    - 我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括[《增强人类智力》报告](https://www.dougengelbart.org/pubs/augment-3906.html)。我读了很多 Alan Kay 的文章、Ted Nelson 的[《文学机器》](https://cs.brown.edu/people/nmeyrowi/LiteraryMachinesChapter2.pdf)和 Seymour Papert 的[《头脑风暴》](https://dl.acm.org/doi/pdf/10.5555/1095592)。然后，我读了一本令人震撼的书[《梦想机器》（The Dream Machine）](https://press.stripe.com/the-dream-machine)，我至今仍认为这是计算机史上最好的一本书。 ([View Highlight](https://read.readwise.io/read/01hh9apn7ke4m2ht7asrw5j7rh))
+    - 第一个心智模型叫做「知识生命周期」（The Knowledge Lifecycle），由五个部分组成：探索、收集、思考、创造和共享。我们要确保知识能够无缝地从一个部分传递到另一个部分，确保生命周期的每个部分都能做到这一点，这样我们才能设计和构建一个出色的解决方案，真正解决人们面临的问题。归根结底，关键在于我们能否在生命周期的所有五个部分中创造出这种协同效应。 ([View Highlight](https://read.readwise.io/read/01hh9apzgxtnzk36mvmjg1250w))
+- ### New highlights added [[December 10th, 2023]] at 3:58 PM
+    - 元应用程序最酷的地方在于它们都运行在「卡片」之上，而「卡片」是 Heptabase 系统的基本元素。目前，我们有笔记卡片、日志卡片、PDF 卡片，不久还将推出高亮显示卡片、音频卡片、视频卡片、图像卡片等。这些卡片可以在元应用程序之间互操作，每个元应用程序都可以按照相同的协议在这些卡片上读写特定于应用程序的元数据。 ([View Highlight](https://read.readwise.io/read/01hh9b7cgantbgrq93tw7b5p2t))
+    - 我最喜欢 Heptabase 的功能之一是，每当我打开白板、卡片或标签时，都可以像打开浏览器标签一样在左侧边栏打开它们。我可以把经常访问的标签固定下来，并为不同类型的工作创建标签组。 ([View Highlight](https://read.readwise.io/read/01hh9b9btrskf068ktybzkez60))

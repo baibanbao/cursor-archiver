@@ -1,0 +1,9 @@
+- Author:: [[eddy]]
+- Full Title:: 事工哲学（131）｜失焦的视角
+- URL:: https://eddyemma.com/blog/2022/07/17/mph131-lost-focus/
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 19th, 2022]]
+    - 没有什么宏大视野，没有什么系统神学构建，唯有血汗而已。 ([View Highlight](https://instapaper.com/read/1522703226/20106767))
+    - 我不喜欢属灵大词。我不喜欢哪怕是核心信息节点（因着某些缘故，或者因为占有了关键资源、掌握分配权而成为节点），在讨论问题的时候用到”中国教会应当……“或”……如何“这样的全程判断。 ([View Highlight](https://instapaper.com/read/1522703226/20106771))
+    - 比如，“逼迫带来复兴”，这个命题在当下是否成立，我完全没有数据来评估，甚至难以收集数据。我无法观察到信息的流动，人的流动，以及思想的流动。 ([View Highlight](https://instapaper.com/read/1522703226/20106777))

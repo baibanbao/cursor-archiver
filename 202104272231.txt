@@ -1,0 +1,197 @@
+#大妈 #个人知识库
+
+王佩:I need build up my knowledge base.
+
+王佩:from 0 to 1
+
+Zooꪔ.ོQuiꫀt Ӫ:but in fact git is one kinds of FS...
+
+and for self, not need know all git commands
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I need build up my knowledge base. 」
+
+- - - - - - - - - - - - - - -
+
+「 王佩: from 0 to 1 」
+
+- - - - - - - - - - - - - - -
+
+Hummmm....
+
+the mini Personal Knowledage Base :
+
+0: easy imput interface
+
+1: multi screen interface
+
+2: tree/flods/tag/... multi managememt support
+
+3: suto backup
+
+4: quick searching suport
+
+5: open API
+
+6: easy export other format
+
+7: ...
+
+that is not easy bulid by self
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I know nothing. 」
+
+- - - - - - - - - - - - - - -
+
+i recommand: 如何有效整理信息 (豆瓣)
+
+https://book.douban.com/subject/27131763/
+
+for u base paper+pen is best system.
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I have my personal NAS, but don't have the system of knowledge management tool 」
+
+- - - - - - - - - - - - - - -
+
+not need, JD/taobao there is soooooo many full products in sale
+
+buy and run is over
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: I have my personal NAS, but don't have the system of knowledge management tool 」
+
+- - - - - - - - - - - - - - -
+
+but for normal people
+
+buy cloud srervice is better than self administrat on home NAS,
+
+because u need one good personal storage space,
+
+not one huge system administration playground.
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: workflow.com is not the right tool though aishanshan loves it so much. 」
+
+- - - - - - - - - - - - - - -
+
+Sayeahooo ;-)
+
+workflow/Dynalist/... is just list tools
+
+just help people list need list short work items;
+
+of course not PKB (Personal Knowledge Base)
+
+Zooꪔ.ོQuiꫀt Ӫ:#PKB
+
+~ is not the magic,
+
+in fact every one hold one PKB:
+
+u personal table/bookcase or book room/...
+
+so build one goo PKB, need define:
+
+Personal
+
+Konwledge
+
+Base
+
+the three soooo deferent things
+
+- P ~ private, flow u graw, always changing
+
+- K ~ just the upgrading forever learn action mould, not the book/paper/blog/... all kinds of K's export format
+
+- B ~ like cache, just as temporarily memary out u body, help we learnning in long time for one topic.
+
+IMHO:
+
+PKB is good things, but the good is not what mae up it,
+
+just right now u can usage it in u comfortably way.
+
+help u focus learnning , not how to manag the "Knowledge" into the "right where";
+
+Yes, the knowledge right storage place, alwasy and forever is us brain.
+
+王佩:醍醐灌顶
+
+王佩:对我来说，最重要的是one place for all
+
+王佩:我需要统一自己的大脑
+
+Zooꪔ.ོQuiꫀt Ӫ:是也乎,(￣▽￣)
+
+所以, 一个唯一的, 统一的随身笔记本就已经解决了所有问题
+
+王佩:In making money, or in worshiping God, or in doing anything, the stronger the power of concentration, the better will that thing be done…In the present state of our body we are so much distracted, and the mind is frittering away its energies upon a hundred sorts of things.
+
+Zooꪔ.ོQuiꫀt Ӫ:「 Zooꪔ.ོQuiꫀt Ӫ: 「 王佩: I know nothing. 」
+
+- - - - - - - - - - - - - - -
+
+i recommand: 如何有效整理信息 (豆瓣)
+
+https://book.douban.com/subject/27131763/
+
+for u base paper+pen is best system. 」
+
+- - - - - - - - - - - - - - -
+
+这位日本人, 坚持了20多年, 一元笔记管理法,
+
+发现, 至今依然强过所有其它电子方法
+
+Zooꪔ.ོQuiꫀt Ӫ:如果一定要增强, 俺感觉嘦追加:
+
+0: 微型热敏感打印机
+
+1: 配合手机拍照, 随时打印出来
+
+就可以贴到笔记中, 形成统一记录了....
+
+没有 google 搜索, 人类已经基于书页搜索了几千年,
+
+没有任何问题
+
+Zooꪔ.ོQuiꫀt Ӫ:反而是 搜索引擎 发布后,
+
+大家的自学能力在持续下降
+
+王佩:被你说中了。
+
+王佩:我上次搞的那个 date + description 目录系统，以失败和混乱而告终
+
+王佩:最终还是2018-11-10-new-video-new-newest 的形式
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 我上次搞的那个 date + description 目录系统，以失败和混乱而告终 」
+
+- - - - - - - - - - - - - - -
+
+是也乎,(￣▽￣)
+
+必须的, 因为任何电子管理形式, 都将随着资料的增加导致管理成本指数增加...
+
+而俺恢复一元笔记后, 发现文具结合书写,
+
+的确比输入法, 多了一组记忆 锚点,
+
+焦虑也少了...
+
+Zooꪔ.ོQuiꫀt Ӫ:「 王佩: 写的少了，人就白痴了。 」
+
+- - - - - - - - - - - - - - -
+
+是也乎,(￣▽￣)
+
+handwrite better type
+
+至少在中文是这样....
+
+王佩:中文绝对是靠书写来加深加强表达的
+
+Zooꪔ.ོQuiꫀt Ӫ:老祖宗无意中完成的最佳设计
+
+Zooꪔ.ོQuiꫀt Ӫ:「 Zooꪔ.ོQuiꫀt Ӫ: 「 Zooꪔ.ོQuiꫀt Ӫ: 「 王佩: I know nothing. 」
+
+- - - - - - - - - - - - - - -

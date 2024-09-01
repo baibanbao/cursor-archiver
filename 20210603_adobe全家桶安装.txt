@@ -1,0 +1,10 @@
+﻿https://www.yuque.com/books/share/138449b7-b6d6-438f-a515-3c06df5f0b9a?# 
+
+密码 xxxe
+
+
+sudo spctl --master-disable
+
+sudo xattr -r -d com.apple.quarantine
+
+下载好不要打开安装包 看视频教程安装  这是要用到的代码

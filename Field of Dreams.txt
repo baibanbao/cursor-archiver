@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzk5OWY0YjAtYWU3ZS00Y2Q4LWFlNjItMzgwMTQ2MjIyMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Phil Alden Robinson]]
+        - Writer:: [[WP Kinsella]] [[Phil Alden Robinson]]
+        - Cast:: [[Kevin Costner]] [[James Earl Jones]] [[Ray Liotta]]
+        - Year:: [[1989]]
+        - Genre:: #Drama #Family #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0097351
+    - **Plot Summary:** Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.

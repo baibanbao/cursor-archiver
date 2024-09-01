@@ -1,0 +1,8 @@
+- Author:: [[Sendhil Mullainathan and Eldar Shafir]]
+- Full Title:: Scarcity
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41OaeP7JesL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Because we are preoccupied by scarcity, because our minds constantly return to it, we have less mind to give to the rest of life. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00BMKOO6S&location=222))
+    - We can directly measure mental capacity or, as we call it, bandwidth. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00BMKOO6S&location=223))
+    - And we find that scarcity reduces all these components of bandwidth—it makes us less insightful, less forward-thinking, less controlled. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00BMKOO6S&location=225))

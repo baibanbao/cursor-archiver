@@ -1,0 +1,7 @@
+- Author:: [[Oswald Chambers]]
+- Full Title:: My Utmost for His Highest
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41QP4ZgWn0L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - No one is born either naturally or supernaturally with character; it must be developed. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B0049U4WA6&location=2662))
+    - The circumstances of a saint’s life are ordained of God. In the life of a saint there is no such thing as chance. God by His providence brings you into circumstances that you can’t understand at all, but the Spirit of God understands. ([Location 4963](https://readwise.io/to_kindle?action=open&asin=B0049U4WA6&location=4963))

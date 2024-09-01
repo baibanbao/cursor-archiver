@@ -1,0 +1,11 @@
+- 剧本完成时限
+    - [[October 20th, 2023]]
+- 排练
+    - [[October 24th, 2023]]
+    - [[October 25th, 2023]]
+    - [[October 26th, 2023]]
+- 去杭州
+    - [[October 27th, 2023]]
+- 正式演出
+    - [[October 28th, 2023]]
+- 返回上海

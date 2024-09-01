@@ -1,0 +1,217 @@
+- ime table
+- # coding: utf-8
+- #
+- # 用於【朙月拼音】系列輸入方案
+- # 【小狼毫】0.9.21 以上
+- #
+- # 請將該文件以UTF-8編碼保存爲
+- # Rime用戶文件夾/custom_phrase.txt
+- #
+- # 碼表各字段以製表符（Tab）分隔
+- # 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+- #
+- # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+- #
+- # no comment
+- 中州韻輸入法引擎	rime	2
+- 又双叒叕	yyy
+- http://rime.im/	rime	1
+- Rime	rime	3
+- ⌘	cmd
+- ⌃	ctl
+- ⌥	opt
+- ⇧	shift
+- GBK	gbk
+- UTF-8	utfba
+- macOS High Sierra	macos	2
+- macOS Mojave	macos	3
+- macOS	macos	4
+- macOS Sierra	macos	1
+- Google Analytics	ga
+- macOS	macos
+- Linux	linux
+- CSS	css
+- HTML html
+- readlater.c4si4xh6nm@instapaper.com	insta
+- iOS	ios
+- iPad	ipad
+- iPhone	iphone
+- iTunes	itunes
+- JavaScript js
+- TypeScript ts
+- jQuery	jquery
+- MySQL	mysql
+- SQL	sql
+- Objective-C	ojbc
+- Ruby	ruby
+- Rust	rust
+- WeChat	wechat
+- Swift	swift
+- MacBook Pro	mbp
+- MacBook	macbook
+- Apple	apple
+- U盘	upj
+- GitHub	github
+- iMac	imac
+- iPad	ipad
+- iPhone	iphone
+- iPod	ipod
+- IPTV	iptv
+- IPv4	ipv
+- IPv6	ipv
+- Mac App Store	mas
+- OS X	osx
+- GNU/Linux	linux
+- X-Ray	xray
+- Xbox One	xbox
+- Youku	youku
+- YouTube	youtube
+- 又双叒叕	yzyz
+- iCloud	icloud
+- Quantumult	quan
+- Dropbox	dropbox
+- T恤	txu
+- Mac	mac
+- Wi-Fi	wifi
+- Apple ID	appleid
+- QQ邮箱	qqyzxl
+- 1Password 7	password
+- Adobe Photoshop 2022	photoshop
+- Adobe Premiere Pro 2022	pr
+- Adobe Audition 2022	audition
+- Alfred 4	alfred
+- Android	android
+- Apple	apple
+- Apple ID	appleid
+- The Archive	archive
+- The Archive	arc	3
+- 编剧	bianju	2
+- www.chinesebibleonline.com	bible 2
+- Byword	byword
+- Capsule Mall	cm	3
+- CSS	css
+- C.S.Lewis	csl	2
+- CloverTextEdit	clover
+- Cold Turkey Blocker		turkey
+- covid	Covid-19
+- 奥密克戎	omi	1
+- Covid-19病毒奥密克戎变种	omi	2
+- Day One	dayone
+- Deepl	deepl
+- Dropbox	dropbox
+- Feishu	feihu	1
+- 飞书妙记	feihu	2
+- Final Cut Pro	fcp
+- GBK	gbk
+- GitHub	github
+- Gmail	gmail
+- Google	google
+- Google Analytics	ga
+- Google Docs	googledocs
+- Google Drive	googledrive
+- GUN/Linux linux
+- HTML	html
+- haozhongwen.com	hzw	3
+- 好中文第八期	hzw	2
+- 好中文	hzw	1
+- iCloud	icloud
+- iMac	imac
+- Inkdrop	inkdrop
+- iOS	ios
+- iPad	ipad
+- iPad	ipad
+- iPad Air	ipadair
+- iPad Mini	ipadmini
+- iPad Pro	ipadpro
+- iPhone	iphone
+- iPhone Xʀ	iphonexr
+- iPod	ipod
+- IPTV	iptv
+- IPv4	ipv
+- IPv6	ipv
+- iTunes	itunes
+- JavaScript js
+- 嘉定方舱	jd
+- Jonas	jonas	1
+- 小Jo	jonas	2
+- jQuery	jquery
+- Linux	linux
+- Logseq	logseq
+- Mac	mac
+- Mac App Store	mas
+- MacBook	macbook
+- MacBook Air	mba
+- MacBook Pro	mbp
+- macOS	macos
+- macOS Catalina	macos
+- macOS High Sierra	macos
+- macOS Mojave	macos
+- Mac Studio	macstudio
+- Magisk	magisk
+- Metion	metion
+- Minecraft	minecraft
+- Markdown	markdown
+- MySQL	mysql
+- Notion	notion
+- Objective-C	ojbc
+- Obsidian	obsidian
+- Obsidian	obs
+- OneDrive	onedrive
+- OS X	osx
+- Pixel	pixel
+- QQ 邮箱	qqyx
+- Quantumult	quan
+- 日更	rigeng	3
+- Raindrop	raindrop
+- Roam Research	rr
+- Roam Research	roamresearch
+- Ruby	ruby
+- Rust	rust
+- Seven	seven
+- Studio Display	studiodisplay
+- Sublime Text	sublime
+- SQL	sql
+- Swift	swift
+- Tot	tot
+- Telegram	tg
+- TextExpander	te
+- TheBrain 12	tb
+- TypeScript ts
+- Typora	typora
+- Typora	ty	3
+- T恤	tixu
+- UTF-8	utfba
+- Vim	vim
+- wangpei.net	baibanbao
+- 王子月	wangziyue
+- 王子月	wzy
+- VPN.AC	vpn
+- WeChat	wechat
+- Wi-Fi	wifi
+- Windows	win
+- Windows	windows
+- Wordpress内部版	wordpress
+- Workflowy	workflowy
+- X-Ray	xray
+- Xbox One	xbox
+- 阳光小美女 Little Miss Sunshine	sunshine
+- Youku	youku
+- YouTube	youtube
+- 又双叒叕	yyy
+- 又双叒叕	yzyz
+- Zoom	zoom
+- 刘淼	lm
+- 任伟 rw
+- 月小刀 yxd
+- 老蒋 laojiang
+- 喜鹊婆婆 xqpp
+- 小山 xs
+- 卫西谛 wxd
+- 张远帆	zyf
+- 冯一刀	fyd
+- 高宏铭	ghm
+- 包晓东	bxd
+- 金安平	jap
+- 张慧姝	zhs
+- 李小丹	lxd
+- 李梦	limeng

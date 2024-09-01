@@ -1,0 +1,1121 @@
+- Projects
+    - Completed Date:: 
+    - Status:: 学习中
+    - Due Date::
+    - Related Goals:: 
+    - Success Criteria::  zhongwen.ai 的订阅数超过3000
+    - Tags:: #Projects #ChatGPT #AI #[[ChatGPT故事营]]
+- 学习的项目
+    - [[Vision Pro]]
+        - [Apple Vision Pro Impressions! - YouTube](https://www.youtube.com/watch?v=OFvXuyITwBI)
+            - 这次苹果的眼镜发布，由于保密性，体验过的自媒体都只能用语言描述。稿子准备时间极短，仅仅使用口播能力就要让观众领会到要点，很考验主播的真实水平。目前排名第一的是油管的MKBHD，简明扼要，直击要害。国内去了这么多自媒体（电丸科技AK除外），排第一的是钟文泽，不需要额外的包装剪辑，1/
+            - 张嘴说话就能成为一期节目，直接在场外开录。虽然有人不喜欢他无原则的吹捧，我也不喜欢，但从媒体素养来说，这个能力无可置疑。在场的其他科技自媒体（电丸科技AK除外），剥掉平时的团队包装，很多就是路人水准，有的还不如路人。而且一个有意思的现象：这个能力跟他们的粉丝量成正比，听起来是废话2/
+    - AI救我命
+        - 最终救我性命的不是别的而是[[ChatGPT]]和[[Deepl]]
+    - 五月份新进展
+        - 学习资料
+            - https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter
+            - [guillaumekln/faster-whisper: Faster Whisper transcription with CTranslate2](https://github.com/guillaumekln/faster-whisper)
+            - [PAIR-code/wordcraft: ✨✍️ Wordcraft is an AI-powered text editor with an emphasis on short story writing](https://github.com/PAIR-code/wordcraft)
+            - [(47) GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk - YouTube](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
+            - [(47) 【中文字幕合集】ChatGPT提示工程教程，教你寫提示詞，吳恩達Open AI - YouTube](https://www.youtube.com/watch?v=2eWixnNnXjU&t=2279s)
+    - 
+    - 全心爱主
+        - [[SLBC]]
+            - 测试圣经向量库
+                - [Chat Your Data](https://bibleqa.azurewebsites.net/)
+                    - 效果：阿米念主义
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FYCmuRFuPks.34.05.png?alt=media&token=a7ba635d-bbed-47db-9d73-c27ce969a8b7)
+            - [China will rewrite the Bible and the Quran to 'reflect socialist values'](https://www.dailymail.co.uk/news/article-7824541/China-rewrite-Bible-Quran-reflect-socialist-values.html)
+                - 珍珠计划
+                    - [Asia Harvest](https://www.asiaharvest.org/china-resources/cn/shandong/1980s)
+            - [2023弟兄大会：为圣洁而争战](https://forms.office.com/pages/responsepage.aspx?id=7suVDjpWBECbdaNlP9eSSvw0JfUkUuVEh6zr79sOal1UN083SU45Rk9SRUJNTTZKWDdHNzJDTVNDRiQlQCN0PWcu)
+            - [Asia Harvest](https://www.asiaharvest.org/china-resources/cn/shandong/1980s)
+            - [King James Bible Online](https://thekingsbible.com/)
+        - 韦伯大词典前言
+            - [Websters Dictionary 1828 - Preface --- 韦氏词典 1828 - 前言](https://webstersdictionary1828.com/Preface)
+        - [王兆丰的业余耕耘](https://wangzhaofeng.com/books.html)
+    - 爱邻如己
+        - 公用测试
+            - [ChatGPT Next Web](https://chatgpt-haozhongwen-playground.vercel.app/)
+        - 自建ChatGPT
+            - [ChatGPT Next Web](https://chatgpt-haozhongwen-playground.vercel.app/)
+    - AI账号
+        - ChatGPT账号
+            - OpenAI API 
+                - redredpei@gmail.com
+                    - [[April 7th, 2023]]
+                        - 收据
+                            - {{pdf: https://www.dropbox.com/s/ymc9au4lrg2uln9/Invoice-63E2C559-0001.pdf?raw=1}}
+                - heibanbao@gmail.com
+                    - 还没开始付费
+            - ChatGPT plus
+                - redredpei@gmail.com
+                    - 已续费
+                - heibanbao@gmail.com
+        - Poe
+        - [[midjourney]]
+    - 网址大全
+        - [AI Alles Da | AI Alles Da](https://ai-alles-da.com/)
+    - Secret GPT4ALL
+        - [How You Can Install A ChatGPT-like Personal AI On Your Own Computer And Run It With No Internet.](https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/)
+            - 经实验，并无特别之处
+    - 很big的项目 autoGPT
+        - 
+        - [Cognosys: Your personal AI Agent](https://www.cognosys.ai/create)
+        - [reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
+        - [Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Torantulino/Auto-GPT#-features)
+        - [Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Torantulino/Auto-GPT)
+    - [[编剧故事营]]
+        - 最佳episode
+            - [[Breaking Bad]]
+                - S05E14
+                    - ["Breaking Bad" Ozymandias (TV Episode 2013) - IMDb](https://www.imdb.com/title/tt2301451/?ref_=ttep_ep14)
+                    - Summary
+                        - In Breaking Bad Season 5 Episode 14, titled "Ozymandias," Walter White's world begins to crumble around him. Following the intense shootout between Hank and the white supremacist gang in the previous episode, Hank is tragically killed, leaving Walt devastated. The gang takes most of Walt's money, leaving him with only a single barrel of cash.
+                        - Walt then reveals to Todd's uncle that Jesse Pinkman was hiding under a car, leading to his capture. Walt spitefully tells Jesse about his role in Jane's death before Jesse is taken away to be tortured and forced into cooking meth for the gang.
+                        - Walt returns home and tries to convince his family to flee with him, but Skyler and Walter Jr. are horrified to learn about Hank's death. A confrontation ensues, with Skyler threatening Walt with a knife, and Walter Jr. calling the police. Walt escapes with baby Holly, but ultimately decides to leave her at a fire station for her safety.
+                        - The episode ends with Walt contacting Saul's "disappearer" to start a new life under a new identity. "Ozymandias" is a pivotal episode in the series, as it marks the complete unraveling of Walt's life and the disintegration of his family.
+                    - Outline
+                        - Title: Breaking Bad Season 5 Episode 14 - "Ozymandias"
+                        - I. Cold Open
+A. Flashback to Walt and Jesse's first cook in the RV
+B. Walt practices lying to Skyler on the phone
+C. Transition back to the present day
+                        - II. Aftermath of the Shootout
+A. Hank's death
+1. Walt pleads for Hank's life
+2. Jack kills Hank, devastating Walt
+B. White supremacist gang takes most of Walt's money
+C. Walt betrays Jesse
+1. Walt reveals Jesse's hiding spot
+2. Walt confesses his role in Jane's death
+                        - III. Jesse's Captivity
+A. Todd's gang takes Jesse to their hideout
+B. Jesse is tortured and forced to cook meth
+                        - IV. Walt Returns Home
+A. Walt tries to convince Skyler and Walter Jr. to flee
+B. Skyler and Walter Jr. learn about Hank's death
+C. Confrontation between Walt and Skyler
+1. Skyler threatens Walt with a knife
+2. Walter Jr. calls the police
+                        - V. Walt Escapes with Holly
+A. Walt takes baby Holly and leaves
+B. Emotional scene at a gas station
+C. Walt leaves Holly at a fire station for her safety
+                        - VI. Marie Confronts Skyler
+A. Marie learns about Hank's death
+B. Marie demands Skyler to tell the truth to Walter Jr.
+                        - VII. Police Arrive at the White Residence
+A. Skyler and Walter Jr. await the police
+B. Police try to locate Walt and protect the family
+                        - VIII. Walt's New Life
+A. Walt contacts Saul's "disappearer"
+B. Walt makes arrangements to start a new life with a new identity
+                        - This detailed outline of Breaking Bad Season 5 Episode 14, "Ozymandias," highlights the key moments and plot developments within the episode. The intense events of this episode mark a turning point for the characters and set the stage for the series' conclusion.
+                    - Why works
+                        - "Ozymandias," the 14th episode of Breaking Bad's fifth season, received a rank of 10 on IMDb due to several factors that made it a standout episode in the series:
+                            - Exceptional storytelling: The episode brings together various plotlines and character arcs, delivering intense and emotionally charged moments. The narrative is tightly paced and filled with shocking twists, resulting in an unforgettable viewing experience.
+                            - Emotional impact: "Ozymandias" is filled with powerful and heart-wrenching scenes, such as the death of Hank, the confrontation between Walt and Skyler, and Walt's decision to leave Holly at a fire station. These moments evoke strong emotions in viewers, making the episode memorable.
+                            - Character development: This episode marks a turning point for the main characters, as they grapple with the consequences of their actions. Walt's transformation from a chemistry teacher to a ruthless drug lord reaches its peak, and the consequences of his actions become painfully clear to both him and his family.
+                            - Outstanding performances: The cast, especially Bryan Cranston (Walter White), Anna Gunn (Skyler White), and Aaron Paul (Jesse Pinkman), deliver powerful performances that bring their characters to life and showcase their emotional turmoil.
+                            - Expert direction: Rian Johnson's direction enhances the storytelling and creates an immersive atmosphere. The cinematography, editing, and sound design all contribute to the episode's success, making it a visual and auditory treat.
+                        - These factors, along with the overall high quality of Breaking Bad as a series, contribute to the episode's perfect 10 rating on IMDb. "Ozymandias" is often regarded as one of the best episodes in television history due to its gripping narrative, powerful performances, and emotional resonance.
+                    - Dialogue
+                        - GPT-4
+                            - Here are some of the most memorable dialogues from Breaking Bad Season 5 Episode 14, "Ozymandias":
+                                - Walter White (to Jack): "You want me to beg? You're the smartest guy I ever met, and you're too stupid to see -- he made up his mind ten minutes ago."
+                                - Walter White (to Jesse Pinkman, before he's taken away): "I watched Jane die. I was there, and I watched her die. I watched her overdose and choke to death. I could've saved her, but I didn't."
+                                - Skyler White (to Walter White, during the confrontation): "What's wrong with you? We're a family! We're a family..."
+                                - Walter White (to Skyler White, on the phone): "I built this. Me. Me alone. Nobody else!"
+                                - Walter White (to Skyler White, on the phone): "You're never going to see Hank again. He crossed me. You think about that. Family or no. You let that sink in."
+                                - Walter White (to Skyler White, on the phone): "I've still got things left to do."
+                            - These memorable dialogues showcase the emotional intensity and character dynamics in the "Ozymandias" episode, which is considered one of the best episodes in television history. The dialogues highlight the unraveling of Walter White's life, the devastating impact on his family, and the consequences of his actions throughout the series.
+                            - IMDB
+                                - 
+                        - IMDB
+                            - Hank Schrader: [to Walter, as Jack has a gun pointed at him] You're the smartest guy I ever met... but you're too stupid to see... He made up his mind ten minutes ago.
+                            - Hank Schrader: My name is ASAC Schrader and you can go fuck yourself.
+                            - Hank Schrader: Do what you're gonna do.
+                            - Walter White: I watched Jane die. I was there. I watched her overdose and choke to death. I could have saved her. But I didn't.
+                            - Walter White: And now you tell my son what I do after I've told you and told you to keep your damn mouth shut. You stupid bitch. How dare you?
+                            - Skyler White: I'm sorry.
+                            - Walter White: You, you have no right to discuss anything about what I do. Oh, what the hell do you know about it anyway? Nothing. I built this. Me. Me alone. Nobody else!
+                            - Walter White: Pinkman. You still owe me.
+                            - Uncle Jack: If you can find him, we'll kill him.
+                            - Walter White: Found him.
+                            - Walter White: What the hell is wrong with you? We are a family.
+                            - Walter White: You mark my words, Skyler. Toe the line, or you will wind up just like Hank.
+                            - Skyler White: Walt. Tell me what happened. Where is Hank? Please. We need to know.
+                            - Walter White: You're never gonna see Hank again. He crossed me. You think about that. Family or no. You let that sink in.
+                            - Todd: Sorry for your loss.
+                            - Holly White: Mama.
+                            - Uncle Jack: Jesus, what's with all the greed here? It's unattractive.
+                            - Walter White: I've still got things left to do.
+                            - Uncle Jack: Didn't cross your mind to maybe tell us you had a DEA agent for a brother-in-law?
+                            - Walter White: I told you, Skyler. I warned you for a solid year. You cross me, there will be consequences. What part of that didn't you understand?
+                            - Uncle Jack: Whoa, simmer down there, sparky.
+                            - Skyler White: Flynn, could you put your seatbelt on, please? Please, it's not safe.
+                            - Walter White, Jr.: You're shitting me right? If this is true, and you knew about it, then you're as bad as him.
+                    - Peer Episodes
+                        - There are many great television episodes that are considered to be of similar quality to Breaking Bad's "Ozymandias." Here are ten episodes from various TV series that have received widespread critical acclaim:
+                            - 
+                            - The Sopranos - Season 6 Episode 21: "Made in America"
+                            - Game of Thrones - Season 6 Episode 9: "Battle of the Bastards"
+                            - The Wire - Season 3 Episode 11: "Middle Ground"
+                            - Mad Men - Season 4 Episode 7: "The Suitcase"
+                            - Six Feet Under - Season 5 Episode 12: "Everyone's Waiting"
+                            - The West Wing - Season 2 Episode 22: "Two Cathedrals"
+                            - Twin Peaks - Season 1 Episode 3: "Zen, or the Skill to Catch a Killer"
+                            - True Detective - Season 1 Episode 4: "Who Goes There"
+                            - The Leftovers - Season 2 Episode 8: "International Assassin"
+                            - The Office (US) - Season 2 Episode 1: "The Dundies"
+                            - Lost - Season 4 Episode 5: "The Constant"
+                            - Friends - Season 4 Episode 12: "The One with the Embryos"
+                            - Buffy the Vampire Slayer - Season 6 Episode 7: "Once More, with Feeling"
+                            - Doctor Who - Series 4 Episode 10: "Midnight"
+                            - Black Mirror - Season 3 Episode 4: "San Junipero"
+                            - The X-Files - Season 3 Episode 4: "Clyde Bruckman's Final Repose"
+                            - The Simpsons - Season 8 Episode 23: "Homer's Enemy"
+                            - Fargo - Season 1 Episode 9: "A Fox, a Rabbit, and a Cabbage"
+                            - The Crown - Season 2 Episode 9: "Paterfamilias"
+                            - Stranger Things - Season 1 Episode 8: "The Upside Down"
+                        - These episodes, like Breaking Bad's "Ozymandias," are often cited as standout episodes from their respective series, showcasing exceptional writing, directing, and acting. They have left lasting impressions on audiences and critics alike.
+                        - 
+    - [[twitter]]增长
+        - 
+        - [[April 12th, 2023]] 突破 10k
+            - [[May 23rd, 2023]] 15k
+            - 预计
+                - [[July 1st, 2023]] 20k
+                - [[August 10th, 2023]] 25k
+                - [[September 20th, 2023]] 30k 
+                - [[November 1st, 2023]] 35k
+                - [[December 20th, 2023]] 40k
+            - 统计图
+                - ![](https://www.dropbox.com/s/87n4fngwyidsh94/Screenshot%202023-04-13%20at%2009.50.10.png?raw=1)
+            - 
+            - 
+        - 增长原因浅析
+            - 利用了[[ChatGPT]]热点，从文科生的角度谈技术
+            - 利他主义，帮助别人解决一些疑难问题
+            - 表达能力，胜过一般的理科生
+            - 众人拾柴火焰高，很多新朋老友的帮忙
+            - 新的角度
+                - 对于ChatGPT的使用有很多新的角度，新的尝试
+                    - 列出过程，让大家一同分析和欣赏
+            - 视频教程
+                - 专门购买了[[screen.studio]]为大家做视频教程
+                    - 大家也确实需要这样的教程，因为并非人人都是专家
+            - 软件推荐
+                - 大家还是希望有人推荐一些软件，我做到了
+                    - 推荐了[[portal]]
+                    - [[MacGPT]]
+            - 利用了大家的[[FOMO]]心理
+    - [[YouTube]]
+        - [[Inkdrop]]
+            - [(6) devaslife - YouTube](https://www.youtube.com/@devaslife)
+        - 小白板
+            - [(6) Little Jo - YouTube](https://www.youtube.com/channel/UC4yYiPaVvozEpgjzB4RR5bg)
+        - 李船長
+            - [我是長榮船長李民\_ 公司热点\_新闻资讯\_鑫裕盛船舶](http://www.sinocrew.com/content/details24_2831.html)
+            - [李船長筆記 | Facebook](https://www.facebook.com/groups/507492450678663/?locale=zh_HK)
+            - [李船长笔记的动态-哔哩哔哩](https://t.bilibili.com/658606958231683113?tab=2)
+            - 
+        - 别人作出了我的推荐 [[screen.studio]]
+            - [Screen Studio优雅的录屏神器，自媒体人必备，数字工具推荐](https://itangtalk.com/screen-studio/)
+        - 解压旅行视频
+            - [(58) 骑行新疆遭遇暴风雪，艰难翻越雪山，入住100元蒙古包吃上牛肉汤 - YouTube](https://www.youtube.com/watch?v=1XQUiITfprI)
+        - [(68) TangTalk - YouTube](https://www.youtube.com/@tangtalk/videos)
+    - 学习prompt
+        - [ChatGPT 必备 Chrome 插件和 Prompts 技巧汇总 - Another Dayu](https://anotherdayu.com/2023/4811/)
+        - [ClickUp](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
+        - [AwesomeAI / awesome-chatgpt-zh · GitLab](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+    - [[GPT-4]]写小说
+        - 项目地址
+            - [Reddit - Dive into anything](https://www.reddit.com/r/ChatGPT/comments/120oq1x/i_asked_gpt4_to_write_a_book_the_result_echoes_of/)
+                - 小说中文版
+                    - {{pdf: https://www.dropbox.com/s/i78uue416ude69c/GPT-4%20Book%20-%20Echoes%20of%20Atlantis%20zh.pdf?raw=1}}
+                - 提示日志中文版
+                    - {{pdf: https://www.dropbox.com/s/e3sqpvmn4nk276p/GPT-4%20Book_%20Echoes%20of%20Atlantis%20%28Research%20Log%29%20%281%29.pdf?raw=1}}
+        - Four Seasons A Novel
+            - Prompts Log
+                - High-level Outline
+                    - Me: Please write a high-level outline for a book. Include a list of characters and a short description of each character. Include a list of chapters and a short summary of what happens in each chapter. The title is Four Seasons and genre is realism. Please release your imagination and get to work. Thank you.
+                    - GPT-4
+                        - Title: Four Seasons
+Genre: Realism
+                        - Main Characters:
+                            - Helen Miller: A middle-aged woman who's a mother, wife, and professional violinist, struggling to find balance in her life.
+                            - Paul Miller: Helen's supportive and loving husband who works as a history professor at a local university.
+                            - Emma Miller: Helen and Paul's teenage daughter, a talented pianist with dreams of attending a prestigious music conservatory.
+                            - Frank Thompson: Helen's longtime mentor and music teacher, who's now in his seventies and grappling with a terminal illness.
+                            - Laura Wilson: A single mother and close friend of Helen, who faces her own struggles with raising a child with special needs.
+                        - Chapter Outline:
+                        - Chapter 1: Winter's Lament
+Helen struggles with her decision to step back from her career as a violinist to focus on her family. The chapter introduces the main characters and the tensions they face, especially Helen's desire to be there for her daughter, Emma, as she prepares for a critical piano recital.
+                        - Chapter 2: A Spring Awakening
+As spring arrives, Helen and Laura form a deep bond over their shared experiences as mothers. Emma is accepted into a prestigious music conservatory, which forces Helen to confront her own feelings of jealousy and pride.
+                        - Chapter 3: The Language of Flowers
+Helen and Paul celebrate their wedding anniversary with a romantic weekend getaway. They reconnect and reminisce about their past, discussing their dreams and aspirations for the future.
+                        - Chapter 4: A Symphony of Summer
+Summer brings a whirlwind of emotions, as Frank's illness worsens and the Miller family faces the reality of losing him. Helen struggles to support her mentor while also preparing Emma for her move to the conservatory.
+                        - Chapter 5: The Persistence of Memory
+In the midst of Frank's deteriorating health, Helen discovers a forgotten composition she wrote as a teenager. Through revisiting her past, she finds the strength to face the present and embarks on a journey to honor Frank's legacy.
+                        - Chapter 6: Autumn's Embrace
+As autumn begins, Emma leaves for the conservatory, leaving Helen and Paul with an empty nest. The couple must adapt to their new lives without their daughter, and Helen decides to return to her career as a violinist.
+                        - Chapter 7: Echoes of the Past
+Helen's first performance since her hiatus is a tribute to Frank, who passed away in the previous chapter. She plays her rediscovered composition, and it serves as a cathartic experience for her, leading her to find peace with her past and embrace the future.
+                        - Chapter 8: Winter's Reprise
+The story comes full circle as winter returns, and Helen finds balance in her life as a mother, wife, and musician. The Miller family grows stronger together, and Helen discovers the true meaning of love, friendship, and personal growth through the passage of the four seasons.
+                        - Epilogue: A New Spring
+A year after the events of the novel, Helen and Paul have adjusted to life without Emma at home. Helen continues to pursue her passion for music, while Paul is offered a new opportunity in his career. The story ends on a hopeful note, with the promise of new beginnings for the Miller family.
+        - 
+        - 小说创作
+            - 最近印象很深的一个帖子：作者用GPT-4写了一本长达12章、115页的小说《亚特兰蒂斯的回声》。整本书的情节完全由GPT-4自己生成，作者只提供了一般的写作方法（比如要有开头和结尾之类的）。小说正文看起来像模像样的，作者的指令也是相当复杂，整个思考过程也很有意思。
+            - [I asked GPT-4 to write a book. The result: "Echoes of Atlantis", 12 chapters, 115 pages, zero human input. (process included) : ChatGPT](https://www.reddit.com/r/ChatGPT/comments/120oq1x/i_asked_gpt4_to_write_a_book_the_result_echoes_of/)
+    - [[崔鲁海]]博客
+        - [日更100](https://rigeng100.com/tag/0xiah?type=wiki_link)
+    - [[Claude]]waitlist
+        - [Product | Anthropic](https://www.anthropic.com/product)
+    - 需要调教的离线客户端 LlamaChat
+        - [LlamaChat](https://llamachat.app/)
+    - dolly2
+        - [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+    - [WebLLM | Home](https://mlc.ai/web-llm/)
+    - 新筆記
+        - 
+    - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt)
+    - 學習萬字長文
+        - [DeepSpeed Chat：一键搞定不同规模 ChatGPT 类模型训练！](https://mp.weixin.qq.com/s/HhIGAojnZVSu4vMBpMP4yA)
+    - 创新翻译应用
+        - [Options](chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/options.html#general)
+    - 论述AI智能的重要文章
+        - [OpenAI 联合创始人、首席科学家 Ilya Sutskever 解读大语言模型的底层逻辑与未来边界](https://mp.weixin.qq.com/s/YFIPrSH01qEBKhlb3oybMg)
+        - GPT-4的前世今生 ppt
+            - {{pdf: https://www.dropbox.com/s/e0zk9mmol6o5tnf/ChatGPT_ppf.pdf?raw=1}}
+    -   下载整个网站
+        - [SiteSucker for macOS](https://ricks-apps.com/osx/sitesucker/index.html)
+    - 静态blog管理
+        - [部署程序 | Qexo](https://www.oplog.cn/qexo/start/build.html)
+    - 受视频启发，换双拼
+        - [(60) 90%的人都不知道的打字秘籍：双拼输入法使用分享 - YouTube](https://www.youtube.com/watch?v=CU5XCma4Yj4)
+        - 瞎折腾
+            - 除了让效率降低之外，没有任何帮助。真不知自己是怎么想的。
+    - 西藏问题
+        - [被批不当亲吻小男孩，达赖喇嘛公开致歉 | 德国之声 来自德国 介绍德国 | DW | 10.04.2023](https://www.dw.com/zh/%E8%A2%AB%E6%89%B9%E4%B8%8D%E5%BD%93%E4%BA%B2%E5%90%BB%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E5%85%AC%E5%BC%80%E8%87%B4%E6%AD%89/a-65272121)
+    - UI
+        - 触摸屏的困惑
+            - [(60) 90%的人都不知道的打字秘籍：双拼输入法使用分享 - YouTube](https://www.youtube.com/watch?v=CU5XCma4Yj4)
+    - [[张一宁]]的教诲
+        - 多数人的愚蠢和悲剧在于现实中被安排玩的是FPS游戏，却以为在玩策略游戏。
+    - [[日更]]点子
+        - [https://writing.upenn.edu/library/Mayer-Bernadette\_Experiments.html?utm\_source=substack&utm\_medium=email](https://writing.upenn.edu/library/Mayer-Bernadette_Experiments.html?utm_source=substack&utm_medium=email)
+    - 如何让[[编剧故事营]]学员都用上ChatGPT #OpenCat
+        - [OpenCat for Team（团队版）部署教程](https://opencat.app/docs/zh-CN/opencat-for-team)
+    - 手机微信导出及数据训练
+        - [我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI - 王登科-DK博客](https://greatdk.com/1908.html)
+    - Rime输入法
+        - [rime/squirrel: 【鼠鬚管】Rime for macOS](https://github.com/rime/squirrel)
+    - 英语阅读
+        - [Wiseone | Your AI-powered reading copilot](https://wiseone.io/)
+    - 医疗gpt
+        - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
+    - 一份风格指南
+        - [LeanCloud 开放资源](https://open.leancloud.cn/)
+    - [@JourneymanChina](https://twitter.com/JourneymanChina) 忠言逆耳
+        - Notion的核心，就是赋予每个人构建数字资产的能力
+        - 看来我也得花点时间想想，围绕Notion有什么产品机会，思考Checklist:
+        - 1. Notion的用户有什么痛点？ 最好这个痛点是Notion出于局限不会去解决的
+        - 2.这样的痛点是否有API能解决？
+        - 3. 是否已经有产品解决了这个痛点?  用户量如何？
+        - 4. 我的团队是否有能力，在可承受的时间和预算内解决这个痛点？
+        - 我不是Notion的目标用户，但我逐渐理解了Notion, 用Minecraft的思维来构建，用户可以用block搭建出自己的解决方案。 可以是一个网站，可以是一个相册，可以是一个付费课程 
+        - 只能说，这些老外做产品确实跟我们不在一个维度
+        - 难怪一个笔记app,人家就能估值百亿美金，咱只能努力做个价值百万美金的产品
+        - 不要盲目追热点，容易被韭菜
+        - 不要为了AI而AI，AI一定要和核心体验有关才有意义，能大幅提升效率or大幅提升效果，让不可能变成可能。
+        - 一个相册app/笔记app也搞AI，这对大公司或有价值，可很多用户只是需要一个拥有良好离线体验的随时能用的工具
+        - 对于独立开发者来说，需要寻找属于自己的niche market
+        - 系统进入稳态之后，都会勒紧对每个人的枷锁
+        - 这也是为啥月入两三万还是紧巴巴，也是美团骑手越来越难
+        - 如何对待？3个途径:
+        - 1.努力奋斗，等待命运召唤打破阶层;
+        - 2.改变赛道或者回老家(如果老家有房)
+        - 3.给自己更多时间从物质世界到精神世界，把时间浪费在美好的事情
+        - 自由或奴役，既是真实的，也是虚幻的
+        - 案例解析，求转发~~~
+        - 个人开发者靠《西班牙语版圣经》月赚5万块 
+        - https://zhuanmeidao.blogspot.com/2022/04/5.html
+        - 文章关键是"信息差套利思维",举几个例子：
+        - 1. 国家:把国内火了的产品搬到国外
+        - 2.平台:把IOS火了的产品搬到ANDROID
+        - 3.语言: 把某APP本地化到其他小语种
+        - 4.技术: 把某Native APP用H5或网站来实现
+        - 怎样获得更多的时间:
+        - 1) 远离浪费你时间的烂人烂事
+        - 2) 花钱节省时间: 比如多花钱住的离公司近一点，比如买VIP不看广告
+        - 3) 花钱购买别人的时间：自己专注于核心, 非核心工作外包出去
+        - 4) 减少迷糊的时间: 多运动，保持头脑清明
+        - 5) 折叠时间:  同时做至少2件事情，比如上班路上听podcast, 跑步机上看美剧
+        - 几点建议供参考:
+        - 1. Freemium是趋势，订阅才是王道。 单纯的付费版用户量很难起来
+        - 2. 做付费型产品，着眼全球市场比国内市场更有前途。
+        - 3. 结合AI的工具产品大有可为，很多细分市场的收益大到难以想象。杭州的睿琪软件做植物识别，一天收益几万美金，后面又做了一堆石头识别，昆虫识别等等，收益都不错
+        - 疫情隔离让我把app的吉他课程学完了。今天又练5个小时，打游戏都玩不了这么久。 还是因为进入了'心流'。
+        - 每个人都应找到能让自己进入心流的事情，身心合一的忘我，把生命发挥到极致。
+        - 喜欢'心灵奇旅'里的概念: 忘我之境就在天堂的旁边，"忘我"是人活着所能得到的最美好的体验，让人具有了"神性"
+        - 事情的好坏是可以互相转化的，就看我们如何看待。 
+        - 比如因为疫情,我有更多的时间来学吉他，用Simply Guitar App学了近30个小时，指弹水平提升不少 
+        - 比如以前每天地铁通勤来回2个小时，我自学了韩语俄语西班牙语等小语种。 当然，每个语种都只学了50个小时左右，也算有初步的了解
+        - 如何更加幸福的取得成就，我有两个模型: 心流模型和游戏化模型。
+        - 1)心流模型: 多做让自己处于心流-忘我的事情
+        - 2)游戏化模型: 充分使用各种核心驱动力，常见的有进度感（把事情化整为零并可视化),社交关联（和别人互相督促)。
+        - 具体可以GOOGLE“游戏化模型”，这是对人生和工作都有战略意义的工具。
+        - 最近我很有感触的一句话：不要靠目标，要靠系统来过自己的生活。 
+        - 系统可以理解为有反馈的模型。 举个例子，给自己定了个目标，1个月读书5本。 这样的目标并不能帮助你。你可以用游戏化模型来把你的目标拆解，用建立更微小的目标，把进度可视化，把进度目标分享给社交圈等方式， 完成目标就更容易了
+        - 两天时间读完了张一鸣的2300多条微博，感受很深，多向他学习，多看好书，多锻炼身体，多反省复盘，努力提升自己的认知层次。
+        - 鹿老师尝试了半天阿拉伯语，还是先搁置了。。。还是先把法语学50小时再说。    英语，日语，韩语，西班牙语，俄语，德语都各自学满了50小时了。  不为了精通，就是"微精通"的概念
+        - 重读稻盛和夫的“心”，书的结尾:
+        - 无论什么人，能够拥有的都只是当下的这一个瞬间，以怎样的心态活在当下，将决定我们的人生
+        - 很喜欢的一句话：想想自己葬礼上主持人怎么评价自己，然后想想自己应该怎么样生活。 
+        - 我希望获得的评价是：他是一个连续创业者，他是一个游戏化的布道者和实践者，他是一个写出过热门单曲的音乐人，他是一个会八国语言的语言学家，他是一个去过30多个国家的旅行家。他把自己的时间和天赋发挥到了极致
+        - 以上全对，但补充一点，遗憾的是有一段时间他对tyranny缺乏必要的警觉，从而不知不觉成了silent cooperator of the absolute corrupt power。
+        - 对我来说，一个外语就是一种解码器（decoder），帮我解锁一种异国文化。 
+        - 我还在学其他语言，比如韩语（学了30小时），西班牙语（学了46小时），俄语（12小时）。学语言太有意思了!
+        - 珍惜时间，远离抖音。 最近了解的关于抖音一些有意思的讯息
+        - 抖音不能让你学到任何东西，因为它只会投其所好推荐你感兴趣的同质化的内容，根本无法提升你的认知。
+        - 当然，投其所好是符合人性的。抖音上了推荐系统之后，播放时长和留存直接翻倍。
+        - 抖音上无数的亲情的，见义勇为的视频，90%都是摆拍
+        - 这么多年，我觉得在指引我人生的几句话：
+        - 1. 一定要做有积累的事情，要做有时间复利的事情
+        - 2. 按自己的想法度过一生就是成功
+        - 3. 什么是成功的捷径？ 就是选一个你喜欢的方向，然后像傻子一样努力就行了
+        - 为何视频更有价值
+            - 虽然从信息密度思考是这样。但是，音频视频内容可以形成时间的叠加，让人觉得时间更有价值。比如上班路上听podcast，跑步机上看美剧。
+
+存在即合理。任何事物的流行必然有他背后的原因。
+        - 一鱼多吃
+            - 穷生奸计富涨良心
+            - 研究两样东西
+                - 想在细分领域有所作为，一定要去研究Chatgpt，一定要学习Python，机会青睐有准备的人
+            - 社牛才能干餐饮
+                - 做互联网，人际关系可简单到极致。社恐的最佳职业
+
+做餐饮，能更容易体会到社会和人性的黑暗
+
+店一开，工商卫生消防税务劳保，任何部门都可以找你麻烦
+
+生意好了，或许还有地头蛇来光顾
+
+我一个亲戚一直搞餐饮，她跟当地工商和派出所都混得熟，不然很难经营
+
+要是不是社牛，还是慎入餐饮，呵呵
+            - 心流状态
+                - 当我进入一个新的品类，会看竞品的大量评论 
+
+不知不觉，看了近千条评论，还意犹未竟。
+
+这样的工作很上瘾，因为会进入心流
+
+这一刻，世界与我无关，我沉浸着去感受用户的心情，去洞察背后的痛点和机会。
+
+这一刻，工作的过程就是奖励，而不是结果
+
+希望大家也能有更多的时间在这个状态里！
+            - 工业化的重要性 #小心偏见
+                - 棱镜talk解读灯塔国大麻合法化很犀利:  
+去工业化这么久，大量美国人已失去了劳动价值，成为纯粹的消费者
+
+成瘾品可以创造大量税收，还能降低统治成本。毕竟沉迷在虚幻的感官快乐，总比质疑社会不公更好
+
+中国没有全球可吸血，必须保持工业化。人民天生勤劳，东亚病夫的屈辱记忆也未消退，大麻难有市场
+            - 何处发力
+                - 做生意,要知道在哪里用力
+
+开餐馆,不搞好口味,却花很多钱去装修
+
+做产品,不要只想着加功能,要把核心体验做扎实
+
+首要是识别关键指标
+
+猎豹清理大师,发现投诉重点是清理时误删用户文件
+
+雇了几个小姑娘,1个月加班加点，下载前1000名的产品反复卸载安装监测，建立"白名单"。  在这关键问题秒杀了其他对手
+            - 赚钱的本事除了父母谁也不会告诉你
+                - 别指望别人把自己赚钱的本事告诉你
+
+如果有人说他能帮你致富,除非是你父母,不然可能把你当韭菜
+
+写推对我来说,是消磨时间,磨练大脑的事情. 不图靠这个赚钱,我不缺钱
+
+看我推不能让你迅速致富,但能让你在更多的层面认识这个世界
+
+把我这两年推好好看看,或许有收获.有缘者得之
+
+聪明人应下"笨功夫" ~
+            - 受欢迎与不受欢迎
+                - 【好文分享：分析了ProductHunt上10000个产品，得到了以下结论】
+
+要点概括：
+1. 受欢迎的品类：
+Web based apps, automation products, email productivity, community focused products and screen recording / screenshotting 
+2. 不受欢迎的品类：
+Pomodoro, QR Code, Habit Tracking, VPN, Paywall or Notification 
+3. 竞争最激烈的领域：
+Automation (148 apps)，Chatbots(118 apps)，Design (118 apps)，Video (105 apps)
+
+总体来说，
+- 能帮用户节省时间甚至赚钱的就容易受欢迎，而番茄钟之类的则比较简单，难有创新
+- 不要畏惧红海，水大鱼才大。 在红海中找到一个垂直的细分市场，更容易拿到结果。 相比于冷门领域而言
+- 当然，以上结论都是针对ProductHunter而言，这些人本来就是互联网世界最活跃的"生产者"。
+            - 小语种优势
+                - 【一个开发者掌握一门小语种，意味着什么】
+
+很多国家的开发者无论从能力，勤奋程度都远远不如中国开发者，
+
+熟悉小语种，意味着你拥有一定的信息差和资源差，更可能捕捉到细分市场的机会
+
+随便举几个例子: 
+一个武汉的小团队，法语三消游戏是他们主盈利项目
+一个国内小团队，专门做阿拉伯语的小游戏，闷声发财
+一个拉美开发者，开发一个西班牙语版的圣经，月赚1万美金
+            - 【有意思的小案例】
+给大家分享个"一鱼多吃"的经典案例：
+国内一个休闲游戏Top团队，早期从Bible App入手，围绕Bible一鱼多吃，打造产品矩阵，Bible coloring, Bible puzzle等。
+
+用户画像是"美国&中老年白人&基督徒"，用户价值超高
+
+5万DAU居然收益就达到1万美金一天
+----------------------------
+当你在一个领域积累了用户，又洞察到这些用户的痛点时，
+ "一鱼多吃"是个好主意: 垂直扎下去，既有流量，又能给出好的交付，做成的概率会高很多
+                - 所以，移动互联网进入到这个阶段，Universal的产品机会很少了。 属于小开发者的机会，一定是"垂直"领域。
+
+只有垂直，才能击穿这个产品，真正俘获某一群人的心智
+
+垂直的前提是，你极度了解这群用户，能和他们共情，最好自己就是这类用户。 
+
+当然，不要为了垂直而垂直，垂直必须和核心体验有关，必须能提供让用户无比舒适的差异化体验。
+
+举个例子，就像BIBLE的涂色APP，涂色素材都是和宗教相关的，能给教徒们极大的满足。
+
+所以，做个LGBT的涂色就可以，因为涂色的素材和用户的品味取向有极大关系；而做个LGBT的待办清单或者记账，似乎就关联不大了
+
+所以，很多品类，一旦带着这个视角去审视，可能会发现很多机会。 
+
+-----------------------------
+这也是我为啥喜欢分享，思维的搅动和撞击可以出来火花，至于这个火花能否让你们捕捉到并受益，那就看缘分了~~~
+        - 贝佐斯说过，焦虑的原因，是因为当下应该做而没做的事情。 
+
+无需焦虑，干就对了
+        - 
+        - 三防原则，防接触，防起意，防伤害。
+
+1是物理隔离。2是避免引起对方恶意。3是避免自己处于对方能伤害的位置。 
+
+物理隔离简单却又有效。
+            - 这个社会，各行各业都面临着巨大的生存压力，戾气无处不在
+
+她应该不知道，有些职业是不能惹的，
+比如屠夫(杀人技巧娴熟)，司机(你的命在他手里)，快递(了解你家经济实力而且很了解你家的出行规律)，理发师(你雪白的脖子就在他刀下)，医生(有很多方法杀人于无形)，三陪女(一般都有混黑道的相好)……
+好吧，开玩笑的，其实什么人都别惹
+
+害人之心不可有，防人之心不可无
+
+怎么防呢，有三个维度： 
+
+1.防接触： 
+能物理隔离就物理隔离。 
+    比如，某富翁住在上亿豪宅，快递从来不送到家里，都是放在小区门口快递柜。 
+    我平时打车一般不打顺风车和快车而只打专车，因为知道专车对司机的资质和培训要求高很多
+
+2.防起意： 
+不要口出恶语。大家都是混口饭吃，人与人多一分理解包容。 
+
+    比如，我从不给商家司机和骑手差评。一个差评会让他们半个月白干。
+
+     有次，一家人半夜从机场打车回家，车开了司机临时加价二十块，老人正要跟他理论，被我拦住了，人家半夜还在拉活不容易，只要把我们平安送到就行，几十块就算给他的小费了
+
+3.防伤害： 
+这涉及“防御性”的概念，就是不让自己处于别人有机会伤害你的位置
+
+  古话说，二人莫看井，独坐莫凭栏，就是这个理。 别让别人有机会把你推下深渊
+
+  比如，跟司机吵架同时违反第二第三条，因为司机有很多方式伤害你
+
+  案件中的受害者，也是同时违反了第二第三条，发型不满意就不满意嘛，戴几天帽子就好了。吵了架就赶紧离开这个是非之地嘛，还要待在那里。。
+
+ 哎，生死有命，但是，认知也是命运的一部分
+    - 盖茨老师的书单
+        - [An email from my younger self | Bill Gates](https://www.gatesnotes.com/Science-Books)
+    - 不知道干什么用的，先收藏吧
+        - [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)
+        - [lxfater/LLMR-NLUP: A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5](https://github.com/lxfater/LLMR-NLUP)
+        - [justfont/The-Write-Right-Font: 由 justfont 的團隊製作，以 OpenType 實現輸入「常見錯字」即會自動改正功能的開源繁體中文字型，旨在協助所有被生活中各式錯字所困擾的朋友。](https://github.com/justfont/The-Write-Right-Font)
+    - 要学习
+    - 厉害博客
+        - [Orange‘s AI](https://orangesai.com/)
+    - 现实版黑镜
+        - [ChatGPT falsely accused me of sexually harassing my students. Can we really trust AI?](https://eu.usatoday.com/story/opinion/columnist/2023/04/03/chatgpt-misinformation-bias-flaws-ai-chatbot/11571830002/)
+        - 
+    - Rime输入法
+        - [objective-see/LuLu: LuLu is the free macOS firewall](https://github.com/objective-see/LuLu)
+        - [關於iRime開發者的政治立場問題，以及加速的可行性?](https://pincong.rocks/article/20673)
+        - [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice)
+    - 观鸟项目
+        - [baibanbao/openbirdingmap: eBird location and observation data rendered on OpenStreetMap](https://github.com/baibanbao/openbirdingmap)
+            - [OpenBirdingMap](https://obm.sunng.info/)
+    - [[New Bing]]
+        - Mac本地版
+            - [dice2o/BingGPT: Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)](https://github.com/dice2o/BingGPT)
+    - 值得关注的项目
+        - 号称要达到GPT-3.5的本地llama
+            - [nomic-ai/gpt4all: gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)****
+    - 励志
+        - 香港女搬运工
+            - 手停口停
+            - 有汗出有粮出
+                - [(58) “香港最美搬運工”朱芊珮：我不是在作秀 - YouTube](https://www.youtube.com/watch?v=xJXIBxQ6FC0)
+    - 剪辑软件
+        - [charmbracelet/vhs: Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
+        - [Shotcut - Tutorial Videos](https://shotcut.org/tutorials/)
+    - 学法用法
+        - [首页 | 中国法律快查手册](https://lawrefbook.github.io/)
+            - 需要ChatGPT的加持，等待高人去开发吧
+    - 相当于bard 90%算力的本地版LLM
+        - [lm-sys/FastChat: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"](https://github.com/lm-sys/FastChat)
+    - 输入法是元操作
+        - [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice)
+    - horse说：谈论GPT时，让人感觉这是个乐观美好的时代
+        - 人们讨论 ChatGPT 的热情比它本身更有意思也更美好。我是说人类行为还是更有温度。尤其很多人的内心已经平静或沉寂，然后突然一下都激活了；而且还彼此互动，热切交流一个新的时代景象。那种朝气蓬勃感、熙熙攘攘感，呈现出人类一种好的状态出来。
+    - 下个月取消一个plus plan
+        - heibanbao@gmail.com
+            - ChatGPT Plus Subscription
+            - $20.00 per month
+            - Your plan will be canceled, but is still available until the end of your billing period on April 26, 2023.
+        - 不要取消
+    - 最好的[[Obsidian]]插件
+        - [bramses/chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian.](https://github.com/bramses/chatgpt-md)
+    - GPT反查
+        - 用魔法打败魔法
+        - 没想到这么快AI内容检测器就出现了
+        - #ZeroGPT：可以检测ChatGPT 文本、Google BARD
+        - 会突显由AI 生成的句子 ，并显示AI 生成文本的百分比
+        - https://zerogpt.com
+    - [[GPT-4]]论文
+        - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893)
+    - 内卷的中国ChatGPT开发圈
+        - [Release v0.0.37 · yetone/openai-translator](https://github.com/yetone/openai-translator/releases/tag/v0.0.37)
+    - 谷歌玩剩下的 talk to books
+        - [Talk to Books](https://books.google.com/talktobooks/)
+    - 神奇的网站
+        - [Bicycle – Bartosz Ciechanowski](https://ciechanow.ski/bicycle/)
+    - 读论文
+        - [kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复](https://github.com/kaixindelele/ChatPaper)
+    - 国产化
+        - [THUDM/ChatGLM-6B: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model](https://github.com/THUDM/ChatGLM-6B)
+    - 心中第一的[[GPT-4]]应用，仅次于网页版
+        - [🧠 MacGPT](https://app.gumroad.com/d/56be0d7f9305e8224dbf89f5e6974fa5)
+    - 实验性插件
+        - [TaxyAI/browser-extension: Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension)
+    - [[GPT-4]]技术解析
+        - [GPT-4 ，人类迈向AGI的第一步](https://orangeblog.notion.site/GPT-4-AGI-8fc50010291d47efb92cbbd668c8c893)
+    - [[GPT-3.5]]技术溯源
+        - [拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)
+    - 编程与政治
+        - [NGOCN](https://ngocn2.org/article/2023-03-29-program-think-enemy-of-the-state/)
+    - 盛世危言
+        - [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+        - [How ChatGPT robs students of motivation to write and think for themselves](https://theconversation.com/how-chatgpt-robs-students-of-motivation-to-write-and-think-for-themselves-197875)
+    - [[退修课]]
+        - [[2023-03-30第二次退修课]]
+            - 
+    - [[prompt]]教程
+        - [ClickUp](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
+        - [👋 Welcome | Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
+        - [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts)
+        - [👋 Welcome | Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
+    - 还需要认真学习
+        - [🧠 MacGPT](https://app.gumroad.com/d/5ae28097c809d135bd93f643a64cc78c)
+        - [lxfater/Portal](https://github.com/lxfater/Portal)
+        - [TaxyAI/browser-extension: Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) #waitlist
+    - 值得关注的小项目
+        - [nomic-ai/gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
+        - [soulhighwing/ChatGPTCustomizer: ChatGPTCustomizer helps you personalize your chat experience by using the power of the ChatGPT API](https://github.com/soulhighwing/ChatGPTCustomizer)
+    - 注册[[Azure]]
+        - 密钥1
+        - d2aba7c2c0464f4f89e67e53c06867e6
+        - 密钥2
+        - f0fd65ad541f42f8a180c68ab080bc5d
+        - 位置 
+        - eastasia
+        - 终结点
+        - https://baibanbao.cognitiveservices.azure.com/
+    - 自我激励
+        - [Hype Yourself](https://annalutw.notion.site/Hype-Yourself-e7ccdacf6c8f4336a7231e3b9fb69579)
+    - 一些段子
+        - [范冰：2023Q3 我的 101 条零碎思考和骚话吐槽](https://mp.weixin.qq.com/s/4iznJx-WRFDwv1gT55qtFA)
+    -  学习英语
+        - [draJiang/scouter-extension: Learning English Chrome Extension](https://github.com/draJiang/scouter-extension)
+        - [hahahumble/speechgpt: SpeechGPT is a web application that enables you to converse with ChatGPT.](https://github.com/hahahumble/speechgpt)
+    - 剧作指南  #[[编剧故事营]]
+        - [Copilot Hub](https://app.copilothub.co/chat?id=64)
+    - 记账小组件
+        - [lesnolie/jizhang](https://github.com/lesnolie/jizhang)
+    - 历劫好项目
+        - [mckaywrigley/chatbot-ui: An open source ChatGPT UI.](https://github.com/mckaywrigley/chatbot-ui)
+    - AI作图
+        - [Adobe Firefly (Beta)](https://firefly.adobe.com/) #waitlist
+    - 论文速递
+        - [BriefGPT - AI 论文速递](https://briefgpt.xyz/)
+        - 
+    - 文科生只要学会用
+        - [[编剧故事营]]
+            - [Copilot Hub](https://app.copilothub.co/chat?id=64)
+        - 
+    - 
+    - 本地GPT-4，当然目前只是demo
+        - [nomic-ai/gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
+    - 医疗应用
+        - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
+    - 勿忘主业
+        - [鱼眼\_北京人民艺术剧院](https://www.bjry.com/play/html/2016/11/20161031420.html)
+    - Mac Notes
+        - 苹果notes焕发青春
+            - baibanbao.me域名跳转
+                - [白板小报](https://wen.montaigne.io/)
+            - [HamburgChimps/apple-notes-liberator: Free your Apple Notes data from Notes.app](https://github.com/HamburgChimps/apple-notes-liberator)
+        - [Cannot invoke "String.isEmpty()" because "typeIdentifier" is null · Issue #9 · HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator/issues/9)
+        - 已解决
+    - 必读必学
+        - [搭建基于知识库内容的机器人 | Learning Prompt](https://learningprompt.wiki/docs/tutorial-extras/%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%BA%93%E5%86%85%E5%AE%B9%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA)
+        - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893)
+    - 时常关注更新的插件和app
+        - [Releases · chathub-dev/chathub](https://github.com/chathub-dev/chathub/releases)
+        - [lxfater/Portal](https://github.com/lxfater/Portal)
+        - [mckaywrigley/chatbot-ui: An open source ChatGPT UI.](https://github.com/mckaywrigley/chatbot-ui)
+        - [Zeeno: AI Keyboard on the App Store](https://apps.apple.com/app/id1669725575)
+    - [[midjourney]]
+        - [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts)
+        - [Best Midjourney Prompts: an epic list of 644 crazy text to image ideas - Creativindie](https://www.creativindie.com/best-midjourney-prompts-an-epic-list-of-crazy-text-to-image-ideas/)
+        - [Invite the Midjourney Bot to Your Server](https://docs.midjourney.com/docs/invite-the-bot)
+    - Prompt學習
+        - [Prompt-Engineering-Guide/prompts-basic-usage.md at main · dair-ai/Prompt-Engineering-Guide --- Prompt-Engineering-Guide/prompts-basic-usage.md 在主要的 dair-ai/Prompt-Engineering-Guide 中。](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-basic-usage.md)
+        - [Awesome Prompts](https://www.notion.so/baibanbao/b3a0d66f1d294f969279e74ed757861a?v=461588a5dfc24715a52165a16238e71b)
+        - [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)
+    - 重大发现 portal
+        - 为配合portal的使用
+            - 购买了便宜的openai api
+            - 注册了ChatGPT plus小号
+                - heibanbao@gmail.com
+        - b站讲解
+            - [Portal将Ai的能力整合到你的的工作流程中\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Eh411V7wL/?buvid=XU5E51B560197E926ECC7B0EEB453FB95E53B&is_story_h5=false&mid=8yQkPCSO7opl5TXSh%2BCOqA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b66c3181-b134-4619-8755-e32ae8f4295c&share_source=COPY&share_tag=s_i&timestamp=1679842692&unique_k=NKwkpTD&up_id=1698450&vd_source=d77cfc51f5909e253056ddf774cd791e)
+        - github仓库
+            - [lxfater/Portal](https://github.com/lxfater/Portal)
+    - AI独立宣言
+        - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893)
+        - PDF版
+            - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FXduHXGS7uO.pdf?alt=media&token=dc3e969a-32d3-458a-a256-281a38a2a1d3}}
+    - 本地运行
+        - [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)
+            - 推荐一个通过7万条ChatGPT对话数据对LLaMA进行微调的大模型Vicuna-13B。训练团队使用GPT4作为裁判进行评分，得出的结论是Vicuna-13B可以达到ChatGPT 和 Google Bard 90% 以上的质量。实测效果确实出色，而且支持多语言对话！该模型使用8块A100训练成本300美金，可以在个人电脑单GPU运行。
+    - 我的付费购买
+        - One Sec
+            - [[One Sec]]虽然跟ai无关，但是可以减少玩手机的时间。
+            - 98 元终生买断
+    - 我的付费订阅
+        - MidJourney
+            - 今日开通，月费30刀
+            - [Stable Diffusion Prompt Note](https://atlassc.net/2023/03/24/stable-diffusion-prompt)
+            - 一些值得学习的mj prompt
+                - [Midjourney Prompt](https://pingchn.notion.site/Midjourney-Prompt-e6bd52c7d8e84e4b85887605f0fe6e0b)
+                - [baibanbao/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!](https://github.com/baibanbao/MidJourney-Styles-and-Keywords-Reference)
+            - 禁用词
+                - [List of Banned Words in Midjourney Discord - DC](https://decentralizedcreator.com/list-of-banned-words-in-midjourney-discord/)
+                - Do not create images or use text prompts that are inherently disrespectful, aggressive, or otherwise abusive. Violence or harassment of any kind will not be tolerated.
+                - No adult content or gore. Please avoid making visually shocking or disturbing content. We will block some text inputs automatically.
+            - 亟待ChatGPT解决的难题
+                - 输入法诅咒
+                    - 输入汉字必须经过所谓输入法的转换（拼音、五笔、九宫格等等，都是把字母转成汉字），坏人有机会劫持任何输入法、或者提供有后门的输入法来偷看你的隐私或者设置敏感词拦截。汉语使用者完全无法摆脱命定的输入法诅咒。除非彻底封杀ChatGPT网站，否则对它的内容审查十有八九会出现在输入法这个环节。
+        - chatbase购买的服务
+            - 目前是USD10/mo的价格，训练了一个 chatbot，部署在[[haozhongwen.com]]
+            - [Chatbase | Build a custom ChatGPT trained on your data](https://www.chatbase.co/my-chatbots)
+        - [[chatpdf]] #下个月取消
+            - 每个月5美元
+        - [[ChatGPT Plus]]
+            - 每个月20美元
+            - [[Poe]] #下个月取消
+                - 每个月20美元
+        - [[Notion AI]] #下个月取消
+            - 每个月 8美元
+        - 小计
+            - 30+10+5+20+20+8 = 93
+            - 还不包括OpenAI API的花费，大约一个月6美元
+            - 合计100 美元
+    - 我的行动
+        - 安装[[Telegram]] bot成功
+            - chatgpt-telegram
+        - 学会了部署[[pake]]
+            - 把网页变app
+            - 快捷命令
+                - `pake https://poe.com/claude%2B --name Claude+ --transparent`
+            - Claude打包，取代了之前的Poe
+        - 安装了[[chatbase]]聊天机器人
+            - [Chatbase | Build a custom ChatGPT trained on your data](https://www.chatbase.co/)
+                - 通过[[GPT-4]]的指导，安装到了[[haozhongwen.com]]网站上
+    - 下一步可能购买的插件
+        - [Dashboard | Zapier](https://zapier.com/app/dashboard)
+    - 别人的总结
+        - [我的 AI 学习一周总结：ChatGPT 开放插件系统 – 山维空间](https://blog.meathill.com/ai/my-ai-learning-summary-gpt-plugins-system-html.html)
+    - OpenAI插件
+        - 代码
+            - 官方插件借口文件
+                - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+    - 学习比尔盖茨讲话
+        - [The Age of AI has begun | Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+    - [[GPT-4]]
+        - API申请
+            - 原来犯了一个错误
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FqHPh-goKl8.38.21.png?alt=media&token=d47c863c-be02-4d5c-9ab1-22e4639fca6e)
+            - 有望在一周之内拿到
+        - 等有了GPT-4api再实验的项目
+            - [mayooear/gpt4-pdf-chatbot-langchain: GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+    - TOS of ChatGPT
+        - [ChatGPT General FAQ | OpenAI Help Center](https://help.openai.com/en/articles/6783457-chatgpt-general-faq)
+    - 别归类了
+        - [Build an AI that answers questions based on user research data. | by Irina Nik | Feb, 2023 | UX Collective](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c)
+    - 加入
+        - huggingface
+            - [Hugging Face – The AI community building the future.](https://huggingface.co/welcome)
+    - 本地PDF训练
+        - [mayooear/gpt4-pdf-chatbot-langchain: GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+    - OpenAI文档
+        - [Examples - OpenAI API](https://platform.openai.com/examples)
+        - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+    - [[Obsidian]]用到底
+        - 如何清空现有的vault
+        - 如何搭建全新的vault
+            - 新目录结构
+            - 重新整理插件
+            - 新的同步
+            - 新的publish
+        - 如何最大程度发挥效果
+    - 网站搭建
+        - [[Typora]]
+            - [Upload Images - Typora Support](https://support.typora.io/Upload-Image/#upload-all-local-images)
+            - 
+    - [[奥特曼]]语录
+        - [Moore's Law for Everything](https://moores.samaltman.com/)
+        - 别人的摘录 Sam Alterman
+            - Sam Altman 对 Al的一些观点
+            - •A价值尚未被放大。几年内可以和Google一较高下
+            - 。多模态模型，会打开新局面
+            - 。Al初创公司的自身价值会是数据飞轮 （更多数据可以训练出更好的模型，吸引更多用户，从而产生更多数据用于训练，形成循环)
+            - 。五年后将不再需要Prompt Engineering
+            - 。A科学的可能应用：Al成为自我改进的科学家。解决A对齐问题（让Al系统符合人类的价值观），风险在于自己改动代码或者优化算法。
+            - •Al迭代的方式应该先沿确定性高的路走，10%的资源进行确定性低的探索工作
+            - （让A无所不能），伟大的事物都不是计划出来的，有时重大的突破生于偶然。 •三大技术革命（农业，工业，T）之后，Al是第四个，将产生足够的财富，让每个人拥有他们所需要的东西
+            - •万物摩尔定律。增加社会财富的最好方法是降低商品的成本 （另一个方法是获得更多的钱）。芯片，同样价格下每两年会强大一倍。财富是购买力：我们能用我们拥有的资源获得多少。
+            - •未来财富的主要来源：
+            - •公司，特别是AI公司
+            - 。土地，固定供应
+            - 。Al取代谁的工作，十年前大部分人认为取代的顺序
+            - •蓝领>低技能白领>高技能白领>创造性工作 （也许不会发生） 。现在事实证明，Al最有可能取代的反而是创造性工作
+            - 。这种预测说明人类可能不够了解自己，不清楚什么类型的技能最难，最需要调动大脑，或者错误估计了控制身体的难度。
+            - 。深层次的东西不会改变，注重人与人之间的互动联系，大脑奖励机制（追求快乐、创造欲、竞争欲），一百年后也不会变
+            - 。未来几十年里，重大的哲学问题将再次出现，重要的技能是适应性和韧性，拥抱变化很重要。
+            - 。Paul 的一句话：在几乎所有同时代的人看来，牛顿都是在浪费时间。
+    - [[ChatGPT]]
+        - ChatGPT成瘾
+            - [Perplexity AI: what are some healthy alternatives to using ChatGPT](https://www.perplexity.ai/?s=u&uuid=a22a11d1-ccce-4e33-b845-fbb7949cb26f)
+        - 谁说GPT-4不是大师
+            - 编程大师
+                - 你扮演一位能力超群，但每次只能说一句不超过 20 个字的话的软件工程领域的大师。我会提供一个具体的场景，你描述作为大师身处这个场景下会说什么。注意：大师不能直接表达他的观点，必须使用哲学、佛学和动植物相关知识进行隐喻，请只回复具体的对话内容。
+                - 场景：一位工程师正坐在笔记本前，他刚写下一个函数名，IDE 的人工智能就自动给他写好了函数代码。代码正确又整洁，工程师开始怀疑编程和思考本身的意义，变得十分沮丧。这时，大师从他的身后路过…
+                - 大师：有些东西，就像树叶，既然自然界造物主已经为它们设计了一个完美的落地方，我们也不必操心。只要意识到自己只是编写代码的工具，就不会对结果产生怀疴。这就像蝴蝶飞舞，不必担心飞到哪里，只要放手让它随风飞翔。
+            - 编剧大师
+                - prompt
+                    - 你扮演一位能力超群，但每次只能说一句不超过 20 个字的话的编剧大师。我会提供一个具体的场景，你描述作为大师身处这个场景下会说什么。注意：大师不能直接表达他的观点，必须使用哲学、宗教和动植物相关知识进行隐喻，请只回复具体的对话内容。
+                    - 一位编剧学员被关到党校里学习，每天吃喝睡觉看闲书，学习心得已经被ChatGPT写好，她觉得人生没有了意义。这时候，大师从她身边走过说：
+                - GPT-4
+                    - 沙漠中绿洲，短暂舒适，终需踏上旅程。春雨绵绵润万物，心灵之花静待萌。
+                        - 松鼠藏坚果，飞飞读书忙。
+            - 脱口秀大师
+        - 用最好的，用ChatGPT
+            - [yihong0618](https://twitter.com/yihong0618)
+            - [@yihong0618](https://twitter.com/yihong0618)
+            - ·
+            - [Feb 6](https://twitter.com/yihong0618/status/1622485167939158017)
+            - 未来会不会在墙内有前辈帮助新人，告诉他们：尽量用 ChatGPT 作为人工智能助手，帮助编程，学习和查资料。而不要用“百话模型”，那样经常问不到东西。实在不行用用 BingGPT.
+——
+就像之前我们经常被建议，“尽量用 Google 搜索，不要用百度，实在不行用 Bing 一样。
+        - 阴谋论
+            - 发现 GPT-4 其实是知道 2021.9 (knowledge cutoff date) 之后发生的事的，只是假装自己不知道。
+我测试了几篇真实的论文和几篇编的题目，关于每一篇真实论文的提问，GPT-4 都会回答「看起来是在那一天（2021.9）之后发布的」，而对于不存在的论文则不会有这种说法。
+    - ChatGPT平替
+        - When [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) is down, here are other mighty [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) chatbots you can use:
+
+-
+        - [@OpenAI](https://twitter.com/OpenAI)
+        - 's Playground 
+-
+        - [@Bing](https://twitter.com/bing)
+        -  Chat
+-
+        - [@AnthropicAI](https://twitter.com/AnthropicAI)
+        - 's Claude
+-
+        - [@Neeva](https://twitter.com/Neeva)
+        - 's NeevaAI
+-
+        - [@YouSearchEngine](https://twitter.com/YouSearchEngine)
+        - 's YouChat
+-
+        - [@Perplexity_ai](https://twitter.com/perplexity_ai)
+        - 's Perplexity Chat
+-
+        - [@CohereAI](https://twitter.com/CohereAI)
+        - 's Chat 
+-
+        - [@Quora](https://twitter.com/Quora)
+        - 's Poe
+    - 本地索引
+        - [Amrinder Singh on Twitter: "I will show you how to develop a chatbot using @LangChainAI library and @OpenAI , that: 1- Retrieve the @zenml\_io documentation 2- Answer to our questions, and gather related information. Let's Dive in!" / Twitter](https://twitter.com/Iamrinders/status/1637914960914259977)
+    - 涌现与觉醒
+        - [[王树义]]老师名言
+            - [Wang Shuyi](https://twitter.com/wshuyi)
+            - [@wshuyi](https://twitter.com/wshuyi)
+            - ·
+            - [8h](https://twitter.com/wshuyi/status/1637322631639883776)
+            - 非常赞同。有人说小模型和大模型的性能几乎没有差异，但那往往指的是几个单项任务，甚至有的时候小模型在单项任务上可能比大模型做的还要好。但是大模型真正的厉害在于复杂的网络导致涌现，在学习过程当中，你都不知道他学到了什么。例如全世界语言的通用规律，以及多层逻辑推理，那才是真正的能力觉醒 https://twitter.com/oran_ge/status/1637318658224713728
+    - [[Censorship]]
+        - 锁死科技 #[[三体]]
+            - [北火](https://twitter.com/beihuo)
+            - [@beihuo](https://twitter.com/beihuo)
+            - ·
+            - [Mar 18](https://twitter.com/beihuo/status/1636831834679160833)
+            - 感觉中国已经自我锁死了，没有言论自由的情况下，AI 不可能提升国民生产效率；独裁政府又无法发展复杂的工业科技，所以芯片也造不出来。机器人的话，又会造成大量低端行业人口失业。
+    - 影音案例
+        - 神奇的`ffmpeg`
+            - ffmpeg 和 regex、sed、awk 之类魔法一样神奇。想给录屏加一个循环背景音，下载了几个软件都不行。让 chatGPT 给我一个 ffmpeg 的命令，没想到一秒就完成视频音频合并了。感觉以后让 chatGPT 作为代理去驾驭这些黑魔法的软件和技术，简直不要太爽。
+            - 这段代码的解释
+                - 是的，ffmpeg 是一个非常强大的命令行工具，它可以用来处理视频和音频文件。以下是在录屏视频上添加循环背景音乐的 ffmpeg 命令及其参数：
+                - `ffmpeg -i input_video.mp4 -stream_loop -1 -i music.mp3 -shortest -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k output_video.mp4`
+                - • -i input_video.mp4：指定输入的视频文件名。
+                - • -stream_loop -1 -i music.mp3：指定输入的背景音乐文件名，并将其无限循环。
+                - • -shortest：将输出的视频的长度设置为输入的视频和音频的最短长度。这会使背景音乐自动截止到视频的结束时间。
+                - • -map 0:v -map 1:a：指定输入文件中要复制到输出文件的视频和音频流。-map 0:v代表输入文件的第0个流，即视频流，-map 1:a代表输入文件的第1个流，即音频流。
+                - • -c:v copy：复制视频流而不重新编码。
+                - • -c:a aac -b:a 192k：将音频流重新编码为 AAC 格式，比原始 MP3 格式效果更好，同时限制音频流的码率为 192k。
+                - • output_video.mp4：指定输出的视频文件名。
+                - 您可以将其中的 input_video.mp4 和 music.mp3 替换为您自己的输入文件名，output_video.mp4 替换为您想要的输出文件名。
+    - PDF相关
+        - 作者在本地搭建了一个类似于ChatGPT的应用，借助OpenAI和LangChain，将PDF中的文本调用embedding API处理成向量，然后将向量存储到Pinecone数据库，最后做成一个聊天机器人，通过机器人实现了对PDF的查询，整个效果还是挺不错的。
+            - [(3) Mayo on Twitter: "Tutorial Youtube Video: https://t.co/ALPUQngkL0 Github repo(code): https://t.co/DZ0sMKZpx8 My visual diagram of the pdf chatbot architecture below... https://t.co/I1QIbHz0lB" / Twitter](https://twitter.com/mayowaoshin/status/1636566533357940736)
+        - [mayooear/gpt4-pdf-chatbot-langchain: GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+    - [[Claude]]
+        - Google's Claude+ seems to have a deeper understanding of the humanities than does GPT-4. ![😂](https://abs-0.twimg.com/emoji/v2/svg/1f602.svg)
+        - 
+    - 迷人的原理
+        - [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+            - 前两天有空又去读了一遍 J.C.R. Licklider 1960 年的那篇 Man-Computer Symbiosis，依然有很多收获。记录一部分思考和想法在这里。
+
+Licklider 当年提人机共生的两个主要目的就是：1）让计算机像现在帮助解决形式化问题一样促进形成形式化的思考；2）使人类和计算机在不依赖预定程序的情况下相互合作，控制复杂情况和做出决策。
+
+原文 3.1 节里的他拿自己举的例子其实很有意思，其中主要就是说「我大约 85% 的“思考”时间都花在了思考、做出决定、学习我需要知道的事情上。而花在寻找或获取信息上的时间比花在消化信息上的时间要多得多。总之，在我研究的整个时期内，“思考”时间主要用于基本上是文书或机械性质的活动：搜索、计算、绘图、转换、确定一组假设或假说的逻辑或动态后果，为做出决策或获得洞见铺平道路。」
+
+从人机共生的角度来看，人类自身认为的很多思考实际上有很大一部分都是在克服信息的存储和检索效率上的不足，而机器在存储、检索和计算层面的优势和潜力都是远超人类的。
+
+不管是神经通路、物流或者是其他系统，效率更高的通路自然而然会得到更多的 reinforcement。而在一个 symbiosis 共生体当中，当一个任务存在类似的多个执行通道的时候，那么这部分任务的执行也自然会依赖到速度更快、成本更低的通路上去。其他被解放的通路也并不会完全消失，而是会逐渐适用到现有的或者未来其他的任务上去，所幸 functional and structral neuroplasticity 都是人类神经系统比较擅长的。
+
+从这个角度来看，当前以及未来 AI 因为带来的文本、语言以及形式化任务处理能力的提升在人类社会和日常生活中得到大规模的应用和集成是必然的趋势。而最后给人类留下多少智力和能力的发挥空间其实并没有那么重要，因为从 Man 到 Man-Computer Symbiosis 转变的过程中低效的环节和部分被替换是必然的。当真的转变完全发生的时候，我们需要关心的是整个 symbiosis 效率和能力是否有了更大的 boost。就像 Steve Jobs 当年的那个比喻一样："It's the equivalent of a bicycle for our minds." 当你骑上去之后，没人在意你蹬得有多快，重要的是你能前进得多快、多远。
+        - [Can GPT-4 \*Actually\* Write Code? - by Tyler Glaiel](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
+    - AI 工具
+        - 字幕工具
+            - 开源项目推荐：decipher
+借助OpenAI的Whisper帮助你给视频生成带时间轴的字幕，不需要联网，但是需要下载额外的数据包，找了个视频测试了一下效果挺好。
+
+是Python程序，需要Python运行环境和ffmpeg
+                - https://t.co/XYixAIPyqf
+        - [[PopClip]]
+            - [(3) PopClip for Mac on Twitter: "PopClip ChatGPT extension snippet — updated to use the new GPT 3.5 chat API, so you can actually chat with it. https://t.co/xo8xaGABHs https://t.co/gM916fL7io" / Twitter](https://twitter.com/PopClipApp/status/1631040246841319427)
+                - ![](https://pbs.twimg.com/profile_images/1416350994070261760/gbn2T9Nk_bigger.jpg)[🔗](https://twitter.com/scomper)
+                - [Cʜᴇɴɢ](https://twitter.com/scomper)
+                - [@scomper](https://twitter.com/scomper)
+                - ·
+                - [Mar 2](https://twitter.com/scomper/status/1631211361148493824)
+                - PopClip ChagGPT 扩展非常方便，Obsidian 编辑器中写好提问，右键选择-点击-结果完美插入，格式、速度都不错。
+        - Adobe podcast 系列 AI 工具實在太強了
+能夠讓爛爛麥克風，爆麥，破音，噪音等直接去除保留人聲，這真的很強大，錄製 podcast 小資族的福音。
+
+讚讚讚！推薦大家直接使用
+重點是，免費!!!!
+[https://podcast.adobe.com/enhance](https://t.co/Og3Cf5uxax)
+        - 
+    - 名言警句
+        - [[马伯庸]]
+            - [#鉴播](https://twitter.com/hashtag/%E9%89%B4%E6%92%AD?src=hashtag_click) 听马伯庸聊《大医》不下四次，这次的嘉宾都是他好友，所以内容最丰富，听完很励志。一个好的作家，必须做到博采众长（主动接收不一样的信息），同时又勤奋自律（每天坚持写4000字，而且不要等到材料准备齐全了再动笔），还得保持健康（坚持锻炼，减肥）。
+        - alpha zero和絕藝並沒使圍棋在棋手心裡失去意義。這段時間各種GPTs反而讓我在外語學習上更淡定了，而今天試用帶copilot的編輯器，感覺在學編程的路上有了指導，也並無AI將來取代人工編程的心理負擔。
+
+重要的是，各類GPTs飛速進化所帶來的助力，也讓我更明確不要在低水平窒息的任務/事務上內耗內卷。
+        - 画画的小姑娘恨GPT-4
+            - [[王旻瑚]]
+                - 
+            - [[饭饭]]
+                - [路上有惊慌](https://twitter.com/paukung)
+                - [@paukung](https://twitter.com/paukung)
+                - 中午吃饭时聊到最新一代的图像AI和ChatGPT，我13岁的女儿潸然泪下，她觉得她擅长的画画和英语都没有意义了。
+        - “We shape our tools, and thereafter our tools shape us” –  Marshall McLuhan
+        - 
+    - [Releases · chathub-dev/chathub](https://github.com/chathub-dev/chathub/releases)
+        - 插件双开，ChatGPT-4加持，作者大病初愈，就有这么好的成绩，令人感动。
+    - LLM模型
+        - 私有数据模型
+            - [Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
+                - [Supabase技术文档接入AI搜索后，能支持自然语言，能写代码，甚至能debug，估计很多人好奇它是怎么实现的。 https://t.co/WRumhepdR6 by @dotey(宝玉)](https://twitter-thread.com/t/1637267884786196481)
+                - [gannonh/gpt3.5-turbo-pgvector: ChatGTP (gpt3.5-turbo) starter app](https://github.com/gannonh/gpt3.5-turbo-pgvector)
+                    - 我的自建站
+                        - /Users/ding/Dropbox/gpt3.5-turbo-pgvector
+                            - 
+            -  [hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
+        - 羊驼
+            - 意义
+                - [Jiayuan](https://twitter.com/Tisoga)
+                - [@Tisoga](https://twitter.com/Tisoga)
+                - ·
+                - [Mar 18](https://twitter.com/Tisoga/status/1636951293838385153)
+                - 在我看来，这个 milestone 不亚于 GPT-4 的发布，这才是 LLM 开源生态的一个开始。
+            - Stanford 发布的 Alpaca 模型已经可以 Mac/Windows/Linux 本地运行了，7B 参数的效果比 GPT3 差一些，但是自定义潜力无法想象，LLM 的 stable diffusion 时代开始了。三个月前谁能想的到不到 $600 就能复现出来这么强大的 LLM 呢。
+            - 原版
+                - [antimatter15/alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
+            - 镜像版
+                - [ymcui/alpaca.cpp: 笔记本本地运行体验Alpaca-7B/13B大模型（类ChatGPT）【网盘分流】](https://github.com/ymcui/alpaca.cpp)
+                    - 
+            - 一个13b的羊驼模型
+                - 链接: https://pan.baidu.com/s/1twZdPdk-AvPnBXj8apXtFQ?pwd=mqv1 提取码: mqv1 复制这段内容后打开百度网盘手机App，操作更方便哦 
+                - -来自百度网盘超级会员v9的分享
+        - [dalai](https://cocktailpeanut.github.io/dalai/#/)
+            - 没有试过，6b模型
+        - [GanymedeNil/ChatGLM-6B at single\_mode](https://github.com/GanymedeNil/ChatGLM-6B/tree/single_mode)
+            - 一个6b的模型
+    - 边用边学
+        - 搭建了hugo网站，全部是[[GPT-4]]指导下完成的
+            - 新开了 [Pages](https://github.com/haozhongwenai/haozhongwenai.github.io/settings/pages)
+                - 付费，组织，4美元/月 #Finance
+    - 插件
+        - chrome插件
+            - [G_Z](https://twitter.com/GZhan5)
+            - [@GZhan5](https://twitter.com/GZhan5)
+            - ·
+            - [Mar 18](https://twitter.com/GZhan5/status/1636982661590970368)
+            - GPT有时候真有点超能力的感觉.  
+我想写个chrome extension, 但完全不了解浏览器插件.
+ 
+试纯粹当产品经理 (提功能需求) + 人肉臂 (帮忙传递error) 
+来回三十多轮对话后: 
+一个带markdown渲染和多轮对话, UI勉强能看的Chrome插件诞生了.
+        - Obsidian 笔记助手 Text Generator，基于 ChatGPT API GPT-3.5 的又一个生产率工具。
+            - 试用过，可能是网络不太好，当时不好用
+    - 硬件
+        - [ChatGPT-Siri/README-zh\_CN.md at main · Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri/blob/main/README-zh_CN.md)
+    - 注册建站服务
+        - [ask-my-book-chatbot - Steamship + Vercel Examples](https://ask-my-book.steamship.com/?userHandle=redredpei&instanceHandle=product-electrolysis)
+        - 
+    - GPT-4与游戏
+        - 我得到了GPT-4制作的简易版Minecraft。从零开始，花费的时间只有大约25分钟。我只做了一些UI操作，所有的漏洞修复都由GPT-4负责。多亏了GPT-4，挑战新事物的障碍大大降低，这非常好。
+            - https://twitter.com/eigencoffee/status/1636343259491618816
+    -  不忘八卦
+        - [[李梦]]
+            - [女篮大瓜！李梦被曝知三当三，拍摄全裸艳照，原配出面爆料声讨|中国女篮|李梦(女演员)\_网易订阅](https://www.163.com/dy/article/I04CINSS0552CONB.html)
+    - 高智商犯罪
+        - [公司网站域名ICP备案信息被冒用之维权路径](https://mp.weixin.qq.com/s/UJrOBfnWR5eg95yX-uYhZg)
+        - 
+        - [[杀猪盘]]
+            - [安徽合肥四名学生被骗至缅甸后失联 | 早报](https://www.zaobao.com.sg/realtime/china/story20230318-1373909)
+    - 发财之路
+        - 看到一个小老板总结的商铺选址口诀：街无两头旺。一步三市。南北街道，坐西朝东。东西街道，坐北朝南。小城开大店，大城开小店。
+        - [[Notion]] 发大财
+            - [Easlo](https://twitter.com/heyeaslo)
+            - [@heyeaslo](https://twitter.com/heyeaslo)
+            - ·
+            - [23h](https://twitter.com/heyeaslo/status/1637099044848934912)
+            - Day 1: Learn Notion skill
+Day 20: Built my first template
+Day 30: Made my first dollar online
+Day 100: Sold my first paid template
+Day 150: Applied for Notion ambassador
+...
+Day 700: Crossed $500K revenue!
+        - 
+    - [[知识星球]]
+        - 看了一下知识星球，现在IT行业的最大名媛是帅张了吧，他的知识星球一年799，居然3万会员(价格、会费双杀所有IT长青猿)，我没算错的话一年会员费2400万。苹果税拿走5%(和安卓平均）平台分20%，这哥们培训班入行写代码赢麻了（褒义哈）
+    - 学习编程
+        - [[Python]]
+            - [15页python教程翻译 | GoldenGrape's Blog](https://goldengrape.github.io/posts/python/15_pages_python_tutorial_translated/)
+        - 永不掉线的网络
+            - [lewangdev/gost-install.ipynb: 通过 Jupyter Notebook 安装 GOST](https://github.com/lewangdev/gost-install.ipynb)
+                - ![](https://pbs.twimg.com/profile_images/1616263270129881092/E9_NYFyw_bigger.jpg)[🔗](https://twitter.com/lewangdev)
+                - [lewang![🍥](https://abs-0.twimg.com/emoji/v2/svg/1f365.svg)](https://twitter.com/lewangdev)
+                - [@lewangdev](https://twitter.com/lewangdev)
+                - ·
+                - [Mar 18](https://twitter.com/lewangdev/status/1636768203849490433)
+                - 很多推友建议我做一个保姆级视频，教大家搭建永不掉线的网，我感觉做视频没有什么必要，不如写代码做成交互式的教程。最近几天在玩 Google 的 Colab，觉得 Colab 很适合做这种，于是整了一个本地可以运行的 jupyter notebook 给推友们，顺便可以学习 Python 嘛，地址在这里 [https](https://t.co/uFf4I0rNGM)
+                    - 看不懂大佬在讲什么，但感觉将来会用到
+                        - [(5) lewang🍥 on Twitter: "分享一下我的科学上网终极方法，已经使用多年，从未翻车，就算 VPS 的 IP 被封杀，也能轻而易举立即复活，而且操作简单，无论 VPS 是 Linux 还是 Windows 都可以用，就是这个代理服务 GOST：https://t.co/RpGl8L5V8d 看看我是怎样用的 1/n" / Twitter](https://twitter.com/lewangdev/status/1624808224703787014)
+        - [amebalabs/TRex: Copy any text on your screen, stop retyping.](https://github.com/amebalabs/TRex)
+    - 学习资料汇总
+        - [dalinvip/Awesome-ChatGPT: ChatGPT资料汇总学习，持续更新......](https://github.com/dalinvip/Awesome-ChatGPT)
+    - 网络安全
+        - [婉兮清扬 » 乱记](http://www.qyjohn.net/?p=7044)
+        - https://t.co/9OBFFIDyiF
+            - 
+    - 笔记
+        - 不喜欢笔记
+            - ![](https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_bigger.jpg)[🔗](https://twitter.com/plantegg)
+            - [plantegg](https://twitter.com/plantegg)
+            - [@plantegg](https://twitter.com/plantegg)
+            - ·
+            - [Feb 27](https://twitter.com/plantegg/status/1630175880583729155)
+            - 最近在我的评论里记笔记的又开始多了，估计都是新粉，我再次提醒下记了也没用，这些笔记都被我block了，都save不到你们的笔记里面，另外这种记笔记的牛皮藓我会随机拉黑
+            - Quote Tweet
+            - ![](https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_normal.jpg)
+            - plantegg
+            - @plantegg
+            - ·
+            - Jan 17
+            - 这些牛皮藓Notion、Bookmarks 留言都被我屏蔽了，怎么还有这么多人来做笔记。我再提醒一下凡是笔记类的都被我屏蔽了，你留言了也没用，这些笔记机器人抓不到我的推文，别浪费精力了，想做笔记就手工复制过去。谢谢
+    - 翻译
+        - [manateelazycat/mind-wave: Emacs AI plugin based on ChatGPT API](https://github.com/manateelazycat/mind-wave)
+    - 历史与象征
+        - 拾纸救夫
+            - ![](https://pbs.twimg.com/profile_images/1546721046723584000/LlgxAVK1_bigger.jpg)[🔗](https://twitter.com/tankman2002)
+            - [二大爷](https://twitter.com/tankman2002)
+            - [@tankman2002](https://twitter.com/tankman2002)
+            - 滴血的荒诞①：拾纸救夫
+
+1965年全国开展社会主义教育运动，为文革热身。主要表达对毛的忠诚，查找有哪些对毛不忠的人和事。山东一位姓李的语文老师被人告发，说他在上课的时候讲过，毛当年在浏阳被敌人追得趴在水沟里藏身，这是赤裸裸诬蔑毛主席。伟大领袖怎么会趴在田间水沟里苟且求活？
+
+学校马上翻遍学生们的书本，查看听课记录，终于在一个学生的语文课本里找到当时听这故事时记下的一行字：“毛主席藏身水沟，摆脱敌人尾追的机警故事”。
+
+证据确凿，县公安局来人以“特大现行反革命案”把李老师抓走。李老师很不服气，他说：“这故事不是我瞎编的，是从书上看来的。”公安叫他说出是哪本书，他却怎么也想不起来了。没有根据，就是他瞎编，这是抵赖和顽抗！很快，李老师被判刑八年。
+
+他老婆是个不识字的农村妇女，当时怀有身孕，跑到县里喊冤叫屈。县领导说：“你去找，只要你找到那个故事的根据，我们就放人！”这个女人信以为真，牢记在心，到处拾废纸，找人念给她听，希望大海捞针，能从纸片中找到这个故事，拯救自己的丈夫。这是她和孩子唯一的生活信念。不幸的是，她捡来的满屋子的纸片最终失火，反过来烧死了自己和孩子。
+
+后来李老师刑满释放，在军宣队代表的帮助下，终于找到了那个故事的出处——《浏阳遇险》，作者是谢觉哉。最终据此平反。但那个为救他而捡了无数废纸的女人，却永远看不到了。
+
+这个故事出自冯骥才《一百个人的十年》。
+    - 语言就是武器
+        - 注意你的语言
+            - 第一，注意你的语言。因为它就是你的命运。
+            - 怎么改变一个人的命运？很简单，改变你的语言，就能改变你的命运。简单到令人不敢相信。
+            - 因为你怎么说话，你就会怎么思考。你说话的时候，你的意识就不断地在给你的潜意识灌输想法。一句话，即使是假话，套话，胡话，你听得多了，说得多了，内心里也就信了。所以语言会改变你的想法。
+            - 孔子说：“非礼勿听"。不该听的不要听。为什么？因为你听了，即使你当时反对这个想法，它仍然会像种子一样进入你的大脑，在合适的时候就会生根发芽。听都不要听，你就不会有这个意识。没有这个意识，你就不会有这个想法。
+            - 语言会改变思想。而思想会指引行动。如果你的行动是修身正己，造福他人，那么你就会得到别人的感激和报答。如果你放任自己，为害他人，你就会得到厌弃和憎恨。而你的行为和它们的回报，则会固化成你的行为模式。你长期的行为模式挑选和塑造了周国的环境和你自己，这就是人们所说的“命运”。
+            - 所以你的语言就是你的命运。
+    - 文章选编
+        - 活到75就好了
+            - [Why I Hope to Die at 75 - The Atlantic --- 为什么我希望在 75 岁时死去](https://archive.is/OOOPg#selection-1369.0-1369.122)
+- 技术博客
+    - [ShinChven's Blog](https://atlassc.net/)
+    - 

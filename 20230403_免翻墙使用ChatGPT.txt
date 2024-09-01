@@ -1,0 +1,24 @@
+﻿
+ChatGPT是目前AI技术最领先的服务，但是注册、充值、使用等都需要解决翻墙、海外支付等问题，很多人可能被挡在了ChatGPT门外。
+
+我经过研究别人的教程，找到了一个方法，用我的帐号建了一个不用翻墙的ChatGPT体验站。
+
+网址是：
+
+[https://chat7.zhongwenai.com](https://chat7.zhongwenai.com/)
+
+点击链接进去，看左侧栏，左下角有个六角形的小按钮（图1）
+
+![](https://vip2.loli.io/2023/04/03/aiD4ERIsUNbwWTA.png)
+
+点开之后，右侧往下拉，找到访问码 (图2)
+
+![](https://vip2.loli.io/2023/04/03/tdLhFXmEwTcV1b2.png)
+
+输入：`caoxigongyuan`
+
+无须翻墙，就可以使用 ChatGPT了。
+
+**注：因为只是ChatGPT体验站，将来可能会中断服务，如果那样，请谅解。**
+
+祝使用愉快！

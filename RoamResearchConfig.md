@@ -1,0 +1,20 @@
+- <snip>
+    - Favorite Pages
+        - [[RoamSearchConfig]]
+        - [[Roam]]
+        - [[📽Projects]]
+        - [[[[Roam]] [[Alfred]] script]]
+    - Screenshot Categories
+        - [[Work]]
+            - [[Project 1]]
+            - [[Project 2]]
+        - [[Home]]
+            - [[Tech]]
+            - [[Fun]]
+    - Quick Capture Categories
+        - #thoughts
+        - [[work]]
+        - [[webclips]]
+            - [[Tech Log]]
+            - [[Articles]]
+- </snip>

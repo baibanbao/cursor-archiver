@@ -1,0 +1,101 @@
+- [[Gratitude]]
+- [[Day Start]] 01:58
+- Daily Tasks
+    - 回山东准备
+        - {{[[DONE]]}} 火车票
+        - {{[[DONE]]}} 网约车
+        - {{[[DONE]]}} 社区报备
+            - {{[[DONE]]}} 我爱沾化小程序
+                - {{[[DONE]]}} 5天居家隔离
+                    - {{[[DONE]]}} 通知到父母
+        - {{[[TODO]]}} 行李准备
+            - 我的行李
+                - 随身携带
+                    - {{[[TODO]]}} 两把电动牙刷
+                    - 
+                - 电子类
+                    - {{[[TODO]]}} 充电线
+                    - {{[[TODO]]}} 电动牙刷
+                    - {{[[TODO]]}} M1笔记本
+                        - {{[[TODO]]}} 笔记本充电器
+                        - {{[[TODO]]}} 充电宝三件套
+                            - {{[[TODO]]}} 充电宝
+                            - {{[[TODO]]}} 快充电器
+                            - {{[[TODO]]}} 线
+                    - {{[[TODO]]}} Intel笔记本
+                        - {{[[TODO]]}} 不必再携带充电起
+                    - {{[[TODO]]}} 手机充电线
+                    - {{[[TODO]]}} AirPods 无线耳机
+                - {{[[DONE]]}} 衣物类
+                - 
+                - 药物类
+                    - {{[[DONE]]}} 感冒咳嗽
+                    - {{[[DONE]]}} 心血管类
+                    - {{[[DONE]]}} 元宝过敏类
+                        - {{[[DONE]]}} 仙特明
+                        - {{[[DONE]]}} 眼药水
+                        - {{[[DONE]]}} 海露
+                        - {{[[DONE]]}} 诺斯清
+                - 证件类
+                    - {{[[DONE]]}} 本人身份证
+                    - {{[[DONE]]}} 元宝身份证
+                    - 
+            - #[[Jonas]]的物品
+                - {{[[TODO]]}} 主要课本
+                    - {{[[DONE]]}} 语数英(练习册)
+                        - {{[[DONE]]}} 一课一练
+                    - {{[[DONE]]}}  新加坡数学教材4-5
+                - {{[[DONE]]}} 必要课外书
+                    - {{[[DONE]]}} 我是一个兵 7本
+                - {{[[TODO]]}} 玩具
+                    - {{[[TODO]]}} 阿咪
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [《太空旅行对人类的生理与心理的影响》 (超科技现象统计局)](https://lostabaddon.github.io/#/view?f=science/spaceeffect.mu)
+    - [(27) Andrea, Matteo & Virginia Bocelli - A Bocelli Family Christmas - YouTube](https://www.youtube.com/watch?v=yCOuFxN7v-Y)
+    - #[[Roam Research]]付费教程
+        - ### **Roam for Results** [via](https://support.google.com/mail/answer/1311182?hl=en) n.convertkit.com
+            - 12:55 AM (1 hour ago)
+            - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+            - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+            - to me
+            - ![](https://mail.google.com/mail/u/0/images/cleardot.gif)
+            - Hi
+            - Hello wangpei,
+            - This is a long email and it contains the following:
+                - News about the future of Roam for Results
+                - Information on how to stay in touch with me and my future work (which might benefit you)
+                - News about an exciting new course for Tana **with invites.**
+            - ****
+            - **News about the future of Roam for Results**
+            - Last month I completed all corrections on the critical component of my thesis (no corrections on creative!) and resubmitted. With that submission, I closed a chapter of my life. I've been hanging out in academia now for five years and have very much enjoyed the journey, especially my discovery of Roam Research and meeting you and the rest of this amazing community.
+            - I've done a lot of thinking over the past few weeks about what comes next for me. I had originally planned on a suite of Roam for Results courses in the first half of 2023, but a few things happened that changed my mind.
+                - I found I really missed my creative writing and I have a novel in my head that is screaming to be written.
+                - I have a few other opportunities in the author space that, if they come through, will require a big chunk of my time.
+                - And finally, I think I need to face the fact that the tide is shifting in the TfT/PKM landscape, and as far as I can tell it's flowing away from Roam Research.
+            - As a Believer and investor, this pains me. Even though I took a look at Obsidian, Loqseq, Notion, not one of those apps could tempt me. But after a week with Tana, I think I may be migrating the majority of my work to the Tana app. I still will use Roam, but probably won't have the extensive daily usage required to create courses.
+            - I've had a ton of emails and requests for courses and coaching and I'm so sorry to let folks down. **Important - I will not be closing the existing Magical Note-taking Course. **Many in the community tell me they continually revisit the lessons so I think it's important they remain available. I will probably lower the price because I will be removing the Roam Graph that comes with the course. The Roam Depot has replaced the need for Json files, and I will put other lesson resources against each individual video.
+            - **Information on how to stay in touch with me and my future work (could benefit you)**
+            - In case you haven't guessed, I'm a pretty constant creator. There is a very strong chance I might create something in 2023 of interest to you. I will probably be doing a lot of writing and tweeting about Tana, and who knows what will come from that. I also plan on hosting intimate retreats for writers, thinkers, and creators in The Bahamas at my home [Water's Edge.](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/n2hohvhnlw4288i6/aHR0cDovL3d3dy5iYWhhbWFzcmVudGFsd2F0ZXJzZWRnZS5jb20v)
+            - If you'd like to keep in touch, please join my Substack newsletter [here](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/48hvheh07z3w5pix/aHR0cHM6Ly9sYXB0b3BsaWZlbGlzYS5zdWJzdGFjay5jb20v). I will be **closing this account **so if you'd like to stay in touch this is the only way I will know you still want to. Please do!
+            - **News about an exciting new course for Tana with invites.**
+            - Many of you know my friend Lukas from Cortex Futura. He's been one of the earliest users of Tana and has moved from Roam. He also has something I don't... **INVITES**. I was lucky enough to get a preview of the course and if you are Tana curious and want a real jump-start in understanding (it's quite a switch in thinking from the way Roam works) then you must pick up Lukas's new course [Tana Core](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/wnh2hghrl9dm54h7/aHR0cHM6Ly93d3cuY29ydGV4ZnV0dXJhLmNvbS9tYXN0ZXJpbmctdGFuYS8=). It's only $99 for many hours of content and is [available here](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/wnh2hghrl9dm54h7/aHR0cHM6Ly93d3cuY29ydGV4ZnV0dXJhLmNvbS9tYXN0ZXJpbmctdGFuYS8=). If you don't need an invite you can check out his FREE course [Tana Fundamentals](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/reh8hohqo9pk2vu2/aHR0cHM6Ly93d3cuY29ydGV4ZnV0dXJhLmNvbS90YW5hLWZ1bmRhbWVudGFscy8=). You also might want to think about signing up for Lukas's list as he is set to be the Tana expert.
+            - That's all! **I really do hope that you will come and join me over on Substack.** Again, you can [sign-up here](https://click.convertkit-mail2.com/75u02rdr56f8hkpr5drbz/48hvheh07z3w5pix/aHR0cHM6Ly9sYXB0b3BsaWZlbGlzYS5zdWJzdGFjay5jb20v).
+            - I'm wishing you an amazing Holiday season. Do you have any big plans? I'm off to Argentina next week for Christmas with my brother and family and then will spend January in the Antarctic on an expedition cruise marking the 100th year since the death of Ernest Shackleton. I'm terrified... wish me luck.
+            - As always I love to hear from you so any questions, comments, or insults - **just hit reply**.
+            - As always... Onwards and Upwards...
+            - Lisa-Marie
+            - [Unsubscribe](https://unsubscribe.convertkit-mail2.com/75u02rdr56f8hkpr5drbz) | [Update your profile](https://preferences.convertkit-mail2.com/75u02rdr56f8hkpr5drbz) | 340 South Lemon Ave, Walnut, CA 91789
+    - [如何用word給剧本排版？ - 知乎](https://www.zhihu.com/question/330584903)
+    - [GitHub - zzhanghub/alfred-template-file: New file or dir using templates.](https://github.com/zzhanghub/alfred-template-file)
+    - [alfred-new-cloud-documents/workflow-ui.png at main · chrismessina/alfred-new-cloud-documents · GitHub](https://github.com/chrismessina/alfred-new-cloud-documents/blob/main/assets/workflow-ui.png)
+    - [思维导图抄作业](https://xmind.cn/mindmap-scanner/)
+    - [GitHub - liu673cn/xbb: biubiu播放器](https://github.com/liu673cn/xbb)
+    - [GitHub - yanjiaxuan/TOMATOX: 基于Electron、React开发的全网在线免费VIP视频解析播放器，美剧、韩剧、日剧全资源，全平台（Windows、Linux、MacOS）可用](https://github.com/yanjiaxuan/TOMATOX)
+    - [GitHub - alfred-workflows/awesome-alfred-workflows: A curated list of awesome alfred workflows](https://github.com/alfred-workflows/awesome-alfred-workflows)
+- ---

@@ -1,0 +1,6 @@
+- Author:: [[George W. Bush]]
+- Full Title:: Decision Points
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51ZFmKMrCiL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - November 23, 2002, was a rainy, gray day in Bucharest. Yet tens of thousands had turned out in Revolution Square to mark Romania’s admission to NATO, a landmark development for a country that ([Location 8411](https://readwise.io/to_kindle?action=open&asin=B003F3PK5Y&location=8411))

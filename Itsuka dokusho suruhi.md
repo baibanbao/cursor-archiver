@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTk5OWY2ZWYtZWIyMS00YjM4LWIwMDAtMjM4ODg1ZWVlMGMwXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Akira Ogata]]
+        - Writer:: [[Kenji Aoki]]
+        - Cast:: [[Den Fujita]] [[Keisuke Horibe]] [[Teruyuki Kagawa]]
+        - Year:: [[2005]]
+        - Genre:: #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0478706
+    - **Plot Summary:** A 50-year-old unmarried milkwoman Minako one day delivers milk to the house of her first love Takanashi, who is now married and whose wife is terminally ill. This meeting will bring unexpected changes into their lives.

@@ -1,0 +1,30 @@
+- --
+- layout: note
+- title: 邀请哪个名人参加我的毕业典礼
+- categories: writing
+- tags: 写作
+- description: 跟名人比起来，我更敬重那些普通的手艺人
+- --
+- 今天抽到一个古怪的题目：你准备邀请哪个名人参加你的毕业典礼？
+- 我早已步入中年，今后在学术上如果还想再进一步，只能去读老年大学了。在毕业典礼上，我希望那个把烫金大字的毕业证书颁发给我的人，是一位普普通通的人，而不是什么名人。
+- 现代媒体和娱乐机器可以轻易把一个跟我们一样的人打造成一个名人。而名人之所以特别，不过是因为比我们唱得略好一点，演得略好一点，写得略好一点，拍得略好一点。然而，当代流行文化却有一种幻术，让这个人立刻披上明星光环，从众人中分别出来，接受人们的膜拜。
+- 有一位民谣歌手，有一年来杭州演出，结束后，我的一位做外贸的朋友开自己的车送歌手回宾馆。后来他对我说，原来名人跟我们普通人想的是一样的，歌手一上车就高兴地对助理说，今天收到的演出费是一万元。
+- 名人不但跟普通人想的一样俗气，而且很多时候还不如普通人。
+- 我看过一个纪录片《基督营》，讲述一群美国小孩子参加少儿团契的故事里面有一个牧师叫Ted Haggard，创办了new life church，并且经常通过电视广播讲道，影响了三千万人。
+- 这个人一看就非常活泛，大大的笑容，幽默的谈吐。讲道让听众如痴如醉。他跟小布什的幕僚打得火热。
+- 我在网上搜索了一下这个人，发现这部片子拍完后不久，Ted Haggard就出事了。
+- 有一个牛郎向媒体透露，Ted Haggard是他的长期客户。
+- Ted Haggard刚开始他矢口否认，后来就全都承认了。
+- 他牧师的职位被撤销，并且接受教会绝罚，一辈子不准进入new life church所在的州。
+- 他离开时候，留下一封信，当别的牧师代读的时候，很多会众泪流满面。
+- 于是，他灰头土脸离开了自己所亲手创办的教堂。成为无神论眼中的笑柄。因为此前他曾跟进化论和无神论的双料大魔头道金斯进行过一场辩论。所以，他的跌倒真正应了亲痛仇快四个字。
+- 他从年轻时就做牧师，离开教堂一点谋生手段都没有。他只好去卖保险，门对门投广告。收入微薄，朝不保夕。他跟朋友借钱未遂的邮件，也被媒体曝光。人人都瞧不起他。
+- 这对信徒们的打击实在太大了。以前这哥们还天天谴责同性恋，谴责通奸，现在这些言论都被人翻出来当笑话看。
+- 后来，一个导演拍了他的纪录片叫《Ted Haggard的试炼》The Trials of Ted Haggard，我对这个纪录片写了一段评论。
+- >  As a Christian, I feel very sad to Mr. Haggard who had a double life and mislead so many followers among whom there must be some born-again believers. The former pastor's falling is a shame. It put the church in open disgrace. I don't say Mr. Haggard's sin is unforgivable (only Jesus Himself knows the result). I want to express my shock and anger towards this kind of hypocrisy which was hated the most by Jesus when he preached. The director - Ms. Pelosi did an excellent propaganda work to wash Mr. Haggard white, but there are so many loopholes in this documentary. I can't see if his repentance is authentic or fake. I am puzzled by his big smile and big mouth.
+- > After acting in this program, he and his wife established another church -- St. James Church. I don't think it is appropriate to do so. A fallen paster is fallen. No way for him to lead another flock of sheep.This documentary has made me sick though it is beautifully made.
+- 我觉得最不该的是，Ted Haggard又成立了一间教会，并且继续担任牧师。我觉得这是不可接受的。哪怕他真正认罪悔改，也不适合再牧养会众了。老老实实卖保险就好了。
+- 大家想想，会众只要在台下看到他，想到的都是什么。大家已经无力分辨你哪句是真，哪句是假。因为以前你也是这么说的，让我们如何能相信你。
+- 所以，当名人一点也不好，名人往往比普通人更容易伪善，更容易像气球一样被吹破。富人进入天国，好比骆驼穿过针孔；名人进入天国，好比蝙蝠穿过N95口罩。
+- 我记得我看过一个纪录短片《钢琴的海洋》，主角是法国一家古董钢琴配件店的老板兼店员，他在那里工作了28年。他说：「现在生意一年不如一年，但我还希望再干十年八载。我珍惜现在的自由。只要给我点水、精装书，日子就能打发。」
+- 跟名人相比，我更敬重并希望自己成为这样的人。

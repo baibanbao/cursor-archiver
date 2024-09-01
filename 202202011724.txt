@@ -1,0 +1,50 @@
+CURRENT EVENTS
+The FAQs: Supreme Court Blocks Biden’s Workplace Vaccine Mandate
+常见问题：最高法院阻止拜登的企业疫苗强制令
+JANUARY 13, 2022  |  JOE CARTER
+What just happened?
+On Thursday, the Supreme Court blocked a COVID-19 vaccination mandate by President Biden’s Occupational Safety and Health 
+Administration (OSHA). (In a related case, the Court has temporarily allowed similar mandates enacted by the Centers for Medicare and Medicaid Services [CMS] that affect the staff of many types of Medicare and Medicaid health-care providers.)
+The OSHA mandate, which affected about 84 million Americans, will remain on hold pending legal challenges to the rule in the U.S. Court of Appeals for the Sixth Circuit.
+刚刚发生了什么？
+周四，最高法院阻止了拜登总统的美国劳工部职业健康与安全管理局（OSHA）颁布的COVID-19疫苗强制接种令。在另一个相关案例中，法院暂时允许医疗保险和医疗补助服务中心（CMS）颁布的类似的强制令，它适用于接受联邦医疗保险(Medicare)和联邦医疗补助(Medicaid)资金的医疗保健服务提供者。
+影响约8400万美国人的OSHA强制令将被继续搁置，等待美国第六巡回上诉法院对该裁决的法律挑战。
+What is OSHA?
+OSHA, part of the United States Department of Labor, was created by Congress in the Occupational Safety and Health Act of 1970. The purpose of OSHA is to “ensure safe and healthful working conditions for workers by setting and enforcing standards and by providing training, outreach, education and assistance.” OSHA regulations apply to most private sector employers and their workers.
+什么是OSHA？
+OSHA是美国劳工部的一个部门，根据美国国会1970年通过的《职业安全与健康法》创建。OSHA的目的是 “通过制定和执行标准以及提供培训、推广、教育和援助，确保工人获得安全和健康的工作条件”。OSHA的规定适用于大多数私营部门的雇主和他们的工人。
+What was the OSHA vaccination mandate?
+Last November, the Biden administration issued an emergency temporary standard (ETS) to “protect unvaccinated employees of large employers (100 or more employees) from the risk of contracting COVID-19 by strongly encouraging vaccination.” The rule required that employers of large companies must “develop, implement, and enforce a mandatory COVID-19 vaccination policy, with an exception for employers that instead adopt a policy requiring employees to either get vaccinated or elect to undergo regular COVID-19 testing and wear a face covering at work in lieu of vaccination.”
+OSHA的疫苗强制令是什么？
+去年11月，拜登政府发布了一项紧急临时标准（ETS），“通过大力鼓励接种疫苗，保护大型雇主（100名或以上雇员）的未接种疫苗的雇员免受感染COVID-19的风险”。该规则要求大公司的雇主必须 “制定、实施和执行强制性的COVID-19疫苗接种政策，但对以下雇主则是例外：采取政策要求员工接种疫苗的；要求员工定期接受COVID-19检测并在工作中佩戴口罩以代替接种疫苗的。"
+The rule applied to all employers with 100 or more employees.
+Did the mandate include a religious exemption?
+The rule included exemptions for employees in three categories: (1) those for whom a vaccine is medically contraindicated, (2) those for whom medical necessity requires a delay in vaccination, or (3) those who are legally entitled to a reasonable accommodation under federal civil-rights laws because they have a disability or sincerely held religious beliefs, practices, or observances that conflict with the vaccination requirement.
+该规则适用于所有拥有100名或以上雇员的雇主。
+该授权是否包括宗教豁免？
+该规则包括对三类雇员的豁免。(1) 在医疗上有疫苗禁忌的人，(2) 因医疗需要而必须推迟接种的人，或(3) 根据联邦民权法有权获得合理便利的人，因为他们有残疾或真诚的宗教信仰、习俗或纪念活动，与接种要求相冲突。
+However, as the Ethics and Religious Liberty Commission has pointed out,
+While there are stated religious liberty exemptions, it is concerning that the ETS requires each covered employer to establish and implement their own written policy regarding religious exemptions. With this rule, each employer is effectively tasked with creating their own policies, and there will be thousands of different policies throughout the country, leading to inconsistent application and confusion. The proposed rule doesn’t offer any guidance for how to structure exemptions for objectors who have sincerely held religious beliefs.
+然而，正如道德与宗教自由委员会所指出的：
+虽然有明确的宗教自由豁免，但令人担忧的是，ETS要求每个符合规定的雇主建立和实施自己的关于宗教豁免的书面政策。有了这一规则，每个雇主实际上都会制定自己的政策，全国各地将有数以千计的不同政策，导致不一致的应用和混乱。拟议的规则兵没有提供任何指导，说明如何为那些有真诚宗教信仰的疫苗反对者系统提供豁免。
+Why was the rule struck down by the Supreme Court?
+The rule was blocked because the majority of the justices believe OSHA had overstepped its legitimate statutory authority.
+{{[[POMO]]: 25}}
+为什么该规则被最高法院否决了？
+该规则被否决是因为大多数法官认为OSHA超越了其合法的法定权力。
+The majority opinion notes, “The [Labor] Secretary has ordered 84 million Americans to either obtain a COVID–19 vaccine or undergo weekly medical testing at their own expense. This is no ‘everyday exercise of federal power.’ It is instead a significant encroachment into the lives—and health—of a vast number of employees.”
+多数意见指出：“[劳工]部长命令8400万美国人要么接种COVID-19疫苗，要么每周自费接受医疗测试。这不是‘联邦权力的日常行使’，相反，这是对大量员工生命和健康的严重侵犯。”
+The ruling points out that the OSHA is only empowered to set workplace safety standards that concern “occupational” hazards, not broad public health measures. “Although COVID–19 is a risk that occurs in many workplaces, it is not an occupational hazard in most,” said the Court. “COVID–19 can and does spread at home, in schools, during sporting events, and everywhere else that people gather. That kind of universal risk is no different from the day-to-day dangers that all face from crime, air pollution, or any number of communicable diseases.”
+该裁决指出，OSHA只有权制定涉及 "职业"危害的工作场所安全标准，而不是广泛的公共卫生措施。最高法院指出：“尽管COVID-19是在许多工作场所发生的风险，但在大多数情况下，它不是一种职业性危害。COVID-19可以且确实会在家中、学校、体育赛事期间以及人们聚集的任何地方传播。这种普遍风险与犯罪、空气污染或任何传染病等日常危险没有什么不同。"
+“Permitting OSHA to regulate the hazards of daily life—simply because most Americans have jobs and face those same risks while on the clock—would significantly expand OSHA’s regulatory authority without clear congressional authorization,” they added.
+最高法院补充说：“仅仅是因为大多数美国人都有工作，并且在工作时面临这些日常生活中的风险，就允许OSHA监管这些风险，将大大扩展OSHA的监管权限，这没有得到明确的国会授权。”
+The decision was 6–3, with the Court’s three liberal justices—Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan—dissenting.
+裁决结果为6:3，法院的三位自由派大法官斯蒂芬·布雷耶(Stephen Breyer)、索尼娅·索托马约尔(Sonia Sotomayor)和埃琳娜·卡根(Elena Kagan)持反对意见。
+Why does this ruling matter to Christians?
+Numerous employers and workers at Christian organizations, including those who support vaccinations against COVID, opposed the mandate as an illegitimate use of government power over religious institutions. Two theological seminaries in Kentucky—The Southern Baptist Theological Seminary and Asbury Theological Seminary—even sued the Biden administration, asking the courts to block the mandate as unlawful.
+为什么这一裁决与基督徒有关？
+许多雇主和基督教组织的工作人员，包括那些支持接种COVID疫苗的人，反对这项强制令，认为这是政府对宗教机构非法使用权力。肯塔基州的两所神学院——南方浸信会神学院和阿斯伯里神学院——甚至起诉了拜登政府，要求法院否决这项非法的强制令。
+“It is unacceptable for the government to force religious institutions to become coercive extensions of state power. We have no choice but to push back against this intrusion of the government into matters of conscience and religious conviction,” said Albert Mohler, president of Southern Seminary. “This institution exists for the purpose of educating ministers for churches. This seminary must not be forced to stand in for the government in investigating the private health decisions of our faculty and employees in a matter involving legitimate religious concerns.”
+“政府强迫宗教机构成为国家权力的刀把子，这是不可接受的。 我们别无选择，只能反击政府对良心和宗教信仰的干预，”南方神学院院长阿尔伯特·莫勒 (Albert Mohler) 说。 “这个机构存在的目的是为了教会培养牧师。 在涉及宗教问题的合法性的时候，政府不得强迫我们这所神学院政府调查我们教职员工的私人健康决定。”
+Joe Carter is an editor for The Gospel Coalition, author of The Life and Faith Field Guide for Parents, the editor of the NIV Lifehacks Bible, and coauthor of How to Argue Like Jesus: Learning Persuasion from History’s Greatest Communicator. He also serves as an associate pastor at McLean Bible Church in Arlington, Virginia.CURRENT EVENTS
+Joe Carter（乔·卡特）是福音联盟的编辑，同时也在弗吉尼亚州阿灵顿（Arlington, Virginia）的麦克林圣经教会（McLean Bible Church）担任副牧师。他是NIV Lifehacks Bible的编辑，How to Argue Like Jesus: Learning Persuasion from History’s Greatest Communicator的共同作者。

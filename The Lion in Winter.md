@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Anthony Harvey]]
+        - Writer:: [[James Goldman]]
+        - Cast:: [[Peter O'Toole]] [[Katharine Hepburn]] [[Anthony Hopkins]]
+        - Year:: [[1968]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0063227
+    - **Plot Summary:** 1183 A.D.: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. When he allows his imprisoned wife Eleanor of Aquitaine out for a Christmas visit, they all variously plot to force him into a ...

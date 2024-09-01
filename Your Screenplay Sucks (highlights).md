@@ -1,0 +1,10 @@
+- Author:: [[William M. Akers]]
+- Full Title:: Your Screenplay Sucks
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41PO8zqhn5L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - “Listen. I can’t make you a great dancer.I don’t even know if I can make you a good dancer. But, if you keep trying and don’t quit, I know I can make you a better dancer.” ([Location 373](https://readwise.io/to_kindle?action=open&asin=B003FPN3OW&location=373))
+    - “If a person can tell me the idea [of a film] in twenty-five words or less, it’s going to make a pretty good movie. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B003FPN3OW&location=386))
+    - “Write a screenplay that will change your life. If you don’t sell it, at least you will have changed your life.” John Truby ([Location 439](https://readwise.io/to_kindle?action=open&asin=B003FPN3OW&location=439))
+    - Just ’cause you cried when your doggie died doesn’t mean the reader will. Especially if Fido croaked when a safe fell on him. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B003FPN3OW&location=617))
+    - “People behave differently depending on where they are. Imagine an argument that takes place between a husband and wife in their front yard. Now, move it to the back yard. How does that change the nature of the argument? People behave differently when they know their neighbors are not watching.” ([Location 954](https://readwise.io/to_kindle?action=open&asin=B003FPN3OW&location=954))

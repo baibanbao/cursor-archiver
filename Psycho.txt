@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Joseph Stefano]] [[Robert Bloch]]
+        - Cast:: [[Anthony Perkins]] [[Janet Leigh]] [[Vera Miles]]
+        - Year:: [[1960]]
+        - Genre:: #Horror #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0054215
+    - **Plot Summary:** A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.

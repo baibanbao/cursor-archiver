@@ -1,0 +1,36 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Date: [[November 12th, 2023]] 02:47
+            - 赞美感谢
+                - 赞美神的信实慈爱
+                - 赞美主在关键时候伸出大能的手拯救
+                - 感谢主在我生命中所做的一切
+            - 认罪悔改
+                - 为了自己的隐瞒和躲藏
+                - 为了自己的不忠诚
+                - 为了自己不守约
+            - 祈求
+                - 求主让我尽早debt free
+                - 求主让我今天的难处今天当，还上今天的
+                - 求主赐给我力量
+                - 求主让我在你的殿宇中瞻仰你的荣美，赞颂你的救恩，高唱你的慈爱信实
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 02:29
+- Daily Tasks
+    - {{[[DONE]]}} 敬拜
+    - #dfree
+        - {{[[DONE]]}} 招联好期贷 15000.69
+        - {{[[DONE]]}} 360平台 943.33
+        - {{[[TODO]]}}  跟#[[Seven]]谈
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [一本书抵达读者之前，一位书籍装帧艺术家珍视的工作过程\_解放网，上观新闻](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=676893)
+    - 
+- ---

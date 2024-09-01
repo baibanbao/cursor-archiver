@@ -1,0 +1,16 @@
+- [[Gratitude]]
+- [[Day Start]] 13:49
+- Daily Tasks
+    - {{[[DONE]]}} 送娃接娃
+    - {{[[TODO]]}} 好中文厘清思路
+        - {{[[TODO]]}} 发布招生贴，屏蔽几个人
+    - {{[[DONE]]}} 吸收 #教训 远离恶人
+    - {{[[DONE]]}} 继续vim写作
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

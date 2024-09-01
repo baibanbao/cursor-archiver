@@ -1,0 +1,23 @@
+- Author:: [[Michael Moritz]]
+- Full Title:: Return to the Little Kingdom
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/511p4H-JZOL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - CEOs are, for the most part, products of educational and institutional breeding. Founders or, at least, the very best of them, are unstoppable, irrepressable forces of nature. ([Location 79](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=79))
+    - He is an insistent, persuasive and mesmerizing salesman—about the only man I know with the audacity to adorn bus shelters nationwide with advertisements for a product as mundane as a wireless mouse. ([Location 90](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=90))
+    - Among the sentiments he conveyed was the opportunity we all have to make our mark, do something special and, above all, follow our own path. He ended that talk with the admonition, borrowed from the final edition of the Whole Earth Catalog, to “Stay Hungry. Stay foolish.” ([Location 112](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=112))
+    - hullabaloo ([Location 5333](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5333))
+    - teetering. ([Location 5337](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5337))
+    - In 1984, if most consumers had been asked to predict which company—SONY or Apple—would play a greater role in their lives, I wager most would have voted for the former. ([Location 5353](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5353))
+    - the Motorola DynaTAC 8000x cell phone weighed two pounds had thirty minutes of talk time and cost almost $4,000; ([Location 5365](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5365))
+    - Today, for the first time, consumers—not businesses or governments—enjoy the fastest, most reliable and most secure computer services. ([Location 5376](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5376))
+    - “Apple was supposed to become a wonderful consumer products company. This was a lunatic plan. High tech could not be designed and sold as a consumer product.” ([Location 5435](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5435))
+    - After being banished from Apple, he sold all but one share of his stock and, aged 30, cast about for a new beginning. In 1986 he bought Pixar, a ([Location 5457](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5457))
+    - Nine years after his purchase of the company, the release of the animated picture Toy Story and a subsequent IPO gave the company the financial staying power to cope with the muscle of its exclusive distribution partner, Disney (which, ([Location 5477](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5477))
+    - Instead, he rolled out an advertising campaign labeled, “Think different,” ([Location 5495](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5495))
+    - The first example of Apple’s desire to fend for itself came with iMovie, ([Location 5522](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5522))
+    - It was against this change in consumers’ habits that the iPod was conceived and rushed to market at a pace similar to the manner in which Sony’s Walkman had arrived a generation earlier. It ([Location 5527](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5527))
+    - When any model showed signs of wear, Apple’s management resisted the opportunity to milk the last drop of sales and, instead, replaced it with something better. ([Location 5544](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5544))
+    - The same day the iPhone was introduced, the word “computer” was dropped from the company’s name, which was shortened to Apple, Inc.—a ([Location 5561](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5561))
+    - It began with a few people trying to design a product they would want to use and be proud to own. ([Location 5565](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5565))
+    - No technology company has ever been able to consistently produce great consumer products for half a century. ([Location 5602](https://readwise.io/to_kindle?action=open&asin=B0033ZAW34&location=5602))

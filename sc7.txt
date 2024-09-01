@@ -1,0 +1,7 @@
+- 材料准备
+    - "The best way to communicate from one human being to another is through story."
+    - — Donald Knuth[[18]](https://en.wikipedia.org/wiki/Donald_Knuth#cite_note-quanta_magazine-18)
+- 
+- 
+- 编剧故事营招章学习目标
+    - 

@@ -1,0 +1,342 @@
+#ulysses
+
+## Notion导入
+
+流程比干活更重要！
+
+为自己的勇敢干杯
+
+更健康一点，更关爱一点，更沉静一点。
+
+梳理流程比节省时间更为重要！
+
+今天花钱迅猛，一连购买了很多服务，孤注一掷，却内心没有平安。一定是哪儿错了，求主怜悯，因为单靠我自己，我不能做成什么。
+
+关于建站技术可以好好写一篇综述
+
+更新blog-hugo的时候想到，我自己把问题搞复杂了，实际上可以参考notion.so的方法。
+
+先本地测通，然后在github上建一个空的repo。把repo给拉回本地，也就是回到最原初的状态。这样在这里更新，就不需要copy来copy去了，那样显然是不合理的。
+
+在小金的小区，准备剪片子的时候，才发现根本剪不了。原来的课堂录像怎么找不到了，我不知道怎么回事，做事这么马虎，轻忽，怎么可能带领别人前行。解决办法是做一个keynote，把这些内容做进去。
+
+技术笔记文档的电子化，现在存在找不到那本笔记本的情况。需要把这些都放进电子文档里。用notion一统江湖，有其正确性，必然性，可行性。
+
+[父我子](https://www.notion.so/cd8a315414234078ac2b9fdea89b1e6a)
+
+无论遇到什么事，都要考虑到自己到goal。
+
+刘淼的写作复利思想
+
+[刘淼论写作复利](https://www.notion.so/0e585aeb42b34b2195265737be33d332)
+
+Would you please deliver a message to Herzog? I will report to him a very serous translation MISTAKE of the Chinese version of his book. In the Chinese tanslation of A Guide for the Perplexed (aka 陆上行舟 in Chinese) Chapter two (p.81 of Chinese Version), the chapter title Blasphemy and Mirage has been translated into Chinese as 亵渎上帝与海市蜃楼 (aka Blaspheming God and Mirage). I don't think it's the literal meaning of Mr. Herzog or of the co-author. This is a SERIOUS problem as It has offended millions of Chinese-speaking Christians and insulted the authors of this great book.
+
+刘淼给了几条建议，包括去写作号上做广告。
+
+今天读书遇到一件很让人生气的事。赫尔佐格的新书《陆上行舟》，英文原文：A Guide for the Perplexed. 里面第三章：Blasphemy and Mirage，被中文译者翻译成了「亵渎上帝与海市蜃楼」，他不知道亵渎三位一体的上帝是不可饶恕的罪吗？其实，原文里没有上帝二字，说的就是「亵渎与幻境」。这里的亵渎，并非亵渎上帝，可能是亵渎某种自以为神圣的东西，比如偶像。让中文这么一翻，意思完全弄拧，并且严重误导了读者。可以想见，有一些敬畏上帝的人，看到这个章节标题，就不想读下去了。中文翻译夹杂私货，真令人愤怒！
+
+忽然明白了一个道理：
+
+无论现在怎样读书，思考，备课，跟你能否卖出去这门课毫无关系，大家看不到你的备课内容，顶多只能看到大纲内容，但是，真正的促销营销还是需要流量，需要击中痛点，需要试讲试听，需要给买家最大优惠，需要打动吸引buyer，需要在设计上、短片中吸引他们。
+
+简单地说：你需要流量。
+
+讲座的质量是后续的事，所以要利用自己一切的流量渠道：自主博客，三个公众号，微博，轮番轰炸，然后才能吸引到别人来转发。
+
+不要弄错，现在没有白吃的午餐，流量为王，这个永远不会错。
+
+要对人有用，要有获得感，要能够启迪人的心灵，让人听完欲罢不能。因为你没有刚口，所以只能别的方面去找补。
+
+摒除一切杂念，干扰，全心投入地研究编剧故事营下一步的招生，教程并不重要，谁看得见你的教程呢，关键是谁是潜在客户，他们的需求是什么？然后，如何营销。包括试讲课怎么讲？倒推时间，要在本月28号开启招生工作，10天回款达到10万元（其中1万用来购买iPad Pro + Pencil，airpods, 绿幕），以度难关。本期的财务目标是20万。其中15万用来偿还贷款，其余用于日常生活。
+
+可以在udemy上开设一下课程，这样便于让自己所学的课程合理化。
+
+取消dropbox的订阅(2021-03-03到期，2021-02-03 cancel)
+
+小Jo读绘本，因为绘本是有版权的，还是改成讲自己的故事比较好。
+
+站在读者角度去思考一篇博客怎么写，而不是自顾自的角度。
+
+把notion用好用活，用byword来创作，自己心里的话通过笔记本或者day one向主说。
+
+实验大课直播：必要时向李笑来请教，因为tech support是最重要的
+
+每天早起，逼迫自己早睡
+
+2006年香港中文大学梁秉中教授和郑景辉博士发表过一篇论文，1918年大流感中国也受到广泛波及，中国当时卫生条件比欧美差得多，但根据上海、香港和广东的一些记录，中国人的死亡率比欧美低很多。作者推断中医在伤寒和温病防治上的经验可能是中国人死亡率低的主要原因。
+
+Bullet Laws
+• Protect audience
+• Use sparingly
+• Write headlines
+• Use parallel structure
+• Avoid sub-bullets
+
+研判好中文和编剧故事营的价值链
+
+[What do these verbs tell you about the character of your company?
+Accomplish
+Acquire
+Adopt
+Advance
+Affirm
+Alleviate
+Amplify
+Appreciate
+Ascend
+Associate
+Believe
+Bestow
+Brighten
+Build
+Call
+Cause
+Claim
+Choose
+Coach
+Collect
+Combine
+Command
+Communicate
+Compel
+Competeq
+Compliment
+Compose
+Conceive
+Conquer
+Confirm
+Connect
+Consider
+Contact
+Construct
+Continue
+Counsel
+Create
+Decide
+Defend
+Delight
+Deliver
+Devise
+Direct
+Discover
+Discuss
+Distill
+Distribute
+Draft
+Dream
+Drive
+Educate
+Elect
+Embrace
+Enjoy
+Encourage
+Endow
+Engage
+Enhance
+Enlist
+Enliven
+Entertain
+Enthuse
+Excite
+Explore
+Express
+Extend
+Facilitate
+Finance
+Forgive
+Foster
+Franchise
+Further
+Gather
+Generate
+Give
+Grant
+Heal
+Hold
+Identify
+Illuminate
+Implement
+Improvise
+Integrate
+Involve
+Keep
+Know
+Labor
+Launch
+Lead
+Liberate
+Light
+Live
+Love
+Make
+Manifest
+Master
+Mature
+Measure
+Mediate
+Mentor
+Model
+Mold
+Motivate
+Move
+Negotiate
+Nurture
+Open
+Participate
+Pass
+Perform
+Persuade
+Play
+Possess
+Practice
+Praise
+Prepare
+Present
+Produce
+Progress
+Promise
+Promote
+Provide
+Pursue
+Realize
+Receive
+Reclaim
+Reduce
+Refine
+Reform
+Regard
+Relax
+Relate
+Release
+Rely
+Remember
+Renew
+Resonate
+Respect
+Restore
+Revise
+Sacrifice
+Safeguard
+Satisfy
+Save
+Sell
+Serve
+Share
+Speak
+Stand
+Summon
+Support
+Surrender
+Sustain
+Take
+Tap
+Teach
+Team
+Touch
+Trade
+Translate
+Travel
+Understand
+Use
+Utilize
+Value
+Venture
+Verbalize
+Work
+Worship
+Write
+Yield](https://www.notion.so/What-do-these-verbs-tell-you-about-the-character-of-your-company-Accomplish-Acquire-Adopt-Advance-A-0bf63877be1a4e14a40dbbb87afeb65d)
+
+做一个ppt学习心得，使用新技巧。
+
+presentation working time
+
+6–20 hours
+Research and collect input from the web, colleagues,
+and the industry.
+1 hour
+Build an audience-needs map.
+2 hours
+Generate ideas via sticky notes.
+1 hour
+Organize the ideas.
+1 hour
+Have colleagues critique or collaborate around the impact
+the ideas will have on audience.
+2 hours
+Sketch a structure and/or a storyboard.
+20–60 hours
+Build the slides in a presentation application.
+3 hours
+Rehearse, rehearse, rehearse (in the shower, on the treadmill,
+or during the commute)
+36–90 hours total
+
+做一个Video Essay-why I am a Christian
+
+算是对slbaptist的一个侧面回答
+
+写个段子，但无需发表
+
+说的是，我所住的老旧小区改造，签约补偿雨棚，加起来2700元。但是需要复印房产证，打印合同，弄得动静很大。我到小区附近的复印店做这些事，恰好社区工作者发来语音：咱们要是早点签约，就可以早点拿到补偿。只见老板娘用羡慕的眼光看着我。我也在店员们艳羡的目光中，抱着一堆价值2700的文件复印件，走出了打字社。
+
+2020-4-27接工行电话，让带着身份证，去任意一家网店验证卡。5月份回杭州时解决。
+
+做一个乐高古诗VLOG，把诗意用幽默轻松但正统的方式表现出来。
+
+**一个随时随地倾倒思想垃圾的地方**
+
+通过notion理清了自己的人生线条，但最终未必需要通过notion来全部管理。比如finance，可以通过excel， note taking可以用自己喜欢的note工具，密码用1password，但notion作为一个通盘考虑的大沙盘还是非常好用。
+
+slb 用成功神学、消费主义心态这些词，成功地废掉了神的恩典。信徒都不敢祈祷神的供应了。
+
+I am a joke. 
+
+与seven商量上helen的课
+
+她现在最需要支持与帮助
+
+[Helen 的英语课招生简章](https://mp.weixin.qq.com/s/Vh42hYcS9ekbeHLQbdwfVw)
+
+### 背诗经
+
+2020-04-23  散步想到的，只要散步的时候，就每天背两首诗经。
+
+### 写写加入教会那些事
+
+不是针对谁，但是这半年多来的各种经历太值得写下来了。估计用英文。
+
+> 苏小和：余杰说了一个新概念：建制派教会，说到了新教教会的最大问题。教会已经被一群隐蔽之人把持权柄，构成权力层级制度，它由神学院、牧师和长老、专职服侍的教会人员集体掌控，同时限制信仰自由、选择自由和服务自由。新教好不容易逃离天主教的皇权体制，如今又被更多隐蔽的权力操控，这就是败坏的人。
+
+### 元宝的单词数据库
+
+[无敌小jo](https://www.notion.so/7e50754131374c618d0df73970e527ab)
+
+鼓励他多多背单词，并且创建自己是数据库。
+
+### 制作好中文wiki
+
+先从风格的要素wiki做起吧
+
+### 学员数据库
+
+好中文+编剧故事营 1k学员是我的衣食父母，没有君子不养艺人。
+
+应该为他们建立数据库，更好地服务他们。
+
+### 停用护肝药，试用新他汀
+
+要把所服用的药物彻底减下来，药物越少，健康越好。
+
+### 大胆使用mbp，1000次后换电池而已
+
+就当每用一次（充电到放电）花费1.4元而已。
+
+### 建立一個數字極簡主義頁面
+
+- 減少訂閱
+- 設定減少不需要看到的信息email
+- 清理下載目錄
+- 清理mac文件夾
+- unfo社交媒體上的人

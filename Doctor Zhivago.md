@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzdmZTk4MTktZmExNi00OWEwLTgxZDctNTE4NWMwNjc1Nzg2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Lean]]
+        - Writer:: [[Boris Pasternak]] [[Robert Bolt]]
+        - Cast:: [[Omar Sharif]] [[Julie Christie]] [[Geraldine Chaplin]]
+        - Year:: [[1965]]
+        - Genre:: #Drama #Romance #War
+    - **IMDb:** https://www.imdb.com/title/tt0059113
+    - **Plot Summary:** The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FUBz2jEI-T1.pdf?alt=media&token=afeb49b8-40be-437a-ad9c-236f1597f25a}}

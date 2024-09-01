@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzkyNzNiMDItMGU1Yy00NmEyLWE4N2ItMjkzMDZmMmVhNDU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sian Heder]]
+        - Writer:: [[Sian Heder]] [[Victoria Bedos]] [[Stanislas Carré de Malberg]]
+        - Cast:: [[Emilia Jones]] [[Marlee Matlin]] [[Troy Kotsur]]
+        - Year:: [[2021]]
+        - Genre:: #Comedy #Drama #Music
+    - **IMDb:** https://www.imdb.com/title/tt10366460
+    - **Plot Summary:** As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her passion at Berklee College of Music and her fear o...
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F6uyu9kr2ds.pdf?alt=media&token=faeb00d8-9d7d-439d-ac7c-7487a41255ba}}

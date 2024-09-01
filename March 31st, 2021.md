@@ -1,0 +1,7 @@
+- [[编剧故事营]]
+- 无印良品的设计
+    - 我的编剧故事营一天的课程就是集体参观无印良品店，然后坐下来进行比较与讨论，或者一起到[[西溪湿地]]去观鸟。要让编剧故事营变成一个全新的体验营。 #[[Z-Note]] #[[编剧故事营]] #[[好中文]]
+    - [无印良品与创作者 小池一子│MUJI无印良品](https://www.muji.com/hk/flagship/huaihai755/archive/koike.html)
+    - [无印良品与创作者 深泽直人│MUJI无印良品](https://www.muji.com/hk/flagship/huaihai755/archive/fukazawa.html) 
+    - 原觉哉设计无印良品 #[[Articles]] #[[F-Note]]
+        - [无印良品与创作者 原研哉│MUJI无印良品](https://www.muji.com/hk/flagship/huaihai755/archive/hara.html)

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWFjZmE2NGYtNGIzYi00Nzc2LTlhZWMtMTNkOTBkOTQ0MTJmXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Patrick Shanley]]
+        - Writer:: [[John Patrick Shanley]]
+        - Cast:: [[Meryl Streep]] [[Philip Seymour Hoffman]] [[Amy Adams]]
+        - Year:: [[2008]]
+        - Genre:: #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0918927
+    - **Plot Summary:** A Catholic school principal questions a priest's ambiguous relationship with a troubled young student.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FSP8H2Gq9hd.pdf?alt=media&token=c78b4a86-0ae6-444b-85d7-a8af182b528c}}

@@ -1,0 +1,12 @@
+- Author:: [[Carson Reeves]]
+- Full Title:: Scriptshadow Secrets
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51ePNSaxVaL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - SHOW DON’T TELL ALERT - Pixar shows the entire life of Carl and Ellie in the opening 10 minutes of the movie with nary a word of dialogue.  Study this sequence religiously to see how good writers substitute images and actions for words. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=797))
+    - In any “buddy” journey, the secondary character should have a goal too - ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=808))
+    - Die, Table Scene, Die! - Avoid scenes where characters are sitting and talking at tables. ([Location 813](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=813))
+    - creating a kid’s movie that centered around a senior citizen. They also took a huge risk with Wall-E, giving us no dialogue for the first 45 minutes of the film.  If you want to write something truly great, you have to take risks! ([Location 828](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=828))
+    - What would the Coens do? - If you have a scene or section of your script that feels boring, I’m going to give you a great tip.  Ask yourself, “What would the Coens do?”  The Coens rarely make an obvious choice. ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=1958))
+    - When you bombard your character from all sides, you create LOTS OF DRAMA. And when you have lots of drama, scenes write themselves. ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=1973))
+    - The easiest way to make a scene interesting is to have two people want different things out of the scene. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00ADZRJ7Y&location=1976))

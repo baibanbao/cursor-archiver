@@ -1,0 +1,19 @@
+- Author:: [[camelliayang.com]]
+- Full Title:: David Perell 50天写作课程学习[[笔记]]
+- Category:: #articles
+- URL:: http://www.camelliayang.com/3/post/2021/05/dp-50-writing.html
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 在互联网如此发达的当下，小众内容也会吸引到志同道合的读者。所以，没有必要去追时事蹭热点。而只写你感兴趣的话题，写你的真实想法。 ([View Highlight](https://instapaper.com/read/1520469918/20020463))
+    - 现在的作家比以往任何时候都幸运，凭借互联网可以找到任何素材，甚至可以自己出版，建立社群，吸引定向的读者。 ([View Highlight](https://instapaper.com/read/1520469918/20020464))
+    - 畅销书作者James Clear曾说过，如果你想更加严肃地做一件事情，那就公开去做。社会压力会强迫你专注于你做的东西。写作也一样，敢于发表自己的观点和看法，收集反馈信息然后继续创作。 ([View Highlight](https://instapaper.com/read/1520469918/20020466))
+        - **Note**: 如果你想认真做一件事，就公开去做。
+    - 写作是免费的劳动，却能给你带来大规模的回报。还有什么理由不去写呢？ ([View Highlight](https://instapaper.com/read/1520469918/20020476))
+- ### New highlights added [[July 10th, 2022]] at 3:59 PM
+    - 作家也是，打字只是写作活动中很小的一部分。 ([View Highlight](https://instapaper.com/read/1520469918/20020689))
+    - 多次格莱美奖得主说唱歌手Kendrick Lamar曾经说过，记[[笔记]]是我们最接近时间旅行的行动。 ([View Highlight](https://instapaper.com/read/1520469918/20020697))
+    - 作家大卫·艾伦曾经说过，写作是分秒必争的活动，你没有时间去思考，你需要在下笔之前就想好所有的内容。记[[笔记]]就是一套建立第二大脑的方式，也是快速写作的必备前提。 ([View Highlight](https://instapaper.com/read/1520469918/20020753))
+    - 交谈也会迫使你组织想法，因为对话是以思考的速度发生的。设置一个三分钟的计时器，假装你正在和朋友交谈，对Ta解释你想写什么，并用Otter软件将对话转成文字，然后整理自己的思路。 ([View Highlight](https://instapaper.com/read/1520469918/20020757))
+    - 很多人觉得写作是一件耗费时间的事情，又要打字又要编辑。写作在短期来看是很消耗时间，但是长期来看，却可以为你节省时间。 ([View Highlight](https://instapaper.com/read/1520469918/20020762))
+    - 写作是创造知识资本的一种方式，一旦写下来了就会永久存在，写作是最接近时间旅行的活动， ([View Highlight](https://instapaper.com/read/1520469918/20020787))
+    - 写作是对大脑的研究和开发。你现在写下的文字很可能为未来项目埋下了种子。每当你写下一个想法，就如同在你的知识库中增加了一块乐高积木，你拥有的积木越多，日后能建造的东西就越多。写作也是如此，你现在写的东西越多，你未来能创造的东西就越多。 ([View Highlight](https://instapaper.com/read/1520469918/20020790))
+    - 很多雄心勃勃的内容创作者并没有系统的学习和创作计划，大多数人就像在海洋中的冲浪者一样，屈服于环境，被动跟着浪花起伏。他们把注意力放在永无止境的邮件通讯和社交媒体上面，从而忘记了自己的创作目标，被热点和身边的噪声带跑。 ([View Highlight](https://instapaper.com/read/1520469918/20020791))

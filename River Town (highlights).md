@@ -1,0 +1,7 @@
+- Author:: [[Peter Hessler]]
+- Full Title:: River Town
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51WoptXE1hL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - The People’s Republic of China may grant asylum to foreigners who request it for political reasons. ([Location 2616](https://readwise.io/to_kindle?action=open&asin=B0046ZREEA&location=2616))
+    - Chinese person do this is to realize how unique the written language is, and how its words are truly shapes—not just sounds, or collections of letters, but tangible things that are handled and touched. ([Location 4007](https://readwise.io/to_kindle?action=open&asin=B0046ZREEA&location=4007))

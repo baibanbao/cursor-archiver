@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZGJkNzA5MTctY2QyZi00NDZmLTlkMmYtMTQyOTY1YjhiMTI1XkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Yoshitarô Nomura]]
+        - Writer:: [[Shinobu Hashimoto]] [[Seichô Matsumoto]] [[Yoshitarô Nomura]]
+        - Cast:: [[Tetsurô Tanba]] [[Gô Katô]] [[Kensaku Morita]]
+        - Year:: [[1974]]
+        - Genre:: #Crime #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0202604
+    - **Plot Summary:** Detectives investigate the murder of an old man found in a Tokyo rail yard.

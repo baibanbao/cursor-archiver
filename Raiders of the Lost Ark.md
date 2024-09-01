@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Lawrence Kasdan]] [[George Lucas]] [[Philip Kaufman]]
+        - Cast:: [[Harrison Ford]] [[Karen Allen]] [[Paul Freeman]]
+        - Year:: [[1981]]
+        - Genre:: #Action #Adventure
+    - **IMDb:** https://www.imdb.com/title/tt0082971
+    - **Plot Summary:** Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.

@@ -1,0 +1,20 @@
+﻿- 元中文读书会
+    - 定价策略
+        - debts
+            - loan 361006.18
+                - jb
+                    - 163400 
+                        - in 17892.30
+                - zlhqd
+                    - 150589.65
+                        - in  19237.82
+                - lightning
+                    - 5382.42
+                    - 4503.99
+                - sum=361006.18
+            - 3680/50 weeks
+                - each week 73.6
+                    - 4 cups of coffee
+            - 100 students
+                - 
+    - 

@@ -1,0 +1,11 @@
+- projects
+    - completed date::
+    - status::筹备中
+    - due date::
+    - related goals::
+    - url:: https://ctext.org/shuo-wen-jie-zi/yu-bu/zhs
+    - success criteria:: cctv播出
+    - tags:: #projects #寻古中国 #宋占涛 #玉石记
+- [[说文解字玉部]]
+- [[康熙字典解玉]]
+- [玉（汉语汉字）_百度百科](https://baike.baidu.com/item/%E7%8E%89/748701#:~:text=%E7%8E%89%E8%AF%B4%E6%96%87%E8%A7%A3%E5%AD%97&text=%E3%80%91%E3%80%90%E7%8E%89%E9%83%A8%E3%80%91-,%E7%8E%89%EF%BC%8C%E7%9F%B3%E4%B9%8B%E7%BE%8E%E3%80%82,%E8%B1%A1%E4%B8%89%E7%8E%89%E4%B9%8B%E8%BF%9E%E3%80%82)

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BM2I1NjJjNTMtN2U3OC00MmRhLWE2NmQtM2VlNDE4N2JlODdmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Grigoriy Chukhray]]
+        - Writer:: [[Grigoriy Chukhray]] [[Valentin Ezhov]]
+        - Cast:: [[Vladimir Ivashov]] [[Zhanna Prokhorenko]] [[Antonina Maksimova]]
+        - Year:: [[1959]]
+        - Genre:: #Drama #Romance #War
+    - **IMDb:** https://www.imdb.com/title/tt0052600
+    - **Plot Summary:** Young Russian soldier Alyosha earns a medal, but asks to visit his mother instead. His journey recounts various kinds of love during wartime.

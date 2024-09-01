@@ -1,0 +1,63 @@
+- 今日背经
+    - 英文
+        - https://youtu.be/ILeksVic3Mw?t=390
+    - 中文
+        - 18
+        - 不可让人因着故意谦虚，和敬拜天使，就夺去你们的奖赏。这等人拘泥在所见过的，（有古卷作这等人窥察所没有见过的）随着自己的欲心，无故地自高自大，
+- 英語語音學學習 #[[史嘉琳]]
+    - [英語語音學 (含發音練習) 一 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S102/33)
+        - 学习第一课
+            - 沒有學完，看到這兒
+                - https://youtu.be/BI_ywtB3wLY?t=2371
+            - 網絡資源配套：
+                - [A Course in Phonetics: Home](https://linguistics.berkeley.edu/acip/)
+            - 发音的x光譜
+                - [Chapter 1 - EX1.1](https://linguistics.berkeley.edu/acip/course/chapter1/example1_1.html)
+    - [英語語音學 (含發音練習) 二 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S213)
+- 臺大網絡公開課
+    - [左傳選讀 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S205)
+    - [讀中生智：英文批判閱讀 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/108S201)
+    - [臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/coupage/24)
+    - [幽默社會學 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S101)
+    - [中國文學史 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S104)
+    - [樹木學 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S110)
+    - [微積分 (非理工科) - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S121)
+    - [正是時候讀莊子 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S123)
+    - [咖啡學 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S207)
+    - [數學與文化:以數學小說閱讀為進路 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S126)
+    - [英語語音學 (含發音練習) 二 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S213)
+    - [當代劇場藝術面面觀 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/108S102)
+    - [左傳選讀 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S205)
+    - [經典導讀 ─ 史記 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S116)
+    - [古代基督教歷史與文化 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S109)
+    - [中文系國文：先秦兩漢文選 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S122)
+    - [希伯來經典與世界文明 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S125)
+    - [稼軒詞 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S201)
+    - [東坡詞 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S202)
+    - [傳統中國的國家與皇權 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S102)
+    - [漢書 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S104)
+    - [演化、宇宙、人 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/099S110)
+    - [從現代生物學看人類行為 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/099S106)
+    - [普通物理學 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/099S129)
+    - [相對論 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/099S134)
+    - [地球的奧秘 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S106)
+    - [微積分 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S111)
+    - [自我知識 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S205)
+    - [英語語音學 (含發音練習) 一 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S102/33)
+    - [浦志强：怎样看张中生贪腐10亿居然不死——从我的见闻，谈少杀慎杀和刑罚文明化 - YouTube](https://www.youtube.com/watch?v=6ZGSlMc4Bc8)
+    - [Intro page 3e/Texts to record 3](http://homepage.ntu.edu.tw/~karchung/intro%20page3e.htm)
+    - [For Karen Chung's Courses and more](http://homepage.ntu.edu.tw/~karchung/)
+- 買書
+    - 我還是喜歡實體書，哪怕有電子版，也願意找實體書來讀。
+        - 剛剛在孔夫子網站購買了《路德文集》1，2卷
+            - 去银 395.00
+        - 购买了英语语音学中英文各一本
+            - 130元
+        - 这些书都有电子版，但是为了阅读的舒适，我还是购买了纸质版。希望我能把这个价值赚回来吧。通过我的写作与教学。
+        - 而一旦有了纸质版之后，我就不会再去读电子版了。
+- PDF阅读
+    - 现在有了highlight软件，可以把要读的电子版书高亮和记笔记后，导出为pdf
+    - 这对于我建立pkb和blog闭环系统还是很重要的，因为随时可以把笔记导出来
+    - 如果有文本友好版的pdf，我就不买纸质书
+        - 如果只有图像扫描版的pdf，我就宁可看纸质书。
+- 

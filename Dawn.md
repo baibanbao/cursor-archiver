@@ -1,0 +1,3 @@
+- 从小热爱写作，一写作就很兴奋，这么好的状态
+- 参加剧本朗诵会
+    - [阳光小美女_迈克尔_阿恩德-剧本.pdf](hook://file/FkLh8coSE?p=ZGluZy9Eb3dubG9hZHM=&n=%E9%98%B3%E5%85%89%E5%B0%8F%E7%BE%8E%E5%A5%B3%5F%E8%BF%88%E5%85%8B%E5%B0%94%5F%E9%98%BF%E6%81%A9%E5%BE%B7%2D%E5%89%A7%E6%9C%AC%2Epdf)

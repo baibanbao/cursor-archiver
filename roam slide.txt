@@ -1,0 +1,12 @@
+- {{[[roam/js]]}}
+    - ```javascript
+var existing = document.getElementById("roamjs-presentation");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/presentation.js";
+  extension.id = "roamjs-presentation";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```

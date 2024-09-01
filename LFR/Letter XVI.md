@@ -1,0 +1,61 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[April 13th, 2021]]
+- Hello again fellow Roamans,
+Welcome to my sixteenth letter, where I welcome the return of Roam Book Club 4, shine the spotlight on another deserving community member, and discuss a very important topic - security in Roam.
+- # Around the Roaman Empire
+    - ## More ways to get things into Roam
+        - In [[LFR/Letter XV]] I shared PhoneToRoam with you and it seems to already be quite a popular way to make it easier to get things into Roam. It's just the start too - they're looking to add more methods starting with a native Mac client, sending emails in, and even via WhatsApp. Early access will be sent to those on their newsletter. [You can sign up here](https://www.getrevue.co/profile/phonetoroam)
+            - https://twitter.com/phonetoroam/status/1379635503838941186?s=12 #[[LFR/Letter XVI]]
+    - ## Roam Summit
+        - The Roam Summit on [[Journaling]] I took part in a few weeks ago with [[Tracy Winchell]] and [[Mark McElroy]] was great fun, however, the highlight for me was [the message Jason received afterwards](https://twitter.com/jasongriffing/status/1375900284208115712?s=20) from someone in Boulder for whom the session came at just the right time to help him process the shooting tragedy.
+        - If you missed it, you can watch the replay. [Check out the show notes](https://roamresearch.com/#/app/roam-summit/page/x9QMqRVWl) for links to our templates and resources for getting started. Since then, Tracy has also launched her [5 Days to Roam mini-course](https://rebootspodcast.podia.com/5-days-to-roam/vrpq4) for getting started with journaling in Roam.
+            - {{[[video]]: https://www.youtube.com/watch?v=U0y-0CprHao}}
+        - The next session of the Roam Summit is tomorrow, [[April 15th, 2021]] at 6pm ET - a bit late for Europeans so be sure to catch the replay if you can't make it live. Joining [[Jason Griffing]] will be [[Lukas Kawerau (@cortexfutura)]], [[David Vargas]] and [[Marc Koenig]] to discuss ideas, methods, and backstories behind the latest headlines in Roam.
+            - https://twitter.com/roamsummit/status/1379109074365714433?s=12  #[[LFR/Letter XVI]]
+    - ## Roam42 workBench
+        - Roamhacker's at it again, adding features at a clip to his new workBench feature in Roam42. If you're a new user to Roam, don't worry, you don't need it yet. You'll know it when you do. For more advanced users, the workBench gives you keyboard access to manage and manipulate your blocks, pushing and pulling them around your graph as well as new commands to arrange your workspace just so. Finally, the new inbox feature is great feature to capture blocks and send them to specific places for later use. Think project or client-specific inboxes to quickly move blocks to the right place.
+            - https://twitter.com/roamhacker/status/1377599690468904965?s=12  #[[LFR/Letter XVI]]
+    - ## Roam Research Research Club
+        - The Roam Research Research Club has started as a place to discuss and take notes collectively on papers, talks and articles around [[Tools for Thought]]. The first study room explored [[Vannevar Bush]]'s seminal article [[As We May Think]]. Sound interesting? [Find out more](https://twitter.com/RRResearchClub).
+            - https://twitter.com/RRResearchClub/status/1376443004588752899?s=20 #LFR
+    - ## Roam Book Club 4
+        - The next round of Roam Book Club started on Sunday with the first meetings taking place this coming weekend. Both [[Beau Haan]] and [[Matt Brockwell]] are reprising their roles as book club leaders. Beau is once again running another cohort of [[book/How to take smart notes]] to teach [[zettelkasten]] to Roamans while Matt's group will be reading [[book/Braiding Sweetgrass]]. In a change to last time, Beau's group will be meeting on Sunday's at 12:30 pm PST whilst Matt's group will be meeting on Saturday afternoons at 1 pm PST.
+            - Want to see what you'll be missing out on if you haven't signed up. Watch the inspiring and energising kick-off call. {{[[video]]: https://www.youtube.com/watch?v=Awc3LcI7rEs}}
+- # Roaman Spotlight
+    - [[Zsolt Viczián]] needs no introduction as the author of the spectacular Excalidraw extension to Roam which not only lets you draw fantastic diagrams inside Roam, it now also syncs both ways so you can quickly add and edit the text in the diagram with blocks nested within it. His weekly blog is also a veritable treasure trove of deep dives into the more technical aspects of Roam as well as his fully-fledged Agile Project Management templates for Roam, and implementations of some of [[Edward de Bono]]'s [[Algorithms of Thought]].
+    - [[What do you use Roam for?]]
+        - Roam is at the heart of my GTD workflow. I keep all my meetings, projects, and tasks in Roam. Beyond GTD, Roam holds my notes about books, articles, videos, podcasts, etc. I also manage my blog from Roam, managing the backlog of ideas and the research and authoring process. Recently Roam has been key to learning Datalog and Clojure. Finally, I also use Roam as a development environment to build plugins and intelligent templates. 
+    - [[What has Roam taught you?]]
+        - The use of block references has had a profound effect on how I take notes, how I keep track of actions, of how I think. Also, Roam has deepened my outlining skills.
+    - [[What attracted you to Roam?]]
+        - The ease with which I can record my thoughts in Roam. 
+        - Besides the excellent user experience, the rapid development of the platform, and the excellent user community were also key factors.
+    - [[What’s your favourite feature of Roam?]]
+        - There are so many great features, I simply can't respond with a single one. Top contenders for the favorite feature are block references, datalog queries, and Roam42 SmartBlocks and other customizations enabled by roam/js plugins.
+    - [[What do you hope to see in the future?]]
+        - I want more control of my data. I'd like to see a solution in which I can opt to host my data independent of Roam Research. This should include my graph and my file attachments. I also hope to see encryption of my graph and overall much more focus on security.
+    - [[Tell us one interesting thing about you]]
+        - I love nature, I love sports and teamwork. I've been spelunking for over three decades now. I love mountain unicycling. I enjoy hiking. But I do not like sports as competition. I don't watch soccer, basketball, Formula 1, or the Olympics, etc.
+    - To learn more about what Zsolt gets up to you can [follow him on Twitter](https://twitter.com/zsviczian), and [read articles on his blog](https://www.zsolt.blog/).
+- # Thinking Out Loud
+    - While we're on the topic of Zsolt, we also have to thank him for his work in improving Roam's security. While not highly publicised Roam has published a [security advisory on their github](https://github.com/Roam-Research/issues/security/advisories/GHSA-q4ch-vxxv-mx3h) detailing an issue with their Firebase configuration, now fixed, which Zsolt discovered. It meant a bad actor could have had access to every file uploaded to any Roam graph.
+    - Security, privacy and trust have been a hot topic of late in the Roam community with several "defections" of long-time Roam users to alternatives like Obsidian, in part due to security concerns. Others, including myself, are taking a hard look at what we’re using Roam for, and whether we are happy with our decisions on what we keep in our graphs.
+    - Application security is a complex topic, and one that many users assume or take for granted when, in truth, things may not be as secure as we might assume.
+        - There is always a trade-off between security and convenience, and it always seems like convenience ought to win until you lose your data, or worse is stolen and used against you.
+        - Tools such as Roam are a prime target for hackers since several of its main use cases can relate to sensitive data that you would likely desire to stay private.
+            - One of the biggest uses of Roam is journaling. It's an excellent gateway into Roam as it's easy to get started and there is a lot of compound interest to be found in your personal development by using Roam to explore the thoughts, behaviours and actions of your past self.
+            - Roam is also explicitly designed for research and creating novel ideas, which by its nature, especially in profit-driven enterprises, are typically closely-guarded secrets, potentially worth big money to the organisation. They need assurances that this information will only stay in the hands for whom it's intended.
+    - Right now, **the best way you can minimise your risk is to assume that what you have put in Roam could be made public**. If you have information in there which you would be uncomfortable being shared, or would jeopardise your company then don't put it in Roam.
+    - This isn't meant to scare you, nor single out Roam since no software can be considered 100% secure (you only need to look at the number of security patches released by Microsoft for its operating systems to see that it's a never-ending game of whack-a-mole), but you should be aware of the risks and reality in order to make an informed choice and be a responsible steward of your data.
+    - I highly recommend you [read Zsolt's recent article on Roam Sex Ed](https://www.zsolt.blog/2021/03/roam-sex-ed.html) where he explains the ramifications and importance of managing your own information, how it applies to Roam, and why we need Roam Research to take security as seriously as possible.
+        - https://twitter.com/zsviczian/status/1376238564246183938?s=12 #[[LFR/Letter XVI]]
+    - As end-users we have to decide what's important for ourselves in a tool, and, as Zsolt says, practice "safe sex" when it comes to security. Define for yourself where your line is in security terms, and perhaps if Roam cannot meet that bar it is time to look elsewhere. There are many competitors nipping at its heels, each of which has its own lists of pros and cons of features and convenience versus security.
+    - It can't be explained more eloquently and succinctly than this quote from a prominent Roaman:
+        - > To live is risk. But how you move in the world is based on your calculus of that risk. If you are risky, be risky - but you lose sometimes.
+    - ### Where next?
+        - Communication is the key to building trust. Trust and perception matters as much as the security measures in place.
+            - I would like to see Roam Research take a bold stance on having the best-in-class security measures and communication through transparent policies and processes. I would like to see them commit to regular external security reviews and publish the results to demonstrate to their users and the world-at-large that the security of your data is their highest priority.
+            - **I believe that a privacy-first hosted Roam would open the door to Roam adoption in so many other places where it could become the true Excel for text.** Right now, Roam is a no-go for anything HIPAA-compliant, and here in Europe, the GDPR rules can mean massive fines and jail time so serious businesses require reassurance. These places are where Roam as a tool could thrive -- to use [[Andy Matuschak]]'s phrase -- it is where people have a [[serious context of use]], which may generate them opportunities to change the world.
+        - I am holding out hope that the Roam team are taking our security concerns seriously and will ensure they clearly communicate their policies and practices they are taking to keep our data safe and secure. Since my last letter where I discussed problems with the roamcult hashtag, Conor tweeted that he has realised that Roam needs to set an appropriate example and that words matter so they are distancing themselves away from the cult connotations, let's see the same commitment to security.
+            - https://twitter.com/conaw/status/1378485608075513860?s=12  #[[LFR/Letter XVI]]

@@ -1,0 +1,226 @@
+- 好中文第八期创新计划 #[[Edit Later]]
+    - 好中文第八期的招生，如何才能跟以前的不同。
+        - 招生价格不显示
+        - 有事进群里聊
+        - 把招生的事放到第一位 
+        - 根据一个word文档进行修改
+            - 有时候写得太实在也未必有受众
+            - 模糊一点好
+                - 别人奔个人品牌而来，并不在乎学什么
+    - {{[[POMO]]: 25}} 一个可供修改的word文本
+        - 好中⽂春季写作营招募
+        - 好中⽂春季写作营
+        - 概览与宗旨
+        - 好中⽂写作营，全称「好中⽂的样⼦写作营」是王佩于2015年创办的⼀个社区。在这⾥⼤家可以交流写作话题，研讨经典佳作，训练作家之⽿，培养⻛格的感觉，树⽴「修辞⽴其诚」的意识，最终形成最适合⾃⼰的写作⻛格，⼼智与⽂采⻬⻜，输⼊与输出俱进。
+        - 教学标准
+        - 1.	提倡「浅白易明、高雅简洁」的⽂⻛。
+        - 2.	对于经典⽂体有选择地吸收。
+        - 3.	打开窗户看世界，承继美好的写作传统。
+        - 4.	左⼿经典，右⼿热点。
+        - 5.	不废新⼈爱古⼈，清词丽句⾃有邻。
+        - 教学⺫标
+        - 1.	基础⽬标：⼀部短剧，⼆⾸诗歌，三篇⻓⽂，四篇短⽂。
+        - 2.	进阶⽬标：⼀个代码仓库，⼆套个体知识管理系统，三次分舵活动，四种新技能。
+        - 3.	掌握好中⽂写作⻛格的感觉与要素
+        - 4.	形成写作社区，让写作成为⼀种习惯。
+        - 5.	根据实际情况，⿎励⾃发组织好中⽂地区性分舵。
+        - 6.	以⻓三⻆为中⼼，探索好中⽂多级写匠制度，并建⽴考核系统。
+        - 教学材料
+        - 1.	好中⽂的样⼦讲稿(2020版)
+        - 2.	斯壮克、怀特《⻛格的要素》中英⽂版
+        - 3.	平克《⻛格感觉》中⽂版
+        - 4.	[明] ⾦圣叹点评《杜诗》
+        - 5.	[明] 谢肇淛《五杂组》
+        - 6.	[清] 曹雪芹 《红楼梦》1-80回选
+        - 7.	莎⼠⽐亚《哈姆雷特》中英⽂版
+        - 8.	《⽑泽东著作选读(⼄种本)》
+        - 9.	张⼴天话剧剧本《圣⼈孔⼦》
+        - 10.	⻩纪苏杂⽂选
+        - 11.	张燕淳《⽇本四季》
+        - 12.	Goodrich Bible based Writing Class
+        - 成绩验证
+        - 1.	读书笔记，训练作家之⽿。
+        - 2.	翻译(改写)练习，训练⻛格感觉。
+        - 3.	实⽤⽂体写作，能否做到⽼妪能解。
+        - 4.	现代诗与歌词写作训练⽂采。
+        - 5.	戏剧写作训练公共诗歌。
+        - 6.	⻓⽂章综合训练。
+        - 成员活动
+        - 在⻓三⻆成⽴好中⽂总舵。举⾏⾄少⼀次线下活动。根据实际情况，条件成熟的地⽅成⽴好中⽂分舵。
+        - 学习周期
+        - 2020年2⽉7⽇正式开课，⼀共20周，每个周五晚上19:30-21:30上课。内容覆盖教学⽬标和教学材料。
+        - 学费
+        - 2020年之前，好中⽂⽼学员报名享受优惠价: 480元
+        - 2020年之前，新⼈报名享受优惠价: 580元
+        - 2020年以后，正常价: 680 元
+        - 教学⽅式
+        - 微信图⽂教学
+        - ⾳视频辅助
+        - 报名⽅式
+        - 直接⼊群，随后⼊群⼀周内决定是否缴费，成为学员。缴费⽅式，微信或⽀付宝转账。
+        - 好中⽂简介
+        - 好中⽂的样⼦（GC Camp）是王佩创办的⼀个语⽂训练营，2015年创办，⾄今已经持续了四年，举办了三期培训班，每次半年，共培养学员800多⼈次。
+        - 王佩，编剧，作家，作品有舞台剧《疯狂短信》、《⻥眼》（北京⼈艺出品）、史诗话剧《怜⾹伴》（浙江话剧中⼼出品）。2014年澳⻔特别⾏政区”同⼀⾸歌，同⼀个梦”回归⼗五周年晚会总策划和总撰稿。专著有
+        - 《正版语⽂》（中国电影出版社）。译著有《⻛格感觉》（作者史蒂芬·平克，与王烁合译）、《⾃上⽽下》。
+        - 影视作品有电视节⽬：《中央电视台2002年3·15晚会情景史诗剧》，《中央电视台2004年五⼀特别节
+        - ⽬“新海港”》，电影作品：《我们相信未来》
+        - 更多内容，请访问官⽅⽹站: 好中⽂写作营第四期
+- 为什么为和合本打call
+    - [[February 22nd, 2023]] 门训时，我和[[刘作谦]]弟兄说起，我终究有一天要写出一部关于[[和合本]]成书的文学作品 #[[Edit Later]]
+    - [中文英皇钦定本圣经主页](http://ckjv.cn/)
+        - [[和合本]]的标点问题
+            - [引号 - 中文英皇钦定本圣经 ckjv](http://ckjv.cn/h-nd-19.html#_np=21_573)
+    - 与[[小山]] [[王旻瑚]]的讨论
+        - [[和合本]]的讨论
+- 随时调出Daily Notes
+    - 快捷键是 ` Option + Shift + ,`
+- [[webclips]]
+    - 莫扎特传 链接: https://pan.baidu.com/s/1SBQvXSkR3Lv9eeGlkh37Sg?pwd=56ht 提取码: 56ht 复制这段内容后打开百度网盘手机App，操作更方便哦 
+    - -来自百度网盘超级会员v9的分享
+    - [莫扎特传 National Theatre Live: Amadeus 百度网盘 迅雷 阿里 云盘 磁力 BT种子 资源](https://www.axjbt.com/read-52322)
+    - [haozhongwen-ghost-cover.jpg](hook://file/OABMrsTsZ?p=ZGluZy9Eb3dubG9hZHM=&n=haozhongwen%2Dghost%2Dcover%2Ejpg)
+    - {{[[TODO]]}} [Actions · baibanbao/roam-backup-2023-v2]([](https://github.com/baibanbao/roam-backup-2023-v2/actions))
+    - {{[[TODO]]}} [Actions · baibanbao/roam-backup-2023-v2]([](https://github.com/baibanbao/roam-backup-2023-v2/actions))
+    - [Actions · baibanbao/roam-backup-2023-v2]([](https://github.com/baibanbao/roam-backup-2023-v2/actions))
+    - {{[[TODO]]}} [Roam2Github Backup Guide]([Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9))
+    - [霸王别姬 霸王别姬 同声评论版-电影-高清完整正版视频在线观看-优酷]([](https://v.youku.com/v_show/id_XMzczNTE3MDIwNA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=cc00cce4962411de83b1))
+    - [Actions · baibanbao/roam2github-actions-2023]([Actions · baibanbao/roam2github-actions-2023 · GitHub](https://github.com/baibanbao/roam2github-actions-2023/actions))
+    - {{[[TODO]]}} [(9) #14 【歷代志下】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube]([#14 【歷代志下】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube](https://www.youtube.com/watch?v=NktP6lnm7ho&t=2187s)) #[[SLBC]]
+        - {{[[TODO]]}} [(9) #47【哥林多後書】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube]([#47【哥林多後書】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube](https://www.youtube.com/watch?v=2RLJIepD2jw&t=541s))
+    - {{[[TODO]]}} [(9) Roller Coaster Report - YouTube]([Roller coaster report [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=WnRf0y3xkNs))
+    - {{[[TODO]]}} [(9) Maximum Spy Action - YouTube]([Spy Operation [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=sFTlDWKFLa8))
+    - {{[[TODO]]}} [(9) Disappearing Thieves | Amazing Performers - Masquerade TV - YouTube]([Phantom thief seven changes [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=1mB3DfRBfs8&t=36s))
+    - {{[[TODO]]}} [(9) 《光輝歲月》改成汕大校歌 唱喊畢業生 - YouTube]([《光輝歲月》改成汕大校歌 唱喊畢業生 - YouTube](https://www.youtube.com/watch?v=B5M2ByUWf2E)) #[[王子月]] 
+        - {{[[TODO]]}} [(9) 全国総勢300人大合唱「乾杯」 - YouTube]([全国総勢300人大合唱「乾杯」 - YouTube](https://www.youtube.com/watch?v=kTadJDa-I4I)) 
+        - {{[[TODO]]}} [酒よ／坂本冬美　吉 幾三 - YouTube]([酒よ／坂本冬美　吉 幾三 - YouTube](https://www.youtube.com/watch?v=esyUnIxlO10))
+        - {{[[TODO]]}} 02:43 54 [(9) 吉幾三(Yoshi Ikuzō) - と・も・子… (2007 Live)[1978年9月25日 リリース]《友子》(江蕙《美麗的交換》原曲)[中日文字幕] - YouTube]([吉幾三(Yoshi Ikuzō) - と・も・子…  (2007 Live)[1978年9月25日 リリース]《友子》(江蕙《美麗的交換》原曲)[中日文字幕] - YouTube](https://www.youtube.com/watch?v=ioxxHxqFAe8))
+        - {{[[TODO]]}} [(9) 夏祭り / 乾杯　長渕剛　with 南こうせつ - YouTube]([夏祭り / 乾杯　長渕剛　with 南こうせつ - YouTube](https://www.youtube.com/watch?v=RtsizF1mSZI))
+        - {{[[TODO]]}} [(9) 「と・も・こ」　吉幾三 - YouTube]([「と・も・こ」　吉幾三 - YouTube](https://www.youtube.com/watch?v=KQGczY6mnuM))
+        - {{[[TODO]]}} [(9) 長渕剛 蜻蜓 (中文字幕請手動開啟) - YouTube]([長渕剛 蜻蜓 (中文字幕請手動開啟) - YouTube](https://www.youtube.com/watch?v=Koad1RmX8dQ))
+    - [[Digest]]
+        - {{[[TODO]]}} [(9) Lawnmower - YouTube]([Mowing machine [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=VYxQyl2JSPg))
+        - {{[[TODO]]}} [(9) Tapioca milk tea [Masquerade Award Official] - YouTube]([Tapioca milk tea [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=20HYlEYkfEI))
+        - {{[[TODO]]}} [(9) Karate Master | Amazing Performers - Masquerade TV - YouTube]([Surprising karate dojo [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=tyn-wz5Mk_I))
+        - {{[[TODO]]}} [「男たちの大和」長渕剛Close your eyes - YouTube]([「男たちの大和」長渕剛Close your eyes - YouTube](https://www.youtube.com/watch?v=BF619VM6HxY)) #牟森
+        - {{[[TODO]]}} [(9) [Self-Defense Forces Music Corps] Yukari Miyake, a solo singer of the hymn of the soul - YouTube]([【自衛隊音楽隊】魂の讃美歌独唱・海上自衛隊音楽隊、三宅由佳莉さん - YouTube](https://www.youtube.com/watch?v=B3nehMDiX40))
+        - [(9) Skydiving | Amazing Performers - Masquerade TV - YouTube]([Friendship in the sky [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=T6nXrVHx1OU)) #[[Jonas]]
+        - {{[[TODO]]}} [(9) 芸能生活50周年 歌謡プレミアム特別版 吉幾三 半世紀 - YouTube]([芸能生活50周年 歌謡プレミアム特別版 吉幾三 半世紀 - YouTube](https://www.youtube.com/watch?v=VxiJpakSAE0)) 
+        - [may-20230223-荒诞一幕]([may-20230223-荒诞一幕](https://rigeng.net/post/up/oz454jsqxyq-mcv1of1_kogejga4/2023-02-23)) #[[Edit Later]]  #[[rigeng]] #[[May]]
+        - [Guide: Easy Set Up For Automatic Roam Backups | Erik Newhard]([
+Guide: Easy Set Up For Automatic Roam Backups | Erik Newhard
+](https://eriknewhard.com/blog/backup-roam-in-github/))#[[Roam Research]] 
+            - [Actions · baibanbao/roam-backup-2023-v2]([](https://github.com/baibanbao/roam-backup-2023-v2/actions)) #[[Roam Research]]
+            - 10:07 10 laike9m
+@laike9m
+·
+8h
+现在我依然感激 
+@laixintao
+ 当年说的那句话，简直点醒了我。大意是：
+
+“如果迁移笔记是个问题，那就直接开始记新的，不要管以前的笔记”
+
+当时我很心水 
+@logseq
+，但是一直困于怎么迁移 7000+ 的 Evernote 笔记而不敢开始。后来下定决心开始用 Logseq 才发现，大部分旧笔记不重要，重要的手动copy即可 [](https://twitter.com/luoleiorg/status/1628746329630605312)
+    - {{[[TODO]]}} [may-20230223-荒诞一幕]([may-20230223-荒诞一幕](https://rigeng.net/post/up/oz454jsqxyq-mcv1of1_kogejga4/2023-02-23))
+    - [(9) 绝对特工大片 间谍大作战 【超级变变变】【第96届 2019】 - YouTube]([绝对特工大片 间谍大作战 【超级变变变】【第96届 2019】 - YouTube](https://www.youtube.com/watch?v=FWbVQCkDN8A))
+    - [中文英皇钦定本圣经主页](http://ckjv.cn/)
+- #Hookmark
+    - 
+    - [Alan Lightman - Einstein's Dreams-Warner Books (1994).pdf](hook://file/OAC9OWWzl?p=ZGluZy9Eb3dubG9hZHM=&n=Alan%20Lightman%20%2D%20Einstein%27s%20Dreams%2DWarner%20Books%20%281994%29%2Epdf)
+    - {{pdf: https://www.dropbox.com/s/bx9mzquc5tcr7kl/Alan%20Lightman%20-%20Einstein%27s%20Dreams-Warner%20Books%20%281994%29.pdf?raw=1}}
+- 近期记事
+    - [[February 21st, 2023]] 二月二，龙抬头，与#Grace 第二堂课
+        - sorry, we couldn't generate an image for you. if this issue persists, please contact support@phonetonote.com
+        - 下次上课时间 [[March 21st, 2023]]
+    - [[February 22nd, 2023]] 与[[刘作谦]]门训
+        - 考察了 #[[创邑办公室]] 受 #[[jfx]] 的委托
+    - [[February 18th, 2023]] 举办春天诗会
+    - [[February 23rd, 2023]] [[岳父]]急诊检查出肠癌，做了肠支架手术，#[[Seven]] 陪护
+    - [[February 26th, 2023]] #[[SLBC]] 主日服事，读经
+        - 旧约读经：历代志下34:29-33
+            - 经文
+                - 29
+                - 王差遣人招聚犹大和耶路撒冷的众长老来。
+                - 30
+                - 王和犹大众人，与耶路撒冷的居民，并祭司利未人，以及所有的百姓，无论大小，都一同上到耶和华的殿。王就把殿里所得的约书念给他们听。
+                - 31
+                - 王站在他的地位上，在耶和华面前立约，要尽心尽性地顺从耶和华，遵守他的诫命，法度，律例，成就这书上所记的约言。
+                - 32
+                - 又使住耶路撒冷和便雅悯的人都服从这约。于是耶路撒冷的居民都遵行他们列祖之神的约。
+                - 33
+                - 约西亚从以色列各处将一切可憎之物尽都除掉，使以色列境内的人都事奉耶和华他们的神。约西亚在世的日子，就跟从耶和华他们列祖的神，总不离开。
+            - [阎大卫版]([https://youtu.be/NktP6lnm7ho?t=8526](https://dayone.me/journals/239203/%3Ca%20href=)">[https://youtu.be/NktP6lnm7ho?t=8526](https://youtu.be/NktP6lnm7ho?t=8526))
+            - [磐石版]([https://youtu.be/G9HaH5pkVyw?t=8952](https://dayone.me/journals/239203/%3Ca%20href=)">[https://youtu.be/G9HaH5pkVyw?t=8952](https://youtu.be/G9HaH5pkVyw?t=8952))
+        - 新约读经：哥林多后书3:12-18
+            - 经文
+                - 12
+                - 我们既有这样的盼望，就大胆讲说，
+                - 13
+                - 不像摩西将帕子蒙在脸上，叫以色列人不能定睛看到那将废者的结局。
+                - 14
+                - 但他们的心地刚硬。直到今日诵读旧约的时候，这帕子还没有揭去。这帕子在基督里已经废去了。
+                - 15
+                - 然而直到今日，每逢诵读摩西书的时候，帕子还在他们心上。
+                - 16
+                - 但他们的心几时归向主，帕子就几时除去了。
+                - 17
+                - 主就是那灵。主的灵在哪里，哪里就得以自由。
+                - 18
+                - 我们众人既然敞着脸，得以看见主的荣光，好像从镜子里返照，就变成主的形状，荣上加荣，如同从主的灵变成的。
+            - 录音
+                - #阎大卫 版
+                - https://youtu.be/2RLJIepD2jw?t=494
+    - 重新续费使用[[Dropbox]]
+    - 答应[[月小刀]]交稿
+- [[Gratitude]]
+    - 还是要感谢[[月小刀]]
+    - 感谢#[[Seven]]
+    - 感谢杨浦区中心医院医生的救治
+    - 感谢帮助过我的朋友们，无论是谁
+    - 感谢#[[SLBC]]的肢体
+    - 感谢现在还没有战争，但是迟早会有的
+    - 感谢[[倪佳燕]]老师
+    - 感谢[[王旻瑚]]姊妹
+        - 讨论和合本引号的问题
+            - [红楼梦 - 某年月日 - 中国哲学书电子化计划](https://ctext.org/hongloumeng/zhs?searchu=%E6%9F%90%E5%B9%B4%E6%9C%88%E6%97%A5)
+    - 感谢[[季晔峰]]弟兄
+    - 感谢[[刘作谦]]弟兄
+- [[Day Start]] 11:26
+- Daily Tasks
+    - {{[[TODO]]}} [Roam2Github Backup Guide]([Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9))
+    - {{[[TODO]]}} [(9) 全国総勢300人大合唱「乾杯」 - YouTube]([全国総勢300人大合唱「乾杯」 - YouTube](https://www.youtube.com/watch?v=kTadJDa-I4I)) 
+    - {{[[TODO]]}} [(9) 夏祭り / 乾杯　長渕剛　with 南こうせつ - YouTube]([夏祭り / 乾杯　長渕剛　with 南こうせつ - YouTube](https://www.youtube.com/watch?v=RtsizF1mSZI))
+    - {{[[TODO]]}} [(9) [Self-Defense Forces Music Corps] Yukari Miyake, a solo singer of the hymn of the soul - YouTube]([【自衛隊音楽隊】魂の讃美歌独唱・海上自衛隊音楽隊、三宅由佳莉さん - YouTube](https://www.youtube.com/watch?v=B3nehMDiX40))
+    - {{[[TODO]]}} [(9) 長渕剛 蜻蜓 (中文字幕請手動開啟) - YouTube]([長渕剛 蜻蜓 (中文字幕請手動開啟) - YouTube](https://www.youtube.com/watch?v=Koad1RmX8dQ))
+    - {{[[TODO]]}} [(9) #14 【歷代志下】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube]([#14 【歷代志下】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube](https://www.youtube.com/watch?v=NktP6lnm7ho&t=2187s)) #[[SLBC]]
+    - {{[[TODO]]}} [(9) Maximum Spy Action - YouTube]([Spy Operation [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=sFTlDWKFLa8))
+    - {{[[TODO]]}} [(9) Disappearing Thieves | Amazing Performers - Masquerade TV - YouTube]([Phantom thief seven changes [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=1mB3DfRBfs8&t=36s))
+    - {{[[TODO]]}} [(9) 「と・も・こ」　吉幾三 - YouTube]([「と・も・こ」　吉幾三 - YouTube](https://www.youtube.com/watch?v=KQGczY6mnuM))
+    - {{[[TODO]]}} [(9) 芸能生活50周年 歌謡プレミアム特別版 吉幾三 半世紀 - YouTube]([芸能生活50周年 歌謡プレミアム特別版 吉幾三 半世紀 - YouTube](https://www.youtube.com/watch?v=VxiJpakSAE0)) 
+    - {{[[TODO]]}} [may-20230223-荒诞一幕]([may-20230223-荒诞一幕](https://rigeng.net/post/up/oz454jsqxyq-mcv1of1_kogejga4/2023-02-23))
+    - {{[[TODO]]}} [(9) #47【哥林多後書】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube]([#47【哥林多後書】【有聲聖經字幕版】中文和合本聖經100週年紀念 - YouTube](https://www.youtube.com/watch?v=2RLJIepD2jw&t=541s))
+    - {{[[TODO]]}} 02:43 54 [(9) 吉幾三(Yoshi Ikuzō) - と・も・子… (2007 Live)[1978年9月25日 リリース]《友子》(江蕙《美麗的交換》原曲)[中日文字幕] - YouTube]([吉幾三(Yoshi Ikuzō) - と・も・子…  (2007 Live)[1978年9月25日 リリース]《友子》(江蕙《美麗的交換》原曲)[中日文字幕] - YouTube](https://www.youtube.com/watch?v=ioxxHxqFAe8))
+    - {{[[TODO]]}} [「男たちの大和」長渕剛Close your eyes - YouTube]([「男たちの大和」長渕剛Close your eyes - YouTube](https://www.youtube.com/watch?v=BF619VM6HxY)) #牟森
+    - {{[[TODO]]}} [(9) 《光輝歲月》改成汕大校歌 唱喊畢業生 - YouTube]([《光輝歲月》改成汕大校歌 唱喊畢業生 - YouTube](https://www.youtube.com/watch?v=B5M2ByUWf2E)) #[[王子月]] 
+    - {{[[TODO]]}} [(9) Karate Master | Amazing Performers - Masquerade TV - YouTube]([Surprising karate dojo [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=tyn-wz5Mk_I))
+    - {{[[TODO]]}} [(9) Roller Coaster Report - YouTube]([Roller coaster report [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=WnRf0y3xkNs))
+    - {{[[TODO]]}} [酒よ／坂本冬美　吉 幾三 - YouTube]([酒よ／坂本冬美　吉 幾三 - YouTube](https://www.youtube.com/watch?v=esyUnIxlO10))
+    - {{[[TODO]]}} [(9) Tapioca milk tea [Masquerade Award Official] - YouTube]([Tapioca milk tea [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=20HYlEYkfEI))
+    - {{[[TODO]]}} [(9) Lawnmower - YouTube]([Mowing machine [Masquerade Award Official] - YouTube](https://www.youtube.com/watch?v=VYxQyl2JSPg))
+- ---
+- [[Daily Journal]] 
+    - #[[Jonas]]
+        - ![](https://www.dropbox.com/s/2bv521g5r81sb94/%E8%AF%BE%E7%A8%8B%E8%A1%A8.jpeg?raw=1)
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+    - 备份的重要性 #tech
+        - 启用三星[[T7移动硬盘]]用来备份[[Time Machine]]
+        - 重新续订了[[Dropbox]]
+        - 提醒[[小山]]要注意备份
+- [[Daily Reading]]
+    - 
+- ---

@@ -1,0 +1,55 @@
+" Install vim-plug if not found
+if empty(glob('~/.vim/autoload/plug.vim'))
+  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+    \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+endif
+
+" Run PlugInstall if there are missing plugins
+autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
+  \| PlugInstall --sync | source $MYVIMRC
+\| endif
+
+" Specify a directory for plugins
+" - For Neovim: stdpath('data') . '/plugged'
+" - Avoid using standard Vim directory names like 'plugin'
+
+" The IME to invoke for managing input languages (macos, fcitx, ibus, xkb-switch)
+let g:barbaric_ime = 'fcitx'
+
+" The input method for Normal mode (as defined by `xkbswitch -g`, `ibus engine`, or `xkb-switch -p`)
+let g:barbaric_default = 0
+
+" The scope where alternate input methods persist (buffer, window, tab, global)
+let g:barbaric_scope = 'buffer'
+
+" Forget alternate input method after n seconds in Normal mode (disabled by default)
+" Useful if you only need IM persistence for short bursts of active work.
+let g:barbaric_timeout = -1
+
+" The fcitx-remote binary (to distinguish between fcitx and fcitx5)
+let g:barbaric_fcitx_cmd = 'fcitx5-remote'
+
+" The xkb-switch library path (for Linux xkb-switch users ONLY)
+let g:barbaric_libxkbswitch = $HOME . '/.local/lib/libxkbswitch.so'
+
+
+call plug#begin('~/.vim/plugged')
+ Plug 'https://github.com/rlue/vim-barbaric'
+call plug#end()
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+38 lines yanked
+  

@@ -1,0 +1,7 @@
+- Projects
+    - Completed Date::
+    - Status::正在进行
+    - Due Date:: [[July 27th, 2023]]
+    - Related Goals::
+    - Success Criteria:: 学员满意，无退款无投诉，达到50人。
+    - Tags:: #Projects

@@ -1,0 +1,2 @@
+- 《西游记》对小孩子有天然的吸引力。这才是真正的“大名著”，是其他三大所不能及的。
+- ![](./_image/dawangpaiwolaixunshan.jpg)

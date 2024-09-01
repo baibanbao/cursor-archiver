@@ -1,0 +1,39 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 马丁路德
+        - 早晨起床，画圣十字，说：
+            - 奉父、子、圣灵的名，阿门。
+        - 然后，或跪或立，诵信经并主祷文
+        - 晨祷短祷文
+            - 我的天父啊，我藉着耶稣基督，你的爱子，感谢你。
+                - 因你昨夜保护我没有遇见什么灾难危险。
+            - 还祈求你今日依然保护我，不陷在罪与任何凶恶里。
+            - 使我一切行为与生活，都蒙你的喜悦。
+                - 因我将我自己，我的身体，灵魂和一切，都交托在你手里。
+            - 愿你的圣天使与我同在，使那恶敌没有权力辖制我。
+            - 阿门。
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 11:29
+- Daily Tasks
+    - 
+- 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **11:29** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[Sora Camp]]
+- [[写书]]
+- #Finance
+- ---

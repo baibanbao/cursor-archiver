@@ -1,0 +1,191 @@
+- 
+    - **Wikipedia Summary:** #rm-hide #rm-horizontal
+        - Kenneth Charles Loach (born 17 June 1936) is a British film director and screenwriter. His socially critical directing style and socialist ideals are evident in his film treatment of social issues such as poverty (Poor Cow, 1967), homelessness (Cathy Come Home, 1966), and labour rights (Riff-Raff, 1991, and The Navigators, 2001).
+Loach's film [[Kes]] (1969) was voted the seventh greatest British film of the 20th century in a poll by the British Film Institute. Two of his films, [[The Wind That Shakes the Barley]] (2006) and [[I, Daniel Blake ]](2016), received the Palme d'Or at the Cannes Film Festival, making him one of only nine filmmakers to win the award twice.
+        - ![](https://upload.wikimedia.org/wikipedia/commons/b/be/Ken_Loach_Cannes_2014.jpg)
+    - https://en.wikipedia.org/wiki/Ken_Loach
+        - Ken Loach
+        - From Wikipedia, the free encyclopedia
+        - Jump to navigationJump to search
+        - Ken Loach
+        - Ken Loach Cannes 2014.jpg
+        - Loach in 2014
+        - Born	17 June 1936 (age 86)
+        - Nuneaton, Warwickshire, England
+        - Alma mater	St Peter's College, Oxford
+        - Occupation	Film director, screenwriter
+        - Years active	1962–present
+        - Political party	Labour (1962–1994, 2015–2021)
+        - Left Unity (2012–2015)
+        - Respect (2004–2012)
+        - Spouse(s)	Lesley Ashton
+        - ​
+        - ​(m. 1962)​
+        - Children	5, including Jim Loach
+        - Kenneth Charles Loach (born 17 June 1936) is a British film director and screenwriter. His socially critical directing style and socialist ideals are evident in his film treatment of social issues such as poverty (Poor Cow, 1967), homelessness (Cathy Come Home, 1966), and labour rights (Riff-Raff, 1991, and The Navigators, 2001).
+        - Loach's film Kes (1969) was voted the seventh greatest British film of the 20th century in a poll by the British Film Institute. Two of his films, The Wind That Shakes the Barley (2006) and I, Daniel Blake (2016), received the Palme d'Or at the Cannes Film Festival, making him one of only nine filmmakers to win the award twice.
+        - Contents
+        - 1	Early life
+        - 2	Career
+        - 3	Film style
+        - 4	Political activities
+        - 4.1	Affiliations before 2015
+        - 4.2	Campaign for boycott of Israel
+        - 4.3	Association with Labour under Jeremy Corbyn
+        - 4.3.1	Views on allegations of antisemitism in the Labour Party
+        - 4.4	Political views
+        - 5	Personal life and honours
+        - 5.1	Turning down Turin Film Festival award
+        - 5.2	Honorary doctorate from Free University of Brussels
+        - 6	Filmography
+        - 6.1	Television
+        - 6.2	Cinema
+        - 6.3	Documentary
+        - 7	Filmmaking awards and recognition
+        - 8	See also
+        - 9	References
+        - 10	External links
+        - Early life
+        - Kenneth Charles Loach was born on 17 June 1936 in Nuneaton, Warwickshire, the son of Vivien (née Hamlin) and John Loach. He attended King Edward VI Grammar School and at the age of 19 went to serve in the Royal Air Force. He read law at St Peter's College, Oxford and graduated with a third-class degree. As a member of the Oxford University Experimental Theatre Club he directed an open-air production of Bartholomew Fair for the Shakespeare Memorial Theatre, Stratford, in 1959 (when he also took the role of the shady horse-dealer Dan Jordan Knockem). After Oxford, he began a career in the dramatic arts.
+        - Career
+        - Ken Loach.jpg
+        - Loach worked first as an actor in regional theatre companies and then as a director for BBC Television. His 10 contributions to the BBC's Wednesday Play anthology series include the docudramas Up the Junction (1965), Cathy Come Home (1966) and In Two Minds (1967). They portray working-class people in conflict with the authorities above them. Three of his early plays are believed to be lost. His 1965 play Three Clear Sundays dealt with capital punishment, and was broadcast at a time when the debate was at a height in the United Kingdom. Up the Junction, adapted by Nell Dunn from her book with the assistance of Loach, deals with an illegal abortion while the leading characters in Cathy Come Home, by Jeremy Sandford, are affected by homelessness, unemployment, and the workings of Social Services. In Two Minds, written by David Mercer, concerns a young schizophrenic woman's experiences of the mental health system. Tony Garnett began to work as his producer in this period, a professional connection which would last until the end of the 1970s.
+        - During this period, he also directed the absurdist comedy The End of Arthur's Marriage, about which he later said that he was "the wrong man for the job". Coinciding with his work for The Wednesday Play, Loach began to direct feature films for the cinema, with Poor Cow (1967) and Kes (1969). The latter recounts the story of a troubled boy and his kestrel, and is based on the novel A Kestrel for a Knave by Barry Hines. The film was well received, although the use of Yorkshire dialect throughout the film restricted its distribution, with some American executives at United Artists saying that they would have found a film in Hungarian easier to understand. The British Film Institute named it No 7 in its list of best British films of the twentieth century, published in 1999.
+        - During the 1970s and 1980s, Loach's films were less successful, often suffering from poor distribution, lack of interest and political censorship. His documentary The Save the Children Fund Film (1971) was commissioned by the charity, who subsequently disliked it so much they attempted to have the negative destroyed. It was only screened publicly for the first time on 1 September 2011, at the BFI Southbank. Loach concentrated on television documentaries rather than fiction during the 1980s, and many of these films are now difficult to access as the television companies have not released them on video or DVD. At the end of the 1980s, he directed some television advertisements for Tennent's Lager to earn money.
+        - Days of Hope (1975) is a four part drama for the BBC directed by Loach from scripts by dramatist Jim Allen. The first episode of the series caused considerable controversy in the British media owing to its critical depiction of the military in World War I, and particularly over a scene where conscientious objectors were tied up to stakes outside trenches in view of enemy fire after refusing to obey orders. An ex-serviceman subsequently contacted The Times newspaper with an illustration from the time of a similar scene.
+        - Loach's documentary A Question of Leadership (1981) interviewed members of the Iron and Steel Trades Confederation (the main trade union for Britain's steel industry) about their 14-week strike in 1980, and recorded much criticism of the union's leadership for conceding over the issues in the strike. Subsequently, Loach made a four-part series named Questions of Leadership which subjected the leadership of other trade unions to similar scrutiny from their members, but this has never been broadcast. Frank Chapple, leader of the Electrical, Electronic, Telecommunications and Plumbing Union, walked out of the interview and made a complaint to the Independent Broadcasting Authority. A separate complaint was made by Terry Duffy of the Amalgamated Engineering and Electrical Union. The series was due to be broadcast during the Trade Union Congress conference in 1983, but Channel 4 decided against broadcasting the series following the complaints. Anthony Hayward claimed in 2004 that the media tycoon Robert Maxwell had put pressure on Central Television's board (Central was the successor to the original production company Associated Television), of which he had become a director, to withdraw Questions of Leadership at the time he was buying the Daily Mirror newspaper and needed the co-operation of union leaders, especially Chapple.
+        - Which Side Are You On? (1985), about the songs and poems of the UK miners' strike, was originally due to be broadcast on The South Bank Show, but was rejected on the grounds that it was too politically unbalanced for an arts show. The documentary was eventually transmitted on Channel 4, but only after it won a prize at an Italian film festival. Three weeks after the end of the strike, the film End of the Battle ... Not the End of the War? was broadcast by Channel 4 in its Diverse Strands series. This film argued that the Conservative Party had planned the destruction of the National Union of Mineworkers' political power from the late 1970s.
+        - Working again with Jim Allen, Loach was due to direct Allen's play Perdition at the Royal Court Theatre in 1987. In the play Jewish leaders in Nazi-occupied Hungary allow half a million Jews to be killed in pursuit of a Zionist state in Palestine. However, following protests and allegations of antisemitism, the play was cancelled 36 hours before its premiere.
+        - In 1989, Loach directed a short documentary Time to go that called for the British Army to be withdrawn from Northern Ireland, which was broadcast in the BBC's Split Screen series.
+        - From the late 1980s, Loach directed theatrical feature films more regularly, a series of films such as Hidden Agenda (1990), dealing with the political troubles in Northern Ireland, Land and Freedom (1995), examining the Republican resistance in the Spanish Civil War, and Carla's Song (1996), which was set partially in Nicaragua. He directed the courtroom drama reconstructions in the docu-film McLibel, concerning McDonald's Restaurants v Morris & Steel, the longest libel trial in English history. Interspersed with political films were more intimate works such as Raining Stones (1993) a working-class drama concerning an unemployed man's efforts to buy a communion dress for his young daughter.
+        - On 28 May 2006, Loach won the Palme d'Or at the 2006 Cannes Film Festival for his film The Wind That Shakes the Barley, a political-historical drama about the Irish War of Independence and the subsequent Irish Civil War during the 1920s. Like Hidden Agenda before it, The Wind That Shakes the Barley was criticised for allegedly being too sympathetic to the Irish Republican Army and Provisional Irish Republican Army. This film was followed by It's a Free World... (2007), a story of one woman's attempt to establish an illegal placement service for migrant workers in London.
+        - Throughout the 2000s, Loach interspersed wider political dramas such as Bread and Roses (2000), which focused on the Los Angeles janitors strike, and Route Irish (2010), set during the Iraq occupation, with smaller examinations of personal relationships. Ae Fond Kiss... (a.k.a. Just a Kiss, 2004) explored an inter-racial love affair, Sweet Sixteen (2002) concerns a teenager's relationship with his mother and My Name Is Joe (1998) an alcoholic's struggle to stay sober. His most commercial later film is Looking for Eric (2009), featuring a depressed postman's conversations with the ex-Manchester United footballer Eric Cantona appearing as himself. The film won the Magritte Award for Best Co-Production. Although successful in Manchester, the film was a flop in many other cities, especially cities with rival football teams to Manchester United.
+        - The Angels' Share (2012) is centered on a young Scottish troublemaker who is given a final opportunity to stay out of jail. Newcomer Paul Brannigan, then 24, from Glasgow, played the lead role. The film competed for the Palme d'Or at the 2012 Cannes Film Festival where Loach won the Jury Prize. Jimmy's Hall (2014) was selected to compete for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival. Loach announced his retirement from film-making in 2014 but soon after restarted his career following the election of a Conservative government in the UK general election of 2015.
+        - Loach won his second Palme d'Or for I, Daniel Blake (2016). In February 2017, the film was awarded a BAFTA as "Outstanding British Film".
+        - Film style
+        - Loach at the 2006 Cannes Film Festival
+        - In May 2010, Loach referred in an interview to the three films that have influenced him most: Vittorio De Sica's Bicycle Thieves (1948), Miloš Forman's Loves of a Blonde (1965) and Gillo Pontecorvo's The Battle of Algiers (1966). De Sica's film had a particularly profound effect. He noted: "It made me realise that cinema could be about ordinary people and their dilemmas. It wasn't a film about stars, or riches or absurd adventures".
+        - Throughout his career, some of Loach's films have been shelved for political reasons. In a 2011 interview with The Guardian newspaper he said:
+        - It makes you angry, not on your own behalf, but on behalf of the people whose voices weren't allowed to be heard. When you had trade unions, ordinary people, rank and file, never been on television, never been interviewed, and they're not allowed to be heard, that's scandalous.
+        - Loach argues that working people's struggles are inherently dramatic:
+        - They live life very vividly, and the stakes are very high if you don't have a lot of money to cushion your life. Also, because they're the front line of what we came to call the class war. Either through being workers without work, or through being exploited where they were working. And I guess for a political reason, because we felt, and I still think, that if there is to be change, it will come from below. It won't come from people who have a lot to lose, it will come from people who will have everything to gain.
+        - A thematic consistency throughout his films, whether they examine broad political situations or smaller intimate dramas, is his focus on personal relationships. The sweeping political dramas (Land and Freedom, Bread and Roses, The Wind that Shakes the Barley) examine wider political forces in the context of relationships between family members (Bread and Roses, The Wind that Shakes the Barley, Carla's Song), comrades in struggle (Land and Freedom) or close friends (Route Irish). In a 2011 interview for the Financial Times, Loach explains how "The politics are embedded into the characters and the narrative, which is a more sophisticated way of doing it".
+        - Many of Loach's films include a large amount of traditional dialect, such as the Yorkshire dialect in Kes and in The Price of Coal, Cockney in Up the Junction and Poor Cow, Scouse in The Big Flame, Lancashire dialect in Raining Stones, Glaswegian in My Name Is Joe and the dialect of Greenock in Sweet Sixteen. Many of these films have been subtitled when shown in other English-speaking countries. When asked about this in an interview with Cineaste, Loach replied:
+        - If you ask people to speak differently, you lose more than the voice. Everything about them changes. If I asked you not to speak with an American accent, your whole personality would change. That's how you are. My hunch is that it's better to use subtitles than not, even if that limits the films to an art-house circuit.
+        - Loach was amongst the first British directors to use swearing in his films. Mary Whitehouse complained about swearing in Cathy Come Home and Up The Junction, while The Big Flame (1969) for the BBC was an early instance of the word shit, and the certificate to Kes caused some debate owing to the profanity, but these films have relatively few swear words compared to his later work. In particular, the film Sweet Sixteen was awarded an 18 certificate on the basis of the very large amount of swearing, despite the lack of serious violence or sexual content, which led Loach to encourage under-18s to break the law to see the film.
+        - Feminist writer Julie Bindel has criticised Loach's recent films for a lack of female characters who are not simply love interests for the male characters, although she praised his early film, Cathy Come Home. Bindel also wrote, "Loach appears not to know gay people exist".
+        - Political activities
+        - Affiliations before 2015
+        - Loach first joined the Labour Party from the early 1960s. In the 1980s, he was in the Labour Party because of the presence of "a radical element that was critical of the leadership", but Loach had left the Labour Party by the mid-1990s after being a member for 30 years. During the 1960s and 1970s, he was associated with (or a member of) the Socialist Labour League (later the Workers Revolutionary Party), the International Socialists (later the Socialist Workers Party or SWP) and the International Marxist Group.
+        - He was involved in Respect - The Unity Coalition from its beginnings in January 2004, and stood for election to the European Parliament on the Respect list in 2004. Loach was elected to the national council of Respect the following November. When Respect split in 2007, Loach identified with Respect Renewal, the faction identified with George Galloway. Later, his connection with Respect ended.
+        - Together with John Pilger and Jemima Khan, Loach was among the six people in court who offered surety for Julian Assange when he was arrested in London on 7 December 2010. The money was forfeited when Assange skipped bail to seek asylum in the Embassy of Ecuador, London.
+        - Loach supported the Trade Unionist and Socialist Coalition in the 2012 London Assembly election. With the support of the activist Kate Hudson and academic Gilbert Achcar, Loach launched a campaign in March 2013 for a new left-wing party which was founded as Left Unity on 30 November. Left Unity candidates gained an average of 3.2% in the 2014 local elections. Loach gave a press conference during the launch of Left Unity's manifesto for the 2015 general election.
+        - Campaign for boycott of Israel
+        - Main article: Boycott, Divestment and Sanctions
+        - In a letter sent to The Guardian in 2009, Loach advocated support for the Palestine Campaign for the Academic and Cultural Boycott of Israel (PACBI) along with his regular colleagues Paul Laverty (writer) and Rebecca O'Brien (producer).
+        - In 2007, Loach was one of more than 100 artists and writers who signed an open letter calling on the San Francisco International LGBT Film Festival "to honour calls for an international boycott of Israeli political and cultural institutions, by discontinuing Israeli consulate sponsorship of the LGBT film festival and not co-sponsoring events with the Israeli consulate". Loach also joined "54 international figures in the literary and cultural fields" in signing a letter that stated, in part, "celebrating 'Israel at 60' is tantamount to dancing on Palestinian graves to the haunting tune of lingering dispossession and multi-faceted injustice". The letter was published in the International Herald Tribune on 8 May 2008.
+        - Responding to a report, which Loach described as "a red herring", on the growth of antisemitism since the beginning of the Gaza War of 2008–2009, he said: "If there has been a rise I am not surprised. In fact, it is perfectly understandable because Israel feeds feelings of anti-Semitism". He added that "no-one can condone violence". Speaking at the launch of the Russell Tribunal on Palestine on 4 March 2009, he said that "nothing has been a greater instigator of antisemitism than the self-proclaimed Jewish state itself".
+        - In May 2009, organisers of the Edinburgh International Film Festival (EIFF) returned a £300 grant from the Israeli Embassy to fund Israeli filmmaker Tali Shalom Ezer's travel to Edinburgh after speaking with Loach. He was supporting a boycott of the festival called for by the PACBI campaign. In response, former Channel 4 chief executive Sir Jeremy Isaacs described Loach's intervention as an act of censorship, saying: "They must not allow someone who has no real position, no rock to stand on, to interfere with their programming". Later, a spokesman for the EIFF said that although it had returned £300 to the Israeli Embassy, the festival itself would fund Shalom-Ezer's travel from its own budget. Her film Surrogate (2008) is a comedy set in a sex-therapy clinic which is unconcerned with war or politics. In an open letter to Shalom-Ezer, Loach wrote: "From the beginning, Israel and its supporters have attacked their critics as anti-semites or racists. It is a tactic to undermine rational debate. To be crystal clear: as a film maker you will receive a warm welcome in Edinburgh. You are not censored or rejected. The opposition was to the Festival's taking money from the Israeli state". To his critics, he added later: "The boycott, as anyone who takes the trouble to investigate knows, is aimed at the Israeli state". Loach said he had a "respectful and reasoned" conversation with event organisers, saying they should not be accepting funds from Israel.
+        - In June 2009, Loach, Laverty and O'Brien withdrew their film Looking For Eric from the Melbourne International Film Festival, where the Israeli Embassy is a sponsor, after the festival declined to withdraw that sponsorship. The festival's chief executive, Richard Moore, compared Loach's tactics to blackmail, stating that "we will not participate in a boycott against the State of Israel, just as we would not contemplate boycotting films from China or other nations involved in difficult long-standing historical disputes". Australian politician Michael Danby also criticised Loach's tactics stating that "Israelis and Australians have always had a lot in common, including contempt for the irritating British penchant for claiming cultural superiority. Melbourne is a very different place to Londonistan". An article in The Scotsman by Alex Massie noted that Loach had not called for the same boycott of the Cannes Film Festival, where his film was in competition with some Israeli films.
+        - Loach, Laverty and O'Brien subsequently wrote that:
+        - We feel duty bound to take advice from those living at the sharp end inside the occupied territories. We would also encourage other filmmakers and actors invited to festivals to check for Israeli state backing before attending, and if so, to respect the boycott. Israeli filmmakers are not the target. State involvement is. In the grand scale of things it is a tiny contribution to a growing movement, but the example of South Africa should give us heart.
+        - Association with Labour under Jeremy Corbyn
+        - Loach had rejoined the Labour Party by 2017, and was a member until his expulsion in the summer of 2021. In August 2015, he endorsed Jeremy Corbyn's Labour leadership campaign. In September 2016, Loach's one-hour documentary In Conversation with Jeremy Corbyn was released during the second leadership election.
+        - In May 2017, he directed an election broadcast featuring a profile of Jeremy Corbyn for the Labour Party's general election campaign. In all, he has made three broadcasts for the party.
+        - In interviews in September and October 2019 Loach said MPs around Corbyn had not acted as a team and that most would prefer a rightwing leader. He said the Labour leadership had "compromised too much with the Labour right". He accused the right of the party, including Tom Watson, of aiming to destroy the socialist programme put forward by Corbyn. He suggested that sitting Labour MP's and councillors should reapply for their jobs before each election so that they could be judged on their record. He also demanded that Labour people make a case for socialism including "hancing trade union rights, planning the economy, investing in the regions, kicking out the privatised elements of the NHS". He considered issues such as health, schools, poverty, inequality and climate change as more important than Brexit.
+        - In November 2019, Loach endorsed the Labour Party in the 2019 general election. In December 2019, along with 42 other leading cultural figures, he signed a letter endorsing the Labour Party under Corbyn's leadership in the 2019 general election. The letter stated that "Labour's election manifesto under Jeremy Corbyn's leadership offers a transformative plan that prioritises the needs of people and the planet over private profit and the vested interests of a few."
+        - In August 2021, Loach was expelled from the Labour Party because of his membership of an organisation, Labour Against the Witchhunt, proscribed by the party the previous month, saying he was removed for failing to "disown" Labour members who had been expelled from the party. In an interview with Jacobin the same month, Loach stated that he was not a member of any of the organisations which had recently been proscribed by the party, but that he "support(ed) many of the people who have been expelled, because they are good friends and comrades". He also argued that his expulsion was an ex post facto action as the evidence the party cited in their letter informing him of their decision dated from before the organisations he was accused of being a member of had been banned by the party. Former shadow chancellor John McDonnell said, "To expel such a fine socialist who has done so much to further the cause of socialism is a disgrace". His expulsion was also opposed by the Socialist Campaign Group but supported by the Jewish Labour Movement.
+        - Views on allegations of antisemitism in the Labour Party
+        - See also: Antisemitism in the UK Labour Party
+        - At the Labour Party Conference in September 2017, Loach said he had been going to Labour Party, trade union and left wing meetings for over 50 years and had never heard antisemitic or racist remarks, although such views certainly existed in society. When asked about allegations of antisemitic abuse made by Ruth Smeeth MP, he suggested that they were raised to destabilise Corbyn's leadership, due to his support for Palestinian rights. He was also asked about a conference fringe event at which Miko Peled suggested people should be allowed to question whether the Holocaust had happened. Loach responded: "I think history is for all of us to discuss. The founding of the state of Israel, for example, based on ethnic cleansing, is there for us all to discuss, so don't try and subvert that by false stories of antisemitism". Following the publication of articles by Jonathan Freedland and Howard Jacobson which were critical of him, he said it was not acceptable to question or challenge the reality of the Holocaust, which was as real a historical event as the Second World War itself.
+        - Loach was an official sponsor of the group Labour Against the Witchhunt, launched in 2017 to campaign against what it sees to be politically motivated allegations of antisemitism in the Labour Party.
+        - In April 2018, Loach was reported to have said, at a screening of I, Daniel Blake organised by Kingswood Labour Party, that those Labour MPs who had attended a rally in Parliament Square the previous month opposing alleged antisemitism in the Labour Party should be deselected or, as he reputedly expressed it, "kicked out" because of their lack of support for the current manifesto. Asked for clarification, Loach said the quoted remarks "do not reflect my position" and that "Reselecting an MP should not be based on individual incidents but reflect the MP's principles, actions and behaviour over a long period."
+        - In July 2019, BBC's Panorama aired an episode entitled "Is Labour Anti-Semitic?", in which eight former members of Labour Party staff said that senior Labour figures had intervened to downgrade punishments handed out to members over antisemitism. Loach commented saying "it raised the horror of racism against Jews in the most atrocious propagandistic way, with crude journalism … and it bought the propaganda from people who were intent on destroying Corbyn".
+        - In February 2021, Judith Buchanan, the Master of St Peter's College, Oxford, apologised to Jewish students for interviewing Loach.
+        - Political views
+        - In 2016, Loach, a social campaigner for most of his career, said the criteria for claiming benefits in the UK were "a Kafka-esque, Catch-22 situation designed to frustrate and humiliate the claimant to such an extent that they drop out of the system and stop pursuing their right to ask for support if necessary".
+        - Personal life and honours
+        - Loach lives with his wife, Lesley, in Bath. His son Jim Loach has also become a television and film director. A younger son died in a car accident, aged five, and he also has another son and two daughters, one of whom is Emma Loach (born 1972), a documentary film maker who is married to the actor Elliot Levey.
+        - Loach is a patron of the British Humanist Association and a secularist, saying "In particular, the indoctrination of children in separate faith schools is pernicious and divisive. I strongly support the British Humanist Association."
+        - Loach turned down an OBE in 1977. In a Radio Times interview, published in March 2001, he said:
+        - It's all the things I think are despicable: patronage, deferring to the monarchy and the name of the British Empire, which is a monument of exploitation and conquest. I turned down the OBE because it's not a club you want to join when you look at the villains who've got it.
+        - Loach has been awarded honorary doctorates by the University of Bath, the University of Birmingham, Staffordshire University, and Keele University. Oxford University awarded him an honorary Doctor of Civil Law degree in June 2005. He is also an honorary fellow of his alma mater, St Peter's College, Oxford. In May 2006, he was awarded the BAFTA Fellowship at the BAFTA TV Awards.
+        - In 2003, Loach received an honorary doctorate from Heriot-Watt University and received the 2003 Praemium Imperiale (lit. "World Culture Prize in Memory of His Imperial Highness Prince Takamatsu") in the category Film/Theatre. In 2014, he was presented with the Honorary Golden Bear at the 64th Berlin International Film Festival. The Raindance Film Festival announced in September 2016 that it would be honouring Loach with its inaugural Auteur Award, to recognise his "achievements in filmmaking and contribution to the film industry." He was also made Honorary Associate of London Film School.
+        - Turning down Turin Film Festival award
+        - In November 2012, Loach turned down the Turin Film Festival award, upon learning that the National Museum of Cinema in Turin had outsourced cleaning and security services. The museum outsourced this labour after dismissing workers who opposed a wage cut, in addition to raising allegations of intimidation and harassment. Loach publicly stated that his refusal to accept the award from the museum was an act of solidarity with these workers.
+        - Honorary doctorate from Free University of Brussels
+        - In April 2018, Loach was awarded an honorary doctorate by the Université libre de Bruxelles (Free University of Brussels). Belgium's Prime Minister Charles Michel objected. Belgian Jewish organisations campaigned for Loach not to receive the honorary doctorate. The previous evening, during a speech at Brussels Grand Synagogue, to mark the 70th anniversary of Israel's foundation, Michel said: "No accommodation with antisemitism can be tolerated, whatever its form. And that also goes for my own alma mater". His office told the Belgian De Standaard news website the comments could apply to Loach's honorary doctorate. At a press conference before the award, Loach asked: "Is the law so badly taught here? Or did he not pass his exam?" In a press release, Loach said the claim about his alleged antisemitism was "malicious". The rector of the Free University of Brussels, Yvon Englert, supported Loach.
+        - Filmography
+        - Television
+        - Catherine ("Teletale", 1964)
+        - Z-Cars (series episodes, 1964)
+        - Diary of a Young Man (series, 1964)
+        - Tap on the Shoulder (The Wednesday Play, 1965)
+        - Wear a Very Big Hat (The Wednesday Play, 1965)
+        - Three Clear Sundays (The Wednesday Play, 1965)
+        - Up the Junction (The Wednesday Play, 1965)
+        - The End of Arthur's Marriage (The Wednesday Play, 1965)
+        - The Coming Out Party (The Wednesday Play, 1965)
+        - Cathy Come Home (The Wednesday Play, 1966)
+        - In Two Minds (The Wednesday Play, 1967)
+        - The Golden Vision (The Wednesday Play, 1968)
+        - The Big Flame (The Wednesday Play, 1969)
+        - The Rank and File (Play for Today, 1971)
+        - After a Lifetime ("Sunday Night Theatre", 1971)
+        - A Misfortune ("Full House", 1973)
+        - Days of Hope (serial, 1975)
+        - The Price of Coal (1977)
+        - The Gamekeeper (1980)
+        - Auditions (1980)
+        - A Question of Leadership (1981)
+        - The Red and the Blue: Impressions of Two Political Conferences – Autumn 1982 (1983)
+        - Questions of Leadership (1983/4, untransmitted)
+        - Which Side Are You On? (1985)
+        - End of the Battle... Not the End of the War ("Diverse Reports", 1985)
+        - Time to Go ("Split Screen", 1989)
+        - The View From the Woodpile (1989)
+        - The Arthur Legend ("Dispatches", 1991)
+        - The Flickering Flame (1996)
+        - Another City: A Week in the Life of Bath's Football Club (1998)
+        - Cinema
+        - Poor Cow (1967)
+        - Kes (1969) (as Kenneth Loach)
+        - Family Life (1971)
+        - Black Jack (1979) (as Kenneth Loach)
+        - Looks and Smiles (1981) (as Kenneth Loach)
+        - Fatherland (1986)
+        - Hidden Agenda (1990)
+        - Riff-Raff (1991)
+        - Raining Stones (1993)
+        - Ladybird, Ladybird (1994)
+        - Land and Freedom (1995)
+        - Carla's Song (1996)
+        - My Name Is Joe (1998)
+        - Bread and Roses (2000)
+        - The Navigators (2001)
+        - Sweet Sixteen (2002)
+        - 11'09"01 September 11 (segment "United Kingdom") (2002)
+        - Ae Fond Kiss... (2004)
+        - Tickets (2005), along with Ermanno Olmi and Abbas Kiarostami
+        - The Wind That Shakes the Barley (2006)
+        - It's a Free World... (2007)
+        - Looking for Eric (2009)
+        - Route Irish (2010)
+        - The Angels' Share (2012)
+        - Jimmy's Hall (2014)
+        - I, Daniel Blake (2016)
+        - Sorry We Missed You (2019)
+        - Documentary
+        - The Save the Children Fund Film (1971)
+        - Time to go (1989)
+        - A Contemporary Case for Common Ownership (1995)
+        - The Flickering Flame (1997)
+        - McLibel (2005)
+        - The Spirit of '45 (2013)
+        - Filmmaking awards and recognition
+        - Loach is arguably the most successful director in the history of the prestigious Cannes Film Festival. Films of his have won the Palme d'Or, the festival's top award, a joint-record twice (The Wind That Shakes the Barley in 2006 and I, Daniel Blake in 2016), the Jury Prize a joint-record three times (Hidden Agenda in 1990, Raining Stones in 1993, and The Angels' Share in 2012) as well as the FIPRESCI Prize three times (Black Jack in 1979, Riff-Raff in 1991 and Land and Freedom in 1995) and the Prize of the Ecumenical Jury twice (Land and Freedom in 1995 and Looking for Eric in 2009). Loach's collaborators have also won awards at the festival for their work on his films: Peter Mullan won Best Actor for My Name Is Joe in 1998, and Paul Laverty won Best Screenplay for Sweet Sixteen in 2002.
+        - While Loach's films have only occasionally been entered into the Venice and Berlin Film Festivals (generally regarded as the main rivals of Cannes), he has won awards at both, including, most notably, their respective lifetime achievement awards: the Honorary Golden Lion in 1994, and the Honorary Golden Bear in 2014.
+        - Other major awards won by Loach include the BAFTA for Outstanding British Film (I, Daniel Blake in 2016) and BIFA Award for Best British Independent Film (My Name is Joe in 1998 and Sweet Sixteen in 2002), the Cesar Award for Best Foreign Film (Land and Freedom in 1995 and I, Daniel Blake in 2016), the European Film Award for Best Film (Riff-Raff in 1992 and Land and Freedom in 1995), and the Belgian Film Critics Association Grand Prix (Raining Stones in 1993).
+        - In addition, Loach's 1969 classic Kes was judged the 7th best British film of the 20th century by the British Film Institute, and the 4th best British film ever made by Time Out, while his 1966 television play Cathy Come Home was ranked the second best British TV programme, also by the BFI, and the best ever single television drama in a readers' poll conducted by the Radio Times. Loach's 1997/2005 documentary McLibel, meanwhile, featured in the BFI's landmark Ten Documentaries which Changed the World series.
+        - See also
+        - Kitchen sink realism

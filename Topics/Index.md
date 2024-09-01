@@ -1,0 +1,21 @@
+- Description: Often you begin a PhD, dissertation or paper with a general idea of what you would like to write about but without enough detail to begin writing an outline. This is the space where you can gather together all of the topics that interest you until you can refine them further.
+- Tags: #[[Collection]] #[[Summary]]
+- ---
+- Version 2
+    - #[[Self-Publishing]]
+    - #[[Indie Authorship]]
+    - #[[Indie Publisher]]
+    - #[[Creative Entrepreneur]]
+        - Q-Notes
+            - [[Q - Do the literary gatekeepers consider the creative entrepreneurs a legitimate authorship identity?]]
+            - [[Q - What is the origin of the creative entrepreneur]]
+            - [[Q - What makes a Creative Entrepreneur different from other independent forms of authorship?]]
+            - [[Q - What is the definition of a creative entrepreneur?]]
+        - Z-Notes
+            - [[Z - The environment required for collaborative authorship did not exist until the digital revolution of the twentieth century]]
+    - #[[Digital Publishing]]
+    - #[[Authorship]]
+    - #[[Fan Fiction]]
+    - #[[Theory of the Author]]
+    - #[[Book history]]
+    - #[[literary theory]]

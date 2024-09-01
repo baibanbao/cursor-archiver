@@ -1,0 +1,13 @@
+- #[[工具]]
+- 
+- ### Snippets from (176) 後悔買20萬Mac Pro嗎？新版M1晶片Mac mini來踢館｜壹加壹 - YouTube
+- Video URL: [https://www.youtube.com/watch?v=_egE0aDHhdU](https://www.youtube.com/watch?v=_egE0aDHhdU)
+- *00:00-10:55**
+- Link: [https://reclipped.com/a/TJlv0lm5EeurynNXalk6Cg](https://reclipped.com/a/TJlv0lm5EeurynNXalk6Cg)
+- *Summary Note**
+- [00:52](https://www.youtube.com/watch?v=_egE0aDHhdU&t=52) 28核心
+- [03:19](https://www.youtube.com/watch?v=_egE0aDHhdU&t=199) 效能差不多
+- [08:41](https://www.youtube.com/watch?v=_egE0aDHhdU&t=521) 60分钟，mini, 80分钟，mac pro
+- [09:24](https://www.youtube.com/watch?v=_egE0aDHhdU&t=564) 反应很快
+- [10:15](https://www.youtube.com/watch?v=_egE0aDHhdU&t=615) 最后推荐m1
+- <!-- -->

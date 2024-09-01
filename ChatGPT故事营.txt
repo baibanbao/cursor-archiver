@@ -1,0 +1,30 @@
+- Projects
+    - Completed Date:: 
+    - Status:: 正在招生
+    - Due Date:: [[July 31st, 2023]]
+    - Related Goals:: 形成滚动循环机制，成立公司，解决tax问题
+    - Success Criteria:: Income 120k  #Finance
+    - Tags:: #Projects
+- 
+- 进度条
+    - 调试通了 https://chat9.zhongwenai.com/
+        - access code `tianxingjian`
+    - 今天报名人数
+        - 一共19人
+            - 潜在客户
+                - [[插一腿]]
+                - [[格林]]
+                - [[朱轶敏]]
+                - [[Maggie WZT]]  #亲子
+- 工具篇
+    - [ConnectAI-E/Feishu-OpenAI: 🎒 飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀](https://github.com/ConnectAI-E/Feishu-OpenAI)
+    - [Pricing - MagickPen](https://magickpen.com/pricing/)
+    - {{[[TODO]]}} 记得问问推特上，有哪些可以免翻墙使用的ChatGPT工具，付费也可。
+    - {{[[TODO]]}} zoom安装使用教程，询问[[黄超]]
+- 备课内容
+    - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893)
+    - 
+- 安替大法
+    - ChatGPT不封IP后我特别高兴。我最近用GPT-4在读《明史》，自动翻译成现代文，和读小说一样爽。我们这些理工科出身的，就是古文不好，中国上古史我读的都是剑桥英文版。现在有了GPT-4，我觉得我开始像一个堂堂正正的中国人了。
+        - Google bard刚出来的时候，我就用它帮着我啃完了凯恩斯的原版通论，The General Theory of Employment, Interest and Money。
+    - 

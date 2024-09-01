@@ -1,0 +1,5 @@
+#simplenote #安全
+
+弃用flomo
+出于安全原因，改用simplenote
+

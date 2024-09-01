@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Elem Klimov]]
+        - Writer:: [[Ales Adamovich]] [[Elem Klimov]]
+        - Cast:: [[Aleksey Kravchenko]] [[Olga Mironova]] [[Liubomiras Laucevicius]]
+        - Year:: [[1985]]
+        - Genre:: #Drama #Thriller #War
+    - **IMDb:** https://www.imdb.com/title/tt0091251
+    - **Plot Summary:** After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.

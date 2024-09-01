@@ -1,0 +1,23 @@
+- [[Gratitude]]
+- [[Day Start]] 22:33
+    - 提前安排
+        - [[October 16th, 2022]]
+- Daily Tasks
+    - {{[[DONE]]}} #[[Jonas]]打篮球
+    - {{[[DONE]]}} 与#[[JFX]]和[[刘作谦]]弟兄共进午餐
+    - {{[[DONE]]}} 走路6000步
+    - {{[[TODO]]}} 0点前睡觉
+- [[Daily Thoughts]]
+- [[Daily Accomplishments]]
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

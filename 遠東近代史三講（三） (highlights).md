@@ -1,0 +1,6 @@
+- Author:: [[Zhongjing Liu | 劉仲敬]]
+- Full Title:: 遠東近代史三講（三）
+- Category:: #articles
+- URL:: https://medium.com/p/41ab5f676bff
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 但是由於共產主義在馬克思時代所搶佔的生態位，它本身就是一個打算當永久反對黨的生態位，所以是不是可行對他來說不是很重要。重要的是他在激進派內部的生態位中怎樣才能搶到最大的空間。

@@ -1,0 +1,4 @@
+# 好的代码本身就是最好的说明文档
+tags = 
+
+[英文全文](http://www.devtopics.com/101-great-computer-programming-quotes/)。

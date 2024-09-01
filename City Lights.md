@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Charles Chaplin]]
+        - Writer:: [[Charles Chaplin]] [[Harry Carr]] [[Harry Crocker]]
+        - Cast:: [[Charles Chaplin]] [[Virginia Cherrill]] [[Florence Lee]]
+        - Year:: [[1931]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0021749
+    - **Plot Summary:** With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.

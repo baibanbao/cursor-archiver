@@ -1,0 +1,6 @@
+- Author:: [[Aristotle]]
+- Full Title:: On the Art of Poetry
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - horrors have occurred. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B002RKR3O2&location=457))
+    - of the Plot, and the kind of Plot required ([Location 458](https://readwise.io/to_kindle?action=open&asin=B002RKR3O2&location=458))

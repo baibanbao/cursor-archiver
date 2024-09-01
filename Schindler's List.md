@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Thomas Keneally]] [[Steven Zaillian]]
+        - Cast:: [[Liam Neeson]] [[Ralph Fiennes]] [[Ben Kingsley]]
+        - Year:: [[1993]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0108052
+    - **Plot Summary:** In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FQ5062YFpql.pdf?alt=media&token=40ba8548-b0ea-4cc5-87bb-8e390c44de5d}}

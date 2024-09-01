@@ -1,0 +1,1 @@
+- Aliases:haozhongwen,gc,好中文

@@ -1,0 +1,9 @@
+# 卡片法的一些链接
+tags = #how2
+
+卡片法的使用
+* [卡片快速写作十原理 - 读立写生](http://www.cnfeat.com/blog/2017/09/11/PrinciplesQuickWriting/)
+* [(14 条消息)如何玩转 WorkFlowy？ - 知乎](https://www.zhihu.com/question/20491194/answer/126151108)
+* 奥斯卡编剧 https://www.youtube.com/watch?v=vrvawtrRxsw
+* [卡片创作法之奥斯卡编剧 Dustin Lance Black - 读立写生](http://www.cnfeat.com/blog/2017/05/09/OscarScreenWriterCardsUsage/)
+* [索引卡简史：从这里窥见互联网信息革命 - 读立写生](http://www.cnfeat.com/blog/2017/03/24/Briefhistory/)

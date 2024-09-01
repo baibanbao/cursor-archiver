@@ -1,0 +1,32 @@
+- vim新经验
+    - 使用mac自带输入法，可以解决vim上一些输入法切换中遇到的小问题
+        - 例如刚刚切换到normal模式，`o`增加一行，直接可以输入中文
+            - 如果是rime的话，输入是英文状态。
+- [[Gratitude]]
+- [[Day Start]] 08:31
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+    - {{[[DONE]]}} 休息充足
+    - {{[[TODO]]}} 用新的vim组合写作
+    - {{[[TODO]]}} 祷告
+        - {{[[TODO]]}} 常规
+        - {{[[TODO]]}} 方言
+    - {{[[TODO]]}} 读kjv
+    - ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 英国王室一家人
+        - [安妮长公主 - 维基百科，自由的百科全书](https://zh.m.wikipedia.org/wiki/%E5%AE%89%E5%A6%AE%E9%95%BF%E5%85%AC%E4%B8%BB)
+        - [威塞克斯伯爵爱德华王子 - 维基百科，自由的百科全书](https://zh.m.wikipedia.org/wiki/%E5%A8%81%E5%A1%9E%E5%85%8B%E6%96%AF%E4%BC%AF%E7%88%B5%E7%88%B1%E5%BE%B7%E5%8D%8E%E7%8E%8B%E5%AD%90)
+    - [张小龙的饭否 · Issue #215 · yihong0618/gitblog](https://github.com/yihong0618/gitblog/issues/215)
+    - [正则表达式 · Issue #11 · yihong0618/gitblog](https://github.com/yihong0618/gitblog/issues/11)
+
+    - [[Justin Welby]]
+    - #vim
+        - [一次 vim 的简单介绍 | Verne in GitHub](https://einverne.github.io/post/2017/11/vim-presentation.html)
+        - [Vim 中的宏命令 | Verne in GitHub](https://einverne.github.io/post/2017/11/vim-macro.html)
+- ---

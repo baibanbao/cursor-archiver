@@ -1,0 +1,10 @@
+﻿- #[[Finance]] balance this month
+    - [[招联金融]] 14697 due date
+    -  [[杭州银行]]  3325.72  due date 
+
+    - [[借呗]] 21475.10 due date 
+
+    - [[招行信用卡]]  6650.57 due date
+
+sum=46148.39 count=19 avg=2428.86 mid=0
+

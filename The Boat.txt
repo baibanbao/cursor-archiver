@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Wolfgang Petersen]]
+        - Writer:: [[Wolfgang Petersen]] [[Lothar G Buchheim]]
+        - Cast:: [[Jürgen Prochnow]] [[Herbert Grönemeyer]] [[Klaus Wennemann]]
+        - Year:: [[1981]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0082096
+    - **Plot Summary:** The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.

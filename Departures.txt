@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTY1MTZhZDMtNTg0OC00YjFjLTgzNDEtYTU0M2M3OTNhNWMxXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Yôjirô Takita]]
+        - Writer:: [[Kundô Koyama]]
+        - Cast:: [[Masahiro Motoki]] [[Ryôko Hirosue]] [[Tsutomu Yamazaki]]
+        - Year:: [[2008]]
+        - Genre:: #Drama #Music
+    - **IMDb:** https://www.imdb.com/title/tt1069238
+    - **Plot Summary:** A newly unemployed cellist takes a job preparing the dead for funerals.

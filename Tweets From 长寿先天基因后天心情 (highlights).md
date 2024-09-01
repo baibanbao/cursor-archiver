@@ -1,0 +1,7 @@
+- Author:: [[@jamesli41890910 on Twitter]]
+- Full Title:: Tweets From 长寿先天基因后天心情
+- URL:: https://twitter.com/jamesli41890910
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 恶是善的缺失，罪是完美的缺失。人内心深处潜意识里是向往完美的，所以当人意识到自己内心有缺失时常常会在外表上做反向表演：自卑的人常常表现傲慢；懦弱的人常常表现攻击性；恨自己的人常常用语言挑别人的错或者咒骂；内心冷漠的人常常表现要帮别人做事；不快乐的人常常表现我很有钱过的爽。别被骗了 ([View Tweet](https://twitter.com/jamesli41890910/status/1730897030250451132))

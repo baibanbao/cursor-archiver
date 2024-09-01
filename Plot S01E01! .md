@@ -1,0 +1,5 @@
+Plot S01E01: 
+
+1960s China timeline: Ye Wenjie witnesses her father’s humiliation and death in a struggle session. Later, at a work camp, she’s given a copy of Silent Spring. It is discovered, but she does not betray the one who gave it to her. After nearly dying in prison, she is taken to a station with a large radar-like dish to serve the rest of her sentence. She figures out its purpose before she is told.
+
+Modern timeline: A group of researchers talk about how modern work has stopped making sense and that several scientists are committing suicide. Da Shi, an investigator is trying to link multiple scientist suicides and notices a headpiece that looks like a helmet in common. Augustina “Auggie” Salazar starts seeing a countdown timer in front of her eyes all the time. A woman she doesn’t know says “don’t let it get to zero” and tells her to watch the sky at midnight the next day. She brings a friend to look with her and witnesses all the stars flashing in the same pattern as her countdown timer.

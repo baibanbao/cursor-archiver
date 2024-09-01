@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjMzNTkwODg3M15BMl5BanBnXkFtZTgwODIxMjY1MDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Frederick Wiseman]]
+        - Writer:: [[N/A]]
+        - Cast:: [[Anahid Modrek]]
+        - Year:: [[2013]]
+        - Genre:: #Documentary
+    - **IMDb:** https://www.imdb.com/title/tt3091552
+    - **Plot Summary:** The University of California at Berkeley, the oldest and most prestigious member of a ten campus public education system, is also one of the finest research and teaching facilities in the world. The film, At Berkeley, shows the ma...

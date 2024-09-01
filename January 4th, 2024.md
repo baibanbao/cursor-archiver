@@ -1,0 +1,25 @@
+- [[Gratitude]]
+- [[Day Start]] 23:22
+- #[[Prayers&Answers]]
+    - Date: [[January 4th, 2024]] 23:22
+        - 赞美感谢
+            - 赞美感谢主
+        - 认罪悔改
+            - 为自己一天的倦怠
+        - 祈求代求
+            - 求主赐给我健康，止住胃痛
+            - 求主赐给我精神，能够做事
+            - 求主医治#[[Jonas]]，让他康复
+            - 求主赐下新的一轮课程，让我可以赚钱
+            - 求主解决我和[[陈浩初]]之间的小小龃龉，使他不要再来蹭办公室，这么做是不公义的，也是过分的
+            - 求主与我同行，伴我成长
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

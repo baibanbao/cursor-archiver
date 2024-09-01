@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZWM1MTdhM2YtNjgwZS00YjQ3LTk3NTQtMzQ1NDE3YzZlODFlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Andrew Lau, Alan Mak]]
+        - Writer:: [[Alan Mak]] [[Felix Chong]]
+        - Cast:: [[Andy Lau]] [[Tony Chiu-Wai Leung]] [[Anthony Chau-Sang Wong]]
+        - Year:: [[2002]]
+        - Genre:: #Action #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0338564
+    - **Plot Summary:** A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.

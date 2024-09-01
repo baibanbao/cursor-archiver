@@ -1,0 +1,40 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[November 10th, 2020]]
+- ## Around the Roaman Empire
+    - ### Roam42 (again)
+        - Just when you think it can't get any better, Chris ([[Roamhacker]]) continues to knock it out the park with converter and web views. This makes it far, far easier to export your notes elsewhere. Creating this newsletter got a whole lot faster now that I can copy/paste the flattened markdown straight into ConvertKit.
+        - You might be wondering why have the web view when the converter provides a html export option? A "pure" web view means that you can easily print it, which means if you have a PDF printer then PDF output is now trivial, even on iPad devices. [Roamhacker created a video to demonstrate how](https://twitter.com/roamhacker/status/1322528417158516738).
+    - ### Roam Portal (again)
+        - Dharam Kapila has updated [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe) again, adding a new 3d visualisation so you can explore your graph through time and space.
+        - https://twitter.com/DharamKapila/status/1325931967335034890?s=20
+    - ### Backups
+        - In [[LFR/Letter V]] I covered the new EDN backup format -- that generated me a few emails!
+            - The Roam team have added a third option to the export, **EDN**. It stands for Extensible Data Notation and it enables a lossless backup of your Roam graph. **I highly recommend using this format when you take a backup now**. Using only Markdown or JSON means that you could lose some data if the worst happened and you wanted to recreate your Roam graph.
+        - What I didn't make clear was that while you could now backup to EDN at the time I wrote it, there was no import or restore option available. A couple of days later, the restore option became available. You'll find it in  __Graph Settings__. It is worth noting that EDN at the moment is for doing full backup/restores. You cannot use it as a selective backup or restore. It will wipe out all the existing data in your graph if you restore an EDN backup into it.
+    - ### Roam Updates
+        - Roam's weekly(ish) update email is back but I did want to make sure that you were all aware of the new sidebar updates since it can break custom themes. Now you can drag and resize the sidebar to fit and rename pages directly in the sidebar.
+        - When you share your graph with others, you also have the option of switching on immutable blocks. That means only the author of the block can edit them block but it doesn't prevent others from nesting their own blocks underneath.
+            - The immutable block feature is switched on in the Roam Book Club shared graph.
+- ## Thinking Out Loud
+    - ### Roam Book Club 2
+        - The second [[Roam Book Club]] is in full swing reading [[book/How to take smart notes]], unfortunately I missed the first live session because my internet connection was playing up. For those unaware, over 1700 members signed up and the first week had over 200 people participating in the live session with [[Sönke Ahrens]], making notes and sharing thoughts live in the shared Roam graph.
+        - Sunday's session had fewer people but the energy and excitement was palpable. We're interactively iterating on defining conventions for collaborating on a large scale and in a meta way, working on implementing our [[Zettelkasten]] system as we read __the__ book about it.
+    - ### Reimagining Books
+        - With the [[Roam Book Club]] on my mind, I have been thinking a lot since my last letter about the future of books and knowledge creation, distribution and collaboration, and how Roam might enable new ways forward.
+        - I'm not the only one discussing these concepts. While I didn't attend the live sessions I'm working my way through the replays of a couple of sessions where the future of books were discussed amongst other topics:
+            - [[Roam FM]] host, [[Norman Chella]] held a hangout on [Roam Creators and monetisation](https://www.youtube.com/watch?v=ReCRQa-q0k4)
+            - The Generalist, [[Mario Gabriele]]  hosted [The Indie Researcher](https://www.youtube.com/watch?v=vrhBaR2fNjQ) with [[Andy Matuschak]], [[Anne-Laure Le Cunff]], [[Adam Wiggins]], [[Toby Shorin]], and [[Kara Kittel]].
+        - Across Twitter and in some email replies from you lovely readers, there has been further discussions around how future knowledge might be best represented once you're outside of the constraints of the traditional book format.
+        - Since Roam enables non-linear journeys through the knowledge contained within its graphs it raises many questions and creates new opportunities to learn and understand better by connecting it more deeply with our own prior knowledge. Some questions I'm contemplating: #[[open questions]]
+            - Are we fundamentally going to change what we currently think of as books?
+            - What can we do to go beyond traditional organisational constructs of tables of contents, chapters and indexes?
+            - How can we collaborate and generate insights together both synchronously and asynchronously?
+            - How do we best navigate the information when we are not constrained by an a single author narrative presenting their view of the ideas, topics and themes?
+            - As book authors, how does your role change? Are you there to give them a "north star" to head towards, with a map to let them choose their own path and have their own adventures along the way in order for them to more deeply understand and create connections and insights?
+    - ### Roam-native Newsletters
+        - [[Luca Dellanna]] joined us in the [book club]([[Roam Book Club]]) on Sunday to talk a little about the Roam version of his new book [[book/Ergodicity]] and how he designed and amended it compared to the traditional book format.
+            - Separately, [[Robert Haisfield]] [posted an excellent Twitter thread](https://twitter.com/RobertHaisfield/status/1324206244794572800) discussing his thoughts on Luca's book, to which Luca responded thoughtfully too.
+        - During the book club call, Luca also announced a new Roam project set to be revealed on [[November 15th, 2020]]. However, while reading his website, I stumbled across it, a Roam Newsletter, or [RoamLetter](https://www.luca-dellanna.com/roamletter/). I do have to take issue with his claim to be the first newsletter to provide a Roam native version, since as readers will know, I've been doing that since [[LFR/Letter II]] and made [[LFR/Letter I]]'s content available too. The previous editions of these letters are available on [my sign-up page](https://roam.elaptics.co.uk/letters) if you want to get the older editions.
+            - I'm still somewhat undecided on whether it would be more useful for the Roam version of this newsletter to track exactly with what you receive in your inboxes, or would it be more valuable to get the background notes and sources to extend your own Roam graph. Does it help to have the connections I've made? One shortcoming is that in my own Roam graph, I block reference liberally, but of course that's of no benefit to you without the same source blocks. I try to create  a "clean" copy for export purposes.
+            - What are your thoughts? Reply and give me your feedback.

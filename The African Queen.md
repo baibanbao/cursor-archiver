@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzM3YjE2NGMtODY3Zi00NTY0LWE4Y2EtMTE5YzNmM2U1NTg2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Huston]]
+        - Writer:: [[CS Forester]] [[James Agee]] [[John Huston]]
+        - Cast:: [[Humphrey Bogart]] [[Katharine Hepburn]] [[Robert Morley]]
+        - Year:: [[1951]]
+        - Genre:: #Adventure #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0043265
+    - **Plot Summary:** In WWI East Africa, a gin-swilling Canadian riverboat captain is persuaded by a strait-laced English missionary to undertake a trip up a treacherous river and use his boat to attack a German gunship.

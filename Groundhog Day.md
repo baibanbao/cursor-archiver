@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Harold Ramis]]
+        - Writer:: [[Danny Rubin]] [[Harold Ramis]]
+        - Cast:: [[Bill Murray]] [[Andie MacDowell]] [[Chris Elliott]]
+        - Year:: [[1993]]
+        - Genre:: #Comedy #Drama #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0107048
+    - **Plot Summary:** A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FyNpO39VY1J.pdf?alt=media&token=8e985831-9c6f-428d-a107-47656cfac9db}}

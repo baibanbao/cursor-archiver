@@ -1,0 +1,17 @@
+- [[Gratitude]]
+- [[Day Start]] 09:20
+- Daily Tasks
+    - {{[[TODO]]}} 与[[胡天津]]弟兄门训
+    - {{[[TODO]]}} 录制两句半
+    - {{[[TODO]]}} 接娃
+    - {{[[TODO]]}} 做晚饭
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [豆瓣不存在的书影音](https://terminus2049.github.io/Not-exist-in-douban/)
+    - 
+- ---

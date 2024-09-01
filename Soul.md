@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Pete Docter, Kemp Powers]]
+        - Writer:: [[Pete Docter]] [[Mike Jones]] [[Kemp Powers]]
+        - Cast:: [[Jamie Foxx]] [[Tina Fey]] [[Graham Norton]]
+        - Year:: [[2020]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt2948372
+    - **Plot Summary:** After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FsnsZpME4z5.pdf?alt=media&token=b1a36f83-6ffb-4f15-acf9-3854cdef4c61}}

@@ -1,0 +1,6 @@
+﻿汉语的国际代码
+
+Chinese (Hong Kong)	zh-hk
+Chinese (PRC)	zh-cn
+Chinese (Singapore)	zh-sg
+Chinese (Taiwan)	zh-tw

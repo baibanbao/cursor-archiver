@@ -1,0 +1,7 @@
+- Author:: [[@Sophia36982957 on Twitter]]
+- Full Title:: Tweets From Sofie
+- URL:: https://twitter.com/Sophia36982957
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 马斯克与中国人民的友谊源远流长 https://t.co/w0Bt4VpyWG ([View Tweet](https://twitter.com/Sophia36982957/status/1604604173315604483))

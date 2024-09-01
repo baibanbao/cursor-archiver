@@ -1,0 +1,25 @@
+- Author:: [[William Shakespeare]]
+- Full Title:: The Complete Works of Shakespeare
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51BKBOyEKxL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - KATHARINA Fie, fie! unknit that threatening unkind brow, And dart not scornful glances from those eyes, To wound thy lord, thy king, thy governor: It blots thy beauty as frosts do bite the meads, Confounds thy fame as whirlwinds shake fair buds, And in no sense is meet or amiable. A woman moved is like a fountain troubled, Muddy, ill-seeming, thick, bereft of beauty; And while it is so, none so dry or thirsty Will deign to sip or touch one drop of it. Thy husband is thy lord, thy life, thy keeper, Thy head, thy sovereign; one that cares for thee, And for thy maintenance commits his body To painful labour both by sea and land, To watch the night in storms, the day in cold, Whilst thou liest warm at home, secure and safe; And craves no other tribute at thy hands But love, fair looks and true obedience; Too little payment for so great a debt. Such duty as the subject owes the prince Even such a woman oweth to her husband; And when she is froward, peevish, sullen, sour, And not obedient to his honest will, What is she but a foul contending rebel And graceless traitor to her loving lord? I am ashamed that women are so simple To offer war where they should kneel for peace; Or seek for rule, supremacy and sway, When they are bound to serve, love and obey. Why are our bodies soft and weak and smooth, Unapt to toil and trouble in the world, But that our soft conditions and our hearts Should well agree with our external parts? Come, come, you froward and unable worms! My mind hath been as big as one of yours, My heart as great, my reason haply more, To bandy word for word and frown for frown; But now I see our lances are but straws, Our strength as weak, our weakness past compare, That seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, And place your hands below your husband's foot: In token of which duty, if he please, My hand is ready; may it do him ease. ([Location 30405](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=30405))
+    - Forsooth, ([Location 90196](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90196))
+    - arithmetician, ([Location 90196](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90196))
+        - **Note**: 算术学家
+    - squadron ([Location 90199](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90199))
+    - spinster; ([Location 90200](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90200))
+        - **Note**: 纺织姑娘
+    - prattle, ([Location 90202](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90202))
+    - heathen, ([Location 90206](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90206))
+    - ancient. ([Location 90209](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90209))
+        - **Note**: 旗手
+    - hangman. ([Location 90210](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90210))
+    - Preferment ([Location 90211](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90211))
+    - gradation, ([Location 90212](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90212))
+    - knave, ([Location 90220](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90220))
+    - obsequious ([Location 90221](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90221))
+    - provender, ([Location 90223](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90223))
+    - ram ([Location 90263](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90263))
+    - ewe. ([Location 90264](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90264))
+    - grange. ([Location 90283](https://readwise.io/to_kindle?action=open&asin=B005LSCQ4Y&location=90283))

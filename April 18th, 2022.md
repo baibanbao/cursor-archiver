@@ -1,0 +1,3 @@
+- 重新把The Archive当成主力[[笔记]]系统，其余只是配合这个系统。
+- Roam Research的目的也是为了The Archive，而不是反过来。
+- 

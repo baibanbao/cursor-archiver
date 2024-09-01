@@ -1,0 +1,63 @@
+- [[Gratitude]]
+- [[Day Start]] 15:33
+- Daily Tasks
+    - {{[[TODO]]}} 接送#[[Jonas]]
+    - {{[[TODO]]}} 主日上下午聚会
+    - {{[[TODO]]}} 走路1万步
+    - {{[[TODO]]}} 补觉
+    - {{[[TODO]]}} Do sth. meaningful
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [婚礼回顾和一些经验分享 | 卡瓦邦噶！](https://www.kawabangga.com/posts/4840)
+    - https://www.reddit.com/r/ProgrammerHumor/comments/xzdyll/comment/irlstdk/?utm_source=share&utm_medium=web2x&context=3
+- ---
+- 主日聚会
+- [[草儿]]来上海，接待
+- [[October 10th, 2022]]
+    - 与[[Grace]]确认要不要上第一次[[每个月第二个礼拜二的退修课]]
+- Overdue Tasks to Schedule
+    - {{[[DONE]]}} 下单买一本[[腔词关系研究]] [[January 26th, 2021]]
+    - {{[[DONE]]}} 用[[方言]]祷告，虽然不明白其中的意思，但对自己有益。一个[[见证]]是[[July 16th, 2022]]灵性低落，但用了[[方言]]祷告，次日上午依然低迷，连[[第七诫]]都没有敢听，但是下午却有感动，赶到#[[SLBC]]实体聚会，并通过控制[[Zoom]]而做了一点小小的服事。结论，就是千万不要轻忽，方言表示圣灵的充满，是上帝用数不清的叹息在为我们祷告。
+    - {{[[DONE]]}} 制作好幻灯片模板 [[July 29th, 2022]]
+    - {{[[DONE]]}} iPad Air [[August 9th, 2022]]才能到货
+    - {{[[DONE]]}} [[October 1st, 2022]] 去程
+    - {{[[DONE]]}} 1. 卡萨布兰卡 [[Casablanca]]
+    - {{[[DONE]]}} 1. 卡萨布兰卡 Casablanca
+    - {{[[DONE]]}} 10. 教父2 [[The Godfather Part 2]] Part 2
+    - {{[[DONE]]}} 10. 教父2 The Godfather: Part Ⅱ
+    - {{[[DONE]]}} 2. 教父 [[The Godfather]]
+    - {{[[DONE]]}} 2. 教父 The Godfather
+    - {{[[DONE]]}} 3. 唐人街 [[Chinatown]]
+    - {{[[DONE]]}} 3. 唐人街 Chinatown
+    - {{[[DONE]]}} 4. 公民凯恩 [[Citizen Kane]]
+    - {{[[DONE]]}} 4. 公民凯恩 Citizen Kane
+    - {{[[DONE]]}} 5. 彗星美人 [[All About Eve]]
+    - {{[[DONE]]}} 5. 彗星美人 All About Eve
+    - {{[[DONE]]}} 6. 安妮·霍尔 [[Annie Hall]]
+    - {{[[DONE]]}} 6. 安妮·霍尔 Annie Hall
+    - {{[[DONE]]}} 7. 日落大道 [[Sunset Blvd]]
+    - {{[[DONE]]}} 7. 日落大道 Sunset Blvd
+    - {{[[DONE]]}} 8. 社交网络 [[The Social Network]]
+    - {{[[DONE]]}} 8. 社交网络 The Social Network
+    - {{[[DONE]]}} 9. [[热情如火 ]]Some Like It Hot
+    - {{[[DONE]]}} 9. 热情如火 [[Some Like It Hot]]
+- [[Weekly Goals]]
+    - 推出好中文第八期吧，不能再等了 #[[haozhongwen]]
+- [[Daily Tasks]]
+    - Sunday [[October 9th, 2022]]
+        - 注意让#[[Jonas]]早点休息
+    - Monday [[October 10th, 2022]]
+        - #[[Seven]]下班晚
+    - Tuesday [[October 11th, 2022]]
+    - Wednesday [[October 12th, 2022]]
+    - Thursday [[October 13th, 2022]]
+        - #[[Seven]]下班晚
+    - Friday [[October 14th, 2022]]
+        - #[[Seven]]下班晚
+        - #[[Jonas]]的篮球课
+    - Saturday [[October 15th, 2022]]

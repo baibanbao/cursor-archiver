@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU5MzMwMzAzM15BMl5BanBnXkFtZTcwNjYyMjA0Mg@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sidney Lumet]]
+        - Writer:: [[Barry Reed]] [[David Mamet]] [[Jay Presson Allen]]
+        - Cast:: [[Paul Newman]] [[Charlotte Rampling]] [[Jack Warden]]
+        - Year:: [[1982]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0084855
+    - **Plot Summary:** An outcast, alcoholic Boston lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.

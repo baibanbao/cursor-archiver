@@ -1,0 +1,10 @@
+- Projects
+    - Completed Date::
+    - Status::
+    - Due Date::
+    - Related Goals::
+    - Success Criteria:: 每天手动备份，遗失内容不超过24小时，备份内容发到 #gmail
+    - Tags:: #Projects #网络安全
+- 方法
+    - [Roam2Github Backup Guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
+- [Actions · baibanbao/roam2github-actions](https://github.com/baibanbao/roam2github-actions/actions)

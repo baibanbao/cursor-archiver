@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU1MDcxODk2OV5BMl5BanBnXkFtZTgwNzA5Nzc2NTE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Kent Jones]]
+        - Writer:: [[Kent Jones]] [[Serge Toubiana]]
+        - Cast:: [[Wes Anderson]] [[Peter Bogdanovich]] [[David Fincher]]
+        - Year:: [[2015]]
+        - Genre:: #Documentary
+    - **IMDb:** https://www.imdb.com/title/tt3748512
+    - **Plot Summary:** Filmmakers discuss how Francois Truffaut's 1966 book "Cinema According to Hitchcock" influenced their work.

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWUxZjJkMDktZmMxMS00Mzg3LTk4MDItN2IwODlmN2E0MTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Carney]]
+        - Writer:: [[John Carney]]
+        - Cast:: [[Glen Hansard]] [[Markéta Irglová]] [[Hugh Walsh]]
+        - Year:: [[2007]]
+        - Genre:: #Drama #Music #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0907657
+    - **Plot Summary:** A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Christopher Nolan]]
+        - Writer:: [[Christopher Nolan]]
+        - Cast:: [[Fionn Whitehead]] [[Barry Keoghan]] [[Mark Rylance]]
+        - Year:: [[2017]]
+        - Genre:: #Action #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt5013056
+    - **Plot Summary:** Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FnGGIHPDQSQ.pdf?alt=media&token=9e208d22-37d7-420a-8456-f9d177aae717}}

@@ -1,0 +1,12 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Florian Henckel von Donnersmarck]]
+        - Writer:: [[Florian Henckel von Donnersmarck]]
+        - Cast:: [[Ulrich Mühe]] [[Martina Gedeck]] [[Sebastian Koch]]
+        - Year:: [[2006]]
+        - Genre:: #Drama #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0405094
+    - **Plot Summary:** In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+- 
+- 

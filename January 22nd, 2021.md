@@ -1,0 +1,30 @@
+- Your daily reminder - Don't ignore your dreams; don't work too much; say what you think; cultivate friendship; be happy.
+- [[创造]]
+- [[连接]]
+    - [[邵敬之]]先生打来1万元，感动
+    - 委婉提醒牧者应当考虑线上聚会或分成小组
+    - 接通知，本周聚会改线上
+    - [[张慧姝]]
+- [[编剧故事营]]
+    - 如何改进视频质量，做到精细化
+    - [音樂家的無聊人生 - YouTube](https://www.youtube.com/channel/UC0mzI_ZnqrFrJjSUPsEyqpA)
+- [[好中文]]
+    - 准备今晚的演讲
+        - [[好中文的故事]]
+    - 为保证效果应当去杭州
+        - 在上海讲不好，到火星上也讲不好
+- [[翻译]]
+    - 开始对付翻译
+    - 回复连山
+- [[四季青青]]
+- [[通向财务自由之路]]
+    - 今天要为明天的营收做好准备
+    - 利用荔枝课，来吸引新的学习者
+- [[陪伴]]
+    - 艰难时期，更要陪伴[[Jonas]]
+- [[读书]]
+    - [Blog – 与癌走过的旅程](https://tripwithcancer.wordpress.com/blog/)
+- [[健康]]
+    - 不要喝临期或过期牛奶，宁可扔掉
+    - 感谢主，鼻涕不带血了
+- [[头脑风暴]]

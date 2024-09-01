@@ -1,0 +1,3 @@
+﻿https://learningprompt.wiki/
+
+pake https://learningprompt.wiki/ --name LearningPrompt --transparent

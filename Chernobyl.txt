@@ -1,0 +1,20 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[N/A]]
+        - Writer:: [[Craig Mazin]]
+        - Cast:: [[Jessie Buckley]] [[Jared Harris]] [[Stellan Skarsgård]]
+        - Year:: [[2019]]
+        - Genre:: #Drama #History #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt7366338
+    - **Plot Summary:** In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.
+    - 101
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FgEDG_-6cI_.pdf?alt=media&token=a61cbf19-1bd9-4f7e-9bdf-59f333e25b14}}
+    - 102
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F0GlNsZ31y-.pdf?alt=media&token=1eccf7d7-faeb-4610-ae6b-0db4b2cadff8}}
+    - 103
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FSI0kaRpdQd.pdf?alt=media&token=9cd67029-00f3-4fc2-8c54-6cb63a6ec034}}
+    - 104
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FI1zr7dOrkJ.pdf?alt=media&token=f547e542-23be-45f0-8eea-60bb1e4ad0c4}}
+    - 105
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FQVQ4UjkJFF.pdf?alt=media&token=c94add1a-d70a-4356-b2aa-df1e10f10469}}

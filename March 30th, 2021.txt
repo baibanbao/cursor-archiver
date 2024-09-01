@@ -1,0 +1,27 @@
+- #[[Output]] {{word-count}} {{[[POMO]]: 25}}
+    - 帮助朋友改文章
+        - 第一篇 加加林
+        - 这一集我们来说说人类历史上第一个太空人—加加林。
+- #[[Input]]
+    - {{[[iframe]]:https://wangpei.net}}
+    - {{[[iframe]]}}
+    - {{iframe}}
+- Netflix房间
+    - 今天美国排行榜前10名
+        - 片名(IMDB分数)
+        - 一路闹到底 Bad Trip (6.6) 
+        - 谁杀了莎拉 (6.5)
+        - 贝克街游击队 (4.1)
+        - 神秘魔法部 (6.0)
+        - 金妮与乔治亚 (7.4)
+        - 海洋阴谋 (8.6)
+        - 妙厨大烤验 (7.4)
+        - Cocomelon (5.0)
+        - 真情七日 (5.3)
+        - 与梦随行 (6.3)
+- Jonas的信息课作业，海洋动物 #[[Jonas]]
+    - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FiPR-DlAeyI.docx?alt=media&token=62358ec2-5df1-4e14-9edc-b8bfb1511572
+    - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FqFI6A0IwWi.docx?alt=media&token=7de6d693-83c6-4373-9d43-5de825fa690a
+- #[[Quick Capture]]
+    - 五里桥社区发通知，要求打疫苗。我担心疫苗产生的副作用，有可能对Seven不好，还是希望能拖一拖，但以我对学会个政权的了解，他们是不会轻易把居民放过。那么只有交到神手里，求神保护她。
+

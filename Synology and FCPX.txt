@@ -1,0 +1,10 @@
+[How to store Final Cut Pro X library on Synology NAS - 9to5Mac](https://9to5mac.com/2019/05/10/final-cut-friday-store-fcp-x-libraries-synology-nas/)
+
+CommandExamplessh DSM admin account@DSM IP address -p SSH port number
+
+```
+ssh myadmin@10.17.2.6 -p 22
+
+```
+
+[How can I sign in to DSM/SRM with root privilege via SSH? - Synology Knowledge Center](https://kb.synology.com/en-in/DSM/tutorial/How_to_login_to_DSM_with_root_permission_via_SSH_Telnet)

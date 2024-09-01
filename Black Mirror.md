@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[N/A]]
+        - Writer:: [[Charlie Brooker]]
+        - Cast:: [[Daniel Lapaine]] [[Hannah John-Kamen]] [[Michaela Coel]]
+        - Year:: [[2011–2019]]
+        - Genre:: #Drama #Mystery #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt2085059
+    - **Plot Summary:** An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FzJdEqTlsp0.pdf?alt=media&token=1f7e0696-4ee9-41f6-99a1-db57f2d6026f}}

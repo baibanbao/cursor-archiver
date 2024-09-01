@@ -1,0 +1,5 @@
+- Author:: [[Homer and Stephen Mitchell]]
+- Full Title:: The Odyssey
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - imprisoned ([Location 3825](https://readwise.io/to_kindle?action=open&asin=B00BSB2ARQ&location=3825))

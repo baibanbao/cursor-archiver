@@ -1,0 +1,252 @@
+---
+date: 2016-10-15 01:12
+status: public
+title: 'GO chess termology'
+url: go-terms-in-english
+---
+
+圍棋名稱
+go 碁(在日本專指圍棋)，圍棋 
+igo 圍棋(正式的名稱，與上面的“碁”相對照) 
+Paduk (韓語)圍棋
+Ranka 爛柯(圍棋的別名)
+shudan 手談(圍棋的別名)
+
+一般用語
+goban 圍棋盤 
+ki 棋
+byo-yomi 讀秒 
+joban (opening game) 序盤 
+fuseki 佈局 (*)
+chuban (middle game) 中盤 
+shuban (the closing stages of the game) 終盤(收官階段)，一般用“end game”
+yose (the endgame) 收官
+yomi (reading, analyzing a position) 讀棋(指計算往後的行法)
+kifu 棋譜 (*)
+haya-go 快棋 (*)
+han-moku (half a point) 半目 
+jigo (a drawn game) 和棋，持棋
+uchikake (adjourning a game) 打掛
+nigiri 猜先(動作)
+kiai 氣合(失去平常心)
+mane-go (mimic go) 模仿棋(又叫東波棋)  
+
+棋力
+dan 段 
+shodan (1-dan) 初段
+kyu 級 
+kishi 棋士 
+menjo 免狀，棋力證書 
+
+棋賽
+shimbun go (Newspaper go) 新聞棋戰
+Kisei 棋聖 
+Meijin 名人 
+Honinbo 本因坊
+Gosei 碁聖(小棋聖)
+Judan Sen 十段戰
+tengen 天元
+江戶時期
+o-shiro go (castle game) 禦城棋
+godokoro 碁所(棋所)
+jun-Meijin 准名人江戶時期的八段
+jozu 上手，又常指江戶時期的七段 (*)
+Shusaku-ryu (the Shusaku opening) 秀策流
+uchikomi (an invasion) 打入(*)，另一意思是把對手降級(江戶時期)。
+
+現代
+Nihon Ki-in日本棋院
+ki-in 棋院 (*)
+insei 院生 (*)
+kido 棋道 (*) 
+
+級數差
+tagai-sen 互先
+komi 貼目 (*)
+sen-ai-sen 先相先，有時簡寫為B-W-B或B-B-W(江戶時期的規則)
+josen 定先
+oki-go (Handicap Go) 讓子棋(*)
+shido-go (a teaching game) 指導棋 (*)
+shitate (the weaker or lower-ranked player) 下手
+
+慨念詞
+honte 本手(正確的行法)
+aji 味，餘味(將來的手段)
+aji-keshi 解消餘味
+amashi (*)這詞常用，但中文圍棋術語中沒有正式的翻譯。原來專指江戶 
+時期執白者的一種戰略，先取實地然後再侵消黑勢，治理孤棋。江戶時期 
+的名家八世安井知得仙知，現代的阪田榮男、趙治勳都是“amashi”的 
+高手。從這一意義上來說，這一詞的意思就是現在所謂的“先撈後洗”。
+furikawari (exchange, trade, swap) 轉換、交換 
+gukei (bad shape) 愚形(效率低的棋形)
+hamete (trick move) 嵌手、套手
+hangan (half an eye) 半眼(後手眼)
+hon-ko (real ko) 本劫
+ji (territory) 地 
+gaisei (outside influence) 外勢 
+kabe (wall) 壁 
+kake 飛壓
+kikashi (a forcing move requring an answer) 先手利
+oba (large fuseki point or extension) 大場，常用 “large point
+kyusho (vital point) 急所
+nurui (lukewarm, slack) 緩
+mekura-go (blindfold go) 盲棋
+miai 見合 
+myoshu (A brilliant move) 妙手
+omoi (heavy) 重(負擔的意思)
+poka (blunder) (*) 惡手，錯著(mistake)，漏著(oversight)，以上幾個詞義相近， 
+但有程度上的差別。
+ponnuki 開花(指四線以上提一子的形)
+sabaki (making light, flexible shape in order to save a group) 騰挪
+seme (attacking) 攻擊
+shinogi (saving an endangered group or stones) 治孤
+sogo 爭棋
+son 損(*不常用)
+tejun (order of moves) 次序，手順
+gote no sente 後中先
+tewari 手割(形勢判斷)
+uchisugi (overplay) 過分之意，中文似乎沒有對應的術語。
+uki-ishi (floating stones. stones without a base) 浮棋
+rengo (team go) 一塊連棋
+usui (thin) 薄
+usui katachi (a thin or weak shape that can easily be attacked) 薄形
+zoku suji (bad style, a crude move) 俗筋
+Shin Fuseki (New Fuseki) 新佈局(一般指吳清源與木穀實的新佈局) 
+
+死活
+shitatsu (life and death) 死活 
+eye 眼
+gankei (eye shape) 眼形
+ishi-no-shita 倒脫靴
+kake-me (false eye) 假眼
+seki 雙活
+shini-ishi (dead stone) 死棋
+tsume-go (a life and death problem) 詰棋，死活棋(題目)
+
+手筋
+tesuji 手筋
+hana-zuke (nose attachment) 鼻頂
+hane-kaeshi 反扳，連扳
+nidan-bane (two-step hane) 連扳
+sandan-bane (triple hane) 三連扳
+geta 枷 
+kosumi-tsuke 尖頂
+sekito shibori (the stone-tower squeeze) 大頭鬼(“石塔”)
+shibori (squeeze) 滾打包收
+suji 筋
+sugata (shape, formation) 形
+uchikaki (a throw-in move which reduces the opponent's liberties or eyes) 
+撲入，英文一般用“throw-in”
+utte-gaeshi (a snapback) 倒撲
+
+行法名稱
+atari 打吃 
+carpenter's square 小曲尺 
+hane 扳 
+hazama tobi 象飛
+hazama 穿象眼
+hiraki (extension) 開拆(如拆二、拆三等等)
+ikken 一間(常見的有以下四種)： 
+ikken-basami (one-space pincer) 一間夾  
+ikken-biraki (one-space extension) 一間拆  
+ikken-jimari (one-space enclosure) 單關守角  
+ikken-tobi (one-space jump) 一間跳(單關跳) 
+niken 二間(用於下列術語) 
+niken-basami (two-space pincer) 二間夾 
+niken-biraki (two-space extension) 二間拆
+niken-jimari (two-space corner enclosure) 二間守角 
+niken-taka-basami (high two-space pincer) 二間高夾 
+niken-taka-gakari (two-space high approach) 二間高掛 
+niken-tobi (two-space jump) 二間跳
+sangen 三間(用於下列術語) 
+sangen-basami (two-space pincer) 三間夾 
+sangen-biraki (two-space extension) 三間拆 
+sangen-tobi (two-space jump) 三間跳
+kakari (approach move) 掛角
+kiri (cut) 切斷
+kiri-chigai (crosscut) 扭斷 
+kogeima 小飛，小桂馬步(臺灣版的書常用)
+ogeima (large-knight approach move) 大飛掛，大桂馬步(臺灣用法)
+kosumi (diagonal move) 尖
+magari (turning move) 曲
+magari-tsuke 拐頭
+nobi (solid extension) 長
+nozoki (peep) 刺
+tsuki-dashi (pushing in between two enemy stones) 沖
+osae (block) 擋 
+oshi (pushing move) 壓 
+ryo-atari (double atari) 雙打
+sagari (a descent) 立
+shicho (ladder) 征
+shicho-atari (a ladder-breaking move or a ladder-making move) 引征 
+yurumi shicho (a loose ladder) 寬氣征
+takefu (a bamboo joint) (連接時用的)雙、雙關、竹節。
+tobi (a jump, usually toward the center of the board) 跳
+tsugi (a connection) 連，接，粘
+tsuke (an attachment; a contact play) 靠，碰
+tsume (a cheking extension) 逼
+warikomi (a wedge between two stones) 挖
+watari 渡
+
+角
+sumi (the corner) 角 
+hoshi (star point) 星 
+komoku 小目   
+mokuhazushi (5-3 point) 目外 
+takamoku (the 5-4 point) 高目 
+san-san (the 3-3 point) 三三
+niren-sei 二連星
+sanren-sei 三連星
+shimari (a corner enclosure) 守角(見一間、二間守角等)
+ogeima-jimari (large-knight's corner enclosure) 大飛守角
+tetchu (iron pillar) 鐵柱守角
+
+定式
+joseki 定式
+nadare (avalanche joseki) 雪崩 
+onadare (large avalanche joseki) 大雪崩
+taisha 大斜
+
+手法
+hasami (pincer attack) 夾攻(如定式中的一間夾、二間夾等等) 
+hasami-kaeshi 反夾(對應於上述夾攻之反夾)
+keshi 消，侵消  
+moyo 模樣
+saru-suberi (the monkey jump) 大飛伸腿(收官)
+suteru (to sacrifice, discard) 棄子(動詞)(*) 
+sute-ishi (sacrifice stones) 棄子
+te (a move) 手 
+tenuki 脫先 
+wariuchi (an invasion, a splitting move) 割打，分投
+
+劫
+ko 劫
+han-ko 半劫
+hanami-ko 看花劫(即無憂劫)
+kozai (ko threat) 劫材 
+mannen-ko (thousand-year ko) 萬年劫
+ryo-ko (double ko) 雙劫(同時打兩個劫)
+san-ko (triple ko) 三劫
+shi-ko (a quadrule ko) 四劫
+son-ko 損劫
+
+其他
+dame 單官，氣 
+empty triangle 空三角 
+gote 後手  
+gyaku sente (reverse sente) 逆先手 
+gyaku yose (reverse yose) 逆官子  
+liberty 氣  
+ryo-gote (double gote) 雙方後手
+ryo-sente (double sente) 雙方先手
+semeai (a capture race) 對殺(一般指殺氣)
+senban 先番 
+san-ni 先二 
+sente 先手 
+soto dame (an outside liberty) 外氣
+
+![Image](/_image/2016-10-15/6341420484538015097.jpg)
+
+![Image](/_image/2016-10-15/6341420536077622651.jpg)
+
+继续与剧本奋斗，有眉目了，就是不肯落笔，怕破坏了构思，怕写出来不完美。

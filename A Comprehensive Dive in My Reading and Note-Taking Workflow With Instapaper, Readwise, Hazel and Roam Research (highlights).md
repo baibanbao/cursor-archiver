@@ -1,0 +1,9 @@
+- Author:: [[elaptics.co.uk]]
+- Full Title:: A Comprehensive Dive in My Reading and Note-Taking Workflow With Instapaper, Readwise, Hazel and [[Roam Research]]
+- URL:: https://www.elaptics.co.uk/journal/reading-notes-workflow-instapaper-readwise-roam
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 13th, 2022]]
+    - Reading lots on its own is not enough to learn and gain wisdom. You need to read with intent, and “write between the lines”, i.e. understand and assimilate the ideas. The key to creating more than you consume is having a consistent habit to build this muscle. ([View Highlight](https://instapaper.com/read/1520670845/20044604))
+    - If I come across an article that seems appealing but isn’t directly related to the task I’m working on right now, Then I add it to Instapaper. No decisions, no debate. Add it, and close it down. ([View Highlight](https://instapaper.com/read/1520670845/20044634))
+    - One of my fundamental principles for applications that hold my data is my ability to retain control. I have to be able to make my own backups and export entirely whenever I need to. ([View Highlight](https://instapaper.com/read/1520670845/20044649))

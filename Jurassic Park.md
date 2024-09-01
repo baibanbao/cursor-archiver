@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Michael Crichton]] [[David Koepp]]
+        - Cast:: [[Sam Neill]] [[Laura Dern]] [[Jeff Goldblum]]
+        - Year:: [[1993]]
+        - Genre:: #Action #Adventure #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0107290
+    - **Plot Summary:** A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F95wUT_R9gR.pdf?alt=media&token=56d09f61-2045-45ab-8da3-3e98a12fb238}}

@@ -1,0 +1,7 @@
+- Author:: [[@indigo11 on Twitter]]
+- Full Title:: Tweets From Indigo
+- URL:: https://twitter.com/indigo11
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - FT 的  Visual Storytelling 团队在今年九月份出品的一份讲解 Transformer 工作原理的动态网页，是我见过最棒的 LLM 简易教程，超过绝大多数视频讲解！这还是《金融时报》做的，不是技术博客。。<a href="https://twitter.com/dotey">@dotey</a> 是不是翻译过一个中文版？https://t.co/aPI0sYTk97 ([View Tweet](https://twitter.com/indigo11/status/1733398529635475946))

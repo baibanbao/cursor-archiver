@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMmNhZmJhMmYtNjlkMC00MjhjLTk1NzMtMTNlMzYzNjZlMjNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Franklin J. Schaffner]]
+        - Writer:: [[Francis Ford Coppola]] [[Edmund H North]] [[Ladislas Farago]]
+        - Cast:: [[George C. Scott]] [[Karl Malden]] [[Stephen Young]]
+        - Year:: [[1970]]
+        - Genre:: #Biography #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0066206
+    - **Plot Summary:** The World War II phase of the career of controversial American general George S. Patton.

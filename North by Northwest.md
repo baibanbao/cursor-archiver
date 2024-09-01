@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfred Hitchcock]]
+        - Writer:: [[Ernest Lehman]]
+        - Cast:: [[Cary Grant]] [[Eva Marie Saint]] [[James Mason]]
+        - Year:: [[1959]]
+        - Genre:: #Action #Adventure #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0053125
+    - **Plot Summary:** A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FvAbYRW54Ui.pdf?alt=media&token=25e82295-ec31-4863-90f4-1d2ef2fe54dd}}

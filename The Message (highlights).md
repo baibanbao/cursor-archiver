@@ -1,0 +1,6 @@
+- Author:: [[Anonymous, Eugene H. Peterson (Editor)]]
+- Full Title:: The Message
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51RQ2wdH41L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Many others had spent years reading it but for them it had gone flat through familiarity, reduced to clichés. Bored, they dropped it. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B00IV3836G&location=130))

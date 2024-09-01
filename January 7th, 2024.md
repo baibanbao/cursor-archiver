@@ -1,0 +1,19 @@
+- [[Gratitude]]
+    - [[包晓东]]去了滨江政协当主席
+        - 天下最好的岗位啊！政协主席钱多、活少、责任轻！
+    - [[Totoro]]曾经代表我去看望[[高宏铭]]
+    - [[陈浩初]]危难之际伸出援手
+    - [[楼东文]]野游的时候伸手救了#[[Seven]]
+    - [[刘淼]]是我生命中最重要的贵人
+    - 
+- [[Day Start]] 19:25
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

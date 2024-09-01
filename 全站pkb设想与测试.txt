@@ -1,0 +1,21 @@
+---
+title: PKB全站测试
+tags: 
+  - PKB
+  - All-in-one
+---
+
+# 视频的链接
+
+[高尔基《母亲》](https://kuaiyuanbao.cn.quickconnect.cn/vs/sharing/pJPOzSMo#!bW92aWUtMTk5Nw==)
+
+通过群晖实现
+
+以上没有成功
+
+但是我又找到了另外的办法。
+
+vscode://file/Users/ding/Downloads/E-MIMXXVcAYuq9d.jpeg 
+
+[测试打开这个本地文件链接](vscode://file/Users/ding/Downloads/E-MIMXXVcAYuq9d.jpeg )
+

@@ -1,0 +1,7 @@
+- Author:: [[@daydayuuup on Twitter]]
+- Full Title:: Tweets From 天天
+- URL:: https://twitter.com/daydayuuup
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 推荐不知道如何记笔记的朋友看看这个视频，如何把摘录的笔记用自己的话转述出来，形成自己的理解。https://t.co/CwzDn0otw3 这个视频强化了我的一个认知：单条笔记要用「断言」的表述方式。 ([View Tweet](https://twitter.com/daydayuuup/status/1733436508852425136))

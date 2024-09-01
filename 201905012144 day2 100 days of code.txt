@@ -1,0 +1,51 @@
+# day2 100 days of code
+tags = 
+
+[Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+
+安装研究了sublime text 的编剧插件 fountainhead [derickc/Fountainhead: Contextual Sublime Text screenwriting environment using the Fountain screenplay syntax.](https://github.com/derickc/Fountainhead)
+
+
+去上海书城看了计算机图书，发现几本，回头网上下单
+
+学习了邮件列表
+
+[SC4IO - Google Groups](https://groups.google.com/forum/#!members/sc4io)
+
+[有关邮件列表 | PyChina.org Static Wiki](http://wiki.pychina.org/hd/AbtMaillingList.html)
+
+>google groups 发布的免费邮件列表服务, 
+从来不是必须翻墙才可以使用的哪?!
+mailling-list 顾名思义, 就是列表发送清单
+所有人通过一个约定的邮箱进行交流:
+以 CPyUG 为例
+任何人嘦向 python-cn@googlegroups.com 发送邮件
+那么所有订阅的成员,就可以收到邮件
+任何人的回复,都将发送给所有订阅成员
+从而形成仅仅通过邮件就可以进行持续的异步的优雅的认真的讨论
+而这种列表的订阅也从来都是可以通过邮件完成的哪!
+参考: PythonCn - cpyug - Index of python-cn mailing list announce! - CPyUG~华蟒用户组 相关邮件列表管理通告收集/维护 - Google Project Hosting https://code.google.com/p/cpyug/wiki/PythonCn
+通过向 python-cn+subscribe@googlegroups.com 
+发送邮件即可完成订阅
+当然,因为历史原因,需要管理组进行人工审核
+所以, 大家不知道从哪儿获得的各种误解,竟然成为了对 CPyUG 交流渠道的官方印象, 好象 mailling-list 比 V2EX 要 low 似的... 
+当然,这种印象,需要 CPyUG 的成员们共同努力纠正的.
+
+听大妈说code style
+
+[Code Style — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/)
+
+开始手写
+
+备份
+
+[utterances](https://utteranc.es/)
+
+这篇还需要琢磨
+
+[用Gollum建立wiki | GoldenGrape's Blog](https://goldengrape.github.io/posts/bulabula/gollum-wiki/)
+
+注册了 movie.camp 
+并进行了迁移
+
+

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYWUyYTFlMzUtYzUxNi00YjFhLWEyNzItMzdkZTNkNDE5OTFlXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Preston Sturges]]
+        - Writer:: [[Preston Sturges]]
+        - Cast:: [[Joel McCrea]] [[Veronica Lake]] [[Robert Warwick]]
+        - Year:: [[1941]]
+        - Genre:: #Adventure #Comedy #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0034240
+    - **Plot Summary:** Hollywood director John L Sullivan sets out to experience life as a homeless person in order to gain relevant life experience for his next movie.

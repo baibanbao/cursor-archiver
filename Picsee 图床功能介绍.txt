@@ -1,0 +1,80 @@
+Picsee 图床功能介绍
+
+
+
+2020-11-19
+
+图床是Picsee延伸出来的功能，跟截图一样，使素材收集、整理、查看、分享的过程，更加流畅和完美。.....
+
+当你在撰写文章、知乎讨论、豆瓣灌水、论坛盖楼，还是与别人IM交流，Picsee的图床功能都会给你带来愉悦的写作插入图片、分享图片体验。
+
+![markdown_write](/Users/ding/Dropbox/typora-image/markdown_write.69523f72.gif)
+
+![mark_share](/Users/ding/Dropbox/typora-image/mark_share.41418bc2.gif)
+
+## [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#图床云服务支持)图床云服务支持
+
+目前，Picsee共支持10种图床，分别是:
+
+- [SMMS(opens new window)](https://sm.ms/)
+- [GitHub(opens new window)](https://github.com/)
+- [码云Gitee(opens new window)](https://gitee.com/)
+- [又拍云(opens new window)](https://www.upyun.com/products/file-storage)
+- [腾讯云COS(opens new window)](https://cloud.tencent.com/product/cos)
+- [阿里云OSS(opens new window)](https://cn.aliyun.com/product/oss)
+- [七牛云(opens new window)](https://www.qiniu.com/products/kodo)
+- [Amazon S3(opens new window)](https://aws.amazon.com/cn/s3/)
+- [Imgur(opens new window)](https://imgur.com/)
+- [Flickr(opens new window)](https://www.flickr.com/)
+- 自定义, 包括[chevereto (opens new window)](https://github.com/rodber/chevereto-free)等
+
+此外，对导出的链接也提供了个性化的配置，支持URL、Markdown、HTML、UBB格式。
+
+![accounts](/Users/ding/Dropbox/typora-image/accounts.2ad026b6.png)
+
+## [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#多种上传方式支持)多种上传方式支持
+
+应对不同的使用场景，定制开发拷贝上传、截图上传、拖拽上传，随时随地获取图片云上链接。
+
+### [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#拷贝上传)拷贝上传
+
+复制拷贝图片文件，从剪切板获取图片数据，上传到云端。
+
+![copy_upload](/Users/ding/Dropbox/typora-image/copy_upload.d5a13b80.gif)
+
+### [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#截图上传)截图上传
+
+快速截图屏幕图片、窗口，标记后，分享上传到云端。
+
+![snip_upload](/Users/ding/Dropbox/typora-image/snip_upload.f8e47abf.gif)
+
+### [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#拖拽上传)拖拽上传
+
+直接拖拽单个、多个图片文件到Picsee状态图标，上传到云端。
+
+![drag_upload](/Users/ding/Dropbox/typora-image/drag_upload.82a741f2.gif)
+
+### [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#终端命令行上传)终端命令行上传
+
+直接在中断输入Picsee命令，上传单个、多个图片文件到云端储存。 直接参考文章[命令行上传图片到图床 (opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_command.html)使用。
+
+## [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#图床历史)图床历史
+
+记录上传到图床图片链接，随时查找过往的上传记录，再次获取云端链接。
+
+![upload_history](/Users/ding/Dropbox/typora-image/upload_history.67bd5f72.gif)
+
+## [#](https://picsee.chitaner.com/blog/Picsee图床功能介绍.html#配置说明帮助)配置说明帮助
+
+- [SMMS(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_smms.html)
+- [GitHub(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_github.html)
+- [码云Gitee(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_gitee.html)
+- [又拍云(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_upyun.html)
+- [腾讯云COS(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_tencent.html)
+- [阿里云OSS(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_aliyun.html)
+- [七牛云(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_qiniu.html)
+- [Amazon S3(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_amazonS3.html)
+- [Imgur(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_imgur.html)
+- [Flickr(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_flickr.html)
+- [自定义(opens new window)](https://picsee.chitaner.com/blog/Picsee_imageCloud_custom.html)
+- [命令行](https://picsee.chitaner.com/blog/Picsee_imageCloud_command.html)

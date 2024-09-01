@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 15:10
+- Daily Tasks
+    - {{[[TODO]]}} 去望族城
+    - {{[[TODO]]}} 送#[[Jonas]]去小记者课
+    - {{[[TODO]]}} #[[Seven]]回家洗澡
+    - {{[[TODO]]}} 督促#[[Jonas]]写作业
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [[王树义]]关于[[chatGPT]]的论文
+        - {{pdf: https://www.dropbox.com/s/35x9wnhwdm74v2a/Chat_GPT%E7%BB%99%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E8%80%85%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%9C%BA%E9%81%87%E4%B8%8E%E6%8C%91%E6%88%98_%E7%8E%8B%E6%A0%91%E4%B9%89.pdf?raw=1}}
+    - 
+- ---
+- 明天要不要去#[[SLBC]]
+    - 跟#[[Jonas]]商量

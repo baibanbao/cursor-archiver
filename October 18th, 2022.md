@@ -1,0 +1,86 @@
+- [[Daily Thoughts]]
+- [[Daily Accomplishments]]
+    - 完成了纸质笔记的扫描，尤其是分拣出#[[haozhongwen]]的笔记
+    - 明白自己不是现在进行时的存在，而是一个连续的存在，所以过去做的事，也算数，都是为了今天做准备。
+    - 自己设定了一个 smartblock，非常实用，并且有一点点成就感
+    - 弹了海滨之歌，虽然是单音，但也看到了音乐之妙
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+- 测试自动化workflow
+    - #SmartBlock Pray
+        - #[[Prayers&Answers]]
+            - Date: <%DATE:today%> <%TIME%>
+                - 赞美感谢
+                    - <%CHILDREN:((abc123def))%>
+                - 认罪悔改
+                    - <%CHILDREN:((abc123def))%>
+                - 祈求代求
+                    - <%CHILDREN:((abc123def))%>
+- #[[Prayers&Answers]]
+    - Date: [[October 18th, 2022]] 23:34
+        - Praise
+            - 赞美主的创造与护理
+            - 赞美神伟大的救赎计划
+        - Thanks
+            - 感谢主的奇妙救恩
+            - 感谢主藉着众人在我生命中的施恩
+                - 感谢[[月小刀]]如此顾念我
+                - 感谢[[包晓东]]多年以来的救命之恩
+                - 感谢[[小雨和小黑少]]的代祷
+                    - 感谢[[叶振]]
+                    - 感谢[[杜俊]]
+                    - 感谢[[叶淑君]]
+                    - 感谢[[邓俊霞]]
+                    - 感谢#[[JFX]]
+                    - 感谢#[[SLBC]]
+                    - 感谢[[赵周]]
+                    - 感谢#[[Seven]]
+                    - 感谢#[[Jonas]]
+        - Confession
+            - 为了自己肉体残余的败坏
+            - 为了自己不够爱
+        - Ask
+            - For others
+                - 为执政掌权者
+                - 为这个国家
+                - 为黎民苍生
+                - 为福音广传
+                - 为#[[SLBC]]
+                    - 
+            - For my family
+                - 求主帮助我不出卖自己的心灵也可以养家糊口，再也不写ccp的颂歌，或者吃体制桌子上掉下来的渣。
+                - 为[[青少年团契]]成功举办而祷告
+        - Tongues
+            - Set a Pomodoro {{[[POMO]]: 5}}
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - 感谢主恩
+            - 感谢[[月小刀]]如此顾念我
+            - 感谢[[包晓东]]多年以来的救命之恩
+            - 感谢[[小雨和小黑少]]的代祷
+                - 感谢[[叶振]]
+                - 感谢[[杜俊]]
+                - 感谢[[叶淑君]]
+                - 感谢[[邓俊霞]]
+                - 感谢#[[JFX]]
+                - 感谢#[[SLBC]]
+                - 感谢[[赵周]]
+                - 感谢#[[Seven]]
+                - 感谢#[[Jonas]]
+        - 求主帮助我不出卖自己的心灵也可以养家糊口，再也不写ccp的颂歌，或者吃体制桌子上掉下来的渣。
+        - 为[[青少年团契]]成功举办而祷告
+- [[Day Start]] 19:56
+- Daily Tasks
+    - {{[[DONE]]}} 接送#[[Jonas]]
+    - {{[[DONE]]}} 走路8k步
+    - {{[[TODO]]}} 开始写好中文，建立在之前纸质笔记的基础上。
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

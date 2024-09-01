@@ -1,0 +1,28 @@
+- --
+- status: public
+- disable_nav: no
+- title: 测试page功能
+- app: page
+- max_main_page_width: 
+- html: true
+- --
+- // cover(white_color=#ffffff , try_auto_background=yes , light_color=#3399ff , layout=default , text_color=#333333)
+- ## 关于我
+- [Blog](/?status=loaded)
+- [FileManger](/service/files_manager)
+- ![](_images/r497874356594451.png )
+- 测试测试
+- // simple-list
+- ## About Me
+- Name: Wang Pei 
+- DOB: Jan. 1972 
+- Gender: Male 
+- Nationality: China 
+- Mobile Phone: 186-XXXX-XX64 
+- Website: wangpei.net 
+- Twitter: twitter.com/wangpei 
+- // timeline
+- ## Work on the Internet
+- 好中文的样子: January 2017 to Now   Founder & Teacher 
+- Blogger: April 2002 to Now  Writer 
+- Home Page Creator: Dec 1997 to March 2001    Creator

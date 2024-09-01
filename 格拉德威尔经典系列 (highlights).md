@@ -1,0 +1,6 @@
+- Author:: [[马尔科姆•格拉德威尔]]
+- Full Title:: 格拉德威尔经典系列
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - 完成了他划时代的《降E大调第九
+    - 大器晚成

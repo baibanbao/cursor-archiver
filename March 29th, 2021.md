@@ -1,0 +1,76 @@
+- 晨间日记 {{[[POMO]]: 25}} {{word-count}}
+    - 感恩
+        - 感恩wendy组织《我爱我家》剧本朗读，让我能够从梁左那里学到很多。
+        - 感恩谢牧师没有骂我，而是让我自己认识到昨天不去参加上午聚会的错误。尽管我的理由看上去很充分，实际上还是违背神的心意。
+        - 感恩妻子日夜操劳，夜里三点就起床忙家务和备课。
+        - 感恩儿子懂事，从小就认识主，知道要倚靠永恒的造物主。
+        - 感恩谢老师没有彻底对我失望，还给了机会，说了安慰的话语。
+        - 感恩有#[[Roam Research]]，有这么多趁手的工具，尽管我写不出好的作品，但是在技术上还是领先很多。
+        - 感恩[[四季青青]]可以用google doc完成，让我不再纠结于用什么软件。我实在太迷恋锄头而忘了种地。
+        - 感恩学到了理财的法宝，把投资与消费隔离，准备跟seven商量实践一下这个方法。#[[Finance]] #[[Seven]]
+    - 亮点
+        - 困了可以睡
+        - 放学后可以带儿子观鸟
+        - [[星河]]姊妹借给我的希伯来圣经摩西五经今天可以收到，将是很愉快的阅读体验。
+        - patreon开通自由书写
+            - 我是一个基督徒，一个不断迷失又不断追寻上帝的人。我带着自己的罪性来到这个世界上，不去做我应该做的事，反而行了那些不当行的事，因此惹动了上帝的怒气，并且要面对祂公义的审判。感谢耶稣，为我在十字架上受死代赎，洗净了我一切的罪与不义，使天父看我的时候，眼里不见一人，只见耶稣和祂闪亮的义袍。我确信这一点，并且存着更大的指望来到上帝面前，求怜悯，得安慰，做随时的帮助。我的微不足道的文字，是对永恒上帝的回应。它们无论多么不值得一看，都发自一颗至少在写字的那一刻真诚的心。当然，也不要对文字有太多的期待，人的话都将凋零，唯独神的道真实、无误、充足，从太初直到永恒。
+    - 确信
+    - 脑洞
+- #[[Input]]
+    - Paula Whie-cain
+        - TWEETS
+            - Refuse to live backwards!  See everyday as a new chapter in your life!
+            - Live large, love strong, have fun, laugh often and serve God with all your being...
+            - You can't change your past- but you can change your future!
+            - The conversation you have with yourself is one of the most important ones you will have! What are you telling yourself?
+            - Don't get stressed out and worried when God is in control of your life!
+            - Stop trying to figure everything out! Just let God work it all out!
+            - Real beauty is beyond physical; its when you radiate God through your soul and shine on others
+            - You don’t have to spend any more energy trying to get approval from people when God has already accepted you “as is”
+            - Change the way you see your situation.  You don't have problems, you have opportunities for God to show Himself strong and mighty!!
+            - Don't let your problems push you around! Stand your ground based on the Word of God- it won't fail you!
+            - Let the deep pain of your life make you better and not bitter! Choose to turn it around by the grace of God
+            - Your destiny is not tied to anyone who left and walked out. Let them go from your mind, heart & soul. There's a new chapter God is writing for you...
+            - Push the reset button today and let God give you a brand new beginning! Forget the things behind you and press forward.
+            - Whatever you give is what you will receive.  Be gracious, kind, loving & merciful- you will need it one day!
+            - Don't get in a battle that doesn't belong to you...
+            - Things are seldom as they first appear. A wise person waits!  Ask the Lord to reveal all that you need to know!
+            - It may look impossible but God will somehow, some way work it all out! Trust Him
+            - The decisions you make today produce the destiny you will live out tomorrow
+            - Real freedom comes when you stop lying to yourself... God will never reject a truthful person and prayer!
+            - You make mistakes but that doesn't make you a mistake! There is no condemnation in Christ... Receive your freedom today
+            - What went wrong in your life helps you see what all is right if you allow it to!
+                - The Word of the Lord is right and it's true. As for God His way is perfect! The Word of the Lord is flawless. He is a shield for all those who take refuge in Him! The Word shall not return void, but it shall prosper...
+        - 如果有一天需要Paula代祷，可以填写这张在线表格
+            - https://paulawhite.org/prayer/
+- #[[Output]] {{word-count}} {{[[POMO]]: 25}}
+    - 关于成功神学(prosperity theology)，一个标签就可以把一个神学家/牧师打倒，因为贴了标签就不必用脑思考了。其实，但从字面意义上看，成功，prosperity，都没什么不好，也都是圣经上所应许的。愿你所做的尽都顺利，这里的顺利就是prosper。顺利有什么不对吗？难道必须要祷告别人经历艰难吗？--还真有教会的公共祷告是这么说的，‘’主，愿你在他面前摆上许多难处以煅炼他成长“，我要是那个被祷告的人不知道该怎么想。顺利，成功，兴旺，富足，都不是坏词，关键是如何去应用。来自上帝的成功当然是祝福，偏离上帝的教导去追求的成功，那就是偏行己路了。成为基督徒的第一要素是诚实，对神对自己对他人，都要诚实。自欺和伪善是神所憎恶的。#[[Z-Note]]
+- 今日事今日毕
+    - {{[[DONE]]}} 送jo上学
+    - {{[[DONE]]}} 接jo放学
+    - {{[[TODO]]}} 洗澡
+    - {{[[TODO]]}} 帮派派老师看文章 
+    - {{[[TODO]]}} 更新好中文课件 
+    - 四季青青笔记整理
+    - 路德书信翻译
+- Day One导入
+- 开始四季青青小说创作 #[[Four Seasons]]
+    - GOOGLE DOC在线创作 https://docs.google.com/document/d/1-GuYymhAwmE_JqPLgoEWYXJ_4rMffKhBFWVhb4oIS3g/edit?usp=sharing #[[Edit Later]] #[[Four Seasons]] #[[Important]] #[[Daily Activities]] 
+    - 使用dropbox和google doc https://www.dropbox.com/scl/fi/d8puzip1k9wcudin4cl1e/.gdoc?dl=0&rlkey=6srg7fzanbpyk4xdo1uhlqqg2
+    - 这样写起来比较有爽度。
+- Import
+    - [[Dayone-Journal]]
+        - From: Dayone-Journal.md
+- Import
+- Import
+- Import
+- Import
+- Import
+- #[[Quick Capture]]
+    - 找回快速捕捉，甚好，以后不管灵感不灵感都记在这里。
+    - {{[[DONE]]}} [[March 29th, 2021]]接送Jo
+    - [[四季青青]]需要再上心，不能这样不顾合同，毫无契约精神。
+- #[[Quick Capture]]
+    - Quick Capture
+跟Jo在星巴克做作业，效率特别高，为什么换了环境，就有这么大的效果？值得研究。
+

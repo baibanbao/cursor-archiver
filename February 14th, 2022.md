@@ -1,0 +1,50 @@
+- 贾宝玉为何憎恶男性
+    - 研读红楼梦
+        - {{[[TODO]]}} [[Work]]
+            - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F6NOg2sS28p.png?alt=media&token=a41522f7-6cec-4249-aefc-7878abcdbf77)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FvYXetkifOB.png?alt=media&token=5fe8511a-1479-42d8-81f9-ba564c300137)
+            - [[Work]]
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FXVpiKAbW62.png?alt=media&token=97186510-e1ce-48af-aa1d-2fa368b93993)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FFO6K65CfqJ.png?alt=media&token=c4e24ab5-c8b6-412f-b4a9-d0653adb0825)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F-CCIQ6FKNP.png?alt=media&token=d8b96159-358a-4ccb-8a84-83f1dbd23b1f)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FwPEvlxa0cN.png?alt=media&token=308e8d26-c2b1-4279-9253-585853cbe857)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FiPnJ3qMoQW.png?alt=media&token=fc2f2586-6269-4f27-ad41-f17649006784)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FveAX4jHO68.png?alt=media&token=8f1c9c70-ceac-43ee-af38-7a2b67c1973c)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FpkGG4ETc4Q.png?alt=media&token=87172ca0-2b53-46e4-ab75-e1f83379b3f5)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F86bEkhvUG_.png?alt=media&token=ee198307-92ff-4370-b954-3c5fbbf6664f)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FOBLatOt1Rv.png?alt=media&token=3ebaa81e-2028-4884-9f14-0b1bb93d7bcf)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FZRkOEvu996.png?alt=media&token=a33ae60e-15ce-4493-8009-532f60db43d0)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FtcmizbUeYU.png?alt=media&token=f5637b57-4dfa-4a5a-9b51-d8645acb6fa3)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLoGN2Ib-GO.png?alt=media&token=57581094-dd88-447a-bd61-dbfbc837a5f0)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FM6T87t5nMw.png?alt=media&token=681f4396-73b5-48e2-8262-2cb20b82748e)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FZ2RDienh0v.png?alt=media&token=8e076695-ed44-44d6-a4d2-874ab29f1847)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FN7XMyFxfAz.png?alt=media&token=d76bdb98-0941-40bd-b68e-1ec0a9771a5f)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fq0pWnlvNHh.png?alt=media&token=3073441f-33b1-498a-818e-12057df8b329)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F1WXOp5AJto.png?alt=media&token=a1c3faaf-06ec-4e90-8ece-33389bc3dce8)
+                - 正值宝玉走来，见了这般形况，问是怎么了。贾环不敢则声。宝钗素知他家规矩，凡作兄弟的，都怕哥哥， ```(庚辰双行夹批：大族规矩原是如此，一丝儿不错。)```却不知那宝玉是不要人怕他的。他想着：“兄弟们一并都有父母教训，何必我多事，反生疏了。况且我是正出，他是庶出，饶这样还有人背后谈论， ```(庚辰侧批：此意不呆。)```还禁得辖治他了。”更有个呆意思存在心里。 ```(庚辰眉批：又用讳人语瞒着看官。己卯冬夜。)```――你道是何呆意？因他自幼姊妹丛中长大，亲姊妹有元春、探春，伯叔的有迎春、惜春，亲戚中又有史湘云、林黛玉、薛宝钗等诸人。他便料定，原来天生人为万物之灵，凡山川日月之一精一秀，只钟于女儿，须眉男子不过是些渣滓浊沫而已。因有这个呆念在心，把一切男子都看成混沌浊物，可有可无。
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F_T80wxJ4Xx.png?alt=media&token=80bd7e50-f253-4951-8686-3058ee1b6f91)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FRxf3kFYwAi.png?alt=media&token=c4aab45a-3c2b-4c76-a746-56a79ea73fe9)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FqsXRgKpIPP.png?alt=media&token=325df4e8-9aea-4704-9b8d-2053f0c9643a)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FN4-MqaBIUr.png?alt=media&token=f156c12b-6906-414c-b032-f0196e35aaa0)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F0VS9-nqwyP.png?alt=media&token=b9a1ad42-5dcb-4fde-9369-8c2bfb8f6046)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FUNp30gFIGc.png?alt=media&token=ca3b8b52-87d4-4d20-aec9-eb1cbe994037)
+                - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FzK1WTejA7z.png?alt=media&token=b6deffd3-cf56-4b78-bf17-c314c8e0c583)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FUaBd47rTRH.png?alt=media&token=9d8c7125-4242-4db2-99f0-c7be09354ea6)
+    - 贾宝玉截图
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fj2yt6Smdtm.25.00%20PM.png?alt=media&token=99385365-ee67-42bb-9547-eecdca8111ab)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FFyvgn-k45W.35.40%20PM.png?alt=media&token=c8e4c9af-5470-4de1-bed3-e0907a43e874)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fp_ky8lW_FT.34.17%20PM.png?alt=media&token=2688784c-181d-487b-8ea7-c561bb26de1d)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FOgB7ZXebb7.32.17%20PM.png?alt=media&token=4866269d-8191-417d-bc44-90585cce4afc)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F56G7GDq6Vr.54.41%20AM.png?alt=media&token=373dce71-b482-46a6-8016-746382aea597)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FCHvOXMxd-H.04.46%20AM.png?alt=media&token=b8e2fbff-00da-42ce-aa7c-a1f5f2f7f66a)
+- 在绿地星巴克，等待二宁同学来喝一杯
+    - 聊vim
+        - 怎样让插件生效
+        - easymotion怎么用
+        - vim怎么搜索
+    - 聊教育
+        - 有哪些坑
+    - 聊时事
+    - 聊技术
+        - [[Inkdrop]]
+- 

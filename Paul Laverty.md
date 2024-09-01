@@ -1,0 +1,5 @@
+- 
+    - **Wikipedia Summary:** #rm-hide #rm-horizontal
+        - Paul Laverty (born 1957) is a  screenwriter and lawyer best known for his screenplays for films directed by Ken Loach.
+        - ![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Paul_Laverty_006.jpg)
+    - https://en.wikipedia.org/wiki/Paul_Laverty

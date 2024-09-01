@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjZmYzAzOGUtMWFlNy00OWExLThmYWQtMjJlYWIxMDczOGE4XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Abel Ferrara]]
+        - Writer:: [[Zoë Lund]] [[Abel Ferrara]]
+        - Cast:: [[Harvey Keitel]] [[Brian McElroy]] [[Frank Acciarito]]
+        - Year:: [[1992]]
+        - Genre:: #Crime #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0103759
+    - **Plot Summary:** While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness and redemption.

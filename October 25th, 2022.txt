@@ -1,0 +1,10 @@
+- [[Daily Thoughts]]
+    - 有时候真想跟这帮GRD拼了，但是如果我去了，留下他们孤儿寡母，又怎么办呢？“所以隐忍苟活，幽于粪土之中而不辞者，恨私心有所不尽，鄙陋没世，而文采不表于世也。”
+- [[Daily Accomplishments]]
+- Productivity
+    - {{[[slider]]}}
+- Mood {{[[slider]]}}
+- [[X - Curate]]  - Organizing/Staging
+    - {{tweet}}
+        - 发送这一条
+        - 

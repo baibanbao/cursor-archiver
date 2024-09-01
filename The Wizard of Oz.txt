@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Victor Fleming, George Cukor, Mervyn LeRoy]]
+        - Writer:: [[Noel Langley]] [[Florence Ryerson]] [[Edgar Allan Woolf]]
+        - Cast:: [[Judy Garland]] [[Frank Morgan]] [[Ray Bolger]]
+        - Year:: [[1939]]
+        - Genre:: #Adventure #Family #Fantasy
+    - **IMDb:** https://www.imdb.com/title/tt0032138
+    - **Plot Summary:** Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Martin McDonagh]]
+        - Writer:: [[Martin McDonagh]]
+        - Cast:: [[Frances McDormand]] [[Woody Harrelson]] [[Sam Rockwell]]
+        - Year:: [[2017]]
+        - Genre:: #Comedy #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt5027774
+    - **Plot Summary:** A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FujNh9mOpEv.pdf?alt=media&token=e29984c8-c517-455a-9303-b9ad25735b6a}}

@@ -1,0 +1,34 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[December 21st, 2023]] 20:56
+        - 赞美感谢
+            - 赞美主在天寒地冻之时，也能照顾我
+            - 赞美主的护理
+        - 认罪悔改
+            - 为自己一天的懒惰和睡觉
+        - 祈求代求
+            - 求主让我今晚勤勉，完成应当完成的工作
+            - 求主让#[[Jonas]]从繁重的学业中得到休息
+            - 求主让#[[Seven]]的颈椎得到医治
+            - 求主让我的双拼输入法能够运用如飞
+- [[Day Start]] 02:50
+- Daily Tasks
+    - {{[[DONE]]}} 录制两句半
+    - {{[[TODO]]}} 制作编剧故事营视频
+    - {{[[TODO]]}} 思考未来的路，包括#[[Jonas]]将来的路径
+    - {{[[TODO]]}} 翻译[[福音联盟]]
+        - [Review: ‘Self-Made’ by Tara Isabella Burton](https://www.thegospelcoalition.org/reviews/self-made/)
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [但以理书](http://www.godoor.com/book/library/html/bible/jyzl/51.htm)
+    - [Suno AI](https://www.suno.ai/) #中文AI了
+    - [美式要饭\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1tQ4y1g7rm/?buvid=Z14D271302F37E214DC5BF2B4EDFFF9F6B47&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=kumkMYhEO8w%2FSAuWyZoY1g%3D%3D&p=1&plat_id=122&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=46C50136-3AB6-4E6C-AB6F-2C07A3038A05&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0×tamp=1702919589&unique_k=927lpIt&up_id=3461581943867502)
+    - [梁左 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%A2%81%E5%B7%A6)
+    - 
+- 
+- ---

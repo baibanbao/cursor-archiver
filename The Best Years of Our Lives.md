@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[William Wyler]]
+        - Writer:: [[Robert E Sherwood]] [[MacKinlay Kantor]]
+        - Cast:: [[Myrna Loy]] [[Dana Andrews]] [[Fredric March]]
+        - Year:: [[1946]]
+        - Genre:: #Drama #Romance #War
+    - **IMDb:** https://www.imdb.com/title/tt0036868
+    - **Plot Summary:** Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.

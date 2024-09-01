@@ -1,0 +1,225 @@
+# Markdown极简教程
+tags = #markdown #tutorial #sc4 #100-days-of-code
+
+**说明：**
+
+* 本教程是为了学员养成更优雅的书写习惯而编写的。
+* 优秀的程序员相信：代码写出来是给人看的，附带能在机器上运行。
+* 优秀的编剧相信：剧本写出来是给人阅读的，附带能在舞台或银幕上表演。
+* 干净优雅的书写习惯，与内容互为影响，故而非常重要。
+* Markdown就是一种超级简单的标记语言，无痛学习，即学即用.
+* 本教程基于Markdown语言编写，项目地址位于[Simple-Markdown-Guide](https://github.com/SC4.io/Simple-Markdown-Guide)。
+* 本教程为基础教程，相信用法可参考其他资料。
+* 推荐Markdown编辑器:
+* - Mac OSX [MacDown: The open source Markdown editor for macOS](https://macdown.uranusjr.com/)
+* - Win [MarkdownPad - The Markdown Editor for Windows](http://markdownpad.com/)
+* - 当进到高阶以后，推荐使用更强大的[Sublime Text - A sophisticated text editor for code, markup and prose](https://www.sublimetext.com/)编辑器。
+
+## 基本
+
+* Markdown是一种用来写作的超轻量级标记语言。
+* 与Word等办公处理软件不同，Markdown用标记语法，来代替常见的排版格式。
+* 其前身是HTML代码，但较之更为简单。所以，也兼容HTML。
+
+## 字体
+
+* 使用星号`*`表示`<em>`标签。
+
+  例如：
+
+  ```
+  *斜体*
+  ```
+
+  效果：
+
+  *斜体*
+
+* 使用双星号`**`表示`<strong>`标签。
+
+  例如：
+
+  ```
+  **强调**
+  ```
+
+  效果：
+
+  **强调**
+
+## 换行
+
+* 一段占一行。
+
+## 标题
+
+* 生成`<h1>`-`<h6>`标签，是通过在文字前面加上同等个数`#`符号来实现。
+
+
+  例如：
+
+  ```
+  ### 这是标题
+  ```
+
+  效果：
+
+  ### 这是标题
+
+## 列表
+
+* `*`，`-`，`+`这三个符号效果都一样，这3个符号被称为Markdown列表符号。而有序列表则使用数字接着一个英文句点（数字大小并不会影响输出序列）。
+
+  例如：
+
+  ```
+  * 第一行
+  * 第二行
+  * 第三行
+  6. 第四行
+  5. 第五行
+  4. 第六行
+  ```
+
+  效果：
+
+  * 第一行
+  * 第二行
+  * 第三行
+  6. 第四行
+  5. 第五行
+  4. 第六行
+
+## 引用
+
+* `>`符号表示引用，可简写于第一行，也可以每一行都添加。
+* 区块的引用可以嵌套，只需要在层次数上加上同等数量的`>`符号。
+* 引用内可以使用其他Markdown语法，包括标题、列表、代码区块等。
+
+  例如：
+
+  ```
+  >    引用
+  >    >    引用中的引用
+  ```
+
+  效果：
+
+  >    引用
+  >    >    引用中的引用
+
+## 代码区块
+
+* <code>\`</code>是表示inline代码，4个<code> </code>（空格）来表示缩进式代码段，分别对应HTML的`<code>`，`<pre>`标签。也可以使用<code>\`\`\`</code>来表达围栏式代码块（**GFM语法**，部分编辑器不支持），并指定他的语言类型，实现语法高亮。围栏式代码块可以大量减少缩进的使用，大规模的代码块使用非常方便。
+
+代码区块对于我们来说暂时用不着，所以简单了解一下就可以了。
+
+## 链接
+
+* Markdown支持两种形式的链接语法：行内式和参考式两种形式。
+
+  行内式链接，是在方括号后面接圆括号即可。
+  例如：
+
+  ```
+  [SC4.io](http://sc4.io "SC4.io的博客")
+  ```
+
+  效果：
+
+  [SC4.io](http://sc4.io "SC4.io的博客")
+
+  参考式链接，是在链接文字的括号后面加上另一个方括号，在第二个方括号里面要填入用以辨识链接的标记。
+
+  例如：
+
+  ```
+  [SC4.io][blog]
+
+  [blog]: http://sc4.io "SC4.io的博客"
+  ```
+
+  效果：
+
+  [SC4.io][blog]
+
+  [blog]: http://sc4.io "SC4.io的博客"
+
+## 图片
+
+* Markdown使用一种和链接很相似的语法来标记图片，只是多了一个`!`在最前面，同样也允许两种样式：行内式和参考式。
+* 目前为止，Markdown还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的`<img>`标签。
+
+  行内式链接，是在方括号后面接圆括号即可。
+  例如：
+
+  ```
+  ![微信](http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信")
+  ```
+
+  效果：
+
+  ![微信](http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信")
+
+  参考式链接，是在链接文字的括号后面加上另一个方括号，在第二个方括号里面要填入用以辨识链接的标记。
+  例如：
+
+  ```
+ ![female-github-cat.jpeg](https://upload-images.jianshu.io/upload_images/19107-8355100feea86207.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ```
+
+  效果：
+
+ ![female-github-cat.jpeg](https://upload-images.jianshu.io/upload_images/19107-8355100feea86207.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 分隔线
+
+* 使用三个以上的`-`来建立一个分隔线，行内不能有其他字符。
+
+  例如：
+
+  ```
+  - - -
+  ---
+  ```
+
+  效果：
+
+  上文
+  - - -
+  下文
+
+## 表格
+
+** 太难，而且用处不大。忽略之。** 
+
+* Markdown使用`|`和`-`来绘制表格，`:`可控制左对齐、右对齐及居中。
+
+
+  例如：
+
+  ```
+  | Title   | Description                        |
+  | :------ | :--------------------------------: |
+  | Version | 0.0.1                              |
+  | Editor  | [SC4.io](mailto:Editor@Email.com) |
+  ```
+
+  效果：
+
+  | Title   | Description                        |
+  | :------ | :--------------------------------: |
+  | Version | 0.0.1                              |
+  | Editor  | [SC4.io](mailto:Editor@Email.com) |
+
+
+
+## 延伸阅读
+
+* [Markdown语法说明（简体中文版）](http://wowubuntu.com/markdown/index.html)
+* [Markdown Syntax Documentation](http://daringfireball.net/projects/markdown/syntax)
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+
+## License
+
+  Copyright © 2014-2018, Melo Chan. [MIT License](http://opensource.org/licenses/MIT).

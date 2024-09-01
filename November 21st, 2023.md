@@ -1,0 +1,23 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[November 21st, 2023]] 21:40
+        - 赞美感谢
+            - 赞美我神，拯救我出深渊
+        - 认罪悔改
+            - 为自己不肯祷告而认罪
+        - 祈求
+            - 求主帮助[[刘作谦]]弟兄筹备好婚礼
+            - 求主治疗我内心的空洞
+        - Tongues
+            - Set a Pomodoro
+- [[Day Start]] 21:40
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

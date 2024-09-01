@@ -1,0 +1,35 @@
+- [[Gratitude]]
+- [[Day Start]] 00:34
+- Daily Tasks
+    - {{[[TODO]]}} 小芳买菜
+    - {{[[TODO]]}} 开车去临平山
+    - {{[[TODO]]}} 打车回家
+    - {{[[TODO]]}} 出站做核酸
+    - {{[[TODO]]}} 下午去游泳
+    - {{[[TODO]]}} 晚上回家休息
+    - {{[[TODO]]}} 补觉
+    - {{[[DONE]]}} [[October 1st, 2022]] 去程
+    - {{[[TODO]]}} 逛小施
+    - {{[[TODO]]}} 收拾家
+    - {{[[TODO]]}} 做饭吃饭
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [华腓德对婴儿洗礼论证的总结 – 門徒](https://disciplest.com/%E5%8D%8E%E8%85%93%E5%BE%B7%E5%AF%B9%E5%A9%B4%E5%84%BF%E6%B4%97%E7%A4%BC%E8%AE%BA%E8%AF%81%E7%9A%84%E6%80%BB%E7%BB%93/)
+    - 
+- ---
+- 到达临平后事项
+    - {{[[TODO]]}} 出站做核酸
+    - {{[[TODO]]}} 打车回家
+    - {{[[TODO]]}} 收拾家
+    - {{[[TODO]]}} 补觉
+    - {{[[TODO]]}} 小芳买菜
+    - {{[[TODO]]}} 逛小施
+    - {{[[TODO]]}} 下午去游泳
+    - {{[[TODO]]}} 做饭吃饭
+    - {{[[TODO]]}} 开车去临平山
+    - {{[[TODO]]}} 晚上回家休息

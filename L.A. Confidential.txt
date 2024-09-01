@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Curtis Hanson]]
+        - Writer:: [[James Ellroy]] [[Brian Helgeland]] [[Curtis Hanson]]
+        - Cast:: [[Kevin Spacey]] [[Russell Crowe]] [[Guy Pearce]]
+        - Year:: [[1997]]
+        - Genre:: #Crime #Drama #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0119488
+    - **Plot Summary:** As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.

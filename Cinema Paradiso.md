@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Giuseppe Tornatore]]
+        - Writer:: [[Giuseppe Tornatore]] [[Vanna Paoli]]
+        - Cast:: [[Philippe Noiret]] [[Enzo Cannavale]] [[Antonella Attili]]
+        - Year:: [[1988]]
+        - Genre:: #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0095765
+    - **Plot Summary:** A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.

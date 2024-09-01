@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Milos Forman]]
+        - Writer:: [[Lawrence Hauben]] [[Bo Goldman]] [[Ken Kesey]]
+        - Cast:: [[Jack Nicholson]] [[Louise Fletcher]] [[Michael Berryman]]
+        - Year:: [[1975]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0073486
+    - **Plot Summary:** A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.

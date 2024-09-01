@@ -1,0 +1,39 @@
+﻿The Good Chinese Writing Camp is a writing community founded by Wang Pei in 2015 to exchange writing topics, study classic works, train writers' ears, cultivate style and taste, and establish the style consciousness of "simple, concise and elegant". Input and output are carried out in parallel, and the mind and literary talent are improved together.
+
+Teaching standards
+
+Pursue the style of "simple, concise and elegant"
+
+Advocate the classic style of "clarity and simplicity is the truth"
+
+Vernacular Chinese and classical Chinese, as well as Chinese and English, are equally important
+
+Focus on daily updates and the compound interest of writing
+
+Learning objectives
+
+100-day daily update plan to provide targeted guidance and feedback for each student
+
+Train students to master smart note-taking methods and establish their own long-lasting note-taking system
+
+Master the feel and elements of good Chinese writing style
+
+Form a writing community to make writing a collective habit
+
+Explore the path of parent-child writing to allow students and children to grow together
+
+Use large pre-trained language models like  GPT-4 to generate essay prompts and writing topics. These models have read a large amount of text data and can come up with interesting creative prompts to inspire students' writing.
+
+Use models like gpt-4 for automatic essay scoring and feedback. The model can score essays based on coherence, logic, grammar, word choice, etc. and give targeted feedback to students on how to improve their writing. This can significantly reduce the burden on human teachers.
+
+Build a smart writing assistant using models like GPT-4. The assistant can have conversations with students to develop essay ideas, give suggestions during the writing process, review and revise drafts, etc. This can provide 24/7 help to students.
+
+Use topic modeling and clustering techniques to analyze all essays and notes from students to discover trending topics, areas of interest, writing styles, etc. These insights can help better understand students' needs and improve the curriculum.
+
+For parent-child writing, build a specialized model for scoring and generating prompts for children's essays. The prompts and feedback can be designed according to the child's age and language ability. This can make writing more fun and effective for children.
+
+Build a knowledge graph to link all writings, notes, prompts, and other data. Use graph neural networks to derive insights from the knowledge graph for curriculum development, writing recommendations, etc.
+
+Explore emerging techniques like Constitutional AI for Values Alignment to ensure any AI systems developed for this program are safe, fair, and beneficial to students.
+
+This plan leverages various AI technologies like natural language generation, automatic scoring, smart assistants, topic modeling, clustering and knowledge graphs to significantly enhance the writing camp by providing personalized and customized resources for each student. The key is to apply AI while also focusing on AI safety and ethics.

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Asghar Farhadi]]
+        - Writer:: [[Asghar Farhadi]]
+        - Cast:: [[Payman Maadi]] [[Leila Hatami]] [[Sareh Bayat]]
+        - Year:: [[2011]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt1832382
+    - **Plot Summary:** A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F93oS6KHUa_.pdf?alt=media&token=0d7cf1dd-9e49-4394-b751-5703e84d95d1}}

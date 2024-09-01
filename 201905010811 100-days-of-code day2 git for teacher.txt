@@ -1,0 +1,36 @@
+# 100-days-of-code day2 git for teacher
+tags = #100daysofcode #git #education
+
+Teacher training to master Git and GitHub
+
+[Campus Advisors - GitHub Education](https://education.github.com/teachers/advisors)
+
+安装了git
+
+Git via Git
+If you already have Git installed, you can get the latest development version via Git itself:
+
+```
+git clone https://github.com/git/git
+
+```
+
+git 把文件当成一个整体，每一次commit时，只是记录它的快照snapshot。没有change，就指向前一个快照。
+
+git 都在本地操作，所以速度惊人。
+
+因为都在本地，可以离线操作。连线时commit即可。
+
+git的整体性，任何文件的改变git都知道。
+
+git用40位的字符川(0-9, a-f)，记录文件的改变。 sha-1 hash
+
+例如:
+
+```
+24b9da6552252987aa493b52f8696cd6d3b00373
+```
+
+git只增加数据，不减少，所以很适合回滚。
+
+

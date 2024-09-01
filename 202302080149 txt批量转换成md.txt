@@ -1,0 +1,13 @@
+---
+
+ID: [[202302080149]]
+Title: txt批量转换成md
+Tags: #DPRH #2023-02-08 #tech #技术手册
+Date: 星期三 2023年2月8日 GMT+8 01:49:52
+
+---
+
+`find . -iname "*.txt" -exec bash -c 'mv "$0" "${0%\.txt}.md"' {} \;`
+
+
+

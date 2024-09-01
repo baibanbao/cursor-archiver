@@ -1,0 +1,38 @@
+- 一切已经非常清楚，凡是阻挡我使用Roam Research的力量，就是阻挡我祈祷。这两者其实是一回
+- #[[Prayers&Answers]]
+    - Date: [[November 19th, 2022]] 02:08
+        - 赞美感谢
+            - 赞美感谢神
+        - 认罪悔改
+            - 为了我迷了心窍
+            - 为我抵挡上帝
+            - 为我不肯悔改
+            - 为我的放纵
+            - 为我的败坏
+            - 求主怜悯
+            - 求主继续保守我
+        - 祈求
+            - 求主挽救我
+            - 求主让我回心转意，有爱弟兄的心
+                - 求主不要让我的信心毁灭
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 5}}
+- [[Gratitude]]
+- [[Day Start]] 02:26
+- Daily Tasks
+    - {{[[DONE]]}} 科技节专家答辩
+    - {{[[DONE]]}} 下午看《你逃我也逃》
+        - {{[[TODO]]}} 票子送出去
+    - {{[[TODO]]}} 在圣灵里祷告，每天至少三次，每次5分钟
+    - {{[[TODO]]}} 开始恢复走路，背《犹大书》
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+        - [[Mark 3:16]]
+- [[Daily Reading]]
+    - 
+- ---

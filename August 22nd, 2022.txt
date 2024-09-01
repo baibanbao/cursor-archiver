@@ -1,0 +1,38 @@
+- mc6e09 生之欲 #编剧故事营
+    - 课程准备
+        - 场地
+            - {{[[TODO]]}} 通知吴美娟
+            - {{[[TODO]]}} 通知杭州学员，一对一通知
+        - 线上
+            - {{[[TODO]]}} zoom直播地址
+                - {{[[TODO]]}} 一次性公布四天的直播地址
+                    - 【ZOOM直播信息，周一到周四，房间和密码不变】
+                    - Wang Pei is inviting you to a scheduled Zoom meeting.
+                    - Topic:  编剧故事营
+                    - Time: Aug 22, 2022 07:00 PM Beijing, Shanghai
+                        - Every day, 4 occurrence(s)
+                        - Aug 22, 2022 07:00 PM
+                        - Aug 23, 2022 07:00 PM
+                        - Aug 24, 2022 07:00 PM
+                        - Aug 25, 2022 07:00 PM
+                    - Please download and import the following iCalendar (.ics) files to your calendar system.
+                    - Daily: https://us06web.zoom.us/meeting/tZUkc-uvpzksEtEJ-F5CR8tQTGpFgT6fiiMD/ics?icsToken=98tyKuGppz8oHd2XthGCRpwcHY-ga-3xmHpdj7d4tlLDVgNhOhfHAsVSFLVLRt7Z
+                    - Join Zoom Meeting
+                    - https://us06web.zoom.us/j/81942792685?pwd=UGo4b2YrR0l1QW1lZTZMUGY5ejFVdz09
+                    - Meeting ID: 819 4279 2685
+                    - Passcode: 19182018
+            - {{[[TODO]]}}  通知
+                - {{[[TODO]]}} 非杭州学员
+                - {{[[TODO]]}} 非学员
+        - 物料
+            - {{[[TODO]]}} 电脑
+            - {{[[TODO]]}} 音箱
+            - {{[[TODO]]}} 线缆
+            - {{[[TODO]]}} 录音笔
+            - {{[[TODO]]}} 三角架
+            - {{[[TODO]]}} 手机 x2
+            - {{[[TODO]]}} 电源 + 线
+            - {{[[TODO]]}} 水
+            - {{[[TODO]]}} 热水壶 
+            - {{[[TODO]]}} 茶包
+            - {{[[TODO]]}} 点心

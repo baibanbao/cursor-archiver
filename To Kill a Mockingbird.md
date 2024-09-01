@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Robert Mulligan]]
+        - Writer:: [[Harper Lee]] [[Horton Foote]]
+        - Cast:: [[Gregory Peck]] [[John Megna]] [[Frank Overton]]
+        - Year:: [[1962]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0056592
+    - **Plot Summary:** Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FXaKuFsmvPs.pdf?alt=media&token=3dc5a399-787f-45bd-b368-aca85b892442}}

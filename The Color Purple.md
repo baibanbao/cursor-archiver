@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZDRkOWQ5NGUtYTVmOS00ZjNhLWEwODgtOGI2MmUxNTBkMjU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[Menno Meyjes]] [[Alice Walker]]
+        - Cast:: [[Danny Glover]] [[Whoopi Goldberg]] [[Oprah Winfrey]]
+        - Year:: [[1985]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0088939
+    - **Plot Summary:** A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FfLZROrPyc8.pdf?alt=media&token=7063ebf8-8054-422c-9e54-4f1eb9c5f88e}}

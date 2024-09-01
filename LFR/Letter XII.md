@@ -1,0 +1,38 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[February 9th, 2021]]
+- Hello again fellow Roamans, and a warm welcome to all my new readers from [[Roam Book Club]] 3!
+- # Around the Roaman Empire
+    - ## Vanilla Masonry
+        - [[Abhay Prasanna]] and [[Shawn Murphy]] have put together a theme which combines CSS and Javascript to enhance the sidebar, which can really increase the density of information you can fit on the screen. It fits each section into the visible screenspace and then lets you size each one individually to your optimal size, scrolling the sidebar contents left and right. You do have to experience to understand its benefits.
+            - https://twitter.com/AbhayPrasanna/status/1357426642218602509?s=20 #[[LFR/Letter XII]]
+    - ## PDF Annotation
+        - I haven't had time to try it myself since I don't heavily work with PDFs in Roam, but it has been on the wishlist for many. For now, it's still in beta so you need to DM @cococ_r on Twitter.
+            - https://twitter.com/cococ_rr/status/1357543374421692416?s=20 #[[LFR/Letter XII]]
+    - ## New automatic backup solution
+        - I've mentioned backing up your Roam database frequently, and I explained how this could be done in an automated fashion. There's now a new kid on the block. Thanks to [[Eric Newhard]], he's re-written the Roam-to-Git method from Matthieu Bizien such that the lossless EDN backups can be "diffed" so the whole file doesn't have to be backed up each time and eat all your GitHub storage. Eric has a great set of instructions you can follow to easily get set up at [https://github.com/everruler12/roam2github](https://github.com/everruler12/roam2github)
+    - ## #RoamGames
+        - [[Conor White-Sullivan]] announced the results of the first round of the [[RoamGames]] and an interesting thread ensued on how the winnings should be distributed. One of the key criteria of the games was to encourage peer-based production and iteration of ideas as well as producing complete solutions.
+            - https://twitter.com/Conaw/status/1359094588531568640?s=20
+            - The prize funds for the project management challenge was distributed so that the winners would choose the ancestors who inspired them so on through two generations.
+                - https://twitter.com/Conaw/status/1359124556024193030?s=20
+            - Congratulations to the primary winners: [[Zsolt Viczián]] for his [amazing imagining of a fully feature agile project management system in Roam](https://roamresearch.com/#/app/RoamAgile/page/cwZ9xV-cp), [[Matt McGann]]'s [Roam Teamwork contributions](https://twitter.com/MatMcGann/status/1358418786206904320?s=20) and [[Stian Håklev]]'s [stunning Roam/Inter implementation](((_O07us1xy))).
+            - 
+        - There have been a whole pile of other interesting submissions ((just search twitter for the #roamgames hashtag)), especially around the onboarding improvements for Roam. My "real job" is pretty crazy at the moment, so I just don't have the bandwidth to make my contribution at the moment. For readers who've followed my Roam course, you'll know one of my grand visions is a true multiplayer collaborative learning experience which could act as an iterative onboarding guided through your own actions (like a choose-your-own-adventure) and interactions with others to build on the collective knowledge. I also think pairing it with a mentoring series of videos like [[Beau Haan]]'s daily short videos for learning zettelkasten, which he's demonstrating in the book club, along with matching writing prompts you can block reference into your own graph, then see what other new Roam users wrote, again in a similar fashion to what we're experimenting with in the book club.
+    - ## Roam on Clubhouse
+        - Last Saturday, [[Roamhacker]] started an impromptu Roam Clubhouse call. I joined on a whim as I was tidying the kitchen. It was a fascinating discussion, meandering through a variety of topics with many notable Roamans. It lasted at least 3 hours - I don't know how long it continued on for as my phone battery died. It was only my second Clubhouse call, ((the first was an "after-party" following the opening night of Roam Book Club)), initially, I didn't really know what Clubhouse even was, but then I started seeing other Roamans jumping in. Whilst I'm not so happy about the non-iPhone members it's effectively excluding, I do think that it does make it easy to have high-quality discussions with smart people around the globe.
+            - I do have two spare invitations to Clubhouse, the first two people who reply with their iPhone number are welcome to them. (My only stipulation - you must also nominate a Roaman for my upcoming Roaman Spotlight feature - see below)
+- # Thinking Out Loud
+    - [[Matt Brockwell]] pointed me to a really interesting thread on Twitter about using Roam for fiction writing. It's easy to think that a tool-for-thought like Roam is only for the academics, or business-minded knowledge workers seeking productivity boosts and research but as evidenced by the thread there are no limits to the creativity of humans when it comes to bending tools to our will.
+        - https://twitter.com/Jeanvaljean689/status/1357312340903882753?s=20 #[[LFR/Letter XII]]
+        - There were several mentions of using it for writing screenplays, and Roam certainly seems like a great tool for helping to flesh out characters, and the world-building for fiction. Then there were suggestions for how the non-linear nature of the rBook format we're only just beginning to explore could change how fiction books could be written and consumed.
+            - Next came more non-obvious uses. How about creating comics, or managing a Dungeon's and Dragons campaign or other RPG game?! It's almost obvious as soon as it's named though. It got me wondering what else might people be using Roam for that doesn't immediately spring to mind, but maybe once known it might trigger more ideas and use-cases that could be applied to the "traditional" uses?
+                - Reply if you know of, or use, Roam in a particularly interesting way or for a less obvious use case. I'll collate and share them in a future letter.
+- ## Roaman Spotlight
+    - I'm still on the look-out for Roamans who are flying under the radar - if you know of someone who's work in the Roam or tools for thought space should be more widely known, let me know. I'm thinking of structuring it as a short Q&A, similar in format to [[Tim Ferriss]]'s [[Tribe of Mentors]]. Here's what I'm thinking of asking. But as [[Beau Haan]] is fond of saying, "Ask a better question, get a better answer, so if you have any suggestions for better questions, I'm all ears!
+        - What do you use Roam for?
+        - What has using Roam taught you or how has it changed you?
+        - What attracted you to Roam?
+        - What's your favourite feature of Roam?
+        - What do you hope to see in the future?
+        - Tell us one interesting thing about you

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Lean]]
+        - Writer:: [[Pierre Boulle]] [[Carl Foreman]] [[Michael Wilson]]
+        - Cast:: [[William Holden]] [[Alec Guinness]] [[Jack Hawkins]]
+        - Year:: [[1957]]
+        - Genre:: #Adventure #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt0050212
+    - **Plot Summary:** British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.

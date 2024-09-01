@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Christopher Nolan]]
+        - Writer:: [[Christopher Nolan]]
+        - Cast:: [[Leonardo DiCaprio]] [[Joseph Gordon-Levitt]] [[Elliot Page]]
+        - Year:: [[2010]]
+        - Genre:: #Action #Adventure #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt1375666
+    - **Plot Summary:** A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FjiKccRmZvi.pdf?alt=media&token=eb36bb6b-1f11-43e5-9fb2-a421a80f2afa}}

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Stanley Donen, Gene Kelly]]
+        - Writer:: [[Betty Comden]] [[Adolph Green]]
+        - Cast:: [[Gene Kelly]] [[Donald O'Connor]] [[Debbie Reynolds]]
+        - Year:: [[1952]]
+        - Genre:: #Comedy #Musical #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0045152
+    - **Plot Summary:** A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.

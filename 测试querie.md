@@ -1,0 +1,1 @@
+- {{[[query]]: {and: [[好中文]] {not: [[Edit Later]]}}}}

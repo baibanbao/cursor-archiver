@@ -1,0 +1,9 @@
+- Author:: [[| 中文]]
+- Full Title:: 凤凰周刊｜取不出钱的60天：有人失明、有人痛哭、有人放弃了病危的母亲 - 中国数字时代
+- URL:: https://chinadigitaltimes.net/chinese/684130.html
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 11th, 2022]]
+    - 浙江温州商人叶峰白手起家，在村镇银行存了近4000万，钱取不出来 ([View Highlight](https://instapaper.com/read/1520724710/20028956))
+    - 一位福建储户告诉记者，此次村镇银行的受害储户中，福建、浙江有不少是百万、千万级的储蓄量。他们利率可能达到10%以上。叶峰的利率也在9点多。当时，全国各地村镇银行的高额存款，利率都在7以上。 ([View Highlight](https://instapaper.com/read/1520724710/20028961))
+    - 根据银保监会数据，截至2021年末，中国银行业的九大类金融机构共4602家，其中村镇银行1651家，是最多的一类。 ([View Highlight](https://instapaper.com/read/1520724710/20028966))

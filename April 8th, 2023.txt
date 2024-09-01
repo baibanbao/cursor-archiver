@@ -1,0 +1,17 @@
+- [[Gratitude]]
+    - 感激的人和事
+        - [[老白]]的友好与良善
+        - [[yining]]对我真诚关心
+        - [[王树义]]老师对于我进步的真诚祝福
+        - 
+- [[Day Start]] 20:23
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

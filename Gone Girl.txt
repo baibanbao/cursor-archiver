@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[David Fincher]]
+        - Writer:: [[Gillian Flynn]]
+        - Cast:: [[Ben Affleck]] [[Rosamund Pike]] [[Neil Patrick Harris]]
+        - Year:: [[2014]]
+        - Genre:: #Drama #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt2267998
+    - **Plot Summary:** With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fvl1xhSFZYH.pdf?alt=media&token=4e9e9e03-db5f-428f-84b9-d3d03b41ae60}}

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMGZmNGIxMTYtMmVjMy00YzhkLWIyOTktNTExZGFiYjNiNzdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Simon West]]
+        - Writer:: [[Scott Rosenberg]]
+        - Cast:: [[Nicolas Cage]] [[John Cusack]] [[John Malkovich]]
+        - Year:: [[1997]]
+        - Genre:: #Action #Crime #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0118880
+    - **Plot Summary:** Newly-paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner-transport plane when the passengers seize control.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F6lg36hbcGD.pdf?alt=media&token=8323c952-d9e1-4d41-b62a-b54d37439124}}

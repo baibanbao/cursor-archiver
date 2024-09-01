@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Lee Unkrich]]
+        - Writer:: [[John Lasseter]] [[Andrew Stanton]] [[Lee Unkrich]]
+        - Cast:: [[Tom Hanks]] [[Tim Allen]] [[Joan Cusack]]
+        - Year:: [[2010]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt0435761
+    - **Plot Summary:** The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FaHw_tOqi31.pdf?alt=media&token=3ec60835-6c0f-4705-aa32-ad5f81dca764}}

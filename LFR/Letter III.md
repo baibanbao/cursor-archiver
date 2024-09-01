@@ -1,0 +1,32 @@
+- letter::
+    - Status:: #[[PUBLISHED]]
+    - Published Date:: [[September 22nd, 2020]]
+- Hello Roamans,
+- Welcome to my third letter. In it, I discuss:
+    - Roam Journaling Redux
+    - Roam Funding Round
+    - Roam API and multiplayer announcements
+    - Thinking out loud: Experiments with ∆ and aesthetics of note design
+- # Roam Journaling Redux
+    - Last Tuesday [[Tracy Winchell]], [[Brandon Toner]], [[Matt Brockwell]] and [[Ramses Oudt]] held a journaling summit where they each presented how they use Roam for journaling. It was a fascinating hour that went by very quickly. Whether you're already a seasoned journaler or thinking about starting, you'll surely find something of interest. I already use many elements discussed in my own practice but [Matt's]([[Matt Brockwell]]) ideas around tracking your emotions are something I want to dig into more since I have been trying to figure out the best way to learn more about my own emotional states and patterns. Plus, he mentioned using a question designed to help notice the small things each day from a book called ((rMSAvLaU9)).
+        - ((8hqNRcCLl))
+    - It's a fabulous framing that I love--it's gone straight to my [[Journaling Prompts]] library.
+    - [[RoamStack]] have made the [recording of the session available to watch](https://www.roamstack.com/journaling-in-roam/). (And here's hoping to a part-two).
+- # Around the Roaman Empire
+    - There's been a few small, but pleasant, improvements to Roam with the ability to pin blocks in the sidebar which persist across sessions, plus you can reorder them by dragging them up and down.
+    - ## Roam Funding Round
+        - As many of you will have no doubt heard, the Roam team announced an initial funding round from several big-name investors valuing Roam at $200 million! This is good news since it certainly helps to ensure Roam stays around means that they can continue to further improve and refine Roam's toolset for thinking.
+    - ## Roam API and multiplayer announcements
+        - More exciting to me was the next announcement of the Roam API and the new multiplayer backend. I have my fingers crossed to be one of the early few to try it out with a new group learning version of my [[Effective Note-Taking With Roam Research course]].
+- # Thinking Out Loud
+    - ## Experiments with ∆ and aesthetics of note design
+        - As I mentioned in [[LFR/Letter II]] [*](((WrQp5pEOp))) I started testing the new ∆ feature with [[NTMNDS]] (Note To My Next Day Self). I've since put an initial workflow together for [[Tracy Winchell]] for implementing a journaling technique called a HEART check - I outlined it in a [tweet thread](https://twitter.com/elaptics/status/1306707429149868032).
+        - Another use case is my daily reminder for [[The Discipline]] [(explainer thread)](https://twitter.com/elaptics/status/1306569452222283776) so that when I open Roam, I'm reminded of my focus for the day. Then I read the note I left for myself before I insert my daily notes template.
+        - As a way of programming my future attention and priming myself, I've found it to be a beneficial way of setting intentions for the day. Over time, as more capabilities and user interface affordances are added, I think it will become an essential piece of Roam as a tool for thought and personal change. I'm in the closing stages of writing an article for [my site](https://www.elaptics.co.uk) where I go into more detail about how I've set these up. In addition to these use-cases, I'll also cover how you can use it for recurring tasks. My hope is that it will inspire others to experiment and see what creative uses people can come up with.
+        - In the first two letters, I discussed how I've been thinking about the value of notes over time and metrics to quantify them. I received a fascinating email from [[Kara Monroe]] describing how she values the aesthetic appeal of notes and outlined an initial series of aesthetic levels akin to the layers of [[Progressive Summarization]]. Level 0 being text free-formed or copy/pasted into Roam, progressing through levels of formatting, organisational hierarchy and metadata through to Level 4 adding personalised CSS to meet specific note needs. This feels similar to how, in Building a Second Brain course, Tiago Forte describes [[Note Design]]. He argues for a note-first approach to organisation where the content of notes is the most crucial factor. Making notes more visually and quickly skimmable makes them more discoverable, and thus more valuable. After all, a note you can't find is of no value whatsoever.
+        - It has me wondering what other ways people add value to their notes, and how, with the potential of [[multiplayer Roam]], collaboration might impact note value. I'm thinking about ways this could be realised. For example, what is the next level beyond how Kindle shows you popular highlights in books you're reading?
+        - I would love to be able to have discussions inline in newsletters like this one, just like you can add comments in Google docs.
+- If you have any thoughts on this or other tools-for-thought related topics, hit reply. I read every one, I now look forward to my email each day and love having email conversations with you all.
+- Thanks for reading,
+- Andy
+- P.S. I've carried out a few consulting calls now, providing personalised guidance to help accelerate and optimise their use of Roam. I'm not sure how many you have to do before you can call yourself a Roam Consultant? But, if this is something you might be interested in exploring, drop me an email.

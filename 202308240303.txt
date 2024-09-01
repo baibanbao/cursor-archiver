@@ -1,0 +1,87 @@
+我现在有本地文件夹local，里面装满了文件。
+
+我还有github上的repo，名叫 a, 里面也有文件
+
+我现在想把local 和 a建立git 连接， 以local里的文件为准，
+
+请问应该在terminal里如何操作，请列出详细步骤，谢谢。
+ChatGPT
+在终端中使用以下步骤可以将你的本地文件夹 local 和 GitHub repo a 建立 Git 连接，并使 local 文件夹中的文件成为主要版本：
+
+首先，确保你在本地安装了 Git。如果没有安装，可以在 Mac 上使用 brew install git，在 Ubuntu 上使用 sudo apt-get install git 来安装。
+
+打开终端，然后切换到你的 local 文件夹。比如如果你的 local 文件夹在桌面上，可以使用这个命令：
+
+bash
+Copy code
+cd ~/Desktop/local
+在 local 文件夹中初始化一个新的 Git 仓库：
+
+csharp
+Copy code
+git init
+添加所有文件到新的 Git 仓库：
+
+csharp
+Copy code
+git add .
+提交这些文件到你的仓库：
+
+sql
+Copy code
+git commit -m "Initial commit"
+在 GitHub 上获取你的仓库 a 的 URL。这个 URL 的格式应该类似于 https://github.com/username/a.git。
+
+在你的本地仓库中添加一个名为 origin 的新远程，URL 为你在步骤 6 中获取的 URL：
+
+csharp
+Copy code
+git remote add origin https://github.com/username/a.git
+现在你可以将你的本地仓库推送到 GitHub 上的 a 仓库了：
+
+perl
+Copy code
+git push -u origin master
+在执行这些步骤的过程中，你可能会需要输入你的 GitHub 用户名和密码。
+
+如果你在 git push 过程中遇到错误，这可能是因为远程仓库已经包含了一些你本地仓库没有的提交。如果你确定想要以你本地的版本为准，你可以使用以下命令强制推送：
+
+css
+Copy code
+git push -u origin master --force
+警告：这将覆盖远程仓库的所有内容，所以请确保你不会丢失任何重要信息。
+
+
+
+
+User
+zhongwen_ai@zhongwenais-MacBook-Pro Downloads % git push -u origin master
+
+Username for 'https://github.com': baibanbao
+Password for 'https://baibanbao@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/baibanbao/the_archive.git/'
+zhongwen_ai@zhongwenais-MacBook-Pro Downloads % 
+
+pls debug
+ChatGPT
+错误信息指出，“从 2021 年 8 月 13 日起，已经移除了对密码认证的支持。” 这意味着你不能再使用你的 GitHub 用户名和密码来进行认证。相反，GitHub 现在要求使用个人访问令牌（PATs）或 SSH 密钥。
+
+这是使用个人访问令牌进行认证的步骤：
+
+登录到你的 GitHub 账户。
+
+点击你的头像，然后选择 "Settings"。
+
+在左侧菜单中选择 "Developer settings"。
+
+点击 "Personal access tokens"。
+
+点击 "Generate new token"。在 "Note" 字段中输入一个描述（例如 "Git command line access"）。然后在 "Select scopes" 部分，至少选择 "repo" 来给予此 token 对你私有仓库的访问权限。
+
+点击 "Generate token"。
+
+你将会看到一个新的 token。确保复制此 token - 你将无法再次查看它。
+
+然后，当你再次运行 git push -u origin master 时，将会提示你输入用户名和密码。在这里，用户名是你的 GitHub 用户名，而密码应输入你刚刚创建的个人访问令牌。这应该解决认证失败的问题。

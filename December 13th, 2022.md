@@ -1,0 +1,14 @@
+- [[Gratitude]]
+- [[Day Start]] 16:58
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [辉瑞新冠特效药Paxlovid网售放开 凭核酸或抗原结果购买\_政经频道\_财新网](https://china.caixin.com/2022-12-13/101977571.html)
+    - 
+- ---

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Roger Allers, Rob Minkoff]]
+        - Writer:: [[Irene Mecchi]] [[Jonathan Roberts]] [[Linda Woolverton]]
+        - Cast:: [[Matthew Broderick]] [[Jeremy Irons]] [[James Earl Jones]]
+        - Year:: [[1994]]
+        - Genre:: #Animation #Adventure #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0110357
+    - **Plot Summary:** Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FlstkzynYwL.pdf?alt=media&token=4945f50d-bb2f-4358-b3dd-992d9838c507}}

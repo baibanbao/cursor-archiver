@@ -1,0 +1,7 @@
+- Author:: [[Walter Isaacson]]
+- Full Title:: Steve Jobs
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/418oH6YjpFL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - self-important ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B004W2UBYW&location=1089))
+    - The relationship turned out to be lasting and deep; seventeen years later Kobun would perform Jobs’s wedding ceremony. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B004W2UBYW&location=1094))

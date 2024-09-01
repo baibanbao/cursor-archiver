@@ -1,0 +1,26 @@
+﻿订阅服务 每月服务费 按照一美元等于七点二元人民币计算
+
+ChatGPT Plus 144
+Heptabase 51
+共享办公室 800 
+inkdrop 72 
+Adobe 206 （被罚款八百二十六元取消了，再也不订这个垃圾了）
+阿里网盘 13
+call recorder 12 
+paper 8 
+whisper transcription 7.3
+workflowy 30
+剪映 14
+dropbox 48
+RoamResearch 60
+zoom 187 
+proton mail 36
+github org 28.8
+twitter pro 115
+netflix 50
+域名 14.4
+Youtube Premium 100
+office 41.5
+
+
+sum=2038.00 count=35 avg=58.23 mid=13

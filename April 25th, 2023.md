@@ -1,0 +1,12 @@
+- #[[Prayers&Answers]]
+    - 为信实的供应 #Finance
+        - 感谢主使我暂度难关
+            - [[创邑办公室]]
+    - 为教会和牧者的安全 #[[SLBC]] #[[jfx]]
+    - 为#[[Four Seasons]]
+    - 为健康和药品 #[[康健]]
+        - 感谢主，使我买到了2.5个月的药
+- 看电影
+    - [The Keys of the Kingdom (film) - Wikipedia](https://en.wikipedia.org/wiki/The_Keys_of_the_Kingdom_(film))
+        - 一部优秀的宣教电影
+        - 

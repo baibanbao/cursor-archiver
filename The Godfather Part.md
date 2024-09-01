@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Francis Ford Coppola]]
+        - Writer:: [[Francis Ford Coppola]] [[Mario Puzo]]
+        - Cast:: [[Al Pacino]] [[Robert De Niro]] [[Robert Duvall]]
+        - Year:: [[1974]]
+        - Genre:: #Crime #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0071562
+    - **Plot Summary:** The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.

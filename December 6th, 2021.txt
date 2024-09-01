@@ -1,0 +1,228 @@
+- 番茄鍾管理法
+    - 番茄鐘的最後是表面沒番茄，心裏有番茄。
+- 每日背经群
+    - [[December 6th, 2021]]
+        - https://youtu.be/ILeksVic3Mw?t=377
+    - [[December 7th, 2021]]
+        - https://youtu.be/ILeksVic3Mw?t=385
+        - {{[[video]]: https://youtu.be/ILeksVic3Mw?t=385}}
+- 回到rr中来，回到rr中来，回到rr中来
+    - 打通rrb
+        - [RoamResearch+Byword+Blogger打造閉環筆記博客系統](https://www.redpei.com/2021/12/roamresearchbywordblogger.html)
+- 学习马丁路德《因信称义365天》
+    - 一月份学完
+        - # Faith Alone: A Daily Devotional
+        - ## Martin Luther, James C. Galvin
+        - ### Zondervan
+        - [Page 5](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=24)
+        - > Erfurt
+        - > Luther was a professor, theologian, former monk, scholar,
+        - > author, Bible translator, and defender of the faith. But he was
+        - > also a pastor, husband, father, and good friend to many.
+        - > have all been freshly translated into English
+        - [Page 6](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=25)
+        - > He forcefully preached and defended the doctrine that we are
+        - > justified through faith alone—plus noth- ing.
+        - [Page 7](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=26)
+        - > But the first dimension of the Christian life—faith—is more
+        - > essential. The sec- ond dimension—good works—is never as
+        - > valuable as faith.
+        - > Faith should be first. After faith is preached, then we should
+        - > teach good works. It is faith—without good works and prior to
+        - > good works—that takes us to heaven. We come to God through faith
+        - > alone.
+        - [Page 8](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=27)
+        - > Romans 1:17
+        - [Page 11](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=30)
+        - > A lack of faith is what condemns you, but confidence in God is
+        - > what makes you worthy.
+        - [Page 13](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=32)
+        - > **You throw your sins on Christ when you firmly believe that**
+        - > **Christ’s wounds and suffering carried and paid for your sins.**
+        - [Page 16](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=35)
+        - > **However, in the middle of these terrors of the law, the**
+        - > **thundering of sin, the shaking of death, and the roar of the**
+        - > **devil, the Holy Spirit in our hearts begins to call out, “Abba!**
+        - > **Father!” And his cry is much stronger and drowns out the**
+        - > **powerful and horrible shouts of the law, sin, death, and the**
+        - > **devil. It penetrates through the clouds and heaven and reaches**
+        - > **up to the ears of God.**
+        - [Page 17](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=36)
+        - > Suffering doesn’t occur apart from God’s will. It’s not a sign
+        - > of his anger; rather, it’s a sign of his mercy and his fatherly
+        - > love. It will serve for the best.
+        - [Page 18](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=37)
+        - > **That is why hearing us call him Father pleases God the most and**
+        - > **moves him to listen to us. By doing so, we acknowledge ourselves**
+        - > **as children of God, which again stirs God’s heart. For there is**
+        - > **no voice more dear to a father than his own child’s voice**
+        - > **hat is why hearing us call him Father pleases God the most and**
+        - > **moves him to listen to us. By doing so, we acknowledge ourselves**
+        - > **as children of God, which again stirs God’s heart. For there is**
+        - > **no voice more dear to a father than his own child’s voice.**
+        - > **It also helps when we say, “in heaven.” These words express**
+        - > **distressing need and misery because we are on earth and God is**
+        - > **in heaven.**
+        - > **Those who pray this way soon feel a heartfelt yearning, like a**
+        - > **child who lives far from his father’s land in misery and**
+        - > **distress among strangers. It’s as if they are saying, “O Father,**
+        - > **you are in heaven. I am your poor child far from you on earth,**
+        - > **in misery, in peril, in distress, and in need. I am surrounded**
+        - > **by devils, great enemies, and many kinds of danger.” Those who**
+        - > **pray in this way stand with pure, uplifted hearts toward God.**
+        - > **They are able to pray and move God to mercy.**
+        - [Page 19](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=38)
+        - > **We can be sure of this: a sorrowful, timid, and frightened heart**
+        - > **doesn’t come from Christ. Christ doesn’t frighten hearts or make**
+        - > **them depressed. He came to this earth, fulfilled his mis- sion,**
+        - > **and ascended into heaven to take away sorrow and fearful- ness**
+        - > **from our hearts and replace them with cheerful hearts,**
+        - > **consciences, and minds.**
+        - [Page 21](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=40)
+        - > Therefore, we must learn that we should have nothing to do with
+        - > any way of becoming righteous except through Christ alone.
+        - [Page 22](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=41)
+        - > **God inflicts this fire for no other reason except to test us, to**
+        - > **see whether we’re depend- ing on his Word.**
+        - [Page 23](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=42)
+        - > When we die, we are not dead; instead, we are seeds planted for
+        - > the coming summer.
+        - [Page 24](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=43)
+        - > Moses commanded the Israelites, who had been bitten in the
+        - > desert by poisonous snakes, to look at this bronze snake with an
+        - > unswerving gaze. Those who did so were healed, simply by
+        - > steadily gazing at the snake alone. In contrast, others who
+        - > didn’t obey Moses looked at their wounds instead of the snake
+        - > and died.
+        - > **I believe in Jesus Christ, God’s Son, who suffered, was**
+        - > **crucified, and died for me. In his wounds and death, I see my**
+        - > **sin. In his res- urrection, I see the victory over sin, death,**
+        - > **and the devil. I see righ- teousness and eternal life as well. I**
+        - > **want to see and hear nothing except him.**
+        - > I believe in Jesus Christ, God’s Son, who suffered, was
+        - > crucified, and died for me. In his wounds and death, I see my
+        - > sin. In his res- urrection, I see the victory over sin, death,
+        - > and the devil. I see righ- teousness and eternal life as well. I
+        - > want to see and hear nothing except him.
+        - [Page 25](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=44)
+        - > I understand what Jesus is saying here in the simplest manner,
+        - > so that it all applies to this one person, Christ. Jesus is
+        - > called “the way” because he is the beginning, “the truth”
+        - > because he is the one who helps us continue, and also “the life”
+        - > because he is the end. For he must be everything—the beginning,
+        - > the middle, and the end of our salvation.
+        - > So if you hold on to Christ in faith, then you have started in
+        - > the right place. If you remain with him, then you will be
+        - > walking on the right path. If you persevere until the end, then
+        - > you will be saved.
+        - [Page 26](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=45)
+        - > Waiting to pray is an unchristian approach to prayer. It’s a
+        - > teach- ing that comes from the devil.
+        - > David trusted in God’s mercy and began to pray, “Lord, even
+        - > though I am a sinner, have pity on me.” The time when you feel
+        - > your sins the most is exactly the time when you most need to
+        - > pray to God.
+        - [Page 27](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=46)
+        - > When we receive what we ask for in the Lord’s Prayer, we are, in
+        - > effect, receiving heaven and earth and everything they contain.
+        - > For when we ask for God’s name to be kept holy, for his king-
+        - > dom to come, and for his will to be done, we are overpowering
+        - > countless devils and engulfing the whole world with one prayer.
+        - [Page 29](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=48)
+        - > **Don’t despair after you have sinned, but lift your eyes upward,**
+        - > **where Christ intercedes for you. For he is your advocate and**
+        - > **inter- cessor. He pleads for you, saying, “Father, for this**
+        - > **person I have suffered. I am looking after this individual.”**
+        - > **This prayer is never useless, because Christ is our high priest**
+        - > **(Hebrews 5:10).**
+        - > Don’t despair after you have sinned, but lift your eyes upward,
+        - > where Christ intercedes for you. For he is your advocate and
+        - > inter- cessor. He pleads for you, saying, “Father, for this
+        - > person I have suffered. I am looking after this individual.”
+        - > This prayer is never useless, because Christ is our high priest
+        - > (Hebrews 5:10).
+        - > Christian’s condition is a source of wonder! For Christians are
+        - > both sinful and righteous. They are sinful because of the sinful
+        - > nature they carry with them that is contaminated by sin. They
+        - > are righ- teous because the Spirit pulls them back from sin.
+        - [Page 30](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=49)
+        - > Because of God’s mercy and grace, David received God’s approval
+        - > and was made holy by a righteousness completely out- side of
+        - > himself. God’s mercy and grace aren’t human emotions or
+        - > attitudes. Rather, they’re a divine blessing we receive by
+        - > believing that our sins have been forgiven in Christ. Because of
+        - > Christ, we can expect mercy and compassion, as David did in
+        - > Psalm 51. So the righteousness we receive comes completely
+        - > outside of us. It’s a genuine gift from God, who is
+        - > compassionate and merciful to us because of Christ.
+        - > Suppose a man deserving the death penalty was brought to a
+        - > prince’s court. But the prince released him out of compassion,
+        - > even though he deserved nothing but death. Wouldn’t you say that
+        - > this man’s guilt was forgiven, not because of anything he had
+        - > done, but because of the kindness of the merciful prince? Yet
+        - > it’s not enough for this man to be forgiven for the crime he
+        - > committed. He also must be released from jail, must be given
+        - > clothes to wear, and must find a job so that he can live. The
+        - > same happens to us when we receive God’s approval. After God in
+        - > his mercy frees us from guilt, we still need the gift of the
+        - > Holy Spirit to clean away what sin remains in us. We need the
+        - > Spirit to strengthen us so that we are not overpowered by sin
+        - > and our corrupt desires.
+        - [Page 31](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=50)
+        - > Dear brothers and sisters, it’s impossible for you to become so
+        - > righteous in this life that you won’t feel sin anymore. It’s
+        - > impos- sible for your body to become as bright and spotless as
+        - > the sun. Though you still have wrinkles and spots, in spite of
+        - > this, you are holy. But you may wonder, “How can I be holy since
+        - > I sin and feel sinful?” Recognizing and feeling your sin is
+        - > good. Thank God, and don’t despair. It’s a step toward health
+        - > whenever a sick person recognizes his disease. “But how can I be
+        - > freed from sin?” you wonder. Run to Christ, the Physician who
+        - > heals the broken- hearted (Psalm 147:3). He makes sinners holy.
+        - [Page 32](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=51)
+        - > If you are doubting or uncertain, or if you are merely trying a
+        - > prayer to see what happens, your prayer won’t be worth anything.
+        - > For you aren’t keeping your heart steady but let- ting it wobble
+        - > back and forth.
+        - > This is why we say the little word Amen at the end of our
+        - > prayers. We use it to express our firm, heartfelt faith. It’s
+        - > like saying, “O God, I have no doubt that you will give me what
+        - > I ask for in prayer.”
+        - [Page 33](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=52)
+        - > . If the devil wants to drive you to despair because of your
+        - > sin, just grab the Word of God. It promises for- giveness of
+        - > sins. Rely on God’s Word, and the devil will quickly leave you
+        - > alone.
+        - [Page 34](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=53)
+        - > So we desperately need wisdom that is above our nat- ural
+        - > reason. On the basis of that wisdom, we can say, “God won’t lie
+        - > to me or deceive me, though at times, nothing in life will seem
+        - > to make sense.”
+        - [Page 35](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=54)
+        - > or faith is a divine work that God asks us to do. But at the
+        - > same time, God must give us faith, for we can’t believe on our
+        - > own.
+        - [Page 36](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=55)
+        - > They should recite these verses to their parents at mealtime.
+        - > Christ had to become a man in order to train us. If we want to
+        - > train children, then we must become children with them.
+        - [Page 37](highlights://Martin%20Luther,%20James%20C.%20Galvin%20-%20Faith%20Alone_%20A%20Daily%20Devotional%20(2005)#page=56)
+        - > When faithful people are happy and when they sing, “The LORD is
+        - > my strength and my song” (Psalm 118:14), the devil stays far
+        - > away from them. All complaining and impatience soon end. As long
+        - > as believers praise and thank God, then temptation, sad- ness,
+        - > and unbelief disappear. Heaven is opened wide and hell is shut
+        - > with words like these: “I will extol the LORD at all times; his
+        - > praise will always be on my lips” (Psalm 34:1).
+    - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FO-GNNeR3xH.md?alt=media&token=a9b40080-533e-402e-91d0-0e9d0ad5c610
+    - 与byword, blogger打通
+        - 我现在能想到的打通方式
+            - 在byword中书写
+            - 在blogger.com中的博客 redpei.com 上发布
+            - 把发布链接连接到roamresearch中来
+- #[[Jo]] 的生活習慣問題
+    - 如何糾正他生活中壞習慣
+        - 蹲馬桶時間太長
+        - 打遊戲
+        - 粗心
+        - 寫字潦草

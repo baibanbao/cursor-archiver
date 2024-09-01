@@ -1,0 +1,45 @@
+- [[Gratitude]]
+- #[[Prayers&Answers]]
+    - Date: [[January 11th, 2024]] 04:39
+        - 赞美感谢
+            - 赞美主的创造
+            - 赞美主的护理
+            - 赞美主的拯救
+            - 感谢主赐下出人意外的平安，保守我的心怀意念
+            - 感谢主赐下教会这个方舟，能够让我得救
+            - 感谢主使我免得糖尿病，还可以通过调整饮食和生活习惯来矫正
+        - 认罪悔改
+            - 为自己的小信
+            - 为自己没有专心倚靠神
+            - 为自己内心不够火热
+        - 祈求代求
+            - 为今天的看病祷告，求主赐给医生聪明智慧，查出我的病因，并且对症治疗。也求主用适合的方式医治我，无论是亲自向我吹气，还是通过现代医学手段，求主怜悯和治疗我面部神经的问题。使我不再惧怕，不要夺去我内心的平安喜乐。
+            - 为[[谢瑾]]姊妹感恩，求主带领她。
+            - 为继续修复与[[陈浩初]]的关系而祷告
+            - 为[[黄超]]弟兄的一家和他的创业项目而祷告
+            - 为[[王旻瑚]]姊妹的蓝天下至爱的公益活动祷告
+            - 为[[Sally老师]]祷告
+            - 为台湾大选祷告
+            - 为[[好中文]]第十期而祷告
+- [[Day Start]] 04:36
+- Daily Tasks
+    - {{[[TODO]]}} 放学 12:00-12:10
+    - {{[[TODO]]}} 上学 9:30-9:40 
+    - {{[[TODO]]}} 瑞金医院神内科 10:00-10:30
+    - {{[[TODO]]}} 带#[[Jonas]]去办公室
+    - {{[[TODO]]}} 下午提前录制两句半(与 [[刘淼]] 老师商量)
+    - {{[[TODO]]}} 上传两句半
+    - {{[[TODO]]}} 找淘宝商家打印[[编剧故事营]]课件
+    - {{[[TODO]]}} 好中文第十期招生简章
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Jump Cut Smoothing for Talking Heads](https://morphcut.github.io/)
+    - [《面向人工智能的博物馆藏品知识组织——以故宫博物院“中国古代可移动文物概念参考模型”为例》 - 故宫博物院](https://www.dpm.org.cn/journal/261970.html)
+    - [[书格]]下载网盘
+        - [PDF - Google Drive](https://drive.google.com/drive/folders/0B59W0kcOXxj6UUdYUzRYOHE0R1E?resourcekey=0-JyYB6JeJHIBT3lFz4e5NzA)
+- ---

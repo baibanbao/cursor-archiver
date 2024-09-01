@@ -1,0 +1,31 @@
+﻿Dear OpenAI employees:
+
+Today I received an email from OpenAI to notice me that one of my payment method is judged as invalid.
+
+Hi haozhongwen,
+
+We were unable to process your last payment for $5.51 using your visa ending in 3921. Your card was declined.
+
+Please review your payment method, and update it if necessary to continue using the API uninterrupted.
+
+Review Payment Method
+
+We'll try to process your payment again in a few days. If we aren't able to complete your payment by Jul 2, 2023 12:00 AM UTC, your organization's API access will be suspended.
+
+If you have any questions, please contact us through our help center, and we'll be happy to assist.
+
+It's a great irony that the account associated with haozhongwen (and email redredpei@gmail.com) has been deleted or disactivated by you.
+
+How could I change or complete the payment without my account existing. What's this? Catch-22?
+
+I am a loyal user of OpenAI and willing to pay high price to use ChatGPT, but am I treated as an customer? I don't think so.
+
+The payment failure problem is not my intention nor expectation. I have to pay you with flexible methods which may conflict with your policy. I admit it. But please give me the chance to try again. I paid the same honest money to you via some institutions. Just please give me some understanding and tolerance.
+
+Please notice that I can't complete the payment without my account restored, which seems impossible right now.
+
+I just want you know that what a common user feels. Nothing more, nothing less.
+
+Best wishes for a giant like OpenAI.
+
+Wish you prosper and treat your users kindly someday.

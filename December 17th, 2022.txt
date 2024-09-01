@@ -1,0 +1,50 @@
+- [[Gratitude]]
+- [[Day Start]] 04:55
+- Daily Tasks
+    - {{[[TODO]]}} 祷告
+        - #[[Prayers&Answers]]
+            - Date: [[December 17th, 2022]] 05:08
+                - 赞美感谢
+                    - 感谢神没有让我们感染上新冠
+                    - 感谢神的护理
+                    - 感谢神每天施恩
+                - 认罪悔改
+                    - 为自己的冷漠自私
+                    - 为自己没有倚靠神
+                    - 为自己在工作和事奉上的懒惰
+                - 祈求
+                    - 为#[[JFX]]
+                    - 为#[[SLBC]]教会成员
+                        - [[郭联秦]]夫妇
+                        - 为[[王筱金]]祷告
+                    - 为[[陈浩初]]
+                    - 为[[星河]]
+                    - 为[[Mally]]
+                    - 为北京的朋友们
+                        - [[郭沫]]
+                        - [[金安平]]
+                        - [[高轩]]
+                    - 为自己的家庭
+                        - [[唐平]]
+                        - 为家中的老人
+                        - 为#[[Seven]]
+                        - 为#[[Jonas]]
+                        - 为[[王青]]一家
+                        - 
+                - Tongues
+                    - Set a Pomodoro
+                        - {{[[POMO]]: 5}}
+    - {{[[TODO]]}} 思考下一步的路
+    - {{[[TODO]]}} 给王青闪送抗原
+    - {{[[TODO]]}} 制定完整的[[家庭防疫预案]]
+    - {{[[TODO]]}} 做[[家庭防疫报]]
+    - {{[[TODO]]}} 开始[[好中文纸质笔记整理]]
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

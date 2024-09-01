@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Thomas Vinterberg]]
+        - Writer:: [[Tobias Lindholm]] [[Thomas Vinterberg]]
+        - Cast:: [[Mads Mikkelsen]] [[Thomas Bo Larsen]] [[Annika Wedderkopp]]
+        - Year:: [[2012]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt2106476
+    - **Plot Summary:** A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...

@@ -1,0 +1,4 @@
+- 今天录制了海华之声take3
+    - 
+- [[April 4th, 2022]] at 00:12
+    - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Ff8US20LYts.docx?alt=media&token=c66246bd-2aba-4d9d-8afa-4bcf112813d6

@@ -1,0 +1,7 @@
+- Author:: [[instapaper.com]]
+- Full Title:: Fwd: 可乐周报 101 今年最想推荐的六篇文章
+- URL:: https://instapaper.com/read/1522283061
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 19th, 2022]]
+    - “当人们考虑建立一个新的流程时，我给他们的建议是到白板上，写下这个问题的答案。‘如果你今年只能做一件事，那会是什么？’。如果这个答案是 ‘建立一些新的流程’，那就去做吧。但如果是‘将市场份额从30%提高到60%’或‘推出将使我们的销售量增加2倍的新产品’，就不要把时间浪费在其他事情上。只要让你最好的人（包括首席执行官），让他们负责解决这个问题，并给他们提供他们需要的一切和所有人来实现这个目标。“ ([View Highlight](https://instapaper.com/read/1522283061/20111106))

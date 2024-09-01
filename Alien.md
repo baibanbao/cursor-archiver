@@ -1,0 +1,11 @@
+-  
+    - ![](https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Ridley Scott]]
+        - Writer:: [[Dan O'Bannon]] [[Ronald Shusett]]
+        - Cast:: [[Sigourney Weaver]] [[Tom Skerritt]] [[John Hurt]]
+        - Year:: [[1979]]
+        - Genre:: #Horror #Sci-Fi
+    - **IMDb:** https://www.imdb.com/title/tt0078748
+    - **Plot Summary:** The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fjv3FjGhoQV.pdf?alt=media&token=f7129904-d9a9-44a1-ad1f-274e0246950c}}

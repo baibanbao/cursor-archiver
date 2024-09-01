@@ -1,0 +1,25 @@
+- 😎 I'm a Freelancer / Playwright / Screenwriter/ Writing Coach
+- 🎎Commissioned Playwright of Beijing People's Art Theatre
+- 🧑🏼‍💻Ex-Editor in local newspaper & magazine. 
+- 🚄Commuting 30,000km on CRH train per year. 
+- 🌇Living in Shanghai & Hangzhou.
+- ☕️Learning to make coffee. 
+- What I created
+- 📚Books: The Orthodox Chinese (aka 正版语文）
+- https://book.douban.com/subject/1223837/
+- ✍️Stage Plays: 
+- Crazy Short Message (aka 疯狂短信) （2003）
+- Fisheye (aka 鱼眼 ) (2015) http://www.bjry.com/play/html/2015/06/2015070110.html
+- A Story of Fragrance （aka 怜香伴）（2016）
+- The Necklace (aka 项链)（2020）
+- What I’m doing on Clubhouse
+- A good listener and a growing moderator
+- Member of the fans club of I Love My Family  
+- Participating the online performance art: Waiting for Jack Ma
+- Regular organizer of various literature discussions (esp. Dream of the Red Chamber), online poem parties.
+- 🖌 My blog: wangpei.net
+- ☑️ Daily writing camp 
+- 📺 Storytelling Camp 
+- How to find me?
+- ☕️ Stories: https://wangpei.medium.com
+- 📮 wangpeime@gmailx.com (omit x pls)

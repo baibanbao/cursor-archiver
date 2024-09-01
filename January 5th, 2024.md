@@ -1,0 +1,28 @@
+- [[Gratitude]]
+- [[Day Start]] 01:48
+- Daily Tasks
+    - {{[[TODO]]}} 接娃放学
+        - 记错时间，没有去接。
+    - {{[[DONE]]}} 烘被子
+    - {{[[TODO]]}} 研究[[好中文第十期]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [【网络民议】知乎问答｜如何评价乞讨博主“丁胖子金牌讲师”账号异常？](https://chinadigitaltimes.net/chinese/703724.html)
+    - [《在路上》 #交棒篇 ── 2024 賴清德 蕭美琴｜總統競選 CF - YouTube](https://www.youtube.com/watch?v=H4kGNldUQGw)
+    - [1949之后：高岗到底干了什么？](https://www.voachinese.com/a/a-21-w2007-12-07-voa60-57934432/1063368.html)
+    - [人民文摘](http://paper.people.com.cn/rmwz/html/2011-07/01/content_901675.htm?div=-1)
+    - [人民文摘](http://paper.people.com.cn/rmwz/html/2010-01/01/content_501072.htm?div=-1)
+    - [1949之后：毛对高岗始乱终弃](https://www.voachinese.com/a/a-21-w2007-12-14-voa58-63162817/961116.html)
+    - [中共中央是如何向苏共中央通报高岗事件的 /栾景河](https://www.russiancenter.pku.edu.cn/yjcg/kywj/258059.html)
+    - [[两句半]]
+        - [Epstein Docs - DocumentCloud](https://www.documentcloud.org/documents/6250471-Epstein-Docs)
+        - [Jeffrey Epstein: Second batch of documents released - BBC News](https://www.bbc.com/news/world-us-canada-67879225?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_format=link&at_ptr_name=twitter&at_campaign_type=owned&at_link_id=08778536-AB88-11EE-B16A-40BED0B4AF07&at_link_origin=BBCWorld&at_link_type=web_link&at_bbc_team=editorial&at_campaign=Social_Flow&at_medium=social)
+        - [Jeffrey Epstein list: Who is named in court filings? - BBC News](https://www.bbc.co.uk/news/world-us-canada-67861498)
+        - [Epstein Docs - DocumentCloud](https://www.documentcloud.org/documents/6250471-Epstein-Docs)
+    - 
+- ---

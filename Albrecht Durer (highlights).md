@@ -1,0 +1,5 @@
+- Author:: [[Maria Peitcheva]]
+- Full Title:: Albrecht Durer
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Charcoal

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOWIzZGUxZmItOThkMS00Y2QxLTg0MTYtMDdhMjRlNTNlYTI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Fred Zinnemann]]
+        - Writer:: [[Carl Foreman]] [[John W Cunningham]]
+        - Cast:: [[Gary Cooper]] [[Grace Kelly]] [[Thomas Mitchell]]
+        - Year:: [[1952]]
+        - Genre:: #Drama #Thriller #Western
+    - **IMDb:** https://www.imdb.com/title/tt0044706
+    - **Plot Summary:** A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at "high noon" when the gang leader, an outlaw he "sent up" years ago, arrives on the noon tr...

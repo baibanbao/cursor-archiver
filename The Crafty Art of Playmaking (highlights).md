@@ -1,0 +1,9 @@
+- Author:: [[Alan Ayckbourn]]
+- Full Title:: The Crafty Art of Playmaking
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - The Greatest Story Never Told. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00URTM4JY&location=161))
+    - don’t reject an idea because it seems at first glance too slight. All ideas are precious, and who are we to be picky? Often a tiny idea can merely be waiting for other embryonic ideas to join it and then suddenly, lo and behold, there they are standing on each other’s shoulders, making one big idea. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00URTM4JY&location=162))
+    - Initial inspiration – that essential starting point – comes in all shapes and sizes. Years ago I had the tiniest idea for a situation wherein a young man would ask an older man whether he could marry his daughter. The twist was that the older man didn’t have a daughter. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00URTM4JY&location=177))
+    - But it isn’t only cost. In virtually every theatre department, economy often equals better art. The fewer the locations, the shorter the time frame, the fewer the characters, the less dialogue, the less scenery, the less everything, the better. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00URTM4JY&location=231))
+    - law of minimum, ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00URTM4JY&location=318))

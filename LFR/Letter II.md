@@ -1,0 +1,39 @@
+- letter::
+    - Status:: #PUBLISHED
+    - Published Date:: [[September 8th, 2020]]
+- Hello Roamans,
+- Welcome to my second letter. This could be another lengthy email, two weeks in the Roaman empire is a long time and there's lots of new things to discuss.
+- # Journaling with Roam
+    - There's been lots of interesting talk on Twitter around journaling in Roam, which I've touched on before,but most recently [[Brandon Toner]] has been noodling with the idea of [[atomic journaling]] and he discussed it at length in a video call with [[Tracy Winchell]]. It's well worth a watch.
+        - https://rebootspodcast.podia.com/members/posts/34662-inside-brandon-toner-s-roaman-journal
+    - It reminded me that I had collated a large number of [[Journaling Prompts]] when I started my own journaling journey a few years ago. I took the opportunity to import them into Roam to use and reference.
+    - Here's my [original blog post](https://elaptics.co.uk/journal/191-journaling-prompts/#using-the-prompts), which will take you straight to the section where I've made the Roam export available to download if you're interested.
+    - Feel free to send me questions you use in your own [[journaling]] practice too. I'll collate and curate them into a larger collection and I'll make them available.
+- # Around the Roaman Empire
+    - There's been a few quality of life improvements to Roam in the last couple of weeks, improvements to the calculator, more keyboard shortcuts, and you can now use the markdown header notation to format headings without needing to resort to making "claw-hands".
+    - I like to be able to keep my hands on the keyboard so I particularly appreciate the new shortcuts for moving up and down with `Ctrl-P` and `Ctrl-N`.
+    - There are some more additions to make blocks even more powerful. While we're talking shortcuts, shift-clicking a bullet will open it in the sidebar, and holding `Alt` (Windows) or `Option` (Mac) before you start dragging a bullet will copy reference the block only. This is different to how it was before, which copied all the nested blocks too. If you want this previous behaviour, you need to hold shift too.
+    - [[RoamStack]] released a [great blog post last Friday](https://www.roamstack.com/roam-block-reference-menu/) with a really detailed look at the new context menu items. Except the Roam team moves fast, and it's already a little out of date! They have snuck in another couple of menu items which are really handy.
+    - Under the __Replace With__ menu, there's a new **Original** menu item with two new sub-items:
+        - **Swap blocks only**
+            - This switches in place the block reference you clicked on with the original block it references.
+        - **Bring nested items along**
+            - This does what it suggests and brings any child blocks along with it.
+    - And finally, there's the new function which doesn't really have a proper name. For the purposes of now I'm going to call it the delta function, since the symbol used is ∆. It's a very beta feature, and it's not super intuitive right now, but it holds great promise for the future. Conor demonstrated it during the first European timezone-friendly Believers call yesterday with a few new embellishments from its release over the weekend.
+    - It is the key to enabling recurring tasks, a native spaced repetition system and potentially lots more in Roam. 
+    - The unassuming ∆ symbol you'll find in the right-click bullet menu is in essence a shorter cut to the two new sub-menu items above. When you choose this on a block it takes the block and moves it to the next day, and then replaces it with a block reference, and adds text with alias to the moved block. In the update yesterday, it now also adds an [[r/moved]] reference which means you can use it as a filter and shouldn't conflict with your own tags.
+    - This will only move the top level block. If there are child blocks that you want to see in the future (a typical use case is for flashcards) then you'll want to use the ∆... menu item that'll be available when there are child-blocks.
+    - Alternatively, you can use `Option-Enter` (Mac) or `Alt-Enter` (Windows) to move the top-level block or use `Shift-Option-Enter` `Shift-Alt-Enter` to move the block and its children into the future.
+    - It'll move the block one day forward by default. If you want more control you can create it manually using the syntax `{{[[∆]]:X+Y}}`. X and Y are how you specify the number of days to move forward (X) and the interval to jump next time.
+    - For example, you could create a task and set it to recur yearly using `365+0`. Weekly with `7+0` and daily with `1+0`.
+    - By default, it's set to a `1+2` schedule, which means that you'll see it tomorrow, and then 3 days later. [[Lukas Kawerau (@cortexfutura)]] has written up a short tutorial which guides you through a simple flashcard setup.
+    - The really cool idea here is [[Programmable Attention]], a way of guiding and managing your future attention. Right now, I'm experimenting with a daily prompt to respond to and using it in conjunction with [[Tracy Winchell]]'s [[NTMNDS]] (Notes To My Next Day Self) idea. I'll write a note to my future self on today's daily note page and then hit `Shift-Option-Enter` to push it to tomorrow's page.
+- # Thinking Out Loud
+    - Last time, I asked "Does the value of a note increase or decrease over time?" and I received several replies.
+    - Initially, and corroborated by others, I had been thinking in terms of calendar time, but I now also think that the number of references and mentions are useful metrics. One reader, [[Jim Stanczak]], also suggested the number of revisits could also be a factor, though right now I don't have a good sense of how that might be acheived in Roam except for adding references each day you touch it - though that would increase the number of references anyway.
+    - However, with the initial release of the new delta feature, if you were to use this to push the notes into the future, that would give you the timeline in the linked references.
+- ## Roamify everything
+    - With the recent release of Readwise's Roam sync and tools like https://the.rip for getting tweet threads into Roam I thought I should start a new trend, which is Roam-ready newsletters. (I also need to give a shout-out to [[C.J. Cavin]] who also wrote to me and suggested it).  So from now on for these letters, I'll include a Roam JSON export so you can import it easily. I'll have included a few of my own references but I'll strip most of them out so you can choose what you want to link. (And for the completionists among you, I've also included [[LFR/Letter I]] too).
+- Don't be a stranger, reply with your thoughts or Roam-related questions. I love having email conversations with you all.
+- Thanks for reading,
+- Andy

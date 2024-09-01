@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sam Mendes]]
+        - Writer:: [[Alan Ball]]
+        - Cast:: [[Kevin Spacey]] [[Annette Bening]] [[Thora Birch]]
+        - Year:: [[1999]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0169547
+    - **Plot Summary:** A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZDVmZTZkYjMtNmViZC00ODEzLTgwNDAtNmQ3OGQwOWY5YjFmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Howard Hawks]]
+        - Writer:: [[Charles Lederer]] [[Ben Hecht]] [[Charles MacArthur]]
+        - Cast:: [[Cary Grant]] [[Rosalind Russell]] [[Ralph Bellamy]]
+        - Year:: [[1940]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0032599
+    - **Plot Summary:** A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.

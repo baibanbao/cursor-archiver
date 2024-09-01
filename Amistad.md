@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BODFmYjRmMmItMzA1OS00YTJmLTlmZTItYzI4NjAzNzMzYjc5XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Steven Spielberg]]
+        - Writer:: [[David Franzoni]]
+        - Cast:: [[Djimon Hounsou]] [[Matthew McConaughey]] [[Anthony Hopkins]]
+        - Year:: [[1997]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0118607
+    - **Plot Summary:** In 1839, the revolt of Mende captives aboard a Spanish owned ship causes a major controversy in the United States when the ship is captured off the coast of Long Island. The courts must decide whether the Mende are slaves or legal...
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F5XU42uEg6Q.pdf?alt=media&token=ad11649b-38de-4fe2-bd8f-96466b3cb3a8}}

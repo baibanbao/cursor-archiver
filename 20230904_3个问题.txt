@@ -1,0 +1,7 @@
+﻿The Three Questions
+
+Why→Why do you choose to do this. What’s the intention behind this project
+
+What → What does it look when completed? How can you tell when you have finished it? What’s the minimal version of “done.”
+
+When → When will it be ready?

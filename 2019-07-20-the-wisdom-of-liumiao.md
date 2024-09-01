@@ -1,0 +1,5 @@
+- title: What Have Learnt From The Wisdom Of Liumiao
+- When we recorded podcast together, Liumiao told me his philosophy of work: 
+- >  THE SIMPLER, THE BETTER.
+- For example, I thought it would be better to record the programs and edit later. Miao said no. 
+- >  It would complicate the procedure. And when things become comlicated

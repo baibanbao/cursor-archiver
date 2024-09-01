@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Lasseter]]
+        - Writer:: [[John Lasseter]] [[Pete Docter]] [[Andrew Stanton]]
+        - Cast:: [[Tom Hanks]] [[Tim Allen]] [[Don Rickles]]
+        - Year:: [[1995]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt0114709
+    - **Plot Summary:** A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fo_cZdQkJIx.pdf?alt=media&token=a7a91522-7340-4aea-b62c-73a48e455465}}

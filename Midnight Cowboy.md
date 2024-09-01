@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNTgwZmIzMmYtZjE3Yy00NzgzLTgxNmUtNjlmZDlkMzlhOTJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Schlesinger]]
+        - Writer:: [[Waldo Salt]] [[James Leo Herlihy]]
+        - Cast:: [[Dustin Hoffman]] [[Jon Voight]] [[Sylvia Miles]]
+        - Year:: [[1969]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0064665
+    - **Plot Summary:** A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.

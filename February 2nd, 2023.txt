@@ -1,0 +1,48 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Date: [[February 2nd, 2023]] 11:00
+            - 赞美感谢
+                - 赞美感谢主，让我今天依然活着，让我的亲人们都健康地活着。
+            - 认罪悔改
+                - 求助赦免我的小心，灰心失望和不喜乐
+            - 祈求
+                - 求主医治我，搭救我的性命
+                - 求主供应所需 #[[Finance]]
+            - Tongues
+                - Set a Pomodoro
+- [[Day Start]] 11:00
+- Daily Tasks
+    - {{[[TODO]]}} 整理行李
+        - ## 出门前的准备清单
+        - [ ] 箱子内物品
+            - {{[[TODO]]}} [ ] 药物
+            - {{[[TODO]]}} [ ] 衣服
+            - {{[[TODO]]}} [ ] 电器
+            - {{[[TODO]]}} [ ] 书
+            - {{[[TODO]]}} [ ] 小物件
+        - [ ] 电脑包
+            - {{[[TODO]]}} [ ] M1笔记本
+            - {{[[TODO]]}} [ ] Intel笔记本
+            - {{[[TODO]]}} [ ] 充电宝
+        - [ ] 随身包
+            - {{[[TODO]]}} [ ] 身份证
+            - {{[[TODO]]}} [ ] 手机
+            - {{[[TODO]]}} [ ] 钥匙
+                - [ ] 打浦路的
+                - [ ] 临平的
+                - [ ] 车钥匙
+            - [ ] 本子
+            - {{[[TODO]]}} [ ] 笔
+            - {{[[TODO]]}} [ ] 元宝的红包
+        - [ ] 其他准备
+            - {{[[TODO]]}} [ ] 如果有可能，快递一些书回去。
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [NUKEMAP by Alex Wellerstein](https://nuclearsecrecy.com/nukemap/)
+    - [音乐散文旅行 | 思想之长河 | 欧阳京的博客 | Australia](https://neixian.wixsite.com/website)
+- ---

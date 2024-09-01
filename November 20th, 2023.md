@@ -1,0 +1,16 @@
+- [[120天日更营]]
+    - 第一组石墨
+        - https://shimo.im/file-invite/f5RgXGsmCm37CPSuuFensx8zR2B5/ Firefly 邀请您协作《好中文日更120天-第1组-记录表》，点击链接开始编辑
+- [[Gratitude]]
+- [[Day Start]] 15:43
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [Preservation for the Documentation of Chinese Christianity - Studium Biblicum OFM 華人基督宗教文獻保存計劃 - 思高聖經學會](https://sys02.lib.hkbu.edu.hk/libsca/pdcc/org/bhk05_sbofm_2.html)
+- ---

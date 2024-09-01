@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Francis Ford Coppola]]
+        - Writer:: [[John Milius]] [[Francis Ford Coppola]] [[Michael Herr]]
+        - Cast:: [[Martin Sheen]] [[Marlon Brando]] [[Robert Duvall]]
+        - Year:: [[1979]]
+        - Genre:: #Drama #Mystery #War
+    - **IMDb:** https://www.imdb.com/title/tt0078788
+    - **Plot Summary:** A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.

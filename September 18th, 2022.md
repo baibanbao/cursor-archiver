@@ -1,0 +1,48 @@
+- [[元中文]]确立
+    - [[Obsidian]] Publish网站开通
+        - 域名设置问题
+            - [Set up a custom domain - Obsidian Help](https://help.obsidian.md/Obsidian+Publish/Set+up+a+custom+domain#:~:text=In%20ribbon%2C%20to%20the%20left,to%20your%20domain%20or%20subdomain.)
+        - 目前网址
+            - 
+- [[Gratitude]]
+    - 感谢[[海波]]赠送 [[DoMemo]]兑换码
+        - 其语言输入功能是亮点
+            - 跟微信语音输入的区别是，语速需要更慢，需要口述标点符号。
+                - 更接近于对秘书口述，而不是直接说话
+    - 感谢[[潘佳佳]]邀请担任主日学青少年团契的老师
+    - 感谢那些为我们服务的志愿者
+    - 感谢#[[SLBC]]第1107次聚会
+- [[Day Start]] 00:06
+- Daily Tasks
+    - {{[[DONE]]}} 参加小区大筛
+    - {{[[TODO]]}} 下午参加#[[SLBC]]
+        - {{[[TODO]]}} 与[[潘佳佳]]见面谈10月份的主日学
+            - 打扰你啦，和谢老板沟通后，有个儿主的服侍想邀请你，我们打算从十月开启一个青少年团契，大概一个月两次周日下午1个小时左右的时间，现在在与合适的老师沟通阶段，不知道你愿不愿意
+    - {{[[TODO]]}} 照顾感冒发烧的 #[[Jonas]] #[[康健]]
+    - {{[[DONE]]}} 该暂时把#vim搁置一边了，浪费了我大量的时间，实在毫无必要。
+    - {{[[TODO]]}} 好中文第八期出文案
+    - {{[[TODO]]}} 暂时搁置其他软体的使用
+        - {{[[DONE]]}} 好中文wiki用obsidian建
+    - {{[[TODO]]}} 重新规划了数字应用
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+                - 三组快捷键解决战斗 #Tech #长青笔记 #[[Important]]
+                    - 第一组：`Option (Alt) + Command + Z ` 启动 [[CloverTextEdit]]
+                    - 第二组：`Option (Alt) + Command + . ` (右手三键) 启动 [[The Archive]]
+                    - 第三组：'Control + Command + Z'启动#[[Roam Research]]网页版
+                        - 第四组 'Control + Command + X' 启动Mac App版
+                - 因为有了快捷见的输入，从此不做他想，专心写作，唯独写作。
+                - 
+- [[Daily Reading]]
+    - [How to Launch an App Using a Keyboard Shortcut in MacOS](https://www.computerhope.com/issues/ch002051.htm)
+    - [Epstein victims angered by ‘public rehabilitation’ of Prince Andrew – media — RT World News](https://www.rt.com/news/563006-prince-andrew-epstein-victims/)
+    - [[Keyboard Maestro]]
+        - [如何一键打开 macOS 中的任何文件（以 Keyboard Maestro 为例） - #Untag](https://utgd.net/article/4988)
+        - [macOS 中的阿里阿德涅之线——Deep Link - #Untag](https://utgd.net/article/4972)
+        - [Keyboard Maestro Palette：macOS 上的全能工具箱 - #Untag](https://utgd.net/article/6915)
+        - 
+- ---

@@ -1,0 +1,17 @@
+﻿mkdir ~/Isso && cd ~/Isso
+nano docker-compose.yml
+
+# docker-compose.yml for Isso
+# copy and paste below and ctl + x save
+
+isso:
+  image: angristan/isso
+  ports:
+     - "8080:8080"
+  restart: unless-stopped
+  environment:
+    - GID=1000
+    - UID=1000
+  volumes:
+    - ./config:/config
+    - ./db:/db

@@ -1,0 +1,49 @@
+﻿
+
+The Economist explains
+How gender stereotypes are built into Mandarin
+Some characters with negative connotations have a female root
+
+Explaining the world, daily
+The Economist explains
+
+
+Sep 6th 2018
+BY S.D.
+
+Give this article
+GENDER bias in language is exercising Europe’s linguists. A French grammar book published last year ignited debates about an old grammatical rule that holds that masculine forms of words trump the feminine. In similar vein, Spanish politicians have proposed editing the constitution to include a reference to female workers (“workers” in the masculine, and therefore universal, form are already mentioned). And German grammarians are mulling an update to dictionaries to include new genderless versions of words. In China, however, the debate is rather quieter. Yet Mandarin—spoken by 70% of Chinese people—has gender bias, too. It shares some issues with other languages: female bosses, for example, are typically identified as such (eg, woman-boss), whereas male ones are not. But unlike some European tongues, Mandarin does not assign genders to nouns. It has a different—and inaudible—issue: some of its written characters ascribe negative stereotypes to women.
+
+Chinese characters are made up of smaller components, called radicals, that come in two forms. Phonetic radicals give clues about a character’s pronunciation; semantic ones give clues about its meaning. For example, the radical for “speech” (讠) is semantic and is found on the left side of characters associated with speech: “language” (语), “words” (话), “to request” (请), “to chat” (谈), “to thank” (谢) and so on. Chinese dictionaries are often sorted by radical, so these characters are listed together. Similarly, the Chinese radical for “woman” (女) is found in the characters for “mother” (妈), “sister” (姐), and “aunt” (姑).
+
+
+But the “woman” radical is also found in the characters and words for “jealousy” (妒), “suspicion” (嫌), “slave” (奴隶), “devil” (妖) and “rape” (强奸). It appears in some more positive instances, such as “good”（好）and “safety” (安), but even these characters rely on stereotypes: “good” depicts a woman next to a child, and “safety” is represented by a woman under a roof. The woman radical itself (女) is throught to derive from an image of a woman bending over with her hands clasped together. The word for man (男), by contrast, is made up of radicals meaning “field” (田) and “power” (力). Chinese grammar, especially word order, can also be said to favour men. The word for “parents” is “father and mother”, in that order; “children” is sometimes depicted as “son and daughter”. Most ironically, as one linguist has noted, the phrase for “gender equality” (男女平等) puts the male character before the female one.
+
+Progress is possible. In 2015 curators used the traditional character for illicit sexual relations (姦—three women radicals, one on top of two others, to suggest multiple affairs by a man) as the name of an exhibit on violence against women. A year later a group of female typographers published a book of characters that they had made up. One put the radicals for “walking” and “woman” together to convey the idea that women’s roles can be outside the home. Inventing new characters is rather easier than abolishing existing ones, though. China’s written language is a source of national pride, persisting despite the difficulty it imposes. Anyone who spends hours learning Chinese characters will also learn the stereotypes built into them.
+
+Correction (September 6th 2018): This article has been amended to make clear that the exhibition referred to in the final paragraph took its name from the traditional character representing illicit sexual relations
+
+
+
+经济学人》解释说
+性别定型观念是如何被植入普通话的
+一些具有负面含义的字符有一个女性根源
+
+解释世界，每天
+经济学人》解读
+
+
+2018年9月6日
+BY S.D.
+
+给这篇文章
+语言中的性别偏见正在锻炼欧洲的语言学家。去年出版的一本法国语法书引发了关于一条古老的语法规则的争论，该规则认为单词的阳性形式胜过阴性。同样，西班牙的政治家们提议编辑宪法，以包括对女性工人的提及（已经提到了阳性形式的 "工人"，因此也是普遍的）。而德国的语法学家正在酝酿更新字典，以纳入新的无性别版本的词汇。然而，在中国，这场辩论相当平静。然而，70%的中国人所讲的普通话也有性别偏见。它与其他语言有一些共同的问题：例如，女老板通常被认定为是女老板，而男老板则不是。但与一些欧洲语言不同的是，普通话不给名词分配性别。它有一个不同的问题，而且听不出来：它的一些书面文字对女性有负面的定型观念。
+
+汉字是由较小的部件组成的，称为部首，有两种形式。语音部首提供了关于一个字的发音的线索；语义部首提供了关于其含义的线索。例如，"言"（讠）是语义上的，在与言语有关的字的左边出现。如 "语"、"话"、"请"、"谈"、"谢 "等等。中文字典通常按部首排序，所以这些字被列在一起。同样，"女 "字的部首在 "妈"、"姐"、"姑 "的字里都有。
+
+
+但 "女 "字旁也出现在 "妒"、"嫌"、"奴"、"妖 "和 "强奸 "的字和词中。它出现在一些比较正面的例子中，如 "好 "和 "安"，但即使是这些人物也是依靠陈规定型。"好 "描绘的是一个孩子身边的女人，而 "安 "代表的是一个在屋顶下的女人。女 "字本身被认为是来自于一个双手合十、弯腰的女人的形象。相比之下，"男 "字是由表示 "田 "和 "力 "的偏旁组成的。中国的语法，特别是词序，也可以说是有利于男性。父母 "一词按顺序是 "父亲和母亲"；"孩子 "有时被描述为 "儿子和女儿"。最具讽刺意味的是，正如一位语言学家所指出的，"男女平等 "的短语将男性角色置于女性角色之前。
+
+进步是可能的。2015年，策展人用传统的非法性关系的字（姦--三个女性激进分子，一个在另两个上面，暗示一个男人的多次性行为）作为一个关于暴力侵害妇女的展览的名字。一年后，一群女性排版师出版了一本她们编造的字符书。其中一个人把 "行走 "和 "女人 "的偏旁部首放在一起，以表达妇女的角色可以在家庭之外的想法。不过，发明新字比废除现有的字更容易。中国的书面语言是民族自豪感的来源，尽管它带来了困难，但仍然存在。任何花几个小时学习汉字的人也会了解到汉字中的陈规陋习。
+
+更正（2018年9月6日）。本文已被修正，以明确最后一段中提到的展览的名字来自于代表非法性关系的传统文字

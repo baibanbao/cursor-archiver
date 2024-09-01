@@ -1,0 +1,7 @@
+- Author:: [[Proudly published with FarBox！]]
+- Full Title:: 日更d5 《满觉陇——满心欢喜、飞鸟集》
+- URL:: https://haozhongwen.app/post/up/oz454jvuulmrq5jjpwin83qiqxey/2023-12-02
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 友人们一直住飞鸟集，303房是最常订的一间，阳台上可一览山林群鸟。我们也坐屋内、或树下喝茶谈天，顶大如伞的枝叶保护着人们。在飞鸟集住宿、喝茶，在老虎家吃私房美味，时光轮转中这些一度不变。一只流浪猫常呆在飞鸟集，接受店主的收留和喂养，久而久之便成为了店猫，不过偶尔还是会流浪出走，一连几天不着家门。后来，别人抬高租价，飞鸟集被迫搬到旁边的二层小楼，窗外景色依然耐赏，咖啡甜点向来精致，我们的故事继续生长，只是流浪猫已经永远地离开了。

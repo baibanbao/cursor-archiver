@@ -1,0 +1,7 @@
+# 翻译不能望文生义
+
+tags = #translation #gc4 
+
+例如，有些译者一见到foreign minister 就译 「外交部长」。其实通常只有共和制国家才称「外交部长」，君主制国家叫「外交大臣」， 日本就称「外相」，南韩就称「外务部长官」。
+
+再如，有些译者想当然把英国空军 Air Marshcal 译为「空军元帅」。其实英国的 Air Marshcal 是「空军中将」，Marshal of the Royal Air Force 才是「空军元帅」。还 有，有译者吧 Air Chief Marshal 译成「空军主帅」，这也是不对的，应译「空军上 将」。

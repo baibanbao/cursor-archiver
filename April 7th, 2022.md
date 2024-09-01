@@ -1,0 +1,6 @@
+- [[Work]]
+    - 一篇愚蠢的文章
+        - [王怡、王志勇等打着“三化异象”是在利用基督教搞政治（杨雅各） – 青草](https://grassgreenlee.com/2019/12/31/threevisions/)
+    - [[todos123]]
+        - {{[[TODO]]}} 01:56 30 
+    - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F7-W7mAxfTH.png?alt=media&token=1eb1279a-b779-4ad0-a747-b090bc969890)

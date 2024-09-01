@@ -1,0 +1,62 @@
+- #[[Prayers&Answers]]
+    - Date: [[November 7th, 2022]] 11:15
+        - 赞美感谢
+            - 赞美主的拯救与护理
+            - 感谢神医治了我的[[岳父]]，他已经可以喝水，这是一个不小的进步
+        - 认罪悔改
+            - 为了自己的信心软弱
+            - 为了自己没有爱弟兄姊妹
+            - 为了自己的脾气暴躁
+        - 祈求
+            - 隔离期间平安的生活，求主保护好我们，保持住我们的健康
+            - 为了[[岳父]]继续祷告，求助继续医治和拯救
+            - 为了[[岳母]]的健康
+            - 为了#[[Seven]]的辛劳，求主保护好她，使她身心健康，并且能够相信福音
+            - 为了#[[Jonas]]
+            - 为了#[[SLBC]]新加入的成员们祷告
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 2}}
+- [[Gratitude]]
+    - 感谢[[蓝风]]分析新加坡小学试卷
+    - 感谢[[邓俊霞]]姊妹的信任，拿出剧本让我提意见
+    - 感谢[[居家隔离]]期间提供垃圾收集服务的物业清洁工
+    - 感谢物流与快递
+    - 感谢互联网提供的便利
+- [[Day Start]] 11:15
+- Daily Tasks
+    - {{[[DONE]]}} 开笔
+    - {{[[TODO]]}} 准备明天书法模拟考的东西
+    - {{[[DONE]]}} 通知[[每个月第二个礼拜二的退修课]]延期
+    - {{[[TODO]]}} 在家等待PCR
+        - {{[[DONE]]}} 外出做了pcr
+    - {{[[TODO]]}} 整理NAS的Roam Research BASE硬盘内容
+    - {{[[TODO]]}} 好中文第八期筹备
+    - {{[[TODO]]}} 更新秘密博客
+    - {{[[DONE]]}} 继续读[[高数笔谈]] #高数
+    - {{[[DONE]]}} 做好每一顿饭
+    - {{[[DONE]]}} 洗衣服
+    - {{[[TODO]]}} 洗碗
+    - {{[[TODO]]}} 与#[[Jonas]]一起锻炼
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [八美图 (豆瓣)](https://movie.douban.com/subject/1299292/)
+        - [8 Women Script - transcript from the screenplay and/or François Ozon movie starring Ludivine Sagnier and Virginie Ledoyen](http://www.script-o-rama.com/movie_scripts/e/8-women-script-transcript-femmes.html)
+    - [流水账｜一次戏剧化的封控未满 – Tim与Nikki的小站](https://timandnikki.me/2022/11/07/quarantine-based-on-nothing/)
+    - [(5) 【720P 高清修復】《狼山喋血記/The Wolf Hill》1936年-野狼肆虐，衝進屋子咬死孩子-評論界反響熱烈的上世紀佳片，其中許多情節寓意惹人深思 - YouTube](https://www.youtube.com/watch?v=KY7oQft1js8)
+    - #高数
+        - [泰勒级数 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%E7%BA%A7%E6%95%B0) #高数
+        - [微積分 (非理工科) - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S121/19)
+            - 这个十分好看，看得我嘴角上扬，由衷发出微笑。
+            - 板书的魅力，心智的速度
+            - 高等数学原来如此的美，可惜我年轻的时候不知道
+        - [微積分一 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S115/28)
+        - [微積分二 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S210)
+        - [高等微積分 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S130)
+        - [微積分 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S111)
+- ---

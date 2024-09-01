@@ -1,0 +1,43 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+        - 赞美上帝神奇的拯救，把我从狮子口中抢救出来。在经历了莫名其妙的跌倒之后，我感到自己的属灵生活存在大问题。并不是眼前有什么现实的诱惑，仅仅是自己思想中的想象就可以把自己弄得五迷三道。太不可思议了。
+    - 认罪悔改
+        - 彻底认罪悔改，求主怜悯，不要再相信魔鬼的谎言。不要再陷入可怕的黑暗。
+    - 祈求代求
+        - 为[[刘淼]]抢救及时感恩，为早日康复祈求
+    - Depth 
+        - 至少 {{[[POMO]]: 5}}
+- [[Day Start]] 10:08
+- Daily Tasks
+    - {{[[TODO]]}} 陪儿子玩
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **10:08** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [But what is a GPT? Visual intro to Transformers | Chapter 5, Deep Learning - YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M)
+    - 
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[爱与中文]]
+- [[写作GPTs]]
+- [[两句半]]
+- #[[Seven]]
+- #Jonas 
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+        - 每天强迫自己学习一段
+            - [比特幣歷史上的七個瘋狂時刻－ BBC News 中文 - YouTube](https://www.youtube.com/watch?v=LBif-4B28WA)
+        - 10:17 
+            - 914.33 GOLD
+                - 世界上最不靠谱的东西，甚至连投资都不算，仅仅过了不到一周，每一个大饼失去了80克黄金的金价，波动实在太大，太不靠谱了。
+- ---

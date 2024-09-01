@@ -1,0 +1,30 @@
+﻿三种日更方式
+
+一、微信更新
+
+网站： haozhongwen.app
+
+需要微信绑定。
+
+更新查看
+
+https://haozhongwen.app/archive
+
+二、email更新
+
+网站：haozhongwen.net
+
+更新方式：向 haozhongwen@bitcron.com 发邮件
+
+更新查看
+
+https://haozhongwen.net/
+
+三、第三方更新
+
+更新方式和存储不限
+
+进度放到石墨
+
+石墨模板
+

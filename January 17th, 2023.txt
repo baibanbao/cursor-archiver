@@ -1,0 +1,34 @@
+- #[[Prayers&Answers]]
+    - Date: [[January 17th, 2023]] 13:05
+        - 赞美感谢
+            - 感谢主每时每刻的看顾，改造我的内心，让我从一个苦毒之人，变成一个内心柔软，时刻内省的人。
+            - 赞美主的创造，主的护理，主的看顾
+        - 认罪悔改
+            - 为自己的内心的冷漠
+            - 为自己违反十诫
+            - 为自己在嘴唇上没有荣耀主
+            - 为自己的懒惰
+        - 祈求
+            - 求主看顾我的舅舅，舅妈，使他们能够尽快康复
+            - 求主看顾我的婶子和叔叔
+            - 求主医治[[Grace]] 
+            - 求主使我能够找到工作的节奏和感觉
+        - Tongues
+            - Set a Pomodoro
+- [[Gratitude]]
+- [[Day Start]] 13:05
+- Daily Tasks
+    - {{[[TODO]]}} 研究工作平台迁移到[[Notion]]
+    - {{[[TODO]]}} 安稳度过这段时间，不惹是非，禁止自己的口
+    - {{[[TODO]]}} 多喝水
+    - {{[[TODO]]}} 少吃碳水
+    - {{[[TODO]]}} 不喝可乐
+- --
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 
+- ---

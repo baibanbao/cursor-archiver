@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Alfonso Cuarón]]
+        - Writer:: [[Alfonso Cuarón]] [[Jonás Cuarón]]
+        - Cast:: [[Sandra Bullock]] [[George Clooney]] [[Ed Harris]]
+        - Year:: [[2013]]
+        - Genre:: #Sci-Fi #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt1454468
+    - **Plot Summary:** Two astronauts work together to survive after an accident leaves them stranded in space.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FEzGTtSVafL.pdf?alt=media&token=0403d43e-8284-4620-b5a7-c3260f11560f}}

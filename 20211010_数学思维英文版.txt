@@ -1,0 +1,927 @@
+﻿Mathematical habits of thought and action which would be of use to non-mathematicians
+
+Asked 10 years, 1 month ago
+
+Active 1 year ago
+
+Viewed 17k times
+
+105
+
+74
+
+Once again I come to MO for help with something I'm writing for the public.
+
+Which habits of mathematicians -- aspects of the way we approach problems, the way we argue, the way we function as a community, the way we decide on our goals, whatever -- would you recommend that non-mathematicians adopt, at least in certain contexts?
+
+In other words: if you can imagine a situation in which someone came to you for advice, and you said, "Look, I think you should be a little more like a mathematician about this and...." what would be the end of the sentence?
+
+soft-question
+
+ho.history-overview
+
+gm.general-mathematics
+
+math-communication
+
+sociology-of-math
+
+Share
+
+Cite
+
+Improve this question
+
+Follow
+
+edited Mar 21 '15 at 1:26
+
+community wiki
+
+3 revs, 3 users 100%
+
+JSE
+
+122
+
+Sort authors alphabetically! –
+
+Mariano Suárez-Álvarez
+
+Sep 7 '11 at 3:48
+
+77
+
+Recognize the lack of definitions. That's the really big one I can think of. Also, we are a far more supportive bunch than most other academic communities - but I'm not sure that's the type of answer you're looking for. –
+
+James D. Taylor
+
+Sep 7 '11 at 3:53
+
+27
+
+"more suppportive bunch" is actually good -- I think mathematicians are very good at disagreeing with each other in a productive way. –
+
+JSE
+
+Sep 7 '11 at 4:03
+
+23
+
+Most people would definitely not be receptive to a sentence that starts with "you should be a little more like a mathematician about this...". Just present the recommended habit and why it is worth considering and drop that it's one that mathematicians use. –
+
+KConrad
+
+Sep 7 '11 at 12:05
+
+30
+
+Please see the following meta post if you want to debate whether or not this question should stay open. Please upvote this comment so it appears above the fold: tea.mathoverflow.net/discussion/1132/a-pair-of-questions/… –
+
+David White
+
+Sep 7 '11 at 15:00
+
+Show 11 more comments
+
+20 Answers
+
+169
+
+In my experience, mathematicians will frequently argue (in general, not just in mathematics) by passing to an extreme case at the beginning. Non-mathematicians (again in my experience) sometimes object to such a mode of argument as invalid or irrelevant because such extreme hypotheticals are clearly unrealistic.
+
+I think that the mathematical idea of first setting all the parameters to their maximal, or minimal, values, and understanding that case, before trying to tune them to a more realistic choice of values (and seeing how the solution/context changes with the parameters) can sometimes be valuable (even though it involves as a first step considering a situation that may be very unrealistic).
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 7 '11 at 4:14
+
+community wiki
+
+Emerton
+
+28
+
+I think this is an extension of being able to recognize definitions, or lack thereof. Going to extremes sets the parameters of the definitions in discussion. –
+
+James D. Taylor
+
+Sep 7 '11 at 4:41
+
+13
+
+I've definitely done this in my non-academic job, and it surprises me that no one else thought to consider such situations (and it wasn't necessarily an extreme hypothetical). –
+
+David Roberts
+
+Sep 7 '11 at 5:27
+
+17
+
++1. Yes!; well-articulated. I do this all the time when talking with my girlfriend and she nearly always argues that the extremity of my example makes it invalid and irrelevant to the discussion, whereas I see the extremity as potentially highlighting the salient points of the general case. –
+
+Spencer
+
+Sep 7 '11 at 14:33
+
+24
+
+Actually,In areas outside mathematics, passing to extreme cases first and considering unrealistic situations is a habit of thought and action which is more often damaging than useful. –
+
+Gil Kalai
+
+Sep 8 '11 at 6:21
+
+29
+
+The Monty Hall problem is a good litmus test in this regard. Resolving that problem by using an extreme case (1,000,000 doors!) to illustrate the main issue tends to be convincing if and only if one has had exposure to mathematical thinking. –
+
+Terry Tao
+
+Sep 10 '11 at 5:49
+
+Show 12 more comments
+
+138
+
+Since people seem to be pussyfooting around the obvious:
+
+(source: utexas.edu)
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Mar 17 '19 at 11:12
+
+community wiki
+
+4 revs, 2 users 70%
+
+Felipe Voloch
+
+68
+
+I never thought I would see the day LOLCats will appear on MathOverflow! –
+
+Asaf Karagila
+
+♦
+
+Sep 7 '11 at 12:32
+
+16
+
+I agree with the spirit of this response, but I can't help but think that its very unclear what, exactly, would constitute a "proof" in a nonmathematical context. –
+
+alex
+
+Sep 7 '11 at 16:40
+
+54
+
+Why so surprised? In the long run everything on the internet will be pictures of cats. –
+
+Noah Snyder
+
+Sep 7 '11 at 19:00
+
+46
+
+I can uses teh axiom of choice? –
+
+J.J. Green
+
+Sep 7 '11 at 19:27
+
+18
+
+Actually, in the long run everything on the internet will be pictures of cats that look like Hitler. –
+
+Michael Thaddeus
+
+Sep 9 '11 at 15:36
+
+Show 2 more comments
+
+86
+
+Here are some that came to mind:
+
+Equivalence. Basically, the idea that two things can be functionally equivalent (or close to equivalent) even if they look very different (and conversely, that two things can be superficially similar but functionally quite distinct). For instance, paying off a credit card at 10% is equivalent (as a first approximation, at least) to investing that money with a guaranteed 10% rate; once one sees this, it becomes obvious why one should be prioritising paying off high-interest credit card debt ahead of other, lower-interest, debt reduction or investments (assuming one has no immediate cash flow or credit issues, of course). Not understanding this type of equivalence can lead to real-world consequences: for instance, in the US there is a substantial political distinction between a tax credit for some group of taxpayers and a government subsidy to those same group of taxpayers, even though they are almost completely equivalent from a mathematical perspective. Conversely, the mistaking of superficial similarity for functional equivalence can lead to quite inaccurate statements, e.g. "Social Security is a Ponzi scheme".
+
+Counterfactual thinking. The ability to take a counterfactual hypothesis and deduce consequences from it (or, in some cases, absurdity) is common in mathematics (and in a few other disciplines, such as law or fictional writing) but not always among the general public. For instance, to provide evidence of a claim such as "A always leads to B", it is not enough to produce examples in which A and B both hold; one has to show that the counterfactual situation in which A holds and B fails is necessarily either impossible or implausible. Or for a more mundane example: to get a true sense of how impressive it is that, say, your daily horoscope seems to be eerily accurate, one should analyse the plausibility of a counterfactual situation in which the type of statements one typically receives in a horoscope turns out to be clearly inaccurate.
+
+Quantification. Cost-benefit analysis is basically impossible to do right unless one has at least a rough order of magnitude for each of the costs and benefits. With only a qualitative understanding of the costs and benefits, one may end up expending far too much time and money to avoid a tiny amount of risk or cost, or conversely skimping on a negligible expense which would protect against a high-probability catastrophic event in the future. Also, because one cannot easily adjudicate between costs and benefits when one has a qualitative mindset instead of a quantitative one, there is a psychological incentive to "simplify" the problem by downplaying or ignoring the costs of actions that one wishes to take, while downplaying or ignoring the benefits of actions that one wishes to avoid.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 9 '11 at 18:10
+
+community wiki
+
+Terry Tao
+
+2
+
+Nice answer, but I think your horoscope example belongs in your qualitative vs. quantitative section. –
+
+horse with no name
+
+Feb 27 '13 at 12:48
+
+Add a comment
+
+77
+
+be self-critical. Recognize that constantly questioning one's own arguments, and those of authority figures, far from being corrosive or disrespectful, is the best way to strengthen those arguments.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 7 '11 at 4:18
+
+community wiki
+
+2 revisions
+
+24
+
+I am not convinced that this (good) habit is peculiar to mathematicians. –
+
+Yemon Choi
+
+Sep 8 '11 at 1:12
+
+1
+
+very well said. –
+
+Not Mike
+
+Sep 8 '11 at 1:32
+
+11
+
+Having rather precise standards for "proofs" self-criticality is much less characteristic to mathematics compared to other areas. –
+
+Gil Kalai
+
+Sep 8 '11 at 6:23
+
+there are actually some fields of mathematics in which different teams are skeptical about each other's methods, I think. Math is done by reference to authority there. –
+
+user138661
+
+May 19 '19 at 14:01
+
+Add a comment
+
+73
+
+This is really just an extension of James D. Taylor's comment on the question, but recognizing the value of definitions, and the inherent ambiguity without them, is ridiculously helpful.
+
+Define your terms!
+
+I recently saw a talk on how to teach students to write mathematics well. The advice "think like a lawyer" was given, which I totally agree with when writing mathematics. Anyone here who has read a quality legal document will know the similarities which this analogy is getting at. Both mathematicians and lawyers define their terms clearly at the beginning (of a debate/proof/court case) in order to eliminate as much ambiguity as possible from the words being used.
+
+This is a great skill to have in order to cut through the BS in lots of other situations. E.g. Time and time again you see opinion pieces in which writer has no real point, but just trivially exploits the lack of a definition for a certain word. This really annoys me. Or you can be much better at seeing when an argument is a genuine difference of opinion or just a confusion arising from two people having different definitions.
+
+If you take this too far, you end up as a bit of nihilist in that respect though: There's nothing to argue about because either people have different opinions (and there will always be people with different opinions) or people have different definitions... and arguments end trivially and inconclusively (I know I've done this many times to end boring arguments:) "If we accept your definition of [e.g.] feminism, then you're right and if we accept mine, then I'm right". (I suppose seeing to the core of an argument like this is similar to David White's first point).
+
+On the other hand, you can debate quite freely things you have no clue about, just by deciding on a few axioms/vaguely reasonable assumptions and working from the definitions! (this is sort of the skill of debating competitions).
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 7 '11 at 21:34
+
+community wiki
+
+2 revisions, 2 users
+
+Spencer 91%
+
+Add a comment
+
+51
+
+Keep in mind that it is easy to make mistakes.
+
+The most striking thing I learned from doing mathematics is that even in an environment entirely devoid of ambiguities and characterized by precise axiomatic constraints to the point that it became synonymous with it, even when I am doing my absolute best to be completely careful and precise, even when I double check each of my words, then show it to two careful colleagues, then let it simmer for a while, then go through it again with a critical eye, then show it to an authority in the field, then re-read it again; even after this excruciating process of constant self-examination, even after the strength of my arguments has confounded (perhaps in the two meanings of the word) my utmost critical self as well as the objections of several knowledgeable observers, I know that dozens of mistakes, inaccuracies and outright errors still remain.
+
+Doing math is certainly not the only way to come to this bitter conclusion - simply interacting with people is usually enough, as Philipp Roth once famously remarked - yet I can't help to shudder when I sometimes contemplate how many things I must be getting completely and obviously wrong whenever I am outside my tiny bubble of professional rigour, where a prompt and witty remark is more than often enough to obtain general assent.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 15 '20 at 9:10
+
+community wiki
+
+3 revs
+
+Olivier
+
+Apropos, see math.vt.edu/people/day/advice/YMN4_25.html Lesson # 6 of "Ten lessons I wish I had been taught" by Gian-Carlo Rota. –
+
+Tom Copeland
+
+Apr 7 '14 at 2:44
+
+Add a comment
+
+36
+
+Reduce the clutter in a discussion: I'm not saying everyone should abstract everything away, but I've found mathematicians have a knack for seeing what is pertinent to the discussion and putting the other things aside for the time being. I see this particularly on university committees, where mathematicians seem to be the best at both getting things done and getting near optimal solutions. All over the world we see parties in a discussion holding grudges and settling into opposing camps based on historical disagreements. I see the same behavior on university committees but mathematicians seem to be better about ignoring the disagreements of last week and focusing solely on the problem at hand.
+
+In a similar vein, mathematicians seem to be able to take positive action quickly in these discussions rather than getting disheartened by the difficulty of the problem at hand. I suspect this is because we train ourselves to build theorems out of lemmas and to see the whole structure of a proof before starting. So I suppose this point is more about making an outline or plan of attack (and many fields train you to do this), but we seem particularly good at it because we do such problem-solving for a living and we know how to break a problem down into easier pieces.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 7 '11 at 12:37
+
+community wiki
+
+David White
+
+2
+
++1 for "we know how to break a problem down into easier pieces." –
+
+Joel Reyes Noche
+
+Sep 8 '11 at 0:27
+
+1
+
+I'm quite convinced of the strategy of breaking problems down to easier pieces, in particular breaking down dissent to easier pieces, to really see where opinions differ. But in practice the willingness of my discussion partners to do this, seems rather limited ;). –
+
+Lennart Meier
+
+Sep 15 '20 at 9:24
+
+Add a comment
+
+31
+
+I recently talked to a friend of mine about this. She has a PhD in Mathematics and works in the software industry. In Math it is a common practice that you present a proof to your colleagues and discuss it with them. In her company she suggested a similar approach for pieces of software that people have written. Her colleagues, who were mainly trained in Computer Science and in particular not at a university but rather at a technical school, found this completely unacceptable, since they were not ready to face the possibility of being somewhat publicly criticised.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 7 '11 at 18:26
+
+community wiki
+
+2 revisions
+
+16
+
+Since you are a mathematician, you won't mind if I publicly criticize (or even criticise) your spelling. –
+
+Gerry Myerson
+
+Sep 7 '11 at 13:11
+
+9
+
+I believe peer-review of code has been recognized as best-practice. I don't know how widely implemented it is, though. –
+
+Thierry Zell
+
+Sep 7 '11 at 14:37
+
+2
+
+@Gerry Myerson: Indeed, I don't mind so much and I am only slightly embarrassed. I edited it. –
+
+Stefan Geschke
+
+Sep 7 '11 at 18:29
+
+4
+
+[@Gerry: I spell criticise with an s. Perhaps it's a UK/US thing? ] –
+
+Kevin Buzzard
+
+Sep 7 '11 at 21:48
+
+6
+
+@Kevin Buzzard: The typo was more embarrassing than that. –
+
+Stefan Geschke
+
+Sep 7 '11 at 22:06
+
+Show 1 more comment
+
+24
+
+Mathematicians understand that a lack of evidence is not the same as a proof of non-existence.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 20 '11 at 5:24
+
+community wiki
+
+Joel Reyes Noche
+
+10
+
+Donald Rumsfeld (nato.int/docu/speech/2002/s020606g.htm) said, "absence of evidence is not evidence of absence." –
+
+Gerry Myerson
+
+Jun 27 '13 at 1:34
+
+quoting Carl Sagan from 1995, p213 of "The Demon-Haunted World". –
+
+Allen Knutson
+
+Oct 5 '15 at 2:35
+
+Add a comment
+
+22
+
+This is a sort of anti-answer. When the Unabomber Manifesto was published by the NYT, someone in sci.math (or sci.math.research) recognised the reasoning as being like that of a mathematician. I don't know if anyone mentioned that to the FBI. It eventually turned out that the unabomber was indeed a mathematician. Btw, I was just in the next room when one of his bombs exploded.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 8 '11 at 5:58
+
+community wiki
+
+Brendan McKay
+
+32
+
+I think it should be checked whether someone in sci.physics "recognised" the reasoning as being like that of a physicist, someone in sci.computer.science "recognised" it as being like that of a computer scientist, &c. –
+
+Jonathan Chiche
+
+Sep 9 '11 at 19:57
+
+1
+
+Wow, Brendan, I didn't know that! –
+
+Manya
+
+Oct 23 '13 at 13:39
+
+4
+
+@JonathanChiche That's an answer in itself. Reminiscent of the Wason Test: en.wikipedia.org/wiki/Wason_selection_task –
+
+Dan Piponi
+
+Jan 24 '14 at 5:19
+
+Add a comment
+
+20
+
+Questioning assumptions is one aspect of mathematical endeavour that is useful in other areas of society to improve or understand why things are the way they are, or change to how they might be. Having faith in logic and one's conclusions is also useful, and is often used in diagnosing problems and finding what are root causes of certain situations, or solutions to certain problems.
+
+Another aspect which may be omnipresent outside of mathematics and which mathematicians and others alike would do well to use is multiple perspective. Being able to process several views of a situation often leads to an increase in understanding, an abillity to modify, and possibly achieve an outcome which is desired in many of the viewpoints.
+
+And, of course, trying to communicate well the particular sequence of ideas requires a well-timed orchestration of abstraction, generalization, specialization, and shifting of viewpoints. However, it might be even better to relate such information by telling a story ("You mean my English literature class applies to real life?").
+
+Gerhard "Yes, It Really Does Apply" Paseman, 2011.09.06
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 7 '11 at 5:32
+
+community wiki
+
+Gerhard Paseman
+
+7
+
+I agree completely with "questioning assumptions...to improve or understand." It's amazing how many times I get into discussions, even with very smart people, where hidden assumptions (and lack of good definitions) are all over the place. Sadly, questioning such things--even for the right reasons--is usually taken as criticism and ironically this prevents us from reaching an improvement or shared understanding. I wonder if this negative reinforcement ever stops mathematicians from questioning assumptions in this way, at least in everyday conversation. –
+
+David White
+
+Sep 7 '11 at 13:25
+
+Add a comment
+
+15
+
+Edit: I have taken away my comments comparing my experience in mathematics and math ed departments. I still think there is something true about the kind of character that emerges from working on hard problems which demand a certain kind of rigor, and I also think there is something special (and not known to the general public) about the strong social bonds that exist in the mathematical community, but I don't think that one needs to contrast math and math ed groups to make that point.
+
+My short answer (to which Gil alludes below) was: Persistence and humility.
+
+Though I'm not sure this applies only to mathematicians, but in general to people who work on hard, and perhaps in some ways technical, problems.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 8 '11 at 7:22
+
+community wiki
+
+4 revisions
+
+I wonder if (2) and (3) might have to do with funding. I've never been in a department in any other science but I imagine physicists, chemists, etc need to compete for funding for their labs. –
+
+David White
+
+Sep 7 '11 at 13:27
+
+1
+
+Manya: You are just listing some of your personal experiences. It's anecdotal. No all math departments are as the one you describe. Not all math ed departments are as the one you describe... –
+
+André Henriques
+
+Sep 7 '11 at 14:34
+
+8
+
+I think Manya makes that extremely clear with phrases like "my math colleagues" and "groups I have been with". –
+
+Allen Knutson
+
+Sep 7 '11 at 15:48
+
+Thank you, Allen. But I think André has a point. Actually I had come back to this site in order to remove this comment because I wasn't sure these observations generalized, not even completely from my experience. –
+
+Manya
+
+Sep 7 '11 at 20:09
+
+Add a comment
+
+15
+
+Some habits of thoughts in mathematics which are useful outside mathematics are:
+
+Quantitative thinking - Often it is very important to understand quantitative aspects of an issue.
+
+Logical thinking - Mathematics is a very clear platform for precise logical thinking.
+
+Computational thinking - Often we need to make some computations, to write some formulas and manipulate them, in order to address an issue
+
+probabilistic thinking - The ability to think about luck, chance, risks and decisions in probabilistic terms and to draw insights from probability theory is important in many areas
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Sep 8 '11 at 8:42
+
+community wiki
+
+2 revisions
+
+1
+
++1 for Probabilistic Thinking. Certainly understanding risk and expected value help when making decisions. I've also found subtler uses of probability coming up in my thinking, e.g. my ability to accept uncertainty in general and react accordingly, how much time to devote to unlikely possibilities, etc. I feel like my philosophical thinking changed after I learned basic probability theory, but it was so long ago that I can't quite explain what I mean. I wonder if others had a similar reaction. I'll post another comment if I think of a good way to put this in words. –
+
+David White
+
+Sep 8 '11 at 13:36
+
+Add a comment
+
+7
+
+If you have an idea that you think or hope might be true, then don't just look for reasons to believe it. (It is amazing how strong and how wrong is this instinct.) Look for reasons that your idea might be wrong. If it is wrong, you will save yourself a lot of time and possible embarrassment. If it is right, you will learn a lot about why and have probably found some new reasons to believe it anyway.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Mar 21 '15 at 16:06
+
+community wiki
+
+usul
+
+1
+
+This is actually the best formulation that generalizes and sums up a lot from all the other answers. But I think it applies to all scientists, not just mathematics. –
+
+Tomáš Zato - Reinstate Monica
+
+Jan 26 '17 at 9:22
+
+Add a comment
+
+6
+
+The Australian writer Clive James, after several decades of experience, came to the conclusion that "Writing is essentially a matter of saying things in the right order" (see his Unreliable Memoirs, p. 162). Mathematicians have a head start on writers in this respect, because we have to say things in the right order from day one!
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 7 '11 at 15:49
+
+community wiki
+
+John Stillwell
+
+6
+
+Yes. Even in the 21st century, all known languages are not commutative. –
+
+Dror Speiser
+
+Sep 7 '11 at 16:01
+
+10
+
+I hear there's even a tribe somewhere whose language is a Moufang loop... –
+
+Mariano Suárez-Álvarez
+
+Sep 7 '11 at 16:04
+
+12
+
+Latin is kinda commutative, though. Incidentally, it has always stricken me as peculiar that languages seem to evolve in the direction complicated => simple, rather than the other way round like everything else. Just after we invented fire and the wheel, there must've been a genius somewhere who invented a zillion of cases, declensions and verb tenses. Must've been either the aliens or Atlantis. –
+
+Federico Poloni
+
+Sep 7 '11 at 19:55
+
+Add a comment
+
+6
+
+Habits of thought (or unthought): I've encountered people who have difficulty grasping the concept of a necessary but not sufficient condition. Cheaters (say, in a relationship) sometimes believe being honest about (confessing to) their "mistake" is sufficient to re-establish intimacy or obtain forgiveness. Can't grasp the concept that honesty is a necessary but not necessarily sufficient condition for those goals. A lawyer I talked to said many of her clients have had trouble with grasping the distinction. Guess it comes from a self-centered view of negotiation--"I gave you this, so you must give me that." You can hear Logic staggering on down the street with his good buddies Abstraction and Objectivity (examining a problem from different viewpoints)--the same people will split hairs to explain why what they felt good doing was indeed good and what you do that makes them feel bad is indeed bad.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Jan 18 '14 at 3:03
+
+community wiki
+
+Tom Copeland
+
+I actually find it astonishing how often I see the phrase "this is necessary but not sufficient" used by non-mathematicians in, e.g., the New York Times. It's rather heartening. –
+
+Allen Knutson
+
+Oct 5 '15 at 2:36
+
+@AllenKnutson, well, I think for for the media/celebrity culture everything is necessary but not sufficient when it comes to the actions of others (not themselves, of course)--controversy sells. –
+
+Tom Copeland
+
+Oct 5 '15 at 22:47
+
+Add a comment
+
+4
+
+Keith Dakin, who got his PhD at Bangor in the 1970s, on higher groupoids, wrote to me from his job in industry:" We can get all the computer scientists we want, but a mathematician who can say which areas of mathematics are appropriate to the problem at hand is worth his/her weight in gold!"
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Jun 26 '13 at 14:26
+
+community wiki
+
+Ronnie Brown
+
+So as a mathematician, I should be paid more if I get fatter? See the recent Dilbert strips: dilbert.com/series/63 –
+
+Zsbán Ambrus
+
+Mar 21 '15 at 17:55
+
+Add a comment
+
+2
+
+Think in a precise context, get an idea geometrically/globally and check your idea logically with a rigor without any concession.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered Sep 7 '11 at 21:02
+
+community wiki
+
+Louis
+
+4
+
+What does it mean to get an idea geometrically in a non-mathematical setting? –
+
+LSpice
+
+Sep 8 '11 at 14:53
+
+Add a comment
+
+1
+
+Don't be a puss! (A rejoinder to Skeptic Cat)
+
+On a personal level: Hmm, guilty until proven innocent or innocent until proven guilty? Demanding 'proof of innocence' frequently in a relationship is incredibly corrosive, not to mention time-consuming and emotionally draining. In fact, I would argue that without trust there is no real relationship. So, proof of what and by whom? And what constitutes a proof (as Alex notes)--news reports, gossip?
+
+In mathematics: How often does a mathematician confirm the truth of theorems he uses? Don't most wait for apparent inconsistencies or other inadequacies to appear before closely examining a mathematical edifice skeptically? And even then, don't most mathematicians trust the 'authorities' in the field to resolve the problem?
+
+In some sense, a belief that a good, pragmatic approximation to 'the truth' will out is implicit in people's approaches to most endeavors. (E.g., see Michael Atiyah's comments on Proof in Advice to a Young Mathematician.) So, in the spirit of Euler, Fourier, Riemann, Heaviside, and Ramanujan (some of the most productive personalities in mathematics), don't be a puss, have the courage to forge ahead (albeit not blindly) until your belief is no longer tenable.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+edited Apr 7 '14 at 3:30
+
+community wiki
+
+2 revs
+
+Tom Copeland
+
+On MO itself, there are comments and answers made by famous mathematicians on fundamental topics that are both highly upvoted and simply wrong. History is replete with examples of authority trumping careful, conscientious analysis in various fields of math, science, and engineering. MO is not exempt from social dynamics. –
+
+Tom Copeland
+
+Mar 19 '16 at 14:59
+
+Related : evolution of symplectic geometry quantamagazine.org/… –
+
+Tom Copeland
+
+Jun 28 '18 at 19:41
+
+Go forward, faith will follow. -- d'Alembert –
+
+Tom Copeland
+
+Dec 11 '19 at 22:15
+
+Add a comment
+
+-1
+
+An applied problem is often formulated as follows:
+
+Go 1 mile East, then 1 mile North, then 1 mile West. You'll get to your destination D, and that's your goal.
+
+And they follow the direction like slaves, they go East-North-West. They can't tell the difference between the goal and the description of the goal. It takes sometimes a mathematician to tell them to go North right away.
+
+Share
+
+Cite
+
+Improve this answer
+
+Follow
+
+answered May 3 '13 at 18:18
+
+community wiki
+
+Włodzimierz Holsztyński
+
+12
+
+It takes a mathematician to realize that going 1 mile east, north and west is not the same as going 1 mile north. –
+
+Ori Gurel-Gurevich
+
+May 3 '13 at 20:15
+
+1
+
+@Ori, U'r so-so sophisticated. –
+
+Włodzimierz Holsztyński
+
+May 4 '13 at 21:33
+
+2
+
+I talked, metaphorically, about a real issue(!), which I observed over years of workings with engineers for different companies. The problem I have mentioned is also common among average students of mathematics (I am not talking about the gifted ones). Somehow, every time there is a not exactly mathematical question there show on MO some negative emotions, it's so silly. –
+
+Włodzimierz Holsztyński
+
+May 4 '13 at 21:41
+
+2
+
+@Wlodzimierz Holsztynski, I got your intention. I only tried to be so-so funny, and apparently failed even at this modest goal. –
+
+Ori Gurel-Gurevich
+
+May 6 '13 at 5:28
+
+5
+
+I didn't bother earlier but actually Ori's comment illustrates one of the most important principles of both the pure and the applied mathematics: neglect the trivialities. **** Anyway, no mathematician should ever approach anybody to say "I think you should be a little more like a mathematician ..." (if you want to say something then just say it, without invoking the authority of mathematics). –
+
+Włodzimierz Holsztyński
+
+Jan 24 '14 at 7:25

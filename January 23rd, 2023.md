@@ -1,0 +1,10 @@
+- #[[Prayers&Answers]]
+    - Date: [[January 23rd, 2023]] 14:25
+        - 赞美感谢
+            - 
+        - 认罪悔改
+            - 
+        - 祈求
+            - 
+        - Tongues
+            - Set a Pomodoro

@@ -1,0 +1,6 @@
+- concepts
+    - author::
+    - url::
+    - recommended by:: 
+    - definition:: 法语叫"l'esprit de l'escalier"，直译「楼梯上的灵光」，因为总是要在离开朋友家下楼的时候才想到要怎么跟人辩论。
+    - tags:: #concepts #french

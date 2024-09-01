@@ -1,0 +1,10 @@
+#小白板
+
+[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+
+半小时学会任何编程语言
+
+我刚刚学习了janet和lua
+
+[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/lambda-calculus/)
+

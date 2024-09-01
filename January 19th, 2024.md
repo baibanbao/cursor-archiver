@@ -1,0 +1,21 @@
+- [[Prayers & Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+- [[Gratitude]]
+- [[Day Start]] 06:52
+- Daily Tasks
+    - {{[[TODO]]}} 下午17:00录制[[两句半]]
+        - {{[[TODO]]}} 组织[[gc10]]试讲与试听
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **06:52** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- [[两句半]]
+- [[Edit Later]]
+- ---
+- [[January 20th, 2024]]
+- [[January 21st, 2024]]

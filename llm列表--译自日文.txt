@@ -1,0 +1,104 @@
+# 大型语言模型摘要最近已成为热门话题
+
+40
+
+![恩帕卡](https://assets.st-note.com/production/uploads/images/12503096/profile_23311308b0cdf0146e86390dfb2682bd.png?width=60)
+
+[恩帕卡](https://note.com/npaka)
+
+2023年3月16日17:28
+
+我编写了一个大型语言模型,该模型最近已成为热门话题。
+
+
+
+## 目录
+
+1. 1。GPT-4
+2. 2。传电
+3. 3。拉玛
+4. 四。羊驼
+5. 五。羊驼
+6. 6。克劳德
+7. 7。查特格姆
+8. 相关
+
+## 1。GPT-4
+
+「 GPT-4 」是OpenAI开发的大型语言模型。
+
+在多模式中,您现在可以接受文本和图像提示。令牌的最大数量已从4K增加到32k。推理能力也在显着提高。
+
+当前「[ChatGPT Pro](https://chat.openai.com/chat)」 (付费版本)有限制,但重量列表的注册人除外「[OpenAI API](https://openai.com/blog/openai-api)它也已开始与」一起使用。
+
+[**GPT-4***我们创建了GPT-4,这是OpenAI效果的最新里程碑**openai.com*](https://openai.com/research/gpt-4)
+
+## 2。传电
+
+「 PaLM 」是Google开发的大型语言模型。
+
+我们计划在不久的将来发布「 PaLM API 」的重量列表,可用于「 PaLM 」。 「PaLM API 」是一个API,可轻松使用Google的大型语言模型,使您可以访问针对内容生成和聊天而优化的交互式模型,以及为摘要和分类而优化的通用模型。
+
+[**PaLM API和MakerSuite:可实现生成AI应用程序的流畅原型制作和构建的开发工具PaLM API和MakerSuite:可实现流畅原型制作和生成AI应用程序构建的开发工具***PaLM,一项新的开发人员服务,可让您轻松安全地尝试Google的大型语言模型（ LLM ）**Develops-jp.googleblog.com*](https://developers-jp.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
+
+## 3。拉玛
+
+「 LLaMA 」是Meta开发的大型语言模型。
+
+它的参数少于「 GPT-3 」,并且可以在单体GPU上运行,但是在某些基准测试中已超过「 GPT-3 」。[请求表](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)您可以通过申请并获得许可来使用它。
+
+[facebookresearch / llama:LLaMA模型的推理代码](https://github.com/facebookresearch/llama)
+
+LLaMA模型的推理代码。通过在GitHub上创建一个帐户,为facebookresearch / llama开发做出贡献。
+
+[![img](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/)
+
+[吉特胡布](https://github.com/)
+
+## 四。羊驼
+
+「 Alpaca 」是一种大型语言模型,已微调「 LaMA 」。 「我正在使用」 self-instruct 「通过text-davinci-003 」生成的52K教学后续学习数据进行学习。 「羊驼」表现出与OpenAI的「 text-davinci-003 」相似的行为,但其特征是体积小,易于复制且便宜。
+
+演示,学习数据,数据生成过程和超参数是公开的,并且模型权重和学习代码将在将来发布。
+
+[tatsu-lab / stanford_alpaca:用于培训斯坦福大学Alpaca模型并生成数据的代码和文档。](https://github.com/tatsu-lab/stanford_alpaca)
+
+培训斯坦福大学的代码和文档; s羊驼模型,并生成数据。 -GitHub-tatsu-lab / stanford_alpaca:培训斯坦福大学的代码和文档; 39号;的羊驼毛模型,以及 ...
+
+[![img](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/)
+
+[吉特胡布](https://github.com/)
+
+<iframe class="note-embed" scrolling="no" loading="lazy" data-src="https://note.com/embed/notes/n1a0ab681dc70" src="https://note.com/embed/notes/n1a0ab681dc70" height="207px" data-ready="true" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246/0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background-repeat: no-repeat; box-sizing: inherit; padding: 0px; margin: 10px 0px; border: 0px; display: block; vertical-align: initial; width: 494px; max-width: none; visibility: visible;"></iframe>
+
+
+
+## 五。羊驼
+
+LoRA使用「 LLaMA-7B 」 「羊驼」的学习数据进行微调将更接近「羊驼」。
+
+[tloen / alpaca-lora:在消费者硬件上复制Stanford Alpaca InstructLLaMA结果的代码](https://github.com/tloen/alpaca-lora)
+
+复制斯坦福羊驼毛InstructLLaMA在消费硬件上的结果的代码-GitHub-tloen / alpaca-lora:复制斯坦福羊驼毛InstructLLaMA在消费硬件上的结果的代码
+
+[![img](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/)
+
+[吉特胡布](https://github.com/)
+
+## 6。克劳德
+
+「 Claude 」是Anthropic开发的大型语言模型,可与ChatGPT媲美。目前、[等待清单](https://www.anthropic.com/earlyaccess)它向公众开放。
+
+[**产品***Anthropic是一家正在工作的AI安全和研究公司**www.anthropic.com*](https://www.anthropic.com/product)
+
+## 7。查特格姆
+
+「 ChatGLM 」是一种专门研究中文的大型开源语言模型。我们使用类似于ChatGPT的技术来优化中间句中的响应。
+
+[THUDM / ChatGLM-6B:ChatGLM-6B :(地区中文??Hijinomimetoid |开放的双语语言模型](https://github.com/THUDM/ChatGLM-6B)
+
+ChatGLM-6B:?? Hijinomata |开放的双语对话语言模型-GitHub-THUDM / ChatGLM-6B:ChatGLM-6B:?? Hijinomai ?? Hijinomata |开放的双语对话语言模型
+
+[![img](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/)
+
+[吉特胡布](https://github.com/)

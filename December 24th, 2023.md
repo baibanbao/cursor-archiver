@@ -1,0 +1,20 @@
+- [[Gratitude]]
+- [[Day Start]] 05:52
+- Daily Tasks
+    - {{[[TODO]]}} 圣诞颂歌
+    - {{[[TODO]]}} 两句半EP119
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 电子书
+        - 北京文史资料选编：旧戏班百题 #编剧故事营
+            - https://www.dropbox.com/scl/fi/kmu4xlvtgbotwxjjedy8q/45.pdf?rlkey=avtv0d91ov2jluge4ar2jtguw&dl=0
+    - [EP-078 吴国光：2023年中国政坛为何怪事频频？ - YouTube](https://www.youtube.com/watch?v=5VhsSjn5XWk) #吴国光
+        - 吴国光说：“把你的不满表达出来，用你认为尽量可能安全的方式把它表达出来。当所有的人都在表达自己不满的时候，哪怕这个方式是最低限度的一个表达，我觉得也会形成一种力量。”
+    - [Home | AI Video Search Engine](https://avse.vercel.app/)
+    - 
+- ---

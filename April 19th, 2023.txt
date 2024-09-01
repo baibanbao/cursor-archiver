@@ -1,0 +1,17 @@
+- 撒花，终于从ai痴迷中清醒了过来。
+- [[Gratitude]]
+- [[Day Start]] 02:32
+- Daily Tasks
+    - {{[[TODO]]}} 送#[[Jonas]]春游
+    - {{[[TODO]]}} 门训
+    - {{[[TODO]]}} 回复[[陈浩初]]
+    - {{[[TODO]]}} 写博客 [[zhongwen.ai]]
+    - {{[[TODO]]}} 继续[[涌现式创作]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

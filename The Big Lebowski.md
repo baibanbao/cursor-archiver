@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Joel Coen, Ethan Coen]]
+        - Writer:: [[Ethan Coen]] [[Joel Coen]]
+        - Cast:: [[Jeff Bridges]] [[John Goodman]] [[Julianne Moore]]
+        - Year:: [[1998]]
+        - Genre:: #Comedy #Crime
+    - **IMDb:** https://www.imdb.com/title/tt0118715
+    - **Plot Summary:** Ultimate L.A. slacker Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's miss...
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FCnkFdNa7_v.pdf?alt=media&token=6e8502c4-03b6-488e-8cbc-e2b61da2ef52}}

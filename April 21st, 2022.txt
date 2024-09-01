@@ -1,0 +1,3 @@
+- [[方舱]]纪事
+    - 回复居委会的脑图
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F_-VAEVT-Hz.png?alt=media&token=9936f697-9661-4331-a550-f0a61428ca87)

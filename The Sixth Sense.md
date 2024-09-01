@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[M. Night Shyamalan]]
+        - Writer:: [[M Night Shyamalan]]
+        - Cast:: [[Bruce Willis]] [[Haley Joel Osment]] [[Toni Collette]]
+        - Year:: [[1999]]
+        - Genre:: #Drama #Mystery #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0167404
+    - **Plot Summary:** A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fkg800IspfY.pdf?alt=media&token=b3490623-52d9-4cb7-a84b-5e40323016e8}}

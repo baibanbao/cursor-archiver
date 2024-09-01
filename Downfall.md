@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Oliver Hirschbiegel]]
+        - Writer:: [[Bernd Eichinger]] [[Joachim Fest]] [[Traudl Junge]]
+        - Cast:: [[Bruno Ganz]] [[Alexandra Maria Lara]] [[Ulrich Matthes]]
+        - Year:: [[2004]]
+        - Genre:: #Biography #Drama #History
+    - **IMDb:** https://www.imdb.com/title/tt0363163
+    - **Plot Summary:** Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.

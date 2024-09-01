@@ -1,0 +1,69 @@
+- #[[Prayers&Answers]]
+    - Date: [[November 8th, 2022]] 00:54
+        - 赞美感谢
+            - 感谢主的提前解封
+        - 认罪悔改
+            - 为自己的不够勤勉
+        - 祈求
+            - 求主让我更加谨慎，不再因为自己的原因被封
+            - 让我更好地教导儿子
+            - 让#[[Jonas]]能够在主的爱里成长
+            - 祈求让[[岳父]]可以尽快康复
+            - 祈求让#[[Seven]]早日归来，全家团圆
+            - 祈求让我保持这期间养成的好习惯
+                - 相对早睡
+                - 不喝咖啡
+                - 不乱花钱
+                - 节制自己
+                - 顺服权柄
+            - 祈求主让我完成我的工
+        - Tongues
+            - Set a Pomodoro
+                - {{[[POMO]]: 2}}
+- Overdue Tasks to Schedule
+    - {{[[DONE]]}} 下单买一本[[腔词关系研究]] [[January 26th, 2021]]
+    - {{[[DONE]]}} 用[[方言]]祷告，虽然不明白其中的意思，但对自己有益。一个[[见证]]是[[July 16th, 2022]]灵性低落，但用了[[方言]]祷告，次日上午依然低迷，连[[第七诫]]都没有敢听，但是下午却有感动，赶到#[[SLBC]]实体聚会，并通过控制[[Zoom]]而做了一点小小的服事。结论，就是千万不要轻忽，方言表示圣灵的充满，是上帝用数不清的叹息在为我们祷告。
+    - {{[[DONE]]}} 制作好幻灯片模板 [[July 29th, 2022]]
+    - {{[[DONE]]}} iPad Air [[August 9th, 2022]]才能到货
+    - {{[[DONE]]}} [[October 1st, 2022]] 去程
+    - {{[[DONE]]}} 1. 卡萨布兰卡 [[Casablanca]]
+    - {{[[DONE]]}} 1. 卡萨布兰卡 Casablanca
+    - {{[[DONE]]}} 10. 教父2 [[The Godfather Part 2]] Part 2
+    - {{[[DONE]]}} 10. 教父2 The Godfather: Part Ⅱ
+    - {{[[DONE]]}} 2. 教父 [[The Godfather]]
+    - {{[[DONE]]}} 2. 教父 The Godfather
+    - {{[[DONE]]}} 3. 唐人街 [[Chinatown]]
+    - {{[[DONE]]}} 3. 唐人街 Chinatown
+    - {{[[DONE]]}} 4. 公民凯恩 [[Citizen Kane]]
+    - {{[[DONE]]}} 4. 公民凯恩 Citizen Kane
+    - {{[[DONE]]}} 5. 彗星美人 [[All About Eve]]
+    - {{[[DONE]]}} 5. 彗星美人 All About Eve
+    - {{[[DONE]]}} 6. 安妮·霍尔 [[Annie Hall]]
+    - {{[[DONE]]}} 6. 安妮·霍尔 Annie Hall
+    - {{[[DONE]]}} 7. 日落大道 [[Sunset Blvd]]
+    - {{[[DONE]]}} 7. 日落大道 Sunset Blvd
+    - {{[[DONE]]}} 8. 社交网络 [[The Social Network]]
+    - {{[[DONE]]}} 8. 社交网络 The Social Network
+    - {{[[DONE]]}} 9. [[热情如火 ]]Some Like It Hot
+    - {{[[DONE]]}} 9. 热情如火 [[Some Like It Hot]]
+- [[Weekly Goals]]
+- [[Daily Tasks]]
+    - Sunday [[November 9th, 2022]]
+    - Monday [[November 14th, 2022]]
+    - Tuesday [[November 15th, 2022]]
+    - Wednesday [[November 16th, 2022]]
+    - Thursday [[November 17th, 2022]]
+    - Friday [[November 18th, 2022]]
+    - Saturday [[November 19th, 2022]]
+- [[Gratitude]]
+- [[Day Start]] 00:47
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

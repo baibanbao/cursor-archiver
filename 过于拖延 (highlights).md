@@ -1,0 +1,7 @@
+- Author:: [[Proudly published with FarBox！]]
+- Full Title:: 过于拖延
+- URL:: https://haozhongwen.app/post/up/oz454jri1hpnerl3x-4gmufwprr0/2023-11-29
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 通过这些对拖延原因的解析，其实就会明白拖延本身不是问题，而是想办法解决因为拖延而产生的这种内耗。这种内耗就好像是一脚油门一脚刹车，忙了半天，一步都没有走。如果没有内耗，只有两种选择，就是做或者不做。想清楚之后，就去行动了，不会停在原地和情绪一直纠缠。

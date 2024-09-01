@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Richard Schenkman]]
+        - Writer:: [[Jerome Bix]]
+        - Cast:: [[David Lee Smith]] [[Tony Todd]] [[John Billingsley]]
+        - Year:: [[2007]]
+        - Genre:: #Drama #Fantasy #Mystery
+    - **IMDb:** https://www.imdb.com/title/tt0756683
+    - **Plot Summary:** An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.

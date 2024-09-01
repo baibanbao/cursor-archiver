@@ -1,0 +1,30 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+        - 祈求找到我失去的10个[[BTC]]
+            - 5个也行 #数算恩典
+                - 主啊，按你的意思，不是按我的意思。
+    - Depth
+- [[Day Start]] 03:18
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **03:18** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+    - 编剧营昨天上了一课，可以好好剪辑片子了。
+- [[四季青青]]
+- [[Heptabase]]
+- [[Sora Camp]]
+- [[写书]]
+- #Finance
+- ---

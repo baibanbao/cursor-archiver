@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Ford]]
+        - Writer:: [[Nunnally Johnson]] [[John Steinbeck]]
+        - Cast:: [[Henry Fonda]] [[Jane Darwell]] [[John Carradine]]
+        - Year:: [[1940]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0032551
+    - **Plot Summary:** An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.

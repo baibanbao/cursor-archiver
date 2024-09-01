@@ -1,0 +1,16 @@
+Postimages图床服务
+
+Are the images I upload private? Can I search or view images uploaded by other users?
+Only the people with whom you have shared the link to your image can view it. We do not publish uploaded images in a global catalog, and image codes are hard to guess. However, we don't support password protection or similar checks at all, so if you post your image's address on a public web page, anyone who has access to that page will be able to view your image. Also, if you need real privacy for your image collection, PostImage is probably not suited for your needs; consider using other image hosting services that are geared more towards private image storage
+
+[Frequently Asked Questions — Postimages](https://postimages.org/faq)
+
+不支持隐私保护
+
+只要对方能猜到你的字符串，理论上就能看到你的图片。
+
+但是这串字符很难猜
+
+最终买了这个图床，125.64美元，三年，图个安心。
+
+Flickr当然还用，但是跟postimages的应用场景不一样。

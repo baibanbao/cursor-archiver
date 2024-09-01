@@ -1,0 +1,59 @@
+- [[Jonas]] 做RPG
+    - [How to Make a Role-Playing Game - Scratch Wiki](https://en.scratch-wiki.info/wiki/How_to_Make_a_Role-Playing_Game)
+    - [How to Make an RPG Overworld - Scratch Wiki](https://en.scratch-wiki.info/wiki/How_to_Make_an_RPG_Overworld)
+    - [The Routledge Handbook of Chinese Translation](https://dpsionline.co.uk/wp-content/uploads/2020/08/Routledge-Handbook-of-Chinese-Translation.pdf)
+- [[May 30th, 2021]] 主日赞美祷告
+    - 陈雅各牧师修改祷告词
+        - 圣洁的上帝，你的名字令人敬畏。 
+        - 你是万王之王，万主之主。 
+        - 然而你却爱我们， 
+        - 差遣你的独生子耶稣来到世上 
+        - 为我们钉死在十字架上， 
+        - 替我们还清了罪债， 
+        - 让我们坦然无惧地来到你的面前。 
+        - 亲爱的父神，有谁像你一样
+        - 让风吹，让雨落，
+        - 在我们还活着的时候帮助我们，
+        - 在我们悲伤时，安慰我们，
+        - 你给生病的人带来医治，
+        - 释放那些被捆锁的人。
+        - 你赦免罪孽，饶恕我们的罪过。 
+        - 今天，我们在这里聚集， 
+        - 再次宣告对你的赞美， 
+        - 敬拜你，只敬拜你， 
+        - 因为独有你的名被尊崇， 
+        - 你的荣耀在天地之上， 
+        - 也充满我们今天这个房间。 
+        - 奉耶稣基督的名祷告，阿门。
+    - 打印祷告词
+        - 圣洁的上帝，你的名字令人敬畏。 
+        - 你是万王之王，万主之主。 
+        - 然而你却爱我们， 
+        - 差遣你的独生爱子耶稣来到世上 
+        - 为我们钉死在十字架上， 
+        - 替我们还清了罪债， 
+        - 让我们坦然无惧地来到你的面前。 
+        - 亲爱的父神，有谁像你一样
+        - 让风吹，让雨落，
+        - 在我们还活着的时候帮助我们，
+        - 在我们悲伤时，安慰我们，
+        - 你给生病的人带来医治，
+        - 释放那些被捆锁的人。
+        - 你赦免罪孽，饶恕我们的过犯。 
+        - 今天，我们在这里聚集， 
+        - 再次宣告对你的赞美， 
+        - 敬拜你，只敬拜你， 
+        - 因为独有你的名被尊崇， 
+        - 你的荣耀在天地之上， 
+        - 也充满今天我们这个房间。 
+        - 奉耶稣基督的名祷告，阿门。
+    - 总结
+        - 开头漏掉了：“让我们一起献上赞美的祷告”
+- OmegaT
+    - [OmegaT_for_Beginners_en.pdf](https://omegat.org/files/guide/OmegaT_for_Beginners_en.pdf)
+    - 如何复用memory
+        - [Chapter 6. How To...](https://omegat.sourceforge.io/manual-standard/en/howtos.html)
+    - [Beginner question: OmegaT translation memory TMX file = ??? : TranslationStudies](https://www.reddit.com/r/TranslationStudies/comments/g6fjku/beginner_question_omegat_translation_memory_tmx/)
+    - [OmegaT - Wikipedia](https://en.wikipedia.org/wiki/OmegaT)
+    - [The Routledge Handbook of Chinese Translation](https://dpsionline.co.uk/wp-content/uploads/2020/08/Routledge-Handbook-of-Chinese-Translation.pdf)
+    - 

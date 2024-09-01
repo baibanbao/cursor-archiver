@@ -1,0 +1,26 @@
+- Introduction
+    - [[1 - Introduction]]
+    - [[2 - The Academic Writing Process Problem & Solution]]
+- [[Academic Scaffolding]]
+    - [[3A - Academic Scaffolding - Roam Set-Up]]
+    - [[3B - Academic Scaffolding - Management Process]]
+    - [[3C - Academic Scaffolding - Outlining Framework]]
+    - [[4 - Academic Scaffolding - Introduction to Smart Notes]]
+- The Collect Session
+    - [[5 - BONUS - How To Build Process]]
+    - [[6 (a&b) - The Collection Process]]
+- The Curate Session
+    - [[7a - The Curate Session - Organization/Staging]]
+    - [[7b - The Curate Session - Source Curation]]
+- The Synthesize Session
+    - [[8A1 - The Building BLOCKS - Part One]]
+    - [[8A2 - The Building BLOCKS - Part Two]]
+    - [[8A3 - The Building BLOCKS - Part Three]]
+    - [[8A4 - The Building BLOCKS - Part Four]]
+    - [[9a - The Synthesize Session - Notes Synthesis]]
+    - [[9b - The Synthesize Session - Outline Synthesis]]
+- The Create Session
+    - [[10 - Writing in Roam Research]]
+    - Create Process (Multiple Lessons) - Coming Soon!
+- Wrapping up
+    - Multiple Lessons - Coming Soon!

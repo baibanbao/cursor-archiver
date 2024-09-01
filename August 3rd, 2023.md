@@ -1,0 +1,6 @@
+- [原子編劇課秋季班（2023）原子編劇課秋季班 - 編劇、小說、電影、影集，週週精彩開講！](https://www.domorenovel.com/product/atomstory-autumn/?fbclid=PAAaa_gXR9y8XzJsuIZYLhLtux1Q6kCQIMYetW8kS2X_ZE2hKml13l75KklHs_aem_Af4GPuto8x8_qf8lCJ6RRgXVl6G6N3TBhbW5XE2zTpaSHVfif4-ggRWpT5G45xZ9htdJzJXlPL_VHvO6pcqVp9aZ)
+- [Wondershare Filmora - Easy-to-Use Video Editing Software](https://filmora.wondershare.com/)
+    - [(19) Wondershare Filmora Video Editor - YouTube](https://www.youtube.com/@FilmoraWondershare)
+    - [Youtube 抖音赚钱第一步！最好的人工智能视频剪辑软件（会用鼠标就行） - YouTube](https://www.youtube.com/watch?v=ApAugMMFEsI)
+- [[ai故事营]]意见反馈
+    - [[水晶]]的反馈

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Damián Szifron]]
+        - Writer:: [[Nazareno Obregón Nieva]] [[Germán Servidio]] [[Damián Szifron]]
+        - Cast:: [[Darío Grandinetti]] [[María Marull]] [[Mónica Villa]]
+        - Year:: [[2014]]
+        - Genre:: #Comedy #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt3011894
+    - **Plot Summary:** Six short stories that explore the extremities of human behavior involving people in distress.

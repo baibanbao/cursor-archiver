@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Pete Docter, David Silverman, Lee Unkrich]]
+        - Writer:: [[Pete Docter]] [[Jill Culton]] [[Jeff Pidgeon]]
+        - Cast:: [[Billy Crystal]] [[John Goodman]] [[Mary Gibbs]]
+        - Year:: [[2001]]
+        - Genre:: #Animation #Adventure #Comedy
+    - **IMDb:** https://www.imdb.com/title/tt0198781
+    - **Plot Summary:** In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F_WGvhnTQ0G.pdf?alt=media&token=d731244a-6ffd-4afa-8a52-6503639b22ea}}

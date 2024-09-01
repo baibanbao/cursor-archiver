@@ -1,0 +1,8 @@
+---
+layout: note
+title: 这样才能算标题 
+categories: writing
+tags: 写作
+description: 杭州的美，在于西湖
+---
+测试一下，这次可不可以。

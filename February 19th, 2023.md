@@ -1,0 +1,19 @@
+- [[Gratitude]]
+- [[Day Start]] 08:43
+- Daily Tasks
+    - {{[[DONE]]}} 回上海
+        - 忘带身份证
+        - 充电宝被暂扣
+        - 座位不坐在一起
+    - {{[[DONE]]}} 今天开始减肥
+        - 走路1万步
+- ---
+- [[Daily Journal]] 
+    - [[车]]停哪儿了？
+        - 23幢3单元门口
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

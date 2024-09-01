@@ -1,0 +1,6 @@
+- Author:: [[Robert Alter]]
+- Full Title:: The Art of Bible Translation
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51jNNCfvWOL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - jettisoned by their modern successors. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B07J48CYNF&location=194))

@@ -1,0 +1,5 @@
+﻿open 
+alfred
+new filename.txt
+then open filename.txt
+write or past your content

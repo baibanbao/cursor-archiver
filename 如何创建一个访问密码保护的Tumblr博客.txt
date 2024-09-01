@@ -1,0 +1,7 @@
+;##如何创建一个访问密码保护的Tumblr博客
+
+###一个Tumblr账号可以建10个博客，第一个博客即首要博客（Primary blog）是不能用访问密码保护的。
+
+###从第二个博客开始，可以用访问密码保护了。
+
+具体做法，请参考这篇英语文章。[How To Make a Private Tumblr Blog](http://www.howtogeek.com/howto/22806/how-to-make-a-private-tumblr-blog/)

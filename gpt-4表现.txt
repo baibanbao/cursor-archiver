@@ -1,0 +1,32 @@
+
+直接让 GPT-4 基于图片中的内容来回答对应的问题。
+
+![Image](https://pbs.twimg.com/media/FrMyfw5aYAAhTno?format=jpg&name=small)
+
+可以通过 system 参数的方式来定义 AI 的行为（这个在 ChatGPT 中已经支持了） 例如这个例子中就是让 AI 使用苏格拉底的风格来回答问题，不给出具体答案，而是提出问题来帮助学生进行独立思考。
+
+![Image](https://pbs.twimg.com/media/FrMz6gqaAAA1Umt?format=png&name=small)
+
+GPT-4 的局限性 虽然现在模型所展示出的功能非常强大，但是与前几代的 GPT 模型存在一些类似的问题，比如生成的结果不符合事实。 在这个方面，GPT-4 的得分要比 GPT-3.5 高 40%。
+
+![Image](https://pbs.twimg.com/media/FrM0uMnakAAyGWl?format=jpg&name=small)
+
+这个问题联想到了前几天读的 MS Research 的一篇论文：MathPrompter: Mathematical Reasoning using Large Language Models 这篇论文中提到的一个方法是使用 zero shot COT (chain of thought) + verification 的方法来保证数值计算结果的准确性。
+
+![arXiv logo](https://pbs.twimg.com/card_img/1634669166283333632/EaDPGwIu?format=jpg&name=240x240)
+
+arxiv.org
+
+MathPrompter: Mathematical Reasoning using Large Language Models
+
+Large Language Models (LLMs) have limited performance when solving arithmetic reasoning tasks and often provide incorrect answers. Unlike natural language understanding, math problems typically...
+
+GPT-4 的训练数据和 GPT-3 的貌似差不多，都是截止到 2021 年 9 月。
+
+OpenAI 基于用户规则在 RLHF 上加了一个额外的奖励信号，来减少模型的有害输出。 不确定是否有新的 prompt injection 的方式来进行破解。
+
+![Image](https://pbs.twimg.com/media/FrM3U8caQAAOXms?format=png&name=900x900)
+
+现在部分 ChatGPT Plus 的用户已经可以体验到 GPT-4 模型了 1. 使用会有上限，并且根据访问量来控制 2. 可能会引入除 Plus 外的新的订阅级别
+
+API 中使用的模型是：gpt-4-0314 - 需要申请加入 waitlist - 现在只支持纯文本的请求（图像输入还在 alpha 阶段） - 定价：prompt - $0.03 per 1k token, completion - $0.06 per 1k token - context 长度为 8192 tokens，并且提供 32768 token 的版本（价格也更贵，$0.06 & $0.12)

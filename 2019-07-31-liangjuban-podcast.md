@@ -1,0 +1,19 @@
+- title: 欢迎来到两句半
+- 两句半是王佩和刘淼创办的播客，每个星期一早上更新。
+- ## 百度网盘
+- ### 两句半ep1-8百度网盘存档
+- 链接: [https://pan.baidu.com/s/1OqI5PgDtjkbclEKTsuzjzg](https://pan.baidu.com/s/1OqI5PgDtjkbclEKTsuzjzg) 提取码: uq8r 
+- EP1：电影节 
+- EP2：城市治理
+- EP3：网红店
+- EP4：报志愿
+- EP5：保护网络隐私
+- EP6：短视频
+- EP7：生存智慧
+- EP8：博客往事
+- ## Anchor.fm
+- [两句半 • A podcast on Anchor](https://anchor.fm/liangjuban)
+- ## 微信公众号
+- 微信搜索“白板报”。
+- 或者扫描下面的二维码订阅。
+- ![白板报](http://www.wangpei.net/wp-content/uploads/2019/07/qrcode_for_gh_4fe06b53788f_860.jpg)

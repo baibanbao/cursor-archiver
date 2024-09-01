@@ -1,0 +1,121 @@
+- 受eddy影响，开始安装isso留言系统
+    - 找了半天，最现实的指南
+        - [Install Isso server free with GCP | Tech | Qualityology](https://www.qualityology.com/tech/install-isso-server-free-with-gcp/)
+            - 第一步： [Build an extremely fast WordPress with GCP Part 1: server | Tech | Qualityology](https://www.qualityology.com/tech/build-an-extremely-fast-wordpress-gcp-part1-server/)
+            - 接下来记录奇妙的安装过程
+        - gcp的安装
+            - 注册、更新billing信息，已经完成
+            - Create an instance
+                - name： 
+                    - haozhongwen
+                - region
+                    - 默认美国
+                - zone
+                    - 默认美国
+                - machine type
+                    - e2-micro
+                - 系统
+                    -  Debian GNU/Linux 10 (buster)
+                - firewall
+                    - {{[[DONE]]}} Allow HTTP traffic 
+                    - {{[[DONE]]}} Allow HTTPS traffic 
+                - create
+                - 最重要的信息
+                    - 外部ip(设置二级域名时用到)
+                        - 35.226.191.158
+                - 到iwantmyname去设置二级域名
+                    - isso.baibanbao.org 指向外部ip
+                - 同时生成一个自己email的app password
+                    - redredpei@gmail.com
+                        - otvgvantpnoisnrt
+        - isso的安装与配置(第二次)
+            - 教程
+                - [Install Isso server free with GCP | Tech | Qualityology](https://www.qualityology.com/tech/install-isso-server-free-with-gcp/)
+            - 教训
+                - 在第一次操作的时候，进行到第8部，没有仔细看说明
+                    - ## Install certbot for free SSL.
+                        - This is for your comment domain, not your website or blog domain. So you can call your Isso server with https.
+                    - 错把domain输入成好中文的网址，再也改不过来了
+                    - ```plain text
+	sudo apt-get install certbot python3-certbot-nginx```
+            - 实际操作
+                - 1. Get a Linux server. GCP free tier is more than enough.
+                - 2. Point a sub domain to your GCP’s external IP from step 1.
+                - 3. Install docker and docker-compose
+                    - 首先去找SSH连接
+                        - 在外部ip后面，点击就有链接，打开新窗口，类似一个terminal界面
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLrTJgIc4r4.png?alt=media&token=f456975e-c536-48a5-80ec-8fb5b01a583e)
+                    - 然后输入命令行即可
+                    - 安装成功
+                - 4. Create docker-compose.yml for Isso
+                    - nano的存盘是ctrl + 1，再输入大写的Y，回车
+                    - 应该换成 angristan/isso
+                - 5. Create config file for Isso
+                - 6. Start the Isso container
+                    - 这一步出错，因为原先的那个docker已经不存在了
+                        - 应该换成 angristan/isso
+                        - 修改第5步
+                        - 第六步成功
+                - 7. Setup Nginx
+                - 8. Install certbot for free SSL.
+                    - 小心中途让你输入域名
+                        - 这个域名是你的isso域名
+                            - isso.baibanbao.org
+                    - 么有让输入域名，不是好现象
+                - 9. Generate SSL certificate for your Isso server
+                    - 往下走吧
+                - 10. Create a Nginx config for the Isso domain.
+                    - 没有更改文件的权限
+                    - 第一行改成 sudo nano /etc/nginx/conf.d/isso.conf
+                - 11. Restart Ngnix
+                    - 无法重启
+                    - 判断还是第八步的时候，没有输入域名所产生的问题
+                    - 
+        - isso的安装(第三次)
+            - isso的安装与配置(第二次)
+                - 教程
+                    - [Install Isso server free with GCP | Tech | Qualityology](https://www.qualityology.com/tech/install-isso-server-free-with-gcp/)
+                - 教训
+                    - 在第一次操作的时候，进行到第8步，没有仔细看说明
+                        - ## Install certbot for free SSL.
+                            - This is for your comment domain, not your website or blog domain. So you can call your Isso server with https.
+                        - 错把domain输入成好中文的网址，再也改不过来了
+                        - ```plain text
+	sudo apt-get install certbot python3-certbot-nginx```
+                - 实际操作
+                    - 1. Get a Linux server. GCP free tier is more than enough.
+                        - 外部ip  34.106.40.199
+                    - 2. Point a sub domain to your GCP’s external IP from step 1.
+                    - 3. Install docker and docker-compose
+                        - 首先去找SSH连接
+                            - 在外部ip后面，点击就有链接，打开新窗口，类似一个terminal界面
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FLrTJgIc4r4.png?alt=media&token=f456975e-c536-48a5-80ec-8fb5b01a583e)
+                        - 然后输入命令行即可
+                        - 安装成功
+                    - 4. Create docker-compose.yml for Isso
+                        - nano的存盘是ctrl + 1，再输入大写的Y，回车
+                        - 应该换成 angristan/isso
+                    - 5. Create config file for Isso
+                    - 6. Start the Isso container
+                        - 这一步出错，因为原先的那个docker已经不存在了
+                            - 应该换成 angristan/isso
+                            - 修改第5步
+                            - 第六步成功
+                    - 7. Setup Nginx
+                    - 8. Install certbot for free SSL.
+                        - 小心中途让你输入域名
+                            - 这个域名是你的isso域名
+                                - isso.baibanbao.org
+                        - 么有让输入域名，不是好现象
+                    - 9. Generate SSL certificate for your Isso server
+                        - 往下走吧
+                    - 10. Create a Nginx config for the Isso domain.
+                        - 没有更改文件的权限
+                        - 第一行改成 sudo nano /etc/nginx/conf.d/isso.conf
+                    - 11. Restart Ngnix
+                        - 可以重启了
+                    - 12. 测试应用
+                        - 打开hugo主题下的page-footer.html。
+        - 第四次安装也失败
+        - 使用[[eddy]]的代码则可以
+- 折腾技术没有好结果

@@ -1,0 +1,36 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 02:57
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **02:57** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [Winnie Wong | Research UC Berkeley](https://vcresearch.berkeley.edu/faculty/winnie-wong)
+    - [Liu Xiaodong: Hometown Boy - YouTube](https://www.youtube.com/watch?v=-Xcjrqq4vHU&t=674s)
+    - 
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[爱与中文]]
+- [[写作GPTs]]
+- [[两句半]]
+- #[[Seven]]
+- #Jonas 
+- [[写书]]
+- #Finance
+    - 研究[[BTC]]
+        - 
+- ---

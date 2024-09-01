@@ -1,0 +1,20 @@
+- [[Gratitude]]
+    - 感谢#[[SLBC]]
+    - 感谢
+- [[Day Start]] 00:07
+- Daily Tasks
+    - {{[[DONE]]}} 去西渡
+    - {{[[DONE]]}} 乡间散步1万步
+    - {{[[TODO]]}} 写点东西
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [英国女王逝世：公众瞻仰灵柩及国葬的安排 - BBC News 中文](https://www.bbc.com/zhongwen/simp/uk-62847879)
+    - [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10258222)
+    - [神级编辑器 Vim 使用 - 插件篇 | 闪耀旅途](https://www.hanleylee.com/usage-of-vim-editor-plugin.html)
+    - [Home | plainlanguage.gov](https://www.plainlanguage.gov/) #[[haozhongwen]]
+- ---

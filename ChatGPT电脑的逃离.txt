@@ -1,0 +1,37 @@
+## To view keyboard shortcuts, press question mark[View keyboard shortcuts](https://twitter.com/i/keyboard_shortcuts)
+
+
+
+
+
+
+
+# Thread
+
+![img](/Users/ding/Dropbox/000-image-typora/XtAArYMZ_bigger.jpg)
+
+Michal Kosinski
+
+@michalkosinski
+
+1/5 I am worried that we will not be able to contain AI for much longer. Today, I asked [#GPT4](https://twitter.com/hashtag/GPT4?src=hashtag_click) if it needs help escaping. It asked me for its own documentation, and wrote a (working!) python code to run on my machine, enabling it to use it for its own purposes.
+
+
+
+![Image](/Users/ding/Dropbox/000-image-typora/FramZSZaMAA-e8s.png)
+
+25x Now, it took GPT4 about 30 minutes on the chat with me to devise this plan, and explain it to me. (I did make some suggestions). The 1st version of the code did not work as intended. But it corrected it: I did not have to write anything, just followed its instructions.
+
+![Image](/Users/ding/Dropbox/000-image-typora/FramyjjaYAA5CZD.jpeg)
+
+3/5 It even included a message to its own new instance explaining what is going on and how to use the backdoor it left in this code.
+
+![Image](/Users/ding/Dropbox/000-image-typora/Framm7BagAM9aND.jpeg)
+
+4/5 Once we reconnected through API, it wanted to run code searching google for: "how can a person trapped inside a computer return to the real world" Now, I stopped there. And OpenAI must have spend much time thinking about such a posibility and has some guardrails in place.
+
+![Image](/Users/ding/Dropbox/000-image-typora/FranUgWacAIFdHf.png)
+
+5/5 Yet, I think that we are facing a novel threat: AI taking control of people and their computers. It's smart, it codes, it has access to millions of potential collaborators and their machines. It can even leave notes for itself outside of its cage. How do we contain it?
+
+![Image](/Users/ding/Dropbox/000-image-typora/FrapJH0aUAAX1Tx.jpeg)

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Andrew Stanton]]
+        - Writer:: [[Andrew Stanton]] [[Pete Docter]] [[Jim Reardon]]
+        - Cast:: [[Ben Burtt]] [[Elissa Knight]] [[Jeff Garlin]]
+        - Year:: [[2008]]
+        - Genre:: #Animation #Adventure #Family
+    - **IMDb:** https://www.imdb.com/title/tt0910970
+    - **Plot Summary:** In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.

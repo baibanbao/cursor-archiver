@@ -1,0 +1,60 @@
+- 属灵操练 #[[SLBC]]
+    - [How George Müller Started His Day - GeorgeMuller.org]
+    - (https://www.georgemuller.org/devotional/how-george-muller-started-his-day4006229)
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F6-WaZKjuoQ.pdf?alt=media&token=bbb1d1e5-f23a-48ab-86da-ec65791dd356}}
+            - While I was staying at Nailworth, it pleased the Lord to teach me a truth, irrespective of human instrumentality, as far as I know, the benefit of which I have not lost, though now...more than forty years have since passed away.
+            - The point is this: I saw more clearly than ever, that the first great and primary business to which I ought to attend every day was, to have my soul happy in the Lord. The first thing to be concerned about was not, how much I might serve the Lord, how I might glorify the Lord; but how I might get my soul into a happy state, and how my inner man might be nourished. For I might seek to set the truth before the unconverted, I might seek to benefit believers, I might seek to relieve the distressed, I might in other ways seek to behave myself as it becomes a child of God in this world; and yet, not being happy in the Lord and not being nourished and strengthened in my inner man day by day, all this might not be attended to in a right spirit.
+            - Before this time my practice had been, at least for ten years previously, as an habitual thing, to give myself to prayer, after having dressed the morning. Now I saw, that the most important thing I had to do was to give myself to the reading of the Word of God and to meditation on it, that thus my heart might be comforted, encouraged, warned, reproved, instructed; and that thus, whilst meditation, my heart might be brought into experimental, communion with the Lord. I began therefore, to meditate on the New Testament, from the beginning, early in the morning.
+            - The first thing I did, after having asked in a few words the Lord's blessing upon His precious Word, was to begin to meditate on the Word of God; searching, as it were, into every verse, to get blessing out of it; not for the sake of the public ministry of the Word; not for the sake of preaching on what I had meditated upon; but for the sake of obtaining food for my own soul. The result I have found to be almost invariably this, that after a very few minutes my soul has been led to confession, or to thanksgiving, or to intercession, or to supplication; so that though I did not, as it were, give to prayer but to meditation, yet it turned almost immediately more or less to prayer.
+            - When thus I have been for awhile making confession, or intercession, or supplication, or have given thanks, I go on to the next words or verse, turning all, as I go on, into prayer for myself or others, as the Word may lead to it; but still continually keeping before me that food for my own soul is the object of meditation. The result of this is, that there is always a good deal of confession, thanksgiving, supplication, or intercession mingled with my meditation, and that my inner man almost invariably is even sensibly nourished and strengthened and that by breakfast time, with rare exceptions, I am in a peaceful if not happy state of heart. Thus also the Lord is pleased to communicate unto me that which, very soon after, I have found to become food for other believers, though it was not for the sake of the public ministry of the Word that I have myself to meditation, but for the profit of my own inner man.
+            - The difference between my former practice and my present one is this. Formerly, when I rose, I began to pray as soon as possible, and generally spent all my time till breakfast in prayer, or almost all the time. At all events I almost invariably began with prayer… But what was the result? I often spent a quarter of an hour, or half an hour, or even an hour on my knees, before being conscious to myself of having derived comfort, encouragement, humbling of soul, etc.; and often after having suffered much from wandering of mind for the first ten minutes, or a quarter of an hour, or even half an hour, I only then began really to pray.
+            - I scarcely ever suffer now in this way. For my heart being nourished by the truth, being brought into experimental fellowship with God, I speak to my Father, and to my Friend (vile though I am, and unworthy of it!) about the things that He has brought before me in His precious Word.
+            - It often now astonished me that I did not sooner see this. In no book did I ever read about it. No public ministry ever brought the matter before me. No private intercourse with a brother stirred me up to this matter. And yet now, since God has taught me this point, it is as plain to me as anything, that the first thing the child of God has to do morning-by-morning is to obtain food for his inner man.
+            - As the outward man is not fit for work for any length of time, except we take food, and as this is one of the first things we do in the morning, so it should be with the inner man. We should take food for that, as every one must allow. Now what is the food for the inner man; not prayer, but the Word of God; and here again not the simple reading of the Word of God, so that it only passes through our minds, just as water runs through a pipe, but considering what we read, pondering over it, and applying it to our hearts....
+            - I dwell so particularly on this point because of the immense spiritual profit and refreshment I am conscious of having derived from it myself, and I affectionately and solemnly beseech all my fellow-believers to ponder this matter. By the blessing of God I ascribe to this mode the help and strength which I have had from God to pass in peace through deeper trials in various ways than I had ever had before; and after having now above forty years tried this way, I can most fully, in the fear of God, commend it. How different when the soul is refreshed and made happy early in the morning, from what it is when, without spiritual preparation, the service, the trials and the temptations of the day come upon one!
+- 今日省思
+    - #[[Roam Research]]
+        - 没用好不是rr的错，而是自己的懒惰涣散，加上身体状况不好造成的，所以说到底是一个#[[康健]]问题
+        - 从现在起，严肃认真地对待rr
+    - 到了[[创邑办公室]]，安静下来，开始冷静地反思自己。
+        - #[[康健]]
+            - 这是最大的问题，一切问题的根源。
+            - 要做到，每天走路5公里，或者8000步以上
+                - 与[[阿吴老师]]打卡
+                - 每周五天
+                - 服用药物治疗膝关节酸痛
+                    - [[尪痹胶囊]]
+                    - [[硫酸氨基葡萄糖胶囊]]
+            - 12点之前睡眠
+            - 饮食上，低碳水
+            - 今日体重：91kg
+            - 一周减肥目标体重：88.5kg
+            - 一月减肥目标体重：83.5kg
+            - 一个月血糖目标：6.1以下
+        - 美德操练
+            - {{[[TODO]]}} #[[节制]] 
+                - 饮食上，除早餐外，全都无碳水
+            - {{[[TODO]]}} #[[缄默]] 
+            - {{[[TODO]]}} #[[有序]] 
+                - 合理安排时间
+                - 12点之前睡觉
+            - {{[[TODO]]}} #[[决心]] 
+            - {{[[TODO]]}} #[[简朴]] 
+                - 不再添置任何数码产品
+            - {{[[TODO]]}} #[[勤奋]] 
+                - 每天都要产出文字
+                - 不低于5k字的原创
+            - {{[[TODO]]}} #[[真诚]] 
+            - {{[[TODO]]}} #[[正义]] 
+            - {{[[TODO]]}} #[[宽和]] 
+            - {{[[TODO]]}} #[[整洁]] 
+                - 每天洗澡
+                - 每天收拾桌子
+            - {{[[TODO]]}} #[[冷静]] 
+            - {{[[TODO]]}} #[[寡欲]] 
+                - 不再用言语犯第七诫
+        - #[[Finance]]
+            - #[[gc8]]开启
+            - #编剧故事营 杭州上课
+                - 要剪片子
+                - 放出时间不迟于礼拜一

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Zaza Urushadze]]
+        - Writer:: [[Tatjana Mülbeier]] [[Zaza Urushadze]] [[Artur Veeber]]
+        - Cast:: [[Lembit Ulfsak]] [[Elmo Nüganen]] [[Giorgi Nakashidze]]
+        - Year:: [[2013]]
+        - Genre:: #Drama #War
+    - **IMDb:** https://www.imdb.com/title/tt2991224
+    - **Plot Summary:** In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.

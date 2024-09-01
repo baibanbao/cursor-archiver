@@ -1,0 +1,6 @@
+- Author:: [[Elia Kazan]]
+- Full Title:: Elia Kazan
+- Category:: #books
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - Reader, I don’t seek your favor. I’ve been telling you only some of the things I was asking myself on the way “down.” But if you expect an apology now because I would later name names to the House Committee, you’ve misjudged my character. The “horrible, immoral thing” I would do, I did out of my true self. Everything before was seventeen years of posturing. The people who owe you an explanation (no apology expected) are those who, year after year, held the Soviets blameless for all their crimes.
+        - **Tags**: #[[green]]

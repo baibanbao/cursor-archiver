@@ -1,0 +1,14 @@
+﻿DS418
+1820PHN489500
+
+Synology Support Team
+2021-08-25 01:43:03
+We created a technical support ticket for the S/N verification. To ensure a smooth process, please do not remove your devices from the Device List. Please follow the instructions below to complete the S/N verification.
+
+1
+Write down the verification code Koz5J6 on a piece of paper.
+
+2
+Find the label indicating the MAC address and S/N attached to the rear or bottom of your Synology NAS. Record a video that clearly shows the label, verification code, Synology logo, and model name. Note: Make sure the MAC address, S/N, verification code, Synology logo, and model name are clearly recognizable in the video. You may refer to the samples.
+3
+Click Reply and upload the video. We will start the verification process after receiving your reply.

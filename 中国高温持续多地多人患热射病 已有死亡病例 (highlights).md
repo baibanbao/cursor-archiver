@@ -1,0 +1,7 @@
+- Author:: [[var _mySPHObj;]]
+- Full Title:: 中国高温持续多地多人患热射病 已有死亡病例
+- URL:: https://www.zaobao.com.sg/realtime/china/story20220713-1292355
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[July 13th, 2022]]
+    - 热射病是中暑的一种严重状态，很可能有生命危险，当出现高热、神志恍惚等症状时一定要马上送医抢救，高温高湿环境下的重体力劳动者、老年体弱或有慢性疾病者、婴幼儿是热射病高危人群。 ([View Highlight](https://instapaper.com/read/1521335255/20049456))

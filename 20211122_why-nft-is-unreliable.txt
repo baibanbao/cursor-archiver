@@ -1,0 +1,123 @@
+﻿Because I'm in that kind of mood today, let's talk NFT and why they are, at the very least, problematic, even when setting aside the ethical issues with PoW systems and the broader ecosystem. This is going to be a long one, but I hope informative.
+
+Also, I'm trying to be objective here, pointing out real issues, not personal biases/preferences.
+
+I have to thank @Cloudflare's recent announcement of NFT tooling, as that makes it easier to show.
+
+There is a demo on NFT creation that you can try for yourself here: github.com/cloudflare/cfw… Feel free to use it to validate my claims :)
+
+Also, to be clear, although I will focus on image-based NFT, this all applies to any other asset certified as an NFT.
+
+GitHub - cloudflare/cfweb3
+
+Contribute to cloudflare/cfweb3 development by creating an account on GitHub.
+
+https://github.com/cloudflare/cfweb3
+
+It's just that images are more common and Cloudflare gives us some tooling to verify I'm not lying :)
+
+Let's start with the technical side. What does an NFT contract create?
+
+From what I have seen, many people assume the contract creates some certificate that shows you own the image. The reality is quite different. I've created a sample NFT using the Cloudflare app in a dev network: rinkeby.etherscan.io/tx/0xa02d28f5b…
+
+What does this give me?
+
+We can query the contract with the token id (491) in this page: rinkeby.etherscan.io/token/0x290422… Use the function 23, `tokenURI` and set the value to 491 (token id). You get an url as a result.
+
+The url is nft.examples.workers.dev/nft/491 What is that? That url returns some json that indicates where the image I acquired is stored. If I load the url in that json, then I get the real image associated to the NFT: cloudflare-ipfs.com/ipfs/Qma6eRuWT…
+
+And this is where the problems start.
+
+The certificate you have stored in the contract, in the blockchain, the one you can verify with your private keys... is not the image. It's an url, that currently points to some json. Let me repeat this, you own an url, not an image (or another NFT-verified asset).
+
+Your image is twice removed for your data in the blockchain: first the json url, then the url in the json that points to the asset.
+
+IANAL but it would be interesting to see how you could enforce those levels of indirection in a trial, given that what you paid for in the contract (and got permanently added to the log, in exchange) is an url that is not pointing to your asset. It's pointing to json.
+
+Then we start with the problem of having two urls in to obtain your asset. You don't own any of those 2 url. They are owned by external parties. So, you paid for a link in a domain that you don't own, and you can't control.
+
+Now, I'm not going to assume malicious intent, specially on the first url. It's likely the company that created the contract wants to be active, for many years. But companies fail, the younger a company, the more likely it is to fail within the first years.
+
+If that happens, the domain will be transferred, and it is likely that url will stop working.
+
+The same applies to the second url. These are usually a different entity, not the one that created the contract.
+
+You are now exposed to the potential failure of 2 companies, the moment either of them stops owning the domain, your NFT is gone.
+
+And this is ignoring malicious intent, like this: cointelegraph.com/news/opensea-c… You don't own the domain, the owner can, at any point, change what the url serves. There is no contract anywhere, not even in the blockchain, that prevents that. And your NFT is gone.
+
+OpenSea collector 'pulls the rug' on NFTs to highlight arbitrary value
+
+An artist has chosen to make a statement on the value of NFTs by replacing the images tied to tokenized artworks with pictures of rugs.
+
+https://cointelegraph.com/news/opensea-collector-pulls-the-rug-on-nfts-to-highlight-arbitrary-value
+
+Some people argue that this can be solved using IPFS, as it is distributed, and you would only need the hash. Except that option has its own downsides.
+
+For starters, an IPFS node usually has an eviction policy, in which items which are not requested often may be removed from the local cache of the node. This is because IPFS is engineered to handle much more data a single server would be able to serve.
+
+A node can 'pin' files so that they are never removed, but this means that if your file is in IPFS you better keep it 'alive' or you own a node that keeps it pinned. Not all the NFT buyers can set up a secure IPFS node to ensure their link doesn't die due to cache eviction.
+
+The other issue is that you will use an entry point, a node, to access IPFS. The cloudflare example is in their IPFS node, in fact. Look again at the url: cloudflare-ipfs.com/ipfs/Qma6eRuWT…
+
+But that IPFS node is under a domain owned by Cloudflare.
+
+And that url is the one in the json config. And you are back to the issue about not-owning the domain: if that particular IPFS node is retired, your NFT points to a lot of nothing.
+
+You could argue that you can access the file using the hash, via any other IPFS node (the hash is the Qma6eRuWT27UlyCZCCVNpnndzRYWqyQrX4DfdgMCsLs5u8H bit). But then your contract is not referencing that. Anyone could access the file doing the same.
+
+Want to prove you own it? Back to the domain issue.
+
+Obviously, downloading the image is not a solution. You have a copy, but not the ownership as stated in the blockchain. Or so it is said:
+
+NFT owners insist they're totally not owned by 'right-click savers'
+
+An online battle rages between those spending hundreds of thousands of dollars on non-fungible tokens, and the people copy-pasting them.
+
+https://mashable.com/article/non-fungible-tokens-nfts-right-click-save
+
+Tricky, isn't it? You are not buying the asset, but a 2-level indirection on the asset, and you don't control either of the indirection levels. Maybe I am old school, but this doesn't sound like ownership to me. Right-clickers aside.
+
+Then we enter the issue of the right-clickers. To use the term the community uses. Many NFTs are currently sold as collectibles. What makes something a collectible? Well, we can ask some investment experts:
+
+Investing in Collectibles
+
+Collectibles are items worth more than they originally sold for because of their rarity and popularity. Learn about investing in collectibles.
+
+https://www.investopedia.com/terms/c/collectible.asp
+
+"The price for a particular collectible usually depends on how many of the same items are available as well as its overall condition." Being digital, the condition part is moot. But the availability part, not so.
+
+Because, yes, you have your url in the chain... but anyone can copy the asset. Freely, no way to avoid it, nothing you can do to enforce it.
+
+And this creates a dilemma. Yes, there may be a limited number of url stored in the chain, vs copies not validated in the chain.
+
+But, this is very different from a limited edition art print. In those, you have a physical asset that guarantees it is unique. Along the contract that says only x prints were created. I can't duplicate that.
+
+But I could right-click your NFT and mint a new NFT of the same image. Verified in the chain. And you can do nothing to avoid it. Sue me, your ownership is of an url. That's what it is in the chain.
+
+So, I could have a cheap contract that mints NFTs which are copies of existing NFTs. I leave to your imagination what may that do to the price of your NFT when I put them all in the market.
+
+A physical asset can't be attacked this way. No, your favourite chain won't fix this.
+
+All the chains have this mismatch between virtual and real world. It is something that can't be patched. Many things are valuable in the physical world due to scarcity. The digital world has no scarcity. Remember the arguments pro-Napster? 21 years ago? That.
+
+And no, metaverse won't solve this. You can try to enforce artificial scarcity. If the history of piracy has shown anything, it is that it doesn't work. And, as a result, your NFTs will have less value.
+
+A common counterpoint to all this is: why do you think a company like @cloudflare would build tooling for NFT if it wasn't a real thing? It's not like I consider them a bad/failed company, and they wouldn't build something that would lose them money.
+
+But there is a perfect rational reason to do that, which those in tech have heard often. “You can mine for gold, or you can sell pickaxes”. Cloudflare is selling you the pickaxe.
+
+According to their docs, the Ethereum gateway is an SSL for SaaS provider, and their documentation on Getting Started with SSL for SaaS mentions `Enterprise plans` and indeed their pricing page seems to support that:
+
+Our Plans | Pricing
+
+Discover which Cloudflare plan is correct for your requirements. Find out more about Cloudflare plan pricing and sign up for Cloudflare here!
+
+https://www.cloudflare.com/en-gb/plans/3/
+
+And even if it is initially for free (the docs are not great at showing the costs associated to Ethereum gateway or SSL for SaaS), you are already onboarded as a customer and likely to become a paying one. So, Cloudflare, as a business, has strong incentives to go ahead.
+
+In summary, I understand the hype around NFT, but it would probably be more honest if everyone understood this is not the wonderful system its promoters say. It has many potential issues. It's nice to see there is a chance to make quick bucks, and a lot of them.
+
+And some people are making a killing with it. But it is likely many of you will be left holding the bag. You are welcome to play with them, but understand the risks associated.

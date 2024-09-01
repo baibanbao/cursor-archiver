@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzFlMTJjYzUtMWFjYy00NjkyLTg1Y2EtYmZkMjdlOGQ1ZGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Cameron Crowe]]
+        - Writer:: [[Alejandro Amenábar]] [[Mateo Gil]] [[Cameron Crowe]]
+        - Cast:: [[Tom Cruise]] [[Penélope Cruz]] [[Cameron Diaz]]
+        - Year:: [[2001]]
+        - Genre:: #Fantasy #Mystery #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0259711
+    - **Plot Summary:** A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FQYsgQ3C_v5.pdf?alt=media&token=766021c2-b811-482a-bf73-551100fac175}}

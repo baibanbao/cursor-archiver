@@ -1,0 +1,2 @@
+- [Releases · yetone/openai-translator](https://github.com/yetone/openai-translator/releases)
+- 

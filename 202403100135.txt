@@ -1,0 +1,13 @@
+从现在开始只使用The Archive试试。
+
+我的工具太多，让我晕头转向，需要做减法，减到极致，也就是只有一个工具。The Archive足够用，无须添加什么。
+
+我已经厌倦了这么多工具，让我休息一下吧，求求你们了。
+
+## My favorite stock macOS apps
+
+TextEdit: <openany://app/TextEdit>
+
+## 当我需要调整公众号格式的时候
+openany://app/metion
+

@@ -1,0 +1,231 @@
+﻿# Daily Notes 2024-06-15
+
+## 欧洲杯
+
+揭幕战
+
+德国 vs 苏格兰
+
+我还是很喜欢苏格兰队的，因为这个队伍比较稳定。
+
+![德国对苏格兰](https://cdn.sa.net/2024/06/15/CzHWAfuXksUt4ZY.png)
+
+只要掌握了一点诀窍，就可以长期地学习和提高。
+
+> 文科生应该利用LLM去学习CS
+> 
+> 理科生应该利用LLM去学习文科。
+
+大力掌握Markdown
+
+用最简单的软件，做最利索的工作。
+
+**需要内链吗？**
+
+我觉得并不很需要。
+
+## 今日事
+
+- 走路1万步
+- 接送儿子上小记者
+- 今日节制不要看电影
+- 做有趣的事
+- 做沉静的事
+
+## 学习代码
+
+`swift比希腊语更难吗？`
+
+```
+ manim -pql bitter_sweet_event.py BitterSweetEvent
+```
+
+用manim制作视频是最简单的，以后要经常用，结合luma制作的ai视频，可以享受AI带来的时代福利。
+
+## Reading List
+
+- [30 Best Math Books to Learn Advanced Mathematics for Self-Learners](https://abakcus.com/30-best-math-books-to-learn-advanced-mathematics-for-self-learners/)
+- [DeepLearningAITable](https://www.notion.so/baibanbao/632b2772d8634ac387bf7eea62381cbb?v=c2544f846e65484fa10cdbcd8327372c)
+- [安全入口，放心访问](https://www.shenmezhidedu.com/)
+
+## GPT学习法
+
+Susan the dice tree
+@feltanimalworld
+今天不知道看到哪位推友的帖，说要学金融，会计，经济，管理。我建议，全体合并，买一套CFA教材，按照我说的手搓教科书的方式自己对着教材用GPT。碰到任何不懂的词就开始深入理解，关键词和重点理论抓着不放，无限扩展。数学部分用GPT和编程换着法搞定，numpy, tensorflow, quantlib什么的自己学着用，能用编程的绝对不用手。报表哪里看不懂自己叫GPT从会计学原理跟你讲。用一些扩展的prompt比如give me all theories associated with this concept，死搓它3个月。作为程序员的你会发现，嗯？也很简单嘛，幸好没上个水硕。 教材据说淘宝上有？谁找到好心发我个链接🙏多谢
+
+
+Susan the dice tree
+@feltanimalworld
+现在做一件最简单的事情，就证明“垃圾教科书”广泛存在。那就是那你找一门你学的最不好的一门课，用我推荐的globe写一份大纲，用GPT为你自己专门写一本教科书。按照以前我介绍的prompt engineering 技巧，凡看不懂的关键词全部叫他释义，稍微复杂点的概念叫他使用metaphor; 能用图表的叫他mermaidJS , 大段读不懂的地方叫他转换为multiple choice帮你主动理解，lab叫他按照你学过的知识和你解题的能力来设计难度。叫他生成针对某些关键概念你跟他玩discussion对话。你就真正知道垃圾教科书是一回事，真正的好的老师和教科书是针对每个人量身定制的。现在我们完全有这个技术条件可以做到了。
+
+
+Susan the dice tree
+@feltanimalworld
+不知道大家上Coursera要不要付费，其实付费的Coursera我觉得还是挺不错的，目前我统计了一下，我只把自己掏过钱的课程给上完了。当然这门课也没其他选择，只能掏钱。所以，还是选少量精选的课程去掏钱上了吧。
+
+Susan the dice tree
+
+@feltanimalworld
+学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育，Free accredited STEM education for everyone!
+
+
+Susan the dice tree
+@feltanimalworld
+拉马努金圆周率方程，让我第一次感觉这个世界不是我想的那样“唯物”。尤其是这个常数，那么小，那么“整”，怎么来的？要知道这个方程是应用于“high precision”高精度圆周率计算的，至少现在已经到小数点后兆位这个级别了。这也是我顿悟瞬间，宇宙的真相也许不在星辰大海，人类可以不往外看，往内看，低头看（手机电脑人工智能），也许也能找到宇宙的真相。
+
+Susan the dice tree
+@feltanimalworld
+有时候学很多东西要尽量系统一些，哪怕这个系统仅仅只是在自己的笔记整理上。逛了那么久，就觉得吴恩达老师的DeepLearningAI最适合当我的学习标杆大纲，就做了一份。以后这份笔记会一直更新，我会不停的扩展，作为一个系统学习AI的笔记分享给大家。
+
+他们的课分为3种：Short, Course, Specialization 
+
+Specialization：含量最高的付费课程，一般4-6个月左右，是类似大学专业课的设置。
+
+Course: 一个月左右，可以看成 Specialization的一门课来学，也是专业性比较强的。
+
+Short: 数目最多的课程，通常只有一个小时，但是针对市场的AI应用专门领域请这个领域的人士做的扫盲课。相当于帮你把这个小niche里面的内容一个小时快速过一遍。
+
+程度目前有小白友好Beginner，和稍微深入一些的Intermediate. 
+
+有Notion的用户可以将分享的表单作为Template保存，方便以后自己慢慢上课扩展。我介绍一个我最喜欢的Notion功能：Tag，所有课我都尽量把关键词做成Tag，用过都知道，就是好～
+https://deeplearning.ai
+
+
+igris
+@tig88411109
+·
+Jun 13
+Replying to 
+@feltanimalworld
+ and 
+@dotey
+对的，目前大学改革方向就是这样。最新的UIUC顶级cs专业改革，就是万物➕cs，各个专业全部有minor cs。
+
+Susan the dice tree
+@feltanimalworld
+·
+Jun 11
+不能同意更多，想要学这些学科没有必要出国。可以上一个一个Online Degree，人文学科你实在感兴趣，就写作。真正的人文大师，写得出大作。 https
+
+
+Susan the dice tree
+@feltanimalworld
+以前教英语文学的老师经常要我们研究诗歌，靠诗歌来学习英语的语法和结构。他说你把诗歌这种英语母语者都不一定（文化水平不够的话）能分析的文体分析了，其他的绝对不会有问题。体会一下我当时闭卷考试的痛苦吧。不过现在其实不用了，可以使用GPT。你别研究莎士比亚这种古英文，挑一个现代一点的T.S.Elliot。分享我几个技巧，1）断句。类似以前文言文时代的私塾断句， 英文叫Parse; 2)叫他画结构。比如SPO结构，我一直在说的，这个还真的没见过他犯过错误，一次也没有。可以叫他用颜色标记一下，好看很多。有时候我会把的Prompt写的很模糊，让GPT发挥。这是一个很好用的技巧，因为很多意想不到的输出经常都是来自于这个模糊prompt。 这次结构输出我认为他犯了一个我不赞同的错误，我用红圈画了出来。
+
+我一直建议以后都使用英文输入，英文输出。有一部分人可以把英文技术调用GPT作为一项技能来研究，尤其是一些技术领域。就好比一个大数据库（LLM)的sql语言，磨练英语技巧绝对是一个值得投资时间的领域，就从英文诗歌做起。
+
+> 经过我研究，可以用notion来解析mermaid
+
+Susan the dice tree
+@feltanimalworld
+·
+Jun 5
+现在，所有的领域都在向互联网上迁移。 几乎所有的领域都在深度结合计算机。 搞懂了计算机的底层原理， 善长使用计算思维解决问题， 肯定是非常难得的人才。
+
+
+Mr Bear
+@mrbear1024
+临近高考， 我也分享一下， 为什么现在，最好的专业仍然是计算机科学。 
+
+说什么计算机专业的红利之类的话， 还是太肤浅了。 为什么大家普遍认为， 这个时代最好的专业是计算机专业。 主要原因是：
+
+现在，所有的领域都在向互联网上迁移。 几乎所有的领域都在深度结合计算机。 这么想， 计算机专业能不火吗， 搞懂了计算机的底层原理， 善长使用计算思维解决问题， 肯定是非常难得的人才。 
+
+尤其是当你既懂计算机又懂更垂直的领域， 比如财务、金融、法律、生物、基因工程等等。  
+
+我个人觉得， 目前的所有的领域与互联网或计算机相结合的程度， 还远远不够， 仍然有着十分漫长的路要走。 
+
+因此， 学习计算机科学专业肯定错不了
+
+如果你要找一个计算机科学对口的工作， 还是有不小的难度的， 但是我觉得未来除了搞懂计算机， 再研究两门跨学科的领域，  有了计算机科学的底子， 深度入到其他行应用型行业， 几乎是降级打击。  
+
+（图片与内容无关，只是为了好看）
+
+删除
+
+【年度最令人苦笑事件】一位推友办了一个网站 什么值得读，结果前几天自豪地说卖出去了，对方开价6位数，一群人就说你看，内容可以变现吧。读书网站还是有前途。
+
+结果今天有人发现 https://shenmezhidedu.com 被买去做成了赌博网站，原来对方看上的是他的域名：什么值得赌
+
+
+noon
+@noon55950671
+·
+1h
+今天买了 明天主动举报是不是还有奖励
+George Zhao
+@chengyi_666
+·
+11h
+什么值得读，No
+什么值得赌，Yes
+Stephen Chow、💎👋
+@chownsb
+·
+3h
+这不是重点，重点是国内备案没注销的情况下卖域名？！卧槽，这是个什么菜鸡新手？
+Stephen Chow、💎👋
+@chownsb
+·
+3h
+好事老哥的互联网记忆🤡
+You’re unable to view this Post because this account owner limits who can view their Posts. Learn more
+编乎研究院
+@bianhu_org
+·
+4h
+他的网站备案还在，再不注销就要摊上事儿啦
+labulakalia
+@labulakalia
+·
+10h
+找到了 🤣https://x.com/lvloomystery/status/1674650238722904067?s=46
+This post is unavailable.
+ag lee
+@ryzesme1
+·
+2h
+现在还有买域名的？
+威震天
+@zdfjt
+·
+3h
+笑死了
+豆三十
+@thirty_beans
+·
+12h
+笑死，对方已经删帖了
+Pingzi
+@Pingzi28163854
+·
+12h
+昨天刷到过那位大佬的推文
+zhenchen
+@chenz8606
+·
+3h
+啊。这。。
+非常
+@opiuLSD
+·
+11h
+这玩意有法律风险，搞不好就进去了
+❤️我很红🇨🇳（互关，互fo）
+@ypf9319
+·
+4h
+太搞笑了吧！年度十佳！
+Caesar
+@qOSUHbOucgRzwvx
+·
+1h
+又变成古诗词网站了😁
+
+啊这！那位独立开发者估计也不知道， 不然不会卖那么低。马上欧洲杯了，这些人真是手快。
+deallielawmove013
+@deallielaw8080
+·
+8h
+不是很可信。中文域名有这么值钱吗？谁会搜一个域名去赌钱？流量还是靠微信去推，gfw随时封锁。

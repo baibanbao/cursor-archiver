@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BYzU2NDg3ZTItNzRmNy00NTQzLTljMDUtNjczOTMwZjEzNWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[John Woo]]
+        - Writer:: [[Graham Yost]]
+        - Cast:: [[John Travolta]] [[Christian Slater]] [[Samantha Mathis]]
+        - Year:: [[1996]]
+        - Genre:: #Action #Adventure #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0115759
+    - **Plot Summary:** Terrorists steal nuclear warheads from the U.S. military but don't count on a pilot and park ranger spoiling their plans.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FwIAT2cACYM.pdf?alt=media&token=9c299471-5924-4b5c-92e0-79ce84b2d63e}}

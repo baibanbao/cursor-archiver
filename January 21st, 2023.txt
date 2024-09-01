@@ -1,0 +1,39 @@
+- [[Gratitude]]
+    - #[[Prayers&Answers]]
+        - Date: [[January 21st, 2023]] 11:39
+            - 赞美感谢
+                - 车从陷阱中开了出来
+                - 感谢主让我还有40天的时间可以从事创造之工，从而拯救我
+                - 赞美主的伟大
+            - 认罪悔改
+                - 为了自己的偏狭
+                - 为了自己以自我为中心
+                - 为了自己明知道正确的却不去做
+                - 为了自己明知道错误的还要去行
+                - 为了自己的不洁不义
+                - 为了自己的懒惰
+                - 为了自己在外形上没有荣耀主
+            - 祈求
+                - 求主帮助我完成今天的写作任务，5000字
+                - 求主赐给我力量
+                - 求主赐给我健康
+                - 为未完全的圣约家庭祷告
+                - 为[[岳父]]的健康
+                - 为[[老周]]的眼睛
+                - 为[[邵风华]]的康复
+            - Tongues
+                - Set a Pomodoro
+                    - {{[[POMO]]: 2}}
+- [[Day Start]] 11:39
+- Daily Tasks
+    - {{[[TODO]]}} [[四季青青]]5000字
+    - {{[[TODO]]}} [[四季青青]]现有资料研究
+    - {{[[TODO]]}} [[四季青青]]新大纲
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

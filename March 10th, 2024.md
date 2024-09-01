@@ -1,0 +1,58 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 20:28
+- Daily Tasks
+    - 
+- ---
+- [[Daily Journal]] 
+    - 双键盘快速写作
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **20:28** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [(2) Biblical Family Tree: Adam & Eve to Jesus - YouTube](https://www.youtube.com/watch?v=D9b9h5mCgAc)
+    - 用[[沉浸式翻译]]读杂志
+        - [hehonghui/awesome-english-ebooks: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新](https://github.com/hehonghui/awesome-english-ebooks)
+- #[[康健]]
+    - 以后中午开始锻炼，选在白天，晚上太黑，湿气太重，所以暂时不要行动，要改成温暖的天气，再出行。
+- [[Edit Later]]
+- [[gc10]]
+    - 别人的服务，主打是出版一本书。
+        - [Storyworth – record family stories.](https://www.storyworth.com/purchase)
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+    - 到底用不用Heptabase，我的内心是矛盾的，不用并不是它不好，而是源于自己内心对自己的懒惰的逃避。
+    - 用Roam Research能替代hepta吗，至少我看无法完全替代。
+    - hepta还是有它的创作依据，就是沉浸式的分部写作，的确能够改变人的认知架构。
+- [[一娱多吃]]
+    - [[赵安吉事件]]
+        - [赵安吉 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%AE%89%E5%90%89)
+        - [美媒披露赵安吉车祸过程：开特斯拉挂挡操作失误坠入池塘 | 联合早报](https://www.zaobao.com.sg/realtime/china/story20240309-3133963)
+        - [邓文迪默多克正式离婚 婚姻改变命运的神话结束\_中国青年网](https://pinglun.youth.cn/gtx/24/)
+        - [趙安吉生前最後幾分鐘 曾瘋狂致電求救 | 美國即時 | 美國 | 世界新聞網](https://www.worldjournal.com/wj/story/121469/7820379)
+    - 
+    - 默多克娶亲
+        - [92岁默多克喜迎五婚，女方自带巨额遗产 - 周末画报](https://www.modernweekly.com/hots/39544)
+        - [92岁默多克准备“五婚”，前妻子女曾因家族信托闹翻 | 界面新闻](https://m.jiemian.com/article/9101596.html)
+        - 
+    - 今天[[郑永胜]]弟兄的交流让我看到了自己的懒惰和低效，他认为我可以使用ai自动化去完成这些创作，当知道我还在手工搓，并且要花费那么多时间，他觉得不能跟我学。
+        - 他也想做自媒体，但是希望使用更加自动化的方法。我也深有体会和启发。
+            - 你看，只要做一点小小工作，就能给朋友以灵感和力量。所以，我千万不可以妄自菲薄，而是应该奋起。
+- [[写作GPTs]]
+    - 写作gpt们至少都要自己用一遍。
+    - 无聊的24小时AI影像频道
+        - [AInfiniteTV](https://www.ainfinite.tv/)
+- [[两句半]]
+    - 计划本周二，也就是 [[March 12th, 2024]] 与[[刘淼]]重新录制两句半。
+- [[背诵]]#Jonas 
+- [[写书]]
+    - 当[[王旻瑚]]姊妹问我最近在做啥，我说在写书。我没有说全部的实话，但是，我的确希望自己是在写书，而不是整天在网上瞎转。
+- #Finance
+    - 研究[[BTC]]
+- ---

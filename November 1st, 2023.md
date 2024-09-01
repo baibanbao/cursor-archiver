@@ -1,0 +1,52 @@
+- [[The Power of Prayer]]
+- #[[Prayers&Answers]]
+    - Date: [[November 1st, 2023]] 17:06
+        - 赞美感谢
+            - 赞美上帝，创造和护理。
+            - 赞美主，让我行在光中，不再坠入黑暗。
+            - 感谢主，让[[我们的AI]]获得成功
+                - 感谢主让我的网站 zhongwen.ai 也有了新的名字：我们的AI
+            - 感谢主，让#[[Seven]]也可以去参加周末烧烤，认识教会的弟兄姊妹，求主感动她的心，使她悔改得救。
+        - 认罪悔改
+            - 为了自己的小信
+            - 为了自己的不圣洁，没有追寻主的心意
+            - 为把主当成自己的仆人和工具
+            - 为消费主义的神学观
+            - 为自己没有说实话，对[[派派]]老师没有说完整的实话。
+            - 为自己的懒惰，沉溺于推特，一刷刷一晚上儿认罪
+            - 为自己食言而肥，说话不算数，不守约而认罪
+        - 祈求
+            - 求主给我力量，尽我的责任，让我们不偏待人，
+            - 求主让我能够踏踏实实从一点一滴做起，不幻想速富，不贪财。
+            - 求主让我平安度过11月份。
+            - 求主让我完成我的承诺，包括 #四季青青
+        - Tongues
+            - Set a Pomodoro
+- [[Gratitude]]
+- [[Day Start]] 16:57
+- Daily Tasks
+    - {{[[DONE]]}} [[sc7]]第一课
+    - {{[[DONE]]}} [[dfree]]
+    - {{[[DONE]]}} 清楚自己做什么
+    - {{[[DONE]]}} 神不偏待人
+        - 1. [历代志下 - 第 19 章 第 7 节](http://www.chinesebibleonline.com/book/2%20Chronicles/19)
+        - 现在你们应当敬畏耶和华，谨慎办事。因为耶和华我们的神没有不义，不偏待人，也不受贿赂。
+        - 2. [使徒行传 - 第 10 章 第 34 节](http://www.chinesebibleonline.com/book/Acts/10)
+        - 彼得就开口说，我真看出神是不偏待人。
+        - 3. [罗马书 - 第 2 章 第 11 节](http://www.chinesebibleonline.com/book/Romans/2)
+        - 因为神不偏待人。
+        - 4. [以弗所书 - 第 6 章 第 9 节](http://www.chinesebibleonline.com/book/Ephesians/6)
+        - 你们作主人的待仆人，也是一理，不要威吓他们。因为知道他们和你们，同有一位主在天上，他并不偏待人。
+        - 5. [歌罗西书 - 第 3 章 第 25 节](http://www.chinesebibleonline.com/book/Colossians/3)
+        - 那行不义的，必受不义的报应。主并不偏待人。
+        - 6. [彼得前书 - 第 1 章 第 17 节](http://www.chinesebibleonline.com/book/1%20Peter/1)
+        - 你们既称那不偏待人，按各人行为审判人的主为父，就当存敬畏的心，度你们在世寄居的日子。
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

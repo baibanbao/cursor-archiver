@@ -1,0 +1,40 @@
+- #[[Prayers&Answers]]
+    - Date: [[December 3rd, 2023]] 04:47
+        - 赞美感谢
+            - 赞美主的主权，救恩，永恒不变的计划
+            - 感谢神的护理
+            - 感谢主让我看到自己的不堪
+        - 认罪悔改
+            - 为自己内心的偶像
+                - 软件就是我的偶像
+                    - 笔记系统就是我的偶像
+                        - Ai也是我的偶像
+        - 祈求
+            - 求让#[[Jonas]]恢复健康
+            - 求主保护#[[SLBC]]安全
+            - 求主让我履行诸般的义
+                - 借书
+                    - 3本书
+                        - [[天堂简史]] * 2
+                        - [[帕斯卡思想]]
+                - [[奉献]]
+        - Tongues
+            - Set a Pomodoro
+- [[Gratitude]]
+- [[Day Start]] 04:52
+- Daily Tasks
+    - {{[[DONE]]}} 教会图书三本
+    - {{[[DONE]]}} 参加聚会
+    - {{[[TODO]]}} 必要时带#[[Jonas]]去急诊
+    - {{[[DONE]]}} 读经
+    - {{[[DONE]]}} 祷告
+    - {{[[TODO]]}} 克服不想写作的病症
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 
+- ---

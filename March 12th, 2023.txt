@@ -1,0 +1,2 @@
+- [谈谈我对 ChatGPT 应用的 prompt 的看法 | Reorx’s Forge](https://reorx.com/makers-daily/004-prompts-and-parameters-transparancy/)
+- 

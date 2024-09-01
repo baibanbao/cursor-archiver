@@ -1,0 +1,10 @@
+- ![](https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)  
+- **Metadata:**
+    - Director:: [[Robert Zemeckis]]
+    - Writer:: [[Winston Groom]] [[Eric Roth]]
+    - Cast:: [[Tom Hanks]] [[Robin Wright]] [[Gary Sinise]]
+    - Year:: [[1994]]
+    - Genre:: #Drama #Romance
+- **IMDb:** https://www.imdb.com/title/tt0109830
+- **Plot Summary:** The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...
+- 

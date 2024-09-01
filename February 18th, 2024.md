@@ -1,0 +1,29 @@
+- [[Gratitude]]
+- [[Prayers&Answers]]
+    - 赞美感谢
+    - 认罪悔改
+    - 祈求代求
+    - Depth
+- [[Day Start]] 03:41
+- Daily Tasks
+    - {{[[DONE]]}} 聚会
+    - {{[[DONE]]}} 给Jo提交作业
+    - {{[[TODO]]}} 写一篇公众号
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **03:41** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [Akifyss/obsidian-border: A theme for obsidian.md](https://github.com/Akifyss/obsidian-border)
+- #[[康健]]
+- [[Edit Later]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[四季青青]]
+- [[Heptabase]]
+- [[Sora Camp]]
+- [[写书]]
+- #Finance
+- ---

@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNWU3MDFkYWQtMWQ5YS00YTcwLThmNDItODY4OWE2ZTdhZmIwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Robert Redford]]
+        - Writer:: [[Judith Guest]] [[Alvin Sargent]] [[Nancy Dowd]]
+        - Cast:: [[Donald Sutherland]] [[Mary Tyler Moore]] [[Judd Hirsch]]
+        - Year:: [[1980]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0081283
+    - **Plot Summary:** The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father and the guilt-ridden younger son.

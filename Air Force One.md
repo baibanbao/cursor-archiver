@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZmNiNTQ5ZjMtOThjYS00NDc2LWFlMWMtZTM5OTA1NjRmMGM4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Wolfgang Petersen]]
+        - Writer:: [[Andrew W Marlowe]]
+        - Cast:: [[Harrison Ford]] [[Gary Oldman]] [[Glenn Close]]
+        - Year:: [[1997]]
+        - Genre:: #Action #Drama #Thriller
+    - **IMDb:** https://www.imdb.com/title/tt0118571
+    - **Plot Summary:** Communist radicals hijack Air Force One with the U.S. President and his family on board. The Vice President negotiates from Washington D.C., while the President, a veteran, fights to rescue the hostages on board.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FDL-FUobNDk.pdf?alt=media&token=c6d054cb-3d0c-4181-8eba-e2556355b445}}

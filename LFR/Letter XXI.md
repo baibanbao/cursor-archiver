@@ -1,0 +1,75 @@
+- letters::
+    - Status:: #status/PUBLISHED
+    - Published Date:: [[June 22nd, 2021]]
+- Hello again fellow Roamans, we’re now past the summer solstice so that means we’re on the downward trajectory to the cold winter nights! How quickly time flies.
+    - Speaking of which, it is exactly a year ago today that I launched my free Roam course. It started out as a way for me to learn Roam thoroughly, I had the lofty goal of having 50 people be interested enough to take it and I was shocked to find that I had almost 300 people sign up in the first two weeks before I was ready to launch it.
+        - https://twitter.com/elaptics/status/1275031190639202304
+    - Enough reminiscing, let's get on with this weeks letter.
+- # Around the Roaman Empire {{word-count}}
+    - ## Track how long you spend in Roam
+        - C3 has created an enhanced timer for Roam. An enhanced timer you say? That implies that Roam has a timer already! Why yes it does, it's simply `{{timer}}`. It's not highly publicised, because honestly it's not that useful.
+        - C3's makes a far more useful timer, giving you the ability to run multiple stopwatches and have them persist. He's created a really useful video explaining all the features.
+            - {{[[video]]: https://www.youtube.com/watch?v=GR_eZDEE7jo}}
+                - https://twitter.com/cococ_rr/status/1403829291415134208?s=21 #[[LFR/Letter XXI]]
+    - ## SmartBlocks 2
+        - [[David Vargas]] announced that he's working on version 2 of SmartBlocks which will massively improve the performance by using the Roam write APIs that are now available and he'll be expanding its abilities with more automations as well as a registry to make it easier to install and share SmartBlocks with others.
+        - [Find out more, and watch a demo video on the RoamJS site](https://roamjs.com/projects/da4f0582-dee8-4da6-84c5-22cb3933a8ce).
+        - It will be a big project so David is looking for funding to allow him to work on it fulltime for the next few months. As this newsletter goes out, he's almost reached 50% of his funding goal. If you find Roam42 and SmartBlocks helpful already then do consider funding David if you are able.
+            - [Fund David here](https://roamjs.com/projects/da4f0582-dee8-4da6-84c5-22cb3933a8ce).
+            - Also join me in retweeting [[Roamhacker]]'s tweet encouraging Roam Research to match the crowdfunded effort. If they do so, David can easily reach his target and we can all look forward to greater productivity within Roam!
+                - https://twitter.com/roamhacker/status/1407059150257934340?s=20
+        - https://twitter.com/dvargas92495/status/1405299454672924674?s=20 #[[LFR/Letter XXI]]
+    - ## Roam Bounties under new management
+        - [[Abhay Prasanna]] announced that the Roam team are taking over the management of the Roam Bounties project. For those who aren't aware, Abhay set up the project to make it easier to connect people with ideas for extensions with those who have the skills to build them, and it has fueled many extensions already.
+            - If you want to learn more [visit the Roam Bounties graph](https://roamresearch.com/#/app/roambounties/page/97seO_oAg) or [join the Slack channel](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw)
+            - Finally, I just wanted to add my personal thanks to Abhay once again for all his contributions to our community.
+                - (You can find out more about Abhay when he was in the [[Roaman Spotlight]] in [[LFR/Letter XIV]])
+            - https://twitter.com/roambounties/status/1405900242973769732?s=12 #[[LFR/Letter XXI]]
+    - ## Journaling
+        - Finally, two Roaman journaling superheroes are teaming up a couple of times this week to share their knowledge and practices with the wider world.
+        - [[Tracy Winchell]] and [[Ramses Oudt]] will first be holding a Twitter Space on [[June 23rd, 2021]] about journaling to structure your day.
+            - https://twitter.com/rroudt/status/1407296125531394050
+        - And then on Friday ([[June 25th, 2021]]), they will be hosting another RoamStack event focusing more on [[Interstitial Journaling]] and notes for our future selves.
+            - [Sign up and journal together live with the group.](https://lu.ma/rscfhrj)
+            - https://twitter.com/rroudt/status/1406977162138337281?s=12 #[[LFR/Letter XXI]]
+- # Roaman Spotlight {{word-count}}
+    - The Roaman I want to highlight this month is one of our unsung heroes, Denise Todd. She has been a supporter of my work, both monetarily and in spirit, but more importantly is also quietly, diligently cataloguing the important information from the Roam Slack workspace into a Roam graph for our future posterity.
+    - While these letters put me a little more front and centre, I've spent many hours helping others in online communities over the past two decades. I enjoy giving back and paying things forward for the help and knowledge I received plus it helps me consolidate my own knowledge, but it's often thankless work. However, if it weren't for people like Denise, our communities would not be what they are today.
+        - So please do take a few moments the next time you're in one of the community spaces, and say thanks to those who give their time freely to help you and others. A brief note of gratitude goes a long way!
+    - Without further ado, let's find out more about Denise.
+        - https://roamresearch.slack.com/archives/CN5MK4D2M/p1623258057062600 #LFR
+    - [[What do you use Roam for?]]
+        - Everything from tracking dinner guests and their food and drink preferences, to writing articles and developing courses. I track purchases, menus, warrantees, recurring payments, affiliate programs, web tech stuff, — well, everything in Roam.
+    - [[What has Roam taught you?]]
+        - That I am creative — like idea popcorn. My ideas just needed some hot oil (Roam) to get popping.
+    - [[What attracted you to Roam?]]
+        - Linked ideas. I had been looking for something like that for the last 30+ years. I gave up about 10 years ago. Then I started writing again and found my current system (maintained in Scrivener) just didn't have the find-ability I was looking for. Along came Roam. I still love Scrivener for long-form writing and it works especially well for fiction, but even that starts in Roam.
+    - [[What’s your favourite feature of Roam?]]
+        - The daily note page. If you go back and look at my earlier posts in Slack, you'll see that I did not understand why all the respected Roam gurus were saying they work only from the daily note page. But now I get it. And with a few exceptions, (like course development & second drafts) I write in the daily note page. Who knew a blank page could be so liberating?
+            - As a loner by choice, I spend a lot of time in my head. The daily note page gets me out of it, encourages me to look up and ask what else is out there, question what is true and why or why not. It's also a great conversation partner (spoken like a true troglodyte!). 
+    - [[What do you hope to see in the future?]]
+        - I'm not a visionary. In my past careers, I've been the one that makes the vision happen. The visionaries right hand (wo)man. So, my desires for Roam are very pragmatic:
+            - I'd love to see a focus on output. the PDF/DOC works but then I'm out of Roam. More formatting, less kludgy charts and Kanbans that render properly, that sort of thing. And speaking of charts, I’d love to embed an Excel graph that updates when I change info in Excel or have something like Excel graph functionality (I just can’t quit my Excel habit).
+            - More features/options that allow you to see linked and unlinked references in a way that is more meaningful and less "busy" to the user. See breadcrumbs or don't, see parent block reference or not, sort them (by date created/modified, alpha,) —like what they added to queries but with even more flexibility.
+            - Better integration with Zotero-like programs that make it seamless to add bibliographic info in footnotes.
+            - And I often wonder about all the JavaScript and CSS I use from various Roam experts. I'm not technical, and if any of those stop working because of a Roam update, and that developer is not maintaining that JS or CSS - then what? Right now, there is so much energy in the Roam community that I'm not too concerned, but in the future, who knows.
+    - [[Tell us one interesting thing about you]]
+        - At one time in my life, I was an incredibly fascinating individual (😉). But at this point, learning new things (that I never had time for before) and continuing to deepen my relationships with my husband, extended family, and new (and sometimes online) friends—are all the "interesting" I need.
+    - To learn more about Denise, you can follow her on Twitter [@DeniseHTodd](https://twitter.com/DeniseHTodd) or visit her website [denisetodd.com](https://denisetodd.com/).
+- # [[Thinking Out Loud]] {{word-count}}
+    - A week ago Mark Robertson (@calhistorian) wrote a brief, but excellent, thread on some better practices Roam users might want to consider to keep their graphs better managed, which I thought I would expand on a little more.
+        - https://twitter.com/calhistorian/status/1404577082047287297?s=20
+    - It also serves as a helpful reminder that we are all in the early stages of still figuring out how to work with our graphs over time. What seemed to work well when we start out begin to show problems or hinder our objectives later.
+    - The first better practice is how we work with our daily templates. It makes a lot of sense to template the structure of our daily notes with sections that we want to remember to fill out. If however, we don't fill the section, it's worth deleting the empty page references at the end of the day. Over time, it'll clutter your linked references with no added value, in fact currently once you start to have hundreds of linked references you'll find your graph performance lacking when you open them up, taking seconds or more to expand.
+        - For the more advanced templaters, when using Roam42 and SmartBlocks, an alternative option is to template the page but replace the sections with buttons for each section. This will avoid the additional page reference clutter. Click the button to have it replace itself with the relevant page reference section when you're ready to fill it out for the day.
+            - For example, my daily note template now looks like this:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffoxsoft%2Fy6eGJ9CQwd.png?alt=media&token=46f458f4-18b8-4d16-9a80-5e827d0e92ae)
+            - The astute among you might argue that surely these buttons bloat your graph too--and [I completely agree](https://twitter.com/elaptics/status/1407090707840516103). An enhancement I'd like to see in v2 of SmartBlocks, is the ability for those buttons to self-destruct after a period of time. This way, they will clean up after themselves leaving pristine Daily Notes Pages containing only valuable blocks without requiring extra friction or habits to maintain.
+                - [Let's hope that David will be able to implement this](https://twitter.com/dvargas92495/status/1407122565521317888?s=20).
+                - In the meantime, [Mark has implemented some native Roam Command Palette functions](https://twitter.com/calhistorian/status/1407180044573708300) to make it easy to insert the blocks as necessary.
+                    - {{[[video]]: https://www.loom.com/share/4ef71515fd3441b2926a9e10b64549a4}}
+    - Mark's second strategy is for users of queries. If you create queries, particularly on your daily notes pages--e.g. for upcoming TODOs--cultivate a habit of deleting them at the end of the day too. By the end of the day, they will have served their purpose and will not provide any further value to you after the fact.
+    - As with the first strategy, over time they all add up and will cause your graph to be less responsive. No doubt Roam will get faster over time, as will computer hardware but more blocks that are no longer valuable mean more ephemera that you will have to wade through to find the nuggets of gold. Remember, at most we are only in our second year of Roam use; this could be your 30+ year system.
+    - The final strategy that Mark shared is avoiding "duplication" of page references in the nested blocks. By virtue of the fact that all child blocks inherit page references of its parents, there's no need to reference it again in most cases. Doing so, will mean that in query results you'll end up with more results than necessary.
+        - His example image directly demonstrates that it's unnecessary to include the project name again as a reference in the TODO - it'll show up in query results because it lives under the parent which contains the reference.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffoxsoft%2FaeQphUIKdU.jpeg?alt=media&token=7463795f-2bef-41ae-8803-7e569fcd9d8d)

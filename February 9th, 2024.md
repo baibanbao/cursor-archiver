@@ -1,0 +1,21 @@
+- [[Gratitude]]
+- [[Day Start]] 15:04
+- Daily Tasks
+    - {{[[TODO]]}} 开车去七叔家
+    - {{[[TODO]]}} 沐浴更衣
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Pomo Writing: [[我写故我在]]
+            - **15:04** - {{[[POMO]]: 25}}
+                -  Completed at least 3 Pomo
+- [[Daily Reading]]
+    - [Why do I need a different drug instead of aspirin? - BHF](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/ask-the-experts/anticoagulants-and-atrial-fibrillation) #[[康健]]
+    - [Chinese migrants are fastest growing group crossing into U.S. from Mexico | 60 Minutes - YouTube](https://www.youtube.com/watch?v=M7TNP2OTY2g)
+- [[Heptabase]]
+- [[gc10]]
+- [[编剧故事营]]
+- [[卡片笔记]]
+- [[Edit Later]]
+- [[写书]]
+- ---

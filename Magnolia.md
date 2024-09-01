@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Paul Thomas Anderson]]
+        - Writer:: [[Paul Thomas Anderson]]
+        - Cast:: [[Tom Cruise]] [[Jason Robards]] [[Julianne Moore]]
+        - Year:: [[1999]]
+        - Genre:: #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0175880
+    - **Plot Summary:** An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FepJGsyIg5U.pdf?alt=media&token=6f43e028-77ca-4793-bc5d-22bbcf67bc75}}

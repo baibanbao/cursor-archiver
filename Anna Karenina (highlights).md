@@ -1,0 +1,25 @@
+- Author:: [[Leo Tolstoy, Richard Pevear, John Bayley, and Larissa Volokhonsky]]
+- Full Title:: Anna Karenina
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51j1lkQWmtL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - ‘All happy families are alike; each unhappy family is unhappy in its own way. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=80))
+        - **Note**: The best trans. of Tolstoy's Anna
+    - The liberal party said that everything was bad in Russia, and indeed Stepan Arkadyich had many debts and decidedly too little money. The liberal party said that marriage was an obsolete institution and was in need of reform, and indeed family life gave Stepan Arkadyich little pleasure and forced him to lie and pretend, which was so contrary to his nature. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=472))
+    - chiffonier ([Location 554](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=554))
+    - atone ([Location 555](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=555))
+    - …’ ([Location 557](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=557))
+    - twitch. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=558))
+    - shrilly. ([Location 559](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=559))
+    - She uttered one of the phrases she had obviously been repeating to herself during those three days. ([Location 565](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=565))
+    - loathing. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=567))
+    - depraved ([Location 569](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=569))
+    - vile, ([Location 573](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=573))
+    - ‘Your tears are just water! ([Location 573](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=573))
+    - spite ([Location 575](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=575))
+    - exasperated ([Location 576](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=576))
+    - scoundrel! ([Location 583](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=583))
+    - ‘scoundrel’ ([Location 586](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=586))
+    - punctilious, ([Location 589](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=589))
+    - He spoke as hotly as if someone there had argued against his opinion.11 ([Location 701](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=701))
+    - sister-in-law ([Location 718](https://readwise.io/to_kindle?action=open&asin=B002RI9KLS&location=718))

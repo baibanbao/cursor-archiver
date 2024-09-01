@@ -1,0 +1,31 @@
+- [[Gratitude]]
+- [[Day Start]] 14:44
+- Daily Tasks
+    - {{[[DONE]]}} #[[Jonas]]篮球培训
+        - 16:30-18:00
+        - 需带物品
+            - {{[[DONE]]}} 运动服
+            - {{[[DONE]]}} 防蚊水
+            - {{[[DONE]]}} 外套
+            - {{[[DONE]]}} 裤子，比赛结束后换上
+            - {{[[DONE]]}} 矿泉水1瓶
+            - {{[[DONE]]}} 手机充电，可以在路上用小牛充
+        - {{[[DONE]]}} 去办公室
+            - {{[[TODO]]}} 小牛充电器
+            - {{[[DONE]]}} 记得关空调
+            - {{[[DONE]]}} 路上就订好外婆家
+            - {{[[DONE]]}} 九点要回
+            - {{[[TODO]]}} 我做核酸
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - 自建photo server
+        - [immich-app/immich: Self-hosted photo and video backup solution directly from your mobile phone.](https://github.com/immich-app/immich)
+    - [法国专家：中俄之间与其说是友谊不如说是互不信任](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20220205-%E6%B3%95%E5%9B%BD%E4%B8%93%E5%AE%B6-%E4%B8%AD%E4%BF%84%E4%B9%8B%E9%97%B4%E4%B8%8E%E5%85%B6%E8%AF%B4%E6%98%AF%E5%8F%8B%E8%B0%8A%E4%B8%8D%E5%A6%82%E8%AF%B4%E6%98%AF%E7%9B%B8%E4%BA%92%E4%B8%8D%E4%BF%A1%E4%BB%BB?ref=tw)
+    - [傻瓜式配置mutt | 赖明星](http://mingxinglai.com/cn/2012/11/send-mail-with-mutt-in-fedora-ubuntu/)
+    - 
+- ---

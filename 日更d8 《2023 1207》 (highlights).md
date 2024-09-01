@@ -1,0 +1,7 @@
+- Author:: [[haozhongwen.app]]
+- Full Title:: 日更d8 《2023 1207》
+- URL:: https://haozhongwen.app/post/up/oz454jvuulmrq5jjpwin83qiqxey/2023-12-09
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 10th, 2023]]
+    - 在冬日的初夜里，骑行四十分钟，下玉泉，过龙井里，进入山里，再穿过长长的隧道，使劲爬上满觉陇的山坳，于约好的时间到达老虎家。 ([View Highlight](https://read.readwise.io/read/01hh98dk9m7pbyqzqbjgmmb2yb))

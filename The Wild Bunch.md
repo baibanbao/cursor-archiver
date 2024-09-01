@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BNGUyYTZmOWItMDJhMi00N2IxLWIyNDMtNjUxM2ZiYmU5YWU1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Sam Peckinpah]]
+        - Writer:: [[Walon Green]] [[Sam Peckinpah]] [[Roy N Sickner]]
+        - Cast:: [[William Holden]] [[Ernest Borgnine]] [[Robert Ryan]]
+        - Year:: [[1969]]
+        - Genre:: #Action #Adventure #Western
+    - **IMDb:** https://www.imdb.com/title/tt0065214
+    - **Plot Summary:** An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.

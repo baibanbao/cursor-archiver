@@ -1,0 +1,55 @@
+---
+title: Awesome Websites
+tags: 
+  - Awesome
+  - Web
+---
+
+Awesome is awesome.
+
+I will build this wiki based on this word.
+
+# Awesome Websites
+
+
+- [海词词典_在线词典_在线翻译_海量正版权威词典官方网站](http://dict.cn/)
+  - 简单查词
+- [中文圣经在线 - ChineseBibleOnline.com](http://www.chinesebibleonline.com/)
+  - 查和合本圣经
+  - 缺点：有广告
+- [Library Genesis](http://libgen.rs/)
+  - 英文书网站
+- [Electronic library. Download books free. Finding books](https://1lib.us/)
+  - 每个ip有5本每天的限制
+  - 但是通过换vpn节点可以绕过限制
+- [爱笑聚 - 最新影视剧分享平台](https://www.aixiaoju.com/)
+  - 叶小牧推荐给我的网站，并且给我共享了注册帐号
+  - 很多电影就从这里找资源，直通百度网盘，很方便
+- [红楼梦 - 中国哲学书电子化计划](https://ctext.org/hongloumeng/zhs)
+  - 中国哲学书电子化计划
+  - 内容精校过
+- [晨间日记 - Gatsby Starter for Gatsby Theme Primer Wiki](http://localhost:8000/)
+  - 内网
+  - 需要先运行服务器
+    - `npm start`
+- [(6) YouTube](https://www.youtube.com/)
+  - 宇宙第一站
+  - 娱乐学习全靠它
+  - 今年开始多贡献一点内容
+- Gmail
+- [Isadora.bitcron.com](https://isadora.bitcron.com/)
+  - 子月的博客
+  - 常读常新
+- [好中文日更网](https://haozhongwen.net/archive)
+  - 好中文学员贡献内容的网站
+  - 也是作业提交网站
+  - 内部服务器有错误，几乎每一篇文章都会重复发4-5遍
+  - 但是目前不可取代
+- [Home / Twitter](https://twitter.com/home)
+  - 千里眼，顺风耳，全靠它通风报信
+  - 但看多了也容易抑郁
+
+
+
+
+

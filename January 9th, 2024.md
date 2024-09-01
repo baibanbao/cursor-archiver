@@ -1,0 +1,35 @@
+- {{[[DONE]]}} 每天按照新课表接送#[[Jonas]]
+- #[[Prayers&Answers]]
+    - Date: [[January 9th, 2024]] 09:16
+        - 赞美感谢
+            - 赞美主的拯救
+        - 认罪悔改
+            - 为自己的小信
+        - 祈求代求
+            - 求主治疗我的糖尿病
+            - 求主不要让我中风
+            - 求主保护教会
+            - 求主赐福给[[王旻瑚]]
+- [[Gratitude]]
+- [[Day Start]] 10:39
+- Daily Tasks
+    - {{[[DONE]]}} 每天按照新课表接送#[[Jonas]]
+    - {{[[DONE]]}} 上学 9:30-9:40 
+    - {{[[DONE]]}} 放学 12:20-12:30
+        - {{[[DONE]]}} 放学改成2:30
+    - {{[[DONE]]}} 清洗空气净化器
+    - {{[[DONE]]}} 收戴森吸尘器
+        - {{[[DONE]]}} 用戴森清理家里
+    - {{[[TODO]]}} #[[好中文]]第十期招生简章
+    - {{[[DONE]]}} [[两句半]]录制3期
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [China-US migration: How an underground industry is helping people illegally cross the border | CNN](https://edition.cnn.com/2024/01/08/americas/the-walking-route-how-an-underground-industry-is-helping-migrants-flee-china-for-the-us/index.html)
+    - [Semporia/TikTok-Unlock: TikTok免拔卡解锁最新支持 iPhone （iOS 17.2） 、TikTok（V32.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！](https://github.com/Semporia/TikTok-Unlock)
+- ---

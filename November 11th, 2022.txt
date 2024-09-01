@@ -1,0 +1,18 @@
+- 今日隔离结束
+- [[Gratitude]]
+- [[Day Start]] 09:01
+- Daily Tasks
+    - {{[[TODO]]}} [[居家隔离]]
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+    - [北京师范大学文学院](http://wxy.bnu.edu.cn/xstd/yjsk/200668.html)
+    - [https://blackpenredpen.creator-spring.com](https://blackpenredpen.creator-spring.com/)
+    - [mli/autocut](https://github.com/mli/autocut)
+    - [数学家张益唐攻克 Landau-Siegel 零点猜想相关论文发布，如何评价这一研究的成果及意义？ - 知乎](https://www.zhihu.com/question/564799818/answer/2752632822?utm_campaign=&utm_medium=social&utm_oi=36106049421312&utm_psn=1574108223665262592&utm_source=com.twitter.android)
+    - [客座评论：张爱玲、肖尔茨与柏林墙 | 评论分析 | DW | 11.11.2022](https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E5%BC%A0%E7%88%B1%E7%8E%B2%E8%82%96%E5%B0%94%E8%8C%A8%E4%B8%8E%E6%9F%8F%E6%9E%97%E5%A2%99/a-63726736)
+- ---

@@ -1,0 +1,77 @@
+- #[[Prayers&Answers]]
+    - 为柯冰从covid中康复而祷告
+    - 为了正义在中华大地上实施而祷告
+    - 为了本月底之前完成路德书信的翻译，并且下个月可以拿到桌边谈话而祷告
+    - 为主赐下和合本圣经而祷告
+    - 为了汉语这门美丽的语言而感恩
+    - 为了岳父的健康和造影手术而祷告
+    - 为了 #[[Seven]]的得救，全家的蒙福而祷告
+    - 为了#[[Jonas]]的成长而祷告
+    - 为了#小山 的灵命，事业，写作，工作，婚姻而祷告
+    - 为了教会明天的聚会，植堂而祷告
+    - 为了叶子一家而祷告
+    - 为星河姊妹和兰迪祷告
+    - 为mally一家祷告
+- {{[[POMO]]: 25}}  {{word-count}}
+    - 最伟大的导演科波拉正在读红楼梦
+        - 教父的导演弗朗西斯·福特·科波拉今年82岁了，
+- [Francis Ford Coppola’s $100 Million Bet | GQ](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) #[[红楼梦]]
+    - 但他已经赚了很多钱：先是在电影业，然后是在葡萄酒业，很壮观。他的第二笔财富使他现在可以把大部分时间花在这里，他说，读一些东西，比如18世纪的中国小说《红楼梦》，这是有史以来写得最长的书之一。"他们花时间为事物发明诗意的名字，"科波拉告诉我关于小说中的人物。"例如，如果我要向你问好，我应该在友好问候的台阶上遇见你，在那里向你问好。而当我和你说再见时，我应该把你带进离别亭。而这是一种使生活中的一切变得美好的态度，是一种仪式。而你可以做到这一点! 我将在离别亭向你道别--你将永远不会忘记。"
+        - 流媒体只是家庭录像
+        - 
+- [[todos123]]
+    - {{[[TODO]]}} 3:58 AM But he has made a lot of money: first in the film business and then, spectacularly, in the wine business. His second fortune has allowed him to spend most of his time here now, he said, reading things like the 18th-century Chinese novel Dream of the Red Chamber, one of the longest books ever written. “They spend their time inventing poetic names for things,” Coppola told me about the characters in the novel. “For example, if I were to say hello to you, I should have met you on the Steps of Friendly Greetings and greeted you there. And when I say goodbye to you, I should take you into the Pavilion of Parting. And it's the sort of attitude of making everything in life beautiful and a ritual of a kind. And you can do it! I'll say goodbye to you in the Pavilion of Parting—you'll never forget it.”
+    - {{[[TODO]]}} 1:15 PM Jon Winokur
+@AdviceToWriters
+·
+2m
+“A central secret to #writing a good #book is to #write one that people like you will enjoy…” #[[好中文]] #[[Output]]
+    - {{[[DONE]]}} 9:19 PM “I think the biggest thrill in life is to have a dream or imagine something and then get to see it be real. There's nothing like that.”
+    - {{[[DONE]]}} 9:20 PM I always tell my kids, like Sofia—‘Let your films be personal. Always make it as personal as you can because you are a miracle, that you're even alive. Then your art will be a miracle because it reflects stuff from someone who there is no other one like that.’ Whereas if you're part of a school or ‘Yeah, I'm going to make a Marvel picture, and that's the formula and I get it and I'll do my best,’ sure it will still have your individuality, but as art, do that and do something else. But if you're going to make art, let it be personal. Let it be very personal to you.
+    - {{[[TODO]]}} 9:22 PM Streaming is just home video.
+- [[webclips]]
+    - [撕烤一切：作业：中圈关系](https://rigeng100.com/post/dayone/ooawr5_q_dm0ijep_-zjyotwh9_k/2022-02-18) #[[好中文]]
+    - {{[[TODO]]}} [撕烤一切：作业：中圈关系](https://rigeng100.com/post/dayone/ooawr5_q_dm0ijep_-zjyotwh9_k/2022-02-18)
+    - [Francis Ford Coppola’s $100 Million Bet | GQ](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) #[[红楼梦]]
+        - [[Work]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F78nJs5yjj3.png?alt=media&token=ff24395b-67f3-42e5-9021-04ebd2a1a353)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FPDUmZWIdEq.png?alt=media&token=852ddbf7-9a9f-4c55-b755-de05eb4c25be)
+            - {{[[TODO]]}} 
+            - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FFhl-RPzJ8e.png?alt=media&token=7bab4290-7a06-4806-ab0b-e1548d5afe30)
+            - {{[[TODO]]}} ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FlKsx13uU36.png?alt=media&token=410ea6a7-8927-423e-976a-ca390128c733)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2F335pyMDTqy.png?alt=media&token=de9571e1-b0ea-4424-b3b2-01a97856ff07)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FdMWDqZ_44b.png?alt=media&token=05d9b3d0-1d61-4161-a779-b86fc53d16e0)
+            - 
+    - 
+    - [蛀牙 《丰县铁链女》](https://rigeng100.com/post/dayone/ooawr54kcliitenpq6z5hlxqcdk8/2022-02-19)  #[[好中文]]
+        - 鼓励朋友写作，并且主动留言。
+        - 写作之人是特别需要鼓励的，一定不要吝惜自己的语言，因为这是我唯一的武器。
+        - [撕烤一切：作业：中圈关系](https://rigeng100.com/post/dayone/ooawr5_q_dm0ijep_-zjyotwh9_k/2022-02-18)
+            - 这篇作业需要点评，但是我现在似乎没有 点评的心情，怎么办呢？
+            - 要不再等等？
+            - [Home / Twitter](https://twitter.com/home)
+            - [(1) 柯冰 on Twitter: "看到一篇写红楼梦里的香菱的文章，突然想到红楼梦里所有的丫环都是被父母/人贩子卖掉的女孩。" / Twitter](https://twitter.com/laojiang2010/status/1494151579393564672)
+- #[[Finance]]
+    - 童书妈妈约稿 #[[Edit Later]]
+        - Hi, 王佩老师好，不知道最近您是否有时间可以写稿呢？想跟您约几期关于阅读的文章，发表在我们写作号的作家专栏上，比如 写好文章一定要看的X本书/专收交智商税的X本书（不推荐看的书)等等，不知道您是否感兴趣？每篇稿子2000字以上，稿费标准在1000元/篇
+        - [[February 25th, 2022]]之前交稿
+- heatmap
+- 晴雯的故事
+    - 这晴雯当日系赖大家用银子买的，那时晴雯才得十岁，尚未留头。因常跟赖嬷嬷进来，贾母见他生得伶俐标致，十分喜爱。故此垫宙志托敬了贾母使唤，后来所以到了宝玉房里。这晴雯进来时，也不记得家乡父母。只知有个姑舅哥哥，专能庖宰，也沦落在外，故又求了赖家的收买进来吃工食。赖家的见晴雯虽到贾母跟前，千伶百俐，嘴尖性大，却倒还不忘旧， ```(庚辰双行夹批：只此一句便是晴雯正传。可知晴雯为聪明风流所害也。一篇为晴雯写传，是哭晴雯也。非哭晴雯，乃哭风流也。)```故又将他姑舅哥哥收买进来，把家里一个女孩子配了他。
+    - 晴雯道：“别人都死绝了，就剩了你不成？”说着，只见坠儿也蹭了进来。晴雯道：“你瞧瞧这小蹄子，不问他还不来呢。这里又放月钱了，又散果子了，你该跑在头里了。你往前些，我不是老虎吃了你！”坠儿只得前凑。晴雯便冷不防欠身一把将他的手抓住， ```(庚辰双行夹批：是病卧之时。)```向枕边取了一丈青，向他手上乱戳，口内骂道：“要这爪子作什么？拈不得针，拿不动线，只会偷嘴吃。眼皮子又浅，爪子又轻，打嘴现世的，不如戳烂了！”坠儿疼的乱哭乱喊。麝月忙拉开坠儿，按晴雯睡下，笑道：“才出了汗，又作死。等你好了，要打多少打不的？这会子闹什么！”晴雯便命人叫宋嬷嬷进来，说道：“**宝二爷才告诉了我，叫我告诉你们，坠儿很懒，宝二爷当面使他，他拨嘴儿不动，连袭人使他，他背后骂他。今儿务必打发他出去，明儿宝二爷亲自回太太就是了。**”宋嬷嬷听了，心下便知镯子事发，因笑道：“虽如此说，也等花姑一娘一回来知道了，再打发他。”晴雯道：“宝二爷今儿千叮咛万嘱咐的，什么‘花姑一娘一’‘草姑一娘一’，我们自然有道理。你只依我的话，快叫他家的人来领他出去。”麝月道：“这也罢了。早也去，晚也去，带了去早清净一日。”  
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;宋嬷嬷听了，只得出去唤了他母亲来，打点了他的东西，又来见晴雯等，说道：“姑一娘一们怎么了，你侄女儿不好， ```(庚辰双行夹批：“侄女”二字妙，余前注不谬。)```你们教导他，怎么撵出去？也到底给我们留个脸儿。”晴雯道：“你这话只等宝玉来问他，与我们无干。”那媳妇冷笑道：“我有胆子问他去！他那一件事不是听姑一娘一们的调停？他纵依了，姑一娘一们不依，也未必中用。比如方才说话，虽是背地里，姑一娘一就直叫他的名字。在姑一娘一们就使得，在我们就成了野人了。”晴雯听说，一发急红了脸，说道：“我叫了他的名字了，你在老太太跟前告我去，说我撒野，也撵出我去。”
+    - 偏生晴雯上来换衣服，不防又把扇子失了手跌在地下，将股子跌折。宝玉因叹道：“蠢才，蠢才！将来怎么样？明日你自己当家立事，难道也是这么顾前不顾后的？”晴雯冷笑道：“二爷近来气大的很，行动就给脸子瞧。前儿连袭人都打了，今儿又来寻我们的不是。要踢要打凭爷去。就是跌了扇子，也是平常的事。先时连那么样的玻璃缸、玛瑙碗不知弄坏了多少，也没见个大气儿，这会子一把扇子就这么着了。何苦来！要嫌我们就打发我们，再挑好的使。好离好散的，倒不好？”宝玉听了这些话，气的浑身乱战，因说道：“你不用忙，将来有散的日子！”  
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;袭人在那边早已听见，忙赶过来向宝玉道：“好好的，又怎么了？可是我说的：‘一时我不到，就有事故儿。’”晴雯听了冷笑道：“姐姐既会说，就该早来，也省了爷生气。自古以来，就是你一个人伏侍爷的，我们原没伏侍过。因为你伏侍的好，昨日才挨窝心脚；我们不会伏侍的，到明儿还不知是个什么罪呢！”袭人听了这话，又是恼，又是愧，待要说几句话，又见宝玉已经气的黄了脸，少不得自己忍了性子，推晴雯道：“好妹妹，你出去逛逛，原是我们的不是。”晴雯听他说“我们”两个字，自然是他和宝玉了，不觉又添了酸意，冷笑几声，道：“我倒不知道你们是谁，别教我替你们害臊了！便是你们鬼鬼祟祟干的那事儿，也瞒不过我去，那里就称起‘我们’来了。明公正道，连个姑一娘一还没挣上去呢，也不过和我似的，那里就称上‘我们’了！”袭人羞的脸紫胀起来，想一想，原来是自己把话说错了。宝玉一面说：“你们气不忿，我明儿偏抬举他。”袭人忙拉了宝玉的手道：“他一个糊涂人，你和他分证什么？况且你素日又是有担待的，比这大的过去了多少，今儿是怎么了？”晴雯冷笑道：“我原是糊涂人，那里配和我说话呢！”袭人听说道：“姑一娘一倒是和我拌嘴呢，是和二爷拌嘴呢？要是心里恼我，你只和我说，不犯着当着二爷吵；要是恼二爷，不该这们吵的万人知道。我才也不过为了事，进来劝开了，大家保重。姑一娘一倒寻上我的晦气。又不象是恼我，又不象是恼二爷，夹�带棒，终久是个什么主意？我就不多说，让你说去。”说着便往外走。宝玉向晴雯道：“你也不用生气，我也猜着你的心事了。我回太太去，你也大了，打发你出去好不好？”晴雯听了这话，不觉又伤起心来，含恨说道：“为什么我出去？要嫌我，变着法儿打发我出去，也不能够。”宝玉道：“我何曾经过这个吵闹？一定是你要出去了。不如回太太，打发你去吧。”说着，站起来就要走。袭人忙回身拦住，笑道：“往那里去？”宝玉道：“回太太去。”袭人笑道：“好没意思！真个的去回，你也不怕臊了？便是他认真的要去，也等把这气下去了，等无事中说话儿回了太太也不迟。这会子急急的当作一件正经事去回，岂不叫太太犯疑？”宝玉道：“太太必不犯疑，我只明说是他闹着要去的。”晴雯哭道：“我多早晚闹着要去了？饶生了气，还拿话压派我。只管去回，我一头碰死了也不出这门儿。”宝玉道：“这也奇了。你又不去，你又闹些什么？我经不起这吵，不如去了倒干净。”说着一定要去回。袭人见拦不住，只得跪下了。碧痕、秋纹、麝月等众丫鬟见吵闹，都鸦雀无闻的在外头听消息，这会子听见袭人跪下央求，便一齐进来都跪下了。宝玉忙把袭人扶起来，叹了一声，在床上坐下，叫众人起去，向袭人道：“叫我怎么样才好！这个心使碎了也没人知道。”说着不觉滴下泪来。袭人见宝玉流下泪来，自己也就哭了。  
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;晴雯在旁哭着，方欲说话，只见林黛玉进来，便出去了。林黛玉笑道：“大节下怎么好好的哭起来？难道是为争粽子吃争恼了不成？”宝玉和袭人嗤的一笑。
+    - 到了晴雯的箱子，因问：“是谁的，怎不开了让搜？”袭人等方欲代晴雯开时，只见晴雯挽着头发闯进来，豁一声将箱子掀开，两手捉着底子，朝天往地下尽情一倒，将所有之物尽都倒出。王善保家的也觉没趣，看了一看，也无甚私弊之物。回了凤姐，要往别处去。凤姐儿道：“你们可细细的查，若这一番查不出来，难回话的。”众人都道：“都细翻看了，没什么差错东西。虽有几样男人物件，都是小孩子的东西，想是宝玉的旧物件，没甚关系的。”凤姐听了，笑道：“既如此咱们就走，再瞧别处去。”  
+- 测试heatmap
+    - {{heatmap}}
+        - query
+            - refs
+                - [[好中文]]
+        - display
+        - range
+            - days
+                -  365
+            - startDate
+                - [[February 19th, 2021]]

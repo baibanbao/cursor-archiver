@@ -1,0 +1,7 @@
+- Author:: [[Proudly published with FarBox！]]
+- Full Title:: 闲谈｜学印给我带来了什么
+- URL:: https://haozhongwen.app/post/up/oz454jvrwudh4clo3r1cifgjcziu/2023-11-29
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 2nd, 2023]]
+    - 学篆刻到现在大半年了，技术上精进不多，心态上却有挺多变化。总的一个感受是，好年景多干活，坏年景多读书。这是一种相对传统的论调，放到今天看，仍有可取之处。我们这代人普遍较幸运，出社会都是好年景，一路高歌猛进。这几年整个社会步调放缓，大家基本都懵了，挫伤不少锐气。这种时候，把书读好，做一些自己喜欢的功课，徐徐以图之，可能是更恰当的选择吧。

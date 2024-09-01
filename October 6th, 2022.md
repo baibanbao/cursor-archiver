@@ -1,0 +1,17 @@
+- [[Gratitude]]
+    - #[[Seven]]的付出，宽宏大量
+    - [[小山]]的勇气，毅力和true grit
+    - 有欧冠可以看
+    - 有[[vFlat Scan]]
+- [[Day Start]] 02:57
+- Daily Tasks
+    - {{[[TODO]]}} 2pm 腾讯会议测试， #[[Jonas]]模拟答辩
+    - 
+- ---
+- [[Daily Journal]] 
+    - EVERYTHING GOES HERE UNDER A PROCESS HEADER
+        - Ex: [[X - Curate]]
+            - **16:35** - {{[[POMO]]: 25}}
+                -  Completed a review of 10 journal articles
+- [[Daily Reading]]
+- ---

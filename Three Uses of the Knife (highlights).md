@@ -1,0 +1,7 @@
+- Author:: [[David Mamet]]
+- Full Title:: Three Uses of the Knife
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41cHiURODrL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[July 10th, 2022]]
+    - The true drama, and especially the tragedy, calls for the hero to exercise will, to create, in front of us, on the stage, his or her own character, the strength to continue. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00E2RZHIW&location=435))
+    - They are driven to lessen the burden of the unbearable disparity between their conscious and unconscious minds, and so to achieve peace. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00E2RZHIW&location=503))

@@ -1,0 +1,24 @@
+- 抓住機會
+    - 抓住好中文第七期招生的最後一週的機會
+        - 儘量多招一些人
+        - 因爲錯過這個時間窗口，你不太能再收錢
+    - 學習雅各的經驗
+        - 爲什麼當發生饑荒的時候，雅各沒有眼睜睜等着天上掉嗎哪，而是讓自己的兒子們到埃及去糴糧？
+            - 馬丁路德的回答是既然神已經給你了機會，那就要抓住機會，不要去試探神
+                - Why did Jacob tell his sons, “Go down there and buy some for us, so that we may live and not die”? Why didn’t he trust God’s promise to protect and take care of him? Why was Jacob afraid of dying when, up to now, he had experienced God’s help and guid- ance throughout his life? God had protected him, his entire fam- ily, and all his servants in the foreign country of Canaan. Why did he stop trusting God’s promise when it was still fresh in his mind? He had always taught his children about God’s promise. Where is your faith now, Jacob? Where is the promise? Here is how I reply to these questions: God orders us to believe and trust in his goodness, but at the same time, we should never test him. We must take advantage of opportunities that God gives us. If we don’t, we aren’t living according to his plan. But we must continue to maintain our faith and hope in God. That’s why Jacob didn’t say, “Stay here and wait. The Lord is powerful enough to make food fall right out of the sky. Maybe that’s the way he will choose to feed us.” No, that’s not what God’s promise means. There’s no doubt that God can take care of you in a miraculous way. But you must not pass up opportunities that could pro- vide the help you need. If you don’t use what is readily available to you, then you are testing God. Jacob was careful not to test God. He didn’t sit idly at home, hoping to get food some other way.
+            - 路德還舉過主耶穌受撒旦試探，讓他從高處跳下來的例子。
+                - 路德說，既然爬上這個建築是有臺階的，那就是神給你的方法，你要抓住，而不是試探主，讓主使用神蹟。
+    - 對於我而言，好中文第七期招生是一個重要機會，我應當好好把握利用。
+        - 要把[[元中文]]的概念做起來，然後看看會發生什麼。
+        - 要讓學院們增加在複雜世界生存下去的能力。
+        - 我要努力吸收維生素，這是他在絕境中所想到的。儘管前面的路不知道如何，但他牢牢把握一件事，那就是照顧好自己的身體。
+        - 
+- 今日背经
+    - 英文
+        - https://youtu.be/ILeksVic3Mw?t=402
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2Fzsz-vFayFL.png?alt=media&token=d2dbbc78-03f7-4cea-bd25-c90491a6acd7)
+    - 中文
+        - 18
+        - 不可让人因着故意谦虚，和敬拜天使，就夺去你们的奖赏。这等人拘泥在所见过的，（有古卷作这等人窥察所没有见过的）随着自己的欲心，无故地自高自大，
+        - 19
+        - 不持定元首，全身既然靠着他，筋节得以相助联络，就因神大得长进。

@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Orson Welles]]
+        - Writer:: [[Orson Welles]] [[Whit Masterson]] [[Franklin Coen]]
+        - Cast:: [[Charlton Heston]] [[Orson Welles]] [[Janet Leigh]]
+        - Year:: [[1958]]
+        - Genre:: #Crime #Drama #Film-Noir
+    - **IMDb:** https://www.imdb.com/title/tt0052311
+    - **Plot Summary:** A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FkDQLQ2rkoS.pdf?alt=media&token=add34262-e318-4262-a864-f9a53679be9a}}

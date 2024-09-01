@@ -1,0 +1,35 @@
+- [[todos123]]
+    - {{[[TODO]]}} 21:12 48 苹果magic键盘进水，两个重要的键盘失灵—control, delete，这俩键盘失灵，意味着整个键盘就废了。聪明如我，立即用karabiner-elements 修改了键盘映射 
+fn ->ctrl 
+\->delete
+谁爱风流高格调，应怜时事简梳妆。凑合用吧。
+- [3:16 | Blogorrhea](https://ruberad.wordpress.com/316-2/) #[[SLBC]]
+    - [3:16 Bible Texts Illuminated: Knuth, Donald E.: 9780895792525: Amazon.com: Books](https://www.amazon.com/3-16-Bible-Texts-Illuminated/dp/0895792524/ref=sr_1_2?crid=35ORCLB9E0KSS&keywords=donald+knuth+god&qid=1686335146&sprefix=donald+knuth+go%2Caps%2C351&sr=8-2)
+    - [Donald Knuth - The most beautiful 3:16 in the world (73/97) - YouTube](https://www.youtube.com/watch?v=h6RUipnUJJY)
+    - 令人一笑，豁然开朗 #[[Edit Later]]
+        - ```markdown
+For example, | think some
+of you will have heard about a famous novel in French by Georges
+Perec, called La Disparition (“The Disappearance”), written entirely
+without the letter E. The hero of this story is named “Anton Vowl.”
+Perec was a member of a group of Frenchmen called Oulipo, who72 THINGS A COMPUTER SCIENTIST RARELY TALKS ABOUT
+systematically use constraints to enhance creativity. The amazing
+thing is that Perec’s novel has recently been translated into Eng-
+lish — well, more properly, into Anglo-Saxon, because the letter E is
+forbidden — while totally preserving the alphabetic constraint. The
+translated novel is, appropriately enough, entitled A Void.
+Another story from my personal experience illustrates a```
+        - ```markdown
+Here [Example 13] is the translation of the verse that | came
+up with at the time. In this case my goal was a little different: |
+tried to make the translation maximally different from the familiar
+text, because the familiar text was so familiar that people couldn’t
+understand it anymore. Oft-repeated phrases eventually tend to go
+in one ear and out the other. ```
+- 新字体
+    - 真美丽
+        - 越来越喜欢
+            - 这才是我的新天地
+- 很多惊喜只需要一次
+    - 这个世界属于我，也属于你
+    - 不错，这才是我要的软体

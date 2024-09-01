@@ -1,0 +1,10 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2E1ZmU5NDQtNjdlZC00Y2VhLTk2MWMtMmU0M2YyY2E3MTkyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[James L. Brooks]]
+        - Writer:: [[James L Brooks]]
+        - Cast:: [[William Hurt]] [[Albert Brooks]] [[Holly Hunter]]
+        - Year:: [[1987]]
+        - Genre:: #Comedy #Drama #Romance
+    - **IMDb:** https://www.imdb.com/title/tt0092699
+    - **Plot Summary:** Take two rival television reporters: one handsome, one talented, both male. Add one producer, female. Mix well, and watch the sparks fly.

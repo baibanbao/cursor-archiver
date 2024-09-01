@@ -1,0 +1,8 @@
+﻿[ChatGPT Shortcut - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！ | 标签筛选、关键词搜索和一键复制 Prompts](http://localhost:3000/chatgpt/?tags=write&tags=article)
+
+本地 yarn start 启动
+
+有一些启发
+
+prompt多用英文就对了
+

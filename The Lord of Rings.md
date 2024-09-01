@@ -1,0 +1,11 @@
+- 
+    - ![](https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg)  
+    - **Metadata:**
+        - Director:: [[Peter Jackson]]
+        - Writer:: [[JRR Tolkien]] [[Fran Walsh]] [[Philippa Boyens]]
+        - Cast:: [[Elijah Wood]] [[Ian McKellen]] [[Orlando Bloom]]
+        - Year:: [[2001]]
+        - Genre:: #Action #Adventure #Drama
+    - **IMDb:** https://www.imdb.com/title/tt0120737
+    - **Plot Summary:** A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+    - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhaozhongwen%2FKlSdWmuU68.pdf?alt=media&token=2eda4de2-5fb8-4e86-b555-897f34587d72}}
